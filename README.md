@@ -1,5 +1,7 @@
 # Laptop Selector
 
+**Live site: https://bryanconradhart.github.io/laptop-selector/**
+
 A single-page laptop recommendation site. Move importance sliders (battery,
 portability, gaming, screen quality, budget, …) and the top 5 matching
 **specific configurations** re-rank live, each with per-store prices in CAD,
