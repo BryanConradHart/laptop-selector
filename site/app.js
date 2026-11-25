@@ -91,7 +91,9 @@ const PRICE_MAX_BOOST = 3;
 
 const DEFAULT_PRESET = "🎓 Student";
 
-const state = { weights: {}, openCards: new Set(), activePreset: DEFAULT_PRESET, filters: { os: new Set(), ff: new Set(), arch: new Set() } };
+/* OS filter defaults to laptops only (Windows/macOS); tablets, Chromebooks and
+ * handhelds (iPadOS/Android/ChromeOS/SteamOS) start unselected. */
+const state = { weights: {}, openCards: new Set(), activePreset: DEFAULT_PRESET, filters: { os: new Set(["Windows", "macOS"]), ff: new Set(), arch: new Set() } };
 let ENTRIES = [], FACTORS = [], priceLo = 500, priceHi = 5000;
 
 /* ---------- data load ---------- */
@@ -433,6 +435,7 @@ function cardHTML(r, i) {
       <div class="matchbar"><i style="width:${clamp(r.score * 10, 0, 100)}%"></i></div>
       <div class="price-line">
         <span class="price${e.price?.confidence === "estimated" ? " est" : ""}">${(e.price?.offers || []).length > 1 ? "from " : ""}${fmtCAD(e.price?.cad)}</span>
+        <button class="btn-details" data-details>Full details</button>
       </div>
       <div class="specs-row">
         <span><b>${esc(shortCpu(sp.cpu))}</b></span>
@@ -449,8 +452,7 @@ function cardHTML(r, i) {
         ${complaints.map(c => `<span class="hl bad">${esc(c)}</span>`).join("")}
       </div>
       <div class="card-actions">
-        ${(() => { const offs = (e.price?.offers || []).slice(0, 3); const prod = e.price?.official_url || null; return (prod ? `<a class="btn-prod" href="${esc(prod)}" target="_blank" rel="noopener" title="Official product page"><span class="prod-ic">📄</span>${storeLabel(prod)} product page</a>` : "") + offs.map(o => `<a class="btn-store${o.official ? " official" : ""}" href="${esc(o.url)}" target="_blank" rel="noopener">${o.official ? '<span class="shield">★</span>' : ""}${storeLabel(o.url)}${o.official ? " store" : ""} → ${fmtCAD(o.cad)}${o.est ? " est." : ""}</a>`).join(""); })()}
-        <button class="btn-details" data-details>Details</button>
+        ${(() => { const offs = (e.price?.offers || []).slice(0, 3); const prod = e.price?.official_url || null; return (prod ? `<a class="btn-prod" href="${esc(prod)}" target="_blank" rel="noopener" title="Official product page">${storeLabel(prod)} product page</a>` : "") + offs.map(o => `<a class="btn-store${o.official ? " official" : ""}" href="${esc(o.url)}" target="_blank" rel="noopener">${storeLabel(o.url)}${o.official ? " store" : ""} → ${fmtCAD(o.cad)}${o.est ? " est." : ""}</a>`).join(""); })()}
         <button class="btn-detail">${open ? "Hide match breakdown ▲" : "Why this rank? ▼"}</button>
       </div>
       <div class="breakdown">${breakdownHTML(r)}</div>
@@ -459,19 +461,21 @@ function cardHTML(r, i) {
 }
 
 function breakdownHTML(r) {
-  const rows = FACTORS
-    .map(f => ({ f, p: r.parts[f.key] }))
-    .sort((a, b) => b.p.pts - a.p.pts);
+  // stable order: same as the sidebar sliders (Budget first, then factors)
+  const rows = FACTORS.map(f => ({ f, p: r.parts[f.key] }));
+  rows.sort((a, b) => (b.f.key === "price") - (a.f.key === "price"));
   const total = rows.reduce((s, { p }) => s + p.pts, 0);
-  return `<div class="bd-title">Match ${r.base.toFixed(1)}/10 — <span class="bd-legend">bar = how this laptop scores on each factor, × = how much you weighted it, % = share of the match</span></div>` +
+  const maxPct = Math.max(...rows.map(({ p }) => (total > 0 ? p.pts / total : 0)), 0.0001);
+  return `<div class="bd-title">Match ${r.base.toFixed(1)}/10 — <span class="bd-legend">bar = impact on this match, % = share of the score, × = how much you weighted it</span></div>` +
     rows.map(({ f, p }) => {
       const zero = p.weight === 0;
       const eff = effWeight(f.key);
-      const pct = total > 0 && p.pts > 0 ? Math.round((p.pts / total) * 100) : 0;
+      const frac = total > 0 ? p.pts / total : 0;
+      const pct = Math.round(frac * 100);
       return `<div class="bd-row${zero ? " zero" : ""}" title="${esc(f.label)}: this laptop scores ${p.rating.toFixed(1)}/10, you weighted it ${p.weight}/10, and it contributes ${pct}% of the match score">
         <span class="bd-name">${esc(f.label)} <em>×${Math.round(eff * 10) / 10}</em></span>
-        <span class="bd-bar"><i style="width:${p.rating * 10}%"></i></span>
-        <span class="bd-pts">${p.rating.toFixed(1)}/10<span class="bd-share">${pct}%</span></span>
+        <span class="bd-bar"><i style="width:${Math.round((frac / maxPct) * 100)}%"></i></span>
+        <span class="bd-pts">${pct}%<span class="bd-rating">${p.rating.toFixed(1)}/10</span></span>
       </div>`;
     }).join("");
 }
@@ -527,7 +531,7 @@ function openModal(id) {
           <span class="chip">${esc(e.line || "")}</span>
         </div>
         <div class="price-line"><span class="price">${(e.price?.offers || []).length > 1 ? "from " : ""}${fmtCAD(e.price?.cad)}</span>
-          ${(() => { const offs = (e.price?.offers || []).slice(0, 3); const prod = e.price?.official_url || null; return offs.map(o => `<a class="btn-store${o.official ? " official" : ""}" href="${esc(o.url)}" target="_blank" rel="noopener">${o.official ? '<span class="shield">★</span>' : ""}${storeLabel(o.url)}${o.official ? " store" : ""} → ${fmtCAD(o.cad)}${o.est ? " est." : ""}</a>`).join("") + (prod ? `<a class="btn-prod" href="${esc(prod)}" target="_blank" rel="noopener"><span class="prod-ic">📄</span>${storeLabel(prod)} product page</a>` : ""); })()}
+          ${(() => { const offs = (e.price?.offers || []).slice(0, 3); const prod = e.price?.official_url || null; return (prod ? `<a class="btn-prod" href="${esc(prod)}" target="_blank" rel="noopener">${storeLabel(prod)} product page</a>` : "") + offs.map(o => `<a class="btn-store${o.official ? " official" : ""}" href="${esc(o.url)}" target="_blank" rel="noopener">${storeLabel(o.url)}${o.official ? " store" : ""} → ${fmtCAD(o.cad)}${o.est ? " est." : ""}</a>`).join(""); })()}
         </div>
         <p style="font-size:13px;color:var(--ink-dim);line-height:1.55">${esc(e.design_philosophy || "")}</p>
       </div>
