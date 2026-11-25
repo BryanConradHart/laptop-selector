@@ -293,6 +293,52 @@ function buildSliders() {
   paintPresetBtns();
 }
 
+/* ---------- touch direction lock for sliders (mobile) ----------
+ * With touch-action:none the browser neither scrolls nor drags the thumb on
+ * its own; JS decides intent once per touch: the first significant movement
+ * picks a direction — horizontal drives the slider, vertical scrolls the
+ * sheet. This makes accidental slider changes while scrolling impossible.
+ * Desktop mouse/keyboard use the native slider and are untouched. */
+function initTouchSliders() {
+  const sheet = document.getElementById("controls");
+  document.querySelectorAll(".controls input[type=range]").forEach(el => {
+    let dir = null, startX = 0, startY = 0, lastY = 0, startVal = 0;
+    const setFromX = x => {
+      const r = el.getBoundingClientRect();
+      el.value = clamp(((x - r.left) / r.width) * 10, 0, 10).toFixed(1);
+      el.dispatchEvent(new Event("input", { bubbles: true }));
+    };
+    el.addEventListener("touchstart", ev => {
+      if (window.innerWidth > 980) return;
+      dir = null;
+      const t = ev.touches[0];
+      startX = t.clientX; startY = lastY = t.clientY;
+      startVal = parseFloat(el.value);
+    }, { passive: true });
+    el.addEventListener("touchmove", ev => {
+      if (window.innerWidth > 980) return;
+      const t = ev.touches[0];
+      const dx = t.clientX - startX, dy = t.clientY - startY;
+      if (!dir) {
+        if (Math.abs(dx) < 6 && Math.abs(dy) < 6) return; // undecided
+        dir = Math.abs(dx) > Math.abs(dy) ? "slider" : "scroll";
+      }
+      if (dir === "slider") setFromX(t.clientX);
+      else {
+        // undo any native thumb nudge and scroll the sheet instead
+        if (parseFloat(el.value) !== startVal) {
+          el.value = startVal;
+          el.dispatchEvent(new Event("input", { bubbles: true }));
+        }
+        sheet.scrollTop -= t.clientY - lastY;
+      }
+      lastY = t.clientY;
+    }, { passive: true });
+    el.addEventListener("touchend", () => { dir = null; });
+    el.addEventListener("touchcancel", () => { dir = null; });
+  });
+}
+
 /* ---------- mobile priorities sheet ---------- */
 function openSheet() {
   document.body.classList.add("sheet-open");
@@ -628,6 +674,7 @@ loadData();
 loadSavedPriorities();
 buildSliders();
 initSheet();
+initTouchSliders();
 update();
 // First visit on mobile: show the priorities sheet immediately so the initial
 // ranking is never mistaken for a final answer; afterwards it stays collapsed.

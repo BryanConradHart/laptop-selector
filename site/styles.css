@@ -197,9 +197,10 @@ input[type=range]::-moz-range-progress{height:5px;border-radius:3px;background:v
   .sheet-grab::after{content:"Tap or swipe down to close";font-size:11px}
   .controls-head{position:sticky;top:0;background:var(--bg2);z-index:1;padding-bottom:4px}
   .controls-head-btns{display:flex;align-items:center}
-  /* room for the finger: vertical swipes scroll past the slider; only
-     horizontal drags move the thumb */
-  .controls input[type=range]{height:40px;touch-action:pan-y}
+  /* sliders use a direction-lock gesture (see initTouchSliders): the first
+     move of a touch decides scroll vs slider-drag, so diagonal swipes while
+     scrolling the sheet can never nudge a value */
+  .controls input[type=range]{height:40px;touch-action:none}
   .slider-row{padding:4px 0}
 }
 .m-list{list-style:none;font-size:12.5px;line-height:1.5}
