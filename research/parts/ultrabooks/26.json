@@ -1,0 +1,115 @@
+{
+  "id": "ys7x-g11-x2e-32-1tb-oled",
+  "line": "Lenovo Yoga Slim 7x Gen 11 (14\" Snapdragon, 2026)",
+  "config_name": "Yoga Slim 7x Gen 11 — Snapdragon X2 Elite, 32GB LPDDR5X, 1TB SSD, 14\" 2.8K OLED 120Hz",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows (ARM)",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X2 Elite (Oryon 3, 18-core)",
+    "cpu_cores": 18,
+    "gpu": "Qualcomm Adreno (integrated, X2 series)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X dual channel soldered (VERIFIED '32GB LPDDR5X')",
+    "storage_gb": 1000,
+    "storage_type": "M.2 PCIe Gen4 NVMe",
+    "screen_size_in": 14,
+    "display_type": "PureSight 2.8K OLED, 120Hz VRR, 16:10",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1100,
+    "weight_kg": 1.24,
+    "ports": "2x USB-C, 1x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "4-speaker",
+    "keyboard_notes": "Refined Yoga keyboard, backlit",
+    "pen_support": "non-touch on this tier",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 14,
+    "notes": "70Wh (VERIFIED). Same silicon as base; RAM tier does not change runtime materially."
+  },
+  "price": {
+    "cad": 1699,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7x-gen-11-14-inch-snapdragon/len101y0066",
+    "confidence": "estimated",
+    "notes": "Base config VERIFIED at $1,399.99 ld+json; 32GB/1TB tier estimated +$300 CAD. Lenovo eCoupon pricing applies.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7x-gen-11-14-inch-snapdragon/len101y0066",
+        "cad": 1699,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7x-gen-11-14-inch-snapdragon/len101y0066"
+  },
+  "image_url": "https://p1-ofp.static.pub/ShareResource/optimized/pdp/yoga/yoga-slim-series/len101y0066/lenovo-yoga-slim-7x-gen-11-14-snapdragon-pdp-gallery-3.2a5808f6c7ad6deb.png",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Jon Rettinger (via lenovo.com/ca)",
+        "score": "recommended",
+        "url": "https://www.lenovo.com/ca/en/yoga/",
+        "quote": "The Yoga Slim 7x isn't just an alternative in ways that matter day-to-day. It's actually better. Lighter, brighter screen with actual black instead of gray, double the refresh rate, more keyboard travel, touchscreen if you want it. Same performance unplugged."
+      },
+      {
+        "outlet": "Dave2D (via lenovo.com/ca)",
+        "score": "recommended",
+        "url": "https://www.lenovo.com/ca/en/yoga/",
+        "quote": "The new Lenovo Slim 7X, it's an awesome device this year. Super fast chip, crazy battery life."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "32GB is the sweet spot — heavy Chrome/VS Code multitasking with no swap on the ARM side",
+      "2.8K 120Hz OLED with true blacks at ~1.24kg is best-in-class portability",
+      "Crazy battery life (Dave2D) — multi-day light use on 70Wh",
+      "Runs cool and near-silent under creator multitasking",
+      "Local AI features (Copilot+, Live Captions) run fully on-device via 80-TOPS NPU"
+    ],
+    "complaints": [
+      "ARM compatibility edge cases persist for niche pro apps and drivers",
+      "Integrated Adreno still not a gaming GPU",
+      "RAM soldered — buy the right tier up front",
+      "No Thunderbolt, no SD slot; dongle life for dock-heavy users",
+      "Base-tier 16GB upsell pressure: the config you want costs ~$300 more"
+    ]
+  },
+  "design_philosophy": "The volume config of Lenovo's Snapdragon flagship: X2 Elite + 32GB + 1TB on the 2.8K OLED 14-inch chassis — the version most reviewers actually recommend for creators and road warriors who prioritise battery and silence.",
+  "ratings": {
+    "battery": 9.5,
+    "screen_size": 7,
+    "screen_quality": 8.8,
+    "readability_dark": 9,
+    "readability_bright": 8,
+    "ecosystem": 7.5,
+    "gaming": 3.5,
+    "productivity": 9,
+    "portability": 9.3,
+    "build_quality": 8.8,
+    "thermals_noise": 9,
+    "port_connectivity": 6.5,
+    "creative_work": 6.2,
+    "keyboard_trackpad": 8,
+    "webcam_speakers": 6.5,
+    "upgradability": 2.5,
+    "ai_ml": 7.2,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from same-line X2 Elite anchor (Rettinger/Dave2D quotes VERIFIED via lenovo.com/ca): 32GB vs 16GB → productivity +0.5, ai_ml +0.2 per NOTES convention. Non-touch tier → pen_touch 0."
+}

@@ -1,0 +1,110 @@
+{
+  "id": "strix-g16-290hxplus-5070-32-1tb-300hz",
+  "line": "ASUS ROG Strix G16 (2026, G615)",
+  "config_name": "Strix G16 16\" — Core Ultra 9 290HX Plus, RTX 5070 8GB, 32GB DDR5, 1TB SSD, 16\" FHD+ 300Hz",
+  "tier": "High",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 290HX Plus (Arrow Lake-HX refresh, 24-core)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB (full ~115W TGP + boost)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5 (2x SODIMM, upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "IPS, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 300,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.5,
+    "ports": "2x USB-A, 1x USB-C (DP/PD), HDMI 2.1, RJ45, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Per-key RGB",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 5,
+    "notes": "~90Wh; same chassis as anchor tier."
+  },
+  "price": {
+    "cad": 3699.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19860978",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $3,699.99 (no sale), sku 19860978.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19860978",
+        "cad": 3699.99,
+        "est": false,
+        "name": "ASUS ROG Strix G16 16\" 300Hz Gaming Laptop - Intel Core Ultra 9 290HX Plus - 32GB DDR5 - 1TB SSD - GeForce RTX 5070 - Windows 11 Home - Eclipse Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19860/19860978.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (verdict)",
+        "score": "recommended (verdict: Good)",
+        "url": "https://www.notebookcheck.net/Asus-ROG-Strix-G16-2025-review-verdict-Good-RTX-5080-gaming-laptop-but-faster-Ryzen-9-9955HX-is-only-available-with-RTX-5070-Ti.1008100.0.html",
+        "quote": "a fast gaming notebook with an RTX 5080 Laptop, which is an excellent match for the native QHD resolution of its matte IPS panel... the faster Ryzen 9 9955HX has to make do with the RTX 5070 Ti Laptop (reviewed 5080 config; CA retail tops out at 5070)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Newest Arrow Lake-HX refresh CPU (290HX Plus) — top-tier multicore for a mid-GPU chassis",
+      "300Hz panel is esports-grade refresh; matches RTX 5070 FPS in competitive titles",
+      "Full-TGP RTX 5070 with MUX switch — strong FPS-per-dollar at 1080p",
+      "2x SODIMM + 2x M.2 remain user-upgradeable",
+      "Same well-loved Strix G16 chassis as the 4.6/5-rated anchor listing (BBY pool)"
+    ],
+    "complaints": [
+      "FHD+ (1920x1200) panel: noticeably less sharp than the $300-cheaper QHD+ 240Hz Nebula HDR tier",
+      "You pay ~$300 more than the anchor tier for CPU + refresh, not screen quality",
+      "Battery unplugged remains short (~5h light use)",
+      "Turbo mode fan noise under load",
+      "Plastic chassis flex vs aluminum rivals at this price"
+    ]
+  },
+  "design_philosophy": "The 2026 refresh top trim of the mainstream Strix G16: newest Intel HX silicon and a 300Hz competitive panel paired with the same full-TGP RTX 5070 — a CPU/refresh play rather than a GPU step-up.",
+  "ratings": {
+    "battery": 4.5,
+    "screen_size": 8,
+    "screen_quality": 7,
+    "readability_dark": 7,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 8,
+    "productivity": 8.2,
+    "portability": 4.3,
+    "build_quality": 7,
+    "thermals_noise": 6,
+    "port_connectivity": 7.5,
+    "creative_work": 6.8,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 7.5,
+    "ai_ml": 6.5,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Ratings inferred from the anchor config 70.json (275HX/5070/32GB/QHD+ 240Hz) per SHARED-strix-g16.md deltas: 290HX Plus CPU → productivity +0.2; FHD+ 300Hz panel → screen_quality −1.0 (sharpness) vs QHD+ Nebula HDR, storage 2→1TB → creative_work −0.2. No pro review retrieved (hard-stop); professional null per SCHEMA. Price BBY-verified. Pro anchor added via browser gap-fill (see GAPFILL-strix-g16.md): NBC reviewed the 275HX+5080 sibling config 2025-04."
+}

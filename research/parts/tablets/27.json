@@ -1,0 +1,124 @@
+{
+  "id": "ipad-11-a16-128",
+  "line": "Apple iPad 11-inch (A16, 11th Gen, 2025)",
+  "config_name": "iPad 11-inch — A16, 6GB RAM, 128GB, 11\" Liquid Retina + Magic Keyboard Folio",
+  "tier": "Entry",
+  "category": "tablets-ios-android",
+  "ecosystem": "iPadOS",
+  "form_factor": "tablet",
+  "release": "2025-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple A16 (6-core: 2P+4E)",
+    "cpu_cores": 6,
+    "gpu": "Apple A16 5-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 6,
+    "ram_type": "unified/soldered (Apple-unpublished, teardown est)",
+    "storage_gb": 128,
+    "storage_type": "NVMe soldered",
+    "screen_size_in": 10.86,
+    "display_type": "Liquid Retina IPS LCD (non-laminated, anti-reflective coating, no ProMotion)",
+    "resolution": "2360x1640",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.477,
+    "ports": "1x USB-C (USB 2.0 480Mb/s), Smart Connector (Magic Keyboard Folio)",
+    "wireless": "Wi-Fi 6 (2x2), BT 5.3",
+    "webcam": "12MP landscape Ultra Wide front",
+    "speakers": "Landscape stereo (2-speaker)",
+    "keyboard_notes": "Magic Keyboard Folio included in price: detachable scissor keyboard with 14-key function row, adjustable hinge — NO trackpad",
+    "pen_support": "Apple Pencil (USB-C) ~$119 or Apple Pencil 1st gen ~$149 — not included; no Pencil Pro/2 support, no hover",
+    "os": "iPadOS (Apple Intelligence NOT supported on A16 base iPad)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 8.5,
+    "notes": "28.93Wh cell. Apple claims 10h web/video Wi-Fi; users report ~8-9h mixed real-world use."
+  },
+  "price": {
+    "cad": 979,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-ipad/ipad/128gb-blue-wifi",
+    "confidence": "verified",
+    "notes": "Tablet-only $649.00 (apple.com/ca, verified 2026-11-24) + Magic Keyboard Folio $329.99 (BBY 16567047). BBY frequently discounts the tablet itself ($635.99, SKU 19464683). Wi-Fi+Cellular variant +$200 ($849 tablet) omitted per tablets-file precedent. Pencil not included.",
+    "offers": [
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-ipad/ipad/128gb-blue-wifi",
+        "cad": 979,
+        "est": false
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19204166",
+        "cad": 649.99,
+        "est": false,
+        "name": "Apple iPad A16 11\" 128GB with Wi-Fi 6 (11th Generation) - Blue"
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-ipad/ipad/128gb-blue-wifi"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19204/19204166.jpg",
+  "professional": {
+    "avg_score": 8.4,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "84%",
+        "url": "https://www.notebookcheck.net/Apple-iPad-11-2025-review-The-affordable-tablet-lags-behind-in-the-most-important-area.1006011.0.html",
+        "quote": "The affordable tablet lags behind in the most important area. Pros: fast SoC, hardly any heat dissipation, premium case. Cons: thick bezels, a slow 60 Hz screen, the panel is not completely laminated, only a 12-month guarantee, only a few Bluetooth audio codecs, only USB 2.0."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest way into the full iPad app ecosystem — A16 keeps everyday apps and games smooth for years (r/ipad, BBY reviews)",
+      "Landscape 12MP front camera makes it the best-value video-call tablet; Center Stage keeps you framed while carrying it",
+      "Magic Keyboard Folio's detachable design + 14-key function row is genuinely laptop-like for typing-heavy use",
+      "Battery holds 8-9h of real mixed school/work use — all-day every day (BBY reviews)",
+      "USB-C finally accepts standard hubs/SSDs/monitors (display out works) unlike old Lightning iPads"
+    ],
+    "complaints": [
+      "Non-laminated display has a visible air gap — pen bounces above the line and reflections sit on top of the image (top gripe in every review)",
+      "No Apple Intelligence: A16 is excluded from Apple's AI features, so this is the one current iPad without them",
+      "USB-C is USB 2.0 (480Mb/s) — transferring 4K video off the iPad crawls",
+      "Requires the old Apple Pencil 1st gen (awkward Lightning-adapter charging) or Pencil USB-C; no Pencil Pro",
+      "Magic Keyboard Folio has NO trackpad — pointer control needs a separate Bluetooth mouse"
+    ]
+  },
+  "design_philosophy": "Apple's price-anchor iPad: the same iPadOS experience as the Pro line at half the money, cut back only where Apple thinks buyers will forgive (lamination, USB speed, AI silicon). With the Magic Keyboard Folio priced in it is the cheapest real laptop-substitute Apple sells, aimed at students, families, and business fleets.",
+  "ratings": {
+    "battery": 8.3,
+    "screen_size": 6,
+    "screen_quality": 6.3,
+    "readability_dark": 5.5,
+    "readability_bright": 6.5,
+    "ecosystem": 6.5,
+    "gaming": 4,
+    "productivity": 5.5,
+    "portability": 9.2,
+    "build_quality": 8.5,
+    "thermals_noise": 9,
+    "port_connectivity": 3.5,
+    "creative_work": 4.7,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 7.5,
+    "upgradability": 1,
+    "ai_ml": 3.5,
+    "pen_touch": 6,
+    "repairability_service": 5,
+    "durability": 8
+  },
+  "rating_notes": "Pro score attached from NBC review of this exact model (gap-fill 2026-11-24). Ratings inferred from the line anchor (iPad A16 256GB, entry 28); −0.3 creative_work for 128GB scratch friction. No verbatim pro score found: NBC reviewed this model but notebookcheck.net + search engines were bot-walled this session (URLs not guessable) — disclosed per budget rule, none invented. Disclosed platform synthesis (NBC/Tom's Guide/PCMag-style consensus): best cheap iPad ever — fast, well-built, landscape camera — with universal criticism of the non-laminated display, USB 2.0, and missing Apple Intelligence. Ecosystem 6.5 per tablets rule (~9 casual, ~5 desktop-app parity; slightly worse here: no Apple Intelligence). keyboard_trackpad 6.5 = solid Folio typing + function row but no trackpad at all. Image URL is BBY CDN closest-SKU guess (19204166).",
+  "standouts": [
+    "Cheapest full-iPadOS laptop substitute: $979 with keyboard beats every 2-in-1 PC at this price",
+    "Landscape front camera + Center Stage is the best video-call experience per dollar"
+  ],
+  "dealbreakers": [
+    "No Apple Intelligence — if AI features matter, the $150-more iPad Air M4 is the floor",
+    "Non-laminated display makes drawing/note-taking feel worse than any Air/Pro"
+  ]
+}

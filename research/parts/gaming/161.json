@@ -1,0 +1,110 @@
+{
+  "id": "omen16-hyperx-5070-8940hx-16-512gb-wqxga165",
+  "line": "HP OMEN 16 (2025, mainstream non-Max)",
+  "config_name": "HyperX OMEN 16 Edition — AMD Ryzen 9 8940HX, RTX 5070 Laptop 8GB, 16GB DDR5, 512GB SSD, 16\" WQXGA 165Hz",
+  "tier": "Mid",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 9 8940HX (Zen 4, 16-core: 8P+8E, up to 5.3 GHz)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7 (Advanced Optimus, ~115W)",
+    "gpu_type": "discrete",
+    "ram_gb": 16,
+    "ram_type": "DDR5 SODIMM (2 slots, user-upgradeable)",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe Gen4",
+    "screen_size_in": 16,
+    "display_type": "IPS, anti-glare, 16:10",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": 0,
+    "weight_kg": 2.4,
+    "ports": "1x USB-C 10Gbps (DP), 2x USB-A, HDMI 2.1, Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "1080p with shutter",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Full-size with numpad, 4-zone RGB; HyperX co-branded edition",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 4,
+    "notes": "~83Wh. 16-core 8940HX is the thirstiest CPU in the line; OMEN-line users report ~4h light use on HX chips."
+  },
+  "price": {
+    "cad": 1999.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20132584",
+    "confidence": "verified",
+    "notes": "BBY sku 20132584, sale $1,999.99 (reg anchor $2,699.99) verified 2026-11-24. BBY customer pool 4.73/5, n=44 — best-rated OMEN 16 tier.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20132584",
+        "cad": 1999.99,
+        "est": false,
+        "name": "HyperX OMEN 16 16\" 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB DDR5 RAM - 512GB SSD - GeForce RTX 5070"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20132/20132584.jpg",
+  "professional": {
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "83%",
+        "url": "https://www.notebookcheck.net/The-best-budget-gamer-HP-Omen-16-laptop-review.1135455.0.html",
+        "quote": "The best budget gamer? Pros: clean, cohesive design; solid keyboard and touchpad; excellent CPU/GPU performance; cool surface temperatures even under load. Cons: fingerprint-prone surfaces; no USB 4, Thunderbolt, or SD reader; only Wi-Fi 6; subpar display with slow response times; ad-bloated control center; single-channel RAM; relatively small battery."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Best-rated OMEN 16 at BBY (4.73/5, n=44): RTX 5070 + 16-core Ryzen 9 under $2,000 on sale is the value standout of the line",
+      "WQXGA 165Hz panel gets praise for smoothness and sharpness vs the FHD entry tier",
+      "16-core 8940HX handles multitasking/streaming alongside gaming without stutter (BBY theme)",
+      "HyperX Edition bundle and clean looks popular as a gift build (BBY reviewers)",
+      "Socketed RAM + M.2 keep it cheap to upgrade despite the small stock config"
+    ],
+    "complaints": [
+      "512GB SSD fills after 2-3 AAA games — storage upgrade practically mandatory",
+      "Only 16GB RAM for a 16-core CPU; owners upgrade immediately",
+      "Battery ~3-4h: the 8940HX is the least efficient chip in the OMEN 16 range",
+      "Fans audibly ramp in Performance mode; plasma-cutting coil-whine reports in OMEN-line forums",
+      "$2,699.99 regular-price anchor is inflated — the real street price is the $1,999.99 sale"
+    ]
+  },
+  "design_philosophy": "A Best Buy co-branded edition of the mainstream OMEN 16 that stuffs a workstation-class 16-core Ryzen 9 and RTX 5070 into the value chassis at a sub-$2,000 sale price, trimming RAM and storage to protect the number. It embodies the OMEN 16 bet: GPU/CPU horsepower first, everything else upgradeable later.",
+  "ratings": {
+    "battery": 4.5,
+    "screen_size": 8,
+    "screen_quality": 6.5,
+    "readability_dark": 6,
+    "readability_bright": 5,
+    "ecosystem": 9.5,
+    "gaming": 7,
+    "productivity": 7.5,
+    "portability": 4.5,
+    "build_quality": 6,
+    "thermals_noise": 6,
+    "port_connectivity": 6,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 5.5,
+    "upgradability": 8,
+    "ai_ml": 5,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6
+  },
+  "rating_notes": "Pro score attached from NBC OMEN 16 2025 review (83%, gap-fill 2026-11-24); WQXGA tiers may differ from the reviewed panel. No numeric pro score found for this edition (see SHARED-omen16.md; nothing fabricated). Ratings inferred from OMEN Max 16 NBC anchor (SHARED-omen-max16.md) with mainstream-chassis deltas as in 160.json, then config deltas from SHARED-omen16.md: 5060→5070 gaming +1.5 (5.5→7.0); 8940HX vs 240H productivity +1.0 but thermals −1.0 (16c Zen4 heat) and battery −0.5; WQXGA panel screen_quality +1.0; 512GB/16GB keep productivity/ai_ml capped (no +0.5s). Strong BBY user pool (4.73/5, n=44) supports gaming/thermals not being scored below line average."
+}

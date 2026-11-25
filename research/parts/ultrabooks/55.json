@@ -1,0 +1,109 @@
+{
+  "id": "dell16prem-u9-32-1tb-oled-clearance",
+  "line": "Dell 16 Premium (2025, DA16250) — clearance",
+  "config_name": "Dell 16 Premium — Core Ultra 9 285H, 32GB LPDDR5X, 1TB SSD, 16.3\" 4K OLED touch 120Hz (clearance)",
+  "tier": "Value",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-07",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 285H (Arrow Lake-H, 16-core, up to 5.4 GHz)",
+    "cpu_cores": 16,
+    "gpu": "Intel Arc 140T integrated (RTX 5050/5060/5070 options on higher trims)",
+    "gpu_type": "integrated (dGPU options on higher trims)",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X soldered, up to 7467 MT/s",
+    "storage_gb": 1000,
+    "storage_type": "M.2 PCIe NVMe SSD",
+    "screen_size_in": 16.3,
+    "display_type": "OLED touch, 4K UHD+ (3840x2400), 48-120Hz, 400 nits",
+    "resolution": "3840x2400",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 600,
+    "weight_kg": 2.1,
+    "ports": "3x Thunderbolt 4, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "8MP + IR",
+    "speakers": "quad-speaker",
+    "keyboard_notes": "Zero-lattice backlit keyboard, haptic touchpad",
+    "pen_support": "touch (no pen)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 7.5,
+    "notes": "69.5Wh. 4K OLED is the thirstiest panel in the line; CNET found battery unimpressive across the Premium family (~6-8h mixed)."
+  },
+  "price": {
+    "cad": 2900,
+    "currency": "CAD",
+    "store": "bestbuy.ca / remaining dell.ca stock",
+    "store_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16da16250",
+    "confidence": "estimated",
+    "notes": "dell.ca marks DA16250 'no longer available' (page redirects to 2026 XPS 16); CNET tested at US$2,860. Remaining CA retail clearance est. CAD ~$2,900 vs ~$4,200 original. VERIFY stock before relying on this entry.",
+    "offers": [
+      {
+        "store": "bestbuy.ca / remaining dell.ca stock",
+        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16da16250",
+        "cad": 2900,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16da16250"
+  },
+  "image_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell-premium/da16250/media-gallery/laptop-dell-da16250t-sl-gallery-1.psd?fmt=png-alpha",
+  "professional": {
+    "avg_score": 7.9,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "7.9/10",
+        "url": "https://www.cnet.com/tech/computing/dell-16-premium-review/",
+        "quote": "(score + key findings verified via handoff NOTES: 16.3\" 4K OLED, RTX 5070 option throttled; exact quote text not re-fetched — slug 404s)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "16.3\" 4K OLED 120Hz touch at clearance pricing is the cheapest way into a 4K OLED laptop in Canada",
+      "RTX 5050/5060/5070 dGPU trims exist in clearance stock — real CUDA for creators under $3,500",
+      "Quad speakers + haptic touchpad + 8MP IR cam: AV kit the 2026 XPS line walked back",
+      "Ultra 9 285H sustains strong multicore thanks to the thicker, heavier chassis",
+      "CNET 7.9/10 called it the stronger half of the 2025 Premium pair"
+    ],
+    "complaints": [
+      "RTX 5070 option is power-throttled (CNET) — dGPU buyers don't get full chip performance",
+      "~2.1 kg and thick — not a true ultrabook by 2026 standards",
+      "4K OLED drains the 69.5Wh battery to ~6-8h real-world",
+      "Discontinued: no dell.ca restock, warranty/repair parts horizon shortens",
+      "Soldered RAM; glossy 4K panel mirrors bright rooms"
+    ]
+  },
+  "design_philosophy": "The larger sibling of the short-lived 'Dell Premium' generation: spec-max 16.3-inch with 4K OLED and throttled-but-present RTX dGPU options. Now a clearance line, it is today's value path to OLED + dGPU in Dell's premium clamshell family, at the cost of weight and battery.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 8.5,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 5,
+    "productivity": 8.5,
+    "portability": 5.5,
+    "build_quality": 9,
+    "thermals_noise": 6.5,
+    "port_connectivity": 6.5,
+    "creative_work": 7,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 8,
+    "upgradability": 2,
+    "ai_ml": 6.5,
+    "pen_touch": 6,
+    "repairability_service": 5,
+    "durability": 7.5
+  },
+  "rating_notes": "Anchored on CNET Dell 16 Premium (2025) 7.9/10 (US$2,860, NOTES-verified; 16.3\" 4K OLED, throttled RTX 5070 option). Integrated-GPU base trim assumed → gaming 5.0 (Arc 140T ~4.5 + panel/CPU headroom); dGPU trims would add +2 gaming. Battery 5.5 (4K OLED, CNET family criticism). Price estimated — clearance stock only."
+}

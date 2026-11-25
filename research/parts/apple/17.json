@@ -1,0 +1,122 @@
+{
+  "id": "mbp14-m5max-32c-36-2tb",
+  "line": "Apple MacBook Pro 14-inch (2026, M5 Max)",
+  "config_name": "MacBook Pro 14-inch — M5 Max 32-core GPU, 36GB RAM, 2TB SSD",
+  "tier": "Flagship",
+  "category": "apple",
+  "ecosystem": "macOS",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M5 Max (18-core)",
+    "cpu_cores": 18,
+    "gpu": "Apple M5 Max 32-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 36,
+    "ram_type": "unified/soldered",
+    "storage_gb": 2000,
+    "storage_type": "NVMe soldered (PCIe 5.0)",
+    "screen_size_in": 14.2,
+    "display_type": "Mini-LED IPS (Liquid Retina XDR)",
+    "resolution": "3024x1964",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 1000,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 1.62,
+    "ports": "3x TB5/USB-C, HDMI, SDXC, MagSafe 3, 3.5mm",
+    "wireless": "Wi-Fi 7 (Apple N1), BT 6",
+    "webcam": "12MP Center Stage",
+    "speakers": "6-speaker",
+    "keyboard_notes": "Magic Keyboard, Touch ID, Force Touch trackpad",
+    "pen_support": "none",
+    "os": "macOS Tahoe 26"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 11,
+    "notes": "Up to 20h video / 13h web claimed; 72.4Wh. NBC: battery dropped ~10% during native Cyberpunk play; peak load can exceed the 97W input cap."
+  },
+  "price": {
+    "cad": 5799,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch",
+    "confidence": "verified",
+    "notes": "Verified on apple.com/ca buy page (see research/parts/apple/NOTES.md).",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19791129",
+        "cad": 5799.99,
+        "est": false,
+        "name": "Apple MacBook Pro 14.2\" (2026) - Space Black (Apple M5 Max / 36GB RAM / 2TB SSD) - English"
+      },
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch",
+        "cad": 5799,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch"
+  },
+  "image_url": "https://www.apple.com/v/macbook-pro/specs/e/images/specs/14-inch/macbook_pro_14_inch__fjlrd633eki2_large.jpg",
+  "professional": {
+    "avg_score": 8.5,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "90.2%",
+        "url": "https://www.notebookcheck.net/M5-Max-with-inconsistent-performance-and-throttling-issues-Apple-MacBook-Pro-14-Review.1246064.0.html",
+        "quote": "the 14-inch chassis and the cooling simply cannot handle the M5 Max adequately. This results in serious thermal throttling and we also experienced very inconsistent CPU performance... We definitely think the M5 Max is a better option for the larger 16-inch model."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.4/10",
+        "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-14-m5-2025",
+        "quote": "exceptional build quality... all-aluminum unibody (same chassis, M5 model tested)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "36GB unified memory + 32-core GPU runs local LLMs and large After Effects/Resolve projects that exhaust the Pro tier (NBC-class benchmarks)",
+      "M5 Max GPU is roughly RTX 5070-class — Cyberpunk 2077 runs natively on the 14-inch (NBC gaming tests)",
+      "Excellent chassis, modern TB5 ports and great speakers in a 1.62 kg package (NBC verdict)",
+      "Mini-LED XDR panel with matte option still among the best (NBC)",
+      "Long battery runtimes for a Max-tier chip in light use (NBC verdict)"
+    ],
+    "complaints": [
+      "Serious thermal throttling — the 14-inch cooling cannot handle the M5 Max; very inconsistent CPU performance (NBC)",
+      "96W adapter insufficient: power input capped at 97W even with a 140W/180W PSU; battery drains ~10% while gaming (NBC)",
+      "High power limits make the fans loud under load (NBC)",
+      "NBC explicitly recommends the 16-inch instead for the M5 Max",
+      "C$5,799 before any RAM/storage upgrades; soldered everything (NBC price con)"
+    ]
+  },
+  "design_philosophy": "Apple offers the Max chip in the 14-inch for users who refuse to carry 2.1 kg, but this is the configuration where the chassis outgrows its cooling: buyers pay Max prices for throttled Max performance. NBC's verdict — the 16-inch is the better Max home — defines this tier's trade-off.",
+  "ratings": {
+    "battery": 8.2,
+    "screen_size": 7,
+    "screen_quality": 9.3,
+    "readability_dark": 9,
+    "readability_bright": 8.5,
+    "ecosystem": 9.5,
+    "gaming": 4.5,
+    "productivity": 9.2,
+    "portability": 8,
+    "build_quality": 9.3,
+    "thermals_noise": 5.5,
+    "port_connectivity": 7,
+    "creative_work": 9,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 8.2,
+    "pen_touch": 0,
+    "repairability_service": 4,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings anchored on NBC's direct 90.2% review of the 14-inch M5 Max (40-core GPU test unit); the 32-core/36GB tier gets −0.3 gaming / −0.3 creative_work / −0.3 ai_ml vs the tested 40-core/48GB per NOTES memory/GPU tiering. Thermals heavily penalised (5.5) per NBC's severe-throttling finding, per NOTES calibration."
+}

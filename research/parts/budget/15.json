@@ -1,0 +1,108 @@
+{
+  "id": "aspire-lite-15-n350-16-512",
+  "line": "Acer Aspire Lite 15 (AL15-54, N350)",
+  "config_name": "Aspire Lite 15 15.6\" — Core 3 N350, 16GB DDR4, 512GB SSD, FHD, Wi-Fi 5, S Mode",
+  "tier": "Entry",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-08",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 3 N350 (Alder Lake-N, 8 E-cores)",
+    "cpu_cores": 8,
+    "gpu": "Intel UHD Graphics (integrated, 24EU-class)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "DDR4 (SO-DIMM assumed)",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 15.6,
+    "display_type": "FHD, panel type unstated (assume TN)",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 220,
+    "weight_kg": 1.53,
+    "ports": "1x USB-C 3.2 Gen1 (DP, charging), 1x USB-A 3.2 Gen1, 1x USB 2.0, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 5 (802.11ac), BT 5.x",
+    "webcam": "HD webcam with privacy shutter",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Chiclet with numeric keypad, bilingual CA",
+    "pen_support": "none",
+    "os": "Windows 11 Home in S Mode"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 7,
+    "notes": "Alder Lake-N is extremely efficient; capacity unpublished, class norm ~50Wh → ~6.5-7.5h light use."
+  },
+  "price": {
+    "cad": 1139.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19946438",
+    "confidence": "verified",
+    "notes": "BF sale $719.99. Regular price is poor for an N-series machine.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19946438",
+        "cad": 719.99,
+        "est": false,
+        "name": "Acer Aspire Lite 15 15.6\" FHD Laptop - Intel Core 3 N350 - 16GB DDR4 - 512GB SSD - Windows 11 Home in S Mode - Silver"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19946/19946438.webp",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "N350 sips power: all-day-feel battery for browsing, docs, and streaming",
+      "16GB DDR4 is generous for an N-series machine and keeps everyday Windows smooth",
+      "Webcam has a physical privacy shutter — a small but appreciated touch",
+      "Runs completely cool and silent for typical light use",
+      "At the $719.99 sale it's a fine big-screen browser/streamer"
+    ],
+    "complaints": [
+      "Wi-Fi 5 (802.11ac) only in 2026 — the oldest wireless in the dataset and a real downgrade on modern routers",
+      "Ships in Windows 11 S Mode; leaving it is a clunky store dance that surprises non-technical buyers",
+      "N350 is 8 low-power E-cores: heavy spreadsheet, photo, or multitask work crawls",
+      "Port set is sparse: one USB-A 3.2, one USB 2.0, one USB-C",
+      "Regular $1,139.99 is absurd for N-series; only the sale price is honest"
+    ]
+  },
+  "standouts": [
+    "Long battery and silence for pure light use; webcam privacy shutter at this price"
+  ],
+  "dealbreakers": [
+    "Wi-Fi 5 + S Mode + weak N-series CPU: for a few dollars more the Core 5 120U or Ryzen SKUs are better machines in every way"
+  ],
+  "design_philosophy": "The floor of the Aspire Lite range: an Alder Lake-N E-core platform chosen purely for cost and efficiency, padded with 16GB DDR4 to mask how weak the CPU is, and trimmed with Wi-Fi 5 and Windows S Mode. It targets the most casual possible user — browser, email, video — and nothing beyond.",
+  "ratings": {
+    "battery": 6.8,
+    "screen_size": 7,
+    "screen_quality": 3.5,
+    "readability_dark": 4.5,
+    "readability_bright": 3.8,
+    "ecosystem": 9,
+    "gaming": 1,
+    "productivity": 3.5,
+    "portability": 6.6,
+    "build_quality": 4,
+    "thermals_noise": 8,
+    "port_connectivity": 4.5,
+    "creative_work": 1.5,
+    "keyboard_trackpad": 5.2,
+    "webcam_speakers": 4.3,
+    "upgradability": 4.5,
+    "ai_ml": 1,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4
+  },
+  "rating_notes": "No pro review found (see SHARED-aspire-go.md). Platform-anchored on Alder Lake-N: productivity 3.5 (8 E-cores, weak single-thread), gaming 1.0 (24EU UHD), battery 6.8 estimated (capacity unpublished; N-series efficiency). Panel unstated → assumed TN per BUDGET_LIST rule. S Mode and Wi-Fi 5 verified from BBY listing; they justify the low port_connectivity/ecosystem friction notes (S Mode not scored separately)."
+}

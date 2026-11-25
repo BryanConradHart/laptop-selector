@@ -1,0 +1,128 @@
+{
+  "id": "mbp14-m6-16-1tb",
+  "line": "Apple MacBook Pro 14-inch (2026, M6)",
+  "config_name": "MacBook Pro 14-inch — M6 12-core CPU / 12-core GPU, 16GB RAM, 1TB SSD",
+  "tier": "Entry",
+  "category": "apple",
+  "ecosystem": "macOS",
+  "form_factor": "clamshell",
+  "release": "2026-10",
+  "inferred": false,
+  "specs": {
+    "cpu": "Apple M6 (12-core)",
+    "cpu_cores": 12,
+    "gpu": "Apple M6 12-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "unified/soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe soldered (PCIe 5.0)",
+    "screen_size_in": 14.2,
+    "display_type": "Mini-LED IPS (Liquid Retina XDR)",
+    "resolution": "3024x1964",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 1000,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 1.55,
+    "ports": "3x TB4/USB-C, HDMI, SDXC, MagSafe 3, 3.5mm",
+    "wireless": "Wi-Fi 7 (Apple N1), BT 6",
+    "webcam": "12MP Center Stage",
+    "speakers": "6-speaker",
+    "keyboard_notes": "Magic Keyboard, Touch ID, Force Touch trackpad",
+    "pen_support": "none",
+    "os": "macOS Tahoe 26"
+  },
+  "battery": {
+    "claimed_hours": 24,
+    "real_world_hours": 13.5,
+    "notes": "Up to 24h video / 16h web claimed; 72.4Wh. RTINGS on the same chassis (M5): 'exceptional battery life... lasts well over a full day'."
+  },
+  "price": {
+    "cad": 2799,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch",
+    "confidence": "verified",
+    "notes": "Verified on apple.com/ca buy page (see research/parts/apple/NOTES.md).",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20249178",
+        "cad": 2799.99,
+        "est": false,
+        "name": "Apple MacBook Pro 14.2\" (2026) - Space Black (Apple M6 / 16GB RAM / 1TB SSD) - English"
+      },
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch",
+        "cad": 2799,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch"
+  },
+  "image_url": "https://www.apple.com/v/macbook-pro/specs/e/images/specs/14-inch/macbook_pro_14_inch__fjlrd633eki2_large.jpg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Tom's Hardware",
+        "score": "4.5/5 Editor's Choice",
+        "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-14-inch-m6-review",
+        "quote": "While the base MacBook Pro design is getting a bit tired, Apple's new M6 chip gives the 14-inch MacBook even more pep in its step."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.4/10",
+        "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-14-m5-2025",
+        "quote": "exceptional battery life... lasts well over a full day; exceptional build quality... all-aluminum unibody (same chassis, M5 model tested)"
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": "90.9%",
+        "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-M5-2025-review-The-fastest-single-core-performance-in-the-world.1144391.0.html",
+        "quote": "fastest single-core performance in the world (same chassis, M5 model tested)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "M6 gives a solid year-over-year performance bump over M5 without changing the chassis (Tom's Hardware)",
+      "Wi-Fi 7 finally arrives via the in-house Apple N1 chip (Tom's Hardware pro list)",
+      "Mini-LED XDR panel at 120Hz with 1600-nit HDR peaks is still among the best laptop displays (NBC)",
+      "Impeccable build quality — all-aluminum unibody, rigid deck, no flex (RTINGS and Tom's)",
+      "Base config ships 16GB RAM and a fast PCIe 5.0 1TB SSD as standard"
+    ],
+    "complaints": [
+      "Memory and SSD upgrades are more expensive than ever before (Tom's Hardware con)",
+      "Design is starting to look a bit stale after 5 years — same chassis since 2021 (Tom's Hardware con)",
+      "Only 3x Thunderbolt 4 on the M6 tier; TB5 is reserved for Pro/Max chips",
+      "RAM and SSD are soldered — zero upgrade path after purchase",
+      "96W-class MagSafe adapter and single-fan cooling leave headroom unused under sustained exports"
+    ]
+  },
+  "design_philosophy": "The 14-inch MacBook Pro is Apple's pro-grade default: a compact XDR-display workstation that adds active cooling, HDMI/SDXC ports and MagSafe over the Air. This M6 base tier is the volume seller — the same proven chassis refreshed with Apple's newest chip, prioritising efficiency and single-core speed over GPU headroom.",
+  "ratings": {
+    "battery": 9.2,
+    "screen_size": 7,
+    "screen_quality": 9.3,
+    "readability_dark": 9,
+    "readability_bright": 8.5,
+    "ecosystem": 9.5,
+    "gaming": 3,
+    "productivity": 8.6,
+    "portability": 8.3,
+    "build_quality": 9.3,
+    "thermals_noise": 8.6,
+    "port_connectivity": 6,
+    "creative_work": 7,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 4,
+    "durability": 8.5
+  },
+  "rating_notes": "Directly tested config (Tom's Hardware 4.5/5 Editor's Choice, Nov 2026); chassis-level scores anchored from RTINGS 8.4 and NBC 90.9% on the identical 2025 body. Image URL is Apple's own specs-page CDN jpg; site fallback applies if it rotates. Sentiment drawn from pro-review cons and Amazon.ca aggregate — Reddit JSON API was blocked (403) during research."
+}

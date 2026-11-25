@@ -1,0 +1,109 @@
+{
+  "id": "yp7i-g11-u7-32-1tb-oled",
+  "line": "Lenovo Yoga Pro 7i Aura Edition Gen 11 (15\" Intel, 2026)",
+  "config_name": "Yoga Pro 7i Aura Edition Gen 11 — Core Ultra 7 356H, RTX 5050 8GB, 32GB LPDDR5X, 1TB SSD, 15\" 2.8K OLED touch 120Hz",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 356H (Panther Lake, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5050 Laptop 8GB GDDR7",
+    "gpu_type": "dedicated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X dual channel soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 PCIe Gen4 NVMe",
+    "screen_size_in": 15,
+    "display_type": "OLED touchscreen, 1100 nits peak HDR / 500 nits SDR, 16:10",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1100,
+    "weight_kg": 1.55,
+    "ports": "2x Thunderbolt 4, 1x USB-A, HDMI, SD reader, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "4-speaker array",
+    "keyboard_notes": "Yoga creator keyboard, backlit",
+    "pen_support": "touchscreen (pen input supported)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 14,
+    "real_world_hours": 9,
+    "notes": "84Wh (VERIFIED on lenovo.com/ca PDP). Panther Lake efficiency helps; OLED touch tier."
+  },
+  "price": {
+    "cad": 2699,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7i-gen-11-aura-edition-15-inch-intel/len101y0068",
+    "confidence": "estimated",
+    "notes": "PDP ld+json shows $3,619.99 CAD for the top listed config (VERIFIED, InStock); this Ultra 7/5050/32GB tier estimated ~$2,700 by subtracting Ultra 9/5060/64GB uplifts. Lenovo CA eCoupon caveats apply.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7i-gen-11-aura-edition-15-inch-intel/len101y0068",
+        "cad": 2699,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7i-gen-11-aura-edition-15-inch-intel/len101y0068"
+  },
+  "image_url": "https://p4-ofp.static.pub/ShareResource/optimized/pdp/yoga/yoga-pro-series/len101y0068/lenovo-yoga-pro-7i-gen-11-aura-edition-15-intel-hero.png",
+  "professional": {
+    "avg_score": 8.4,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.6/10 (sibling line)",
+        "url": "https://www.cnet.com/tech/computing/",
+        "quote": "Centered around a gorgeous 16-inch OLED display, this Yoga laptop provides the performance and build that graphics pros demand."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "OLED touchscreen at 1,100-nit HDR peak in a 15-inch chassis — rare combo for pen annotation of photos",
+      "84Wh battery matches the bigger Pro 9i despite the smaller body",
+      "Panther Lake Ultra 7 runs cool and quiet in day-to-day creator work",
+      "RTX 5050 keeps GPU exports out of iGPU territory at a much lower price than the Pro 9i",
+      "~1.55 kg — genuinely portable for a dGPU creator laptop"
+    ],
+    "complaints": [
+      "Smaller 15-inch screen than the Pro 9i for the same money once configured up",
+      "Soldered RAM, no upgrade path",
+      "Touch OLED is glossy — reflections in bright rooms",
+      "Config price jumps fast at Lenovo checkout with Ultra 9/64GB options",
+      "Speakers adequate but not class-leading for a creator line"
+    ]
+  },
+  "design_philosophy": "The Pro 7i slots under the Pro 9i: a 15-inch Aura Edition creator clamshell with Panther Lake + RTX 50-series and a touch OLED, trading panel size and GPU ceiling for portability and price. This mid tier is the volume seller of the line.",
+  "ratings": {
+    "battery": 7.8,
+    "screen_size": 8,
+    "screen_quality": 8.8,
+    "readability_dark": 8.8,
+    "readability_bright": 7.8,
+    "ecosystem": 9,
+    "gaming": 6,
+    "productivity": 8.5,
+    "portability": 7.2,
+    "build_quality": 8.8,
+    "thermals_noise": 7.5,
+    "port_connectivity": 8,
+    "creative_work": 8.2,
+    "keyboard_trackpad": 7.2,
+    "webcam_speakers": 6,
+    "upgradability": 3,
+    "ai_ml": 6.5,
+    "pen_touch": 6.5,
+    "repairability_service": 5,
+    "durability": 7.5
+  },
+  "rating_notes": "No direct pro review found for Gen 11 Pro 7i (no quote invented; sibling anchor = CNET Pro 9i review via NOTES.md). Ratings inferred from Pro 9i anchor: −0.5 screen_size for 15\", +0.7 portability, touch → pen_touch 6.5, Panther Lake iGPU/NPU bump keeps ai_ml level. Specs VERIFIED from lenovo.com/ca PDP (CPU/GPU/RAM/storage/battery). PDP image is a marketing jpg from CDN."
+}

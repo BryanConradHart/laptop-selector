@@ -1,0 +1,114 @@
+{
+  "id": "blade16-2025-365-5080-32-1tb",
+  "line": "Razer Blade 16 (2025, AMD Ryzen AI)",
+  "config_name": "Razer Blade 16 — Ryzen AI 9 365 / RTX 5080, 32GB RAM, 1TB SSD",
+  "tier": "High",
+  "release": "2025-04",
+  "inferred": true,
+  "specs": {
+    "cpu_cores": 10,
+    "gpu_type": "dedicated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5x-8000 soldered",
+    "screen_size_in": 16,
+    "display_type": "OLED (QHD+, glossy, HDR)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 392,
+    "brightness_hdr_nits": 500,
+    "weight_kg": 2.09,
+    "ports": "2x USB4 40Gbps, 3x USB-A 3.1 Gen2, HDMI 2.1, SDXC, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "6-speaker",
+    "keyboard_notes": "Chiclet, 1.5mm travel, per-key RGB",
+    "pen_support": "none",
+    "os": "Windows 11 Home",
+    "cpu": "AMD Ryzen AI 9 365 (10-core: 4P+6E)",
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop 16GB GDDR7",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2-2280 (2 slots)"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 6,
+    "notes": "90Wh; lower-tier CPU/GPU slightly more efficient — +0.5h est. vs 5090 config."
+  },
+  "price": {
+    "cad": 4499.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/p/19218982",
+    "confidence": "verified",
+    "notes": "BBY API-verified 2026-11-24, SKU 19218982.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/p/19218982",
+        "cad": 4499.99,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19218/19218982.jpg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87%",
+        "url": "https://www.notebookcheck.net/Razer-Blade-16-2025-review-Gaming-laptop-now-with-GeForce-RTX-5090-Laptop-and-an-even-slimmer-case.988251.0.html",
+        "quote": "With its thickness of barely 17 mm (~0.67 in) and weight of around 2 kg (~4.4 lb), the Blade 16 2025 is very mobile, and the quality of the case continues to be very high."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "MacBook-like rigid CNC aluminum unibody in a gaming laptop — 'the base unit cannot be warped' (NBC)",
+      "16-inch QHD+ 240Hz OLED superbly calibrated out of the box (DeltaE 1.2, 96.1% P3) with 0.2ms response",
+      "Under 2.1kg and 17.4mm with a full 160W RTX 5090 option — genuinely portable for the power",
+      "Two M.2-2280 SSD slots plus USB4, USB-A, HDMI and SDXC — no dongles needed",
+      "Improved 1.5mm-travel keyboard much better than older Blade models"
+    ],
+    "complaints": [
+      "Black anodized surfaces are extreme fingerprint and dirt magnets (NBC con: 'surfaces remain extremely susceptible to dirt')",
+      "RAM is soldered on the 2025 AMD model — NBC calls it 'a step backwards' for maintenance",
+      "High case temperatures under load; deck near the vents runs hot (NBC: 'case temperatures have increased')",
+      "OLED PWM flickering at 960Hz below 100% brightness bothers sensitive users",
+      "Long-standing Blade-line wear: anodizing/paint scuffs at lid edges and hinge corners over time"
+    ]
+  },
+  "design_philosophy": "Razer's Blade line is the 'MacBook of gaming laptops': a minimalist black CNC-machined aluminum unibody that hides serious gaming hardware with almost no visual noise. The 2025 Blade 16 pushed this further — 30% slimmer than its predecessor at barely 17mm, switching to efficient Ryzen AI silicon and a large vapor chamber to keep a 160W RTX 5090 in a 2.1kg chassis. This config sits in that philosophy as a premium thin-and-light gaming machine rather than a max-TGP brute.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 7.5,
+    "screen_quality": 8.5,
+    "readability_dark": 7.5,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 8.5,
+    "productivity": 7.5,
+    "portability": 7.5,
+    "build_quality": 9.5,
+    "thermals_noise": 6,
+    "port_connectivity": 8.5,
+    "creative_work": 8.5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 6.5,
+    "upgradability": 4,
+    "ai_ml": 8.5,
+    "pen_touch": 0,
+    "repairability_service": 4.5,
+    "durability": 7
+  },
+  "rating_notes": "Inferred from NBC-reviewed Blade 16 2025 RTX 5090 (87%): -1.0 gaming for RTX 5080 tier, +0.5 battery for lower power draw, -0.5 productivity/ai_ml for Ryzen AI 9 365 (10c vs 12c) and 16GB VRAM vs 24GB.",
+  "standouts": [
+    "Best price-to-GPU balance in the Blade 16 line",
+    "Same premium unibody and OLED as the 5090 flagship"
+  ],
+  "dealbreakers": [],
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell"
+}

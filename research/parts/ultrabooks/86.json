@@ -1,0 +1,116 @@
+{
+  "id": "zbs16-2026-a9-32-1tb-oled",
+  "line": "ASUS Zenbook S16 OLED (2026 refresh, AMD Ryzen AI 300)",
+  "config_name": "Zenbook S16 — Ryzen AI 9 465, 32GB LPDDR5X, 1TB SSD, 16\" 3K OLED 120Hz touch",
+  "tier": "High",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-09",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 9 465 (Krackan Point, 10-core: 4 Zen5 + 6 Zen5c)",
+    "cpu_cores": 10,
+    "gpu": "AMD Radeon 880M iGPU (12 CU RDNA3.5) integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe Gen4",
+    "screen_size_in": 16,
+    "display_type": "OLED touch, 16:10, 3K-class, 120Hz",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 700,
+    "weight_kg": 1.5,
+    "ports": "2x USB-C 4, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 6E/7, BT 5.3",
+    "webcam": "1080p FHD + IR",
+    "speakers": "4-speaker Harman Kardon",
+    "keyboard_notes": "Backlit chiclet, large glass touchpad",
+    "pen_support": "touch",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 18,
+    "real_world_hours": 10,
+    "notes": "63Wh. ~9-11h light mixed use; Ryzen AI 9 465 efficient at light loads."
+  },
+  "price": {
+    "cad": 2599.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-s16-16-oled-120hz-touchscreen-laptop-amd-ryzen-ai-9-465-32gb-lpddr5x-1tb-ssd-windows-11-home-antrim-grey/19696998",
+    "confidence": "verified",
+    "notes": "BBY direct SKU 19696998, reg $3,299.99 sale $2,599.99 (2026-11-24). 4.35/5 from 226 BBY reviews. AI 7 445/32GB/1TB marketplace twin 19712713 at $2,399.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-s16-16-oled-120hz-touchscreen-laptop-amd-ryzen-ai-9-465-32gb-lpddr5x-1tb-ssd-windows-11-home-antrim-grey/19696998",
+        "cad": 2599.99,
+        "est": false,
+        "name": "ASUS Zenbook S16 16\" OLED 120Hz Touchscreen Laptop - AMD Ryzen AI 9 465 - 32GB LPDDR5X - 1TB SSD - Windows 11 Home - Antrim Grey"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-s16-16-120hz-oled-laptop-amd-ryzen-ai-7-445-32gb-ram-1tb-ssd-windows-11-home-antrim-gray/19712713",
+        "cad": 2399,
+        "est": false,
+        "name": "ASUS Zenbook S16 16\" 120Hz OLED Laptop - AMD Ryzen AI 7 445 - 32GB RAM - 1TB SSD - Windows 11 Home - Antrim Gray"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/196/19696/19696998.jpg",
+  "professional": {
+    "avg_score": 8.4,
+    "reviews": [
+      {
+        "outlet": "Ultrabookreview",
+        "score": "recommended",
+        "url": "https://www.ultrabookreview.com/74512-asus-zenbook-s16-s14/",
+        "quote": "the Zenbook S16 and S14 combine premium design, OLED displays and efficient hardware in thin-and-light 16 and 14-inch chassis"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "32GB + 1TB at $2,599 on sale is one of the best big-screen OLED values at Best Buy CA",
+      "Ryzen AI 9 465 keeps cool and quiet in balanced mode during office crunch",
+      "Stunning 3K 120Hz OLED for video and photo work",
+      "Strong user rating: 4.35/5 across 226 Best Buy reviews",
+      "Under 1.5 kg for a 16-inch — easy daily carry"
+    ],
+    "complaints": [
+      "63Wh battery limits long unplugged sessions vs Snapdragon rivals",
+      "Radeon 880M still struggles with AAA games at native 3K",
+      "RAM and storage are soldered — buy the tier you'll need in year 3",
+      "Occasional ASUS firmware/driver quirks (MyASUS bloatware complaints)"
+    ]
+  },
+  "design_philosophy": "The fully-specced expression of ASUS's big-screen thin-and-light: max Ryzen AI silicon, 32GB/1TB, and the 3K 120Hz touch OLED in the sub-1.5 kg Ceraluminum chassis. It targets creators-on-the-go who want OLED colour and multitasking headroom without gaming-laptop weight.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 8.5,
+    "screen_quality": 9,
+    "readability_dark": 8.5,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 5,
+    "productivity": 8.5,
+    "portability": 7,
+    "build_quality": 8.5,
+    "thermals_noise": 7,
+    "port_connectivity": 7,
+    "creative_work": 7,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 7,
+    "upgradability": 4,
+    "ai_ml": 6.5,
+    "pen_touch": 6.5,
+    "repairability_service": 4.5,
+    "durability": 7
+  },
+  "rating_notes": "Inferred from Ultrabookreview S16/S14 coverage + entry tier 85: +1 productivity (32GB + AI 9 465), +0.5 creative_work and screen_quality (3K 120Hz), +0.5 gaming (Radeon 880M vs 860M). UBR quote is from the S16/S14 overview page (paraphrased descriptor), flagged for parent."
+}

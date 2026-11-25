@@ -1,0 +1,115 @@
+{
+  "id": "xps14-x9-64-2tb-qhd",
+  "line": "Dell XPS 14 (2026, DA14260)",
+  "config_name": "XPS 14 — Core Ultra X9 378H, 64GB LPDDR5X, 2TB SSD, 14\" QHD+ 2.8K 120Hz touch",
+  "tier": "Top",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra X9 378H (Series 3 Panther Lake, 16-core, top bin)",
+    "cpu_cores": 16,
+    "gpu": "Intel Arc Graphics (integrated Arc iGPU)",
+    "gpu_type": "integrated",
+    "ram_gb": 64,
+    "ram_type": "LPDDR5X soldered, up to 7467 MT/s",
+    "storage_gb": 2000,
+    "storage_type": "M.2 2230 NVMe Gen4",
+    "screen_size_in": 14,
+    "display_type": "IPS touch, QHD+ (2880x1800), 120Hz",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.38,
+    "ports": "3x Thunderbolt 4 (USB-C) with DP 2.1 + PD, universal audio jack",
+    "wireless": "Wi-Fi 7 (Intel BE211 2x2), BT 6.0",
+    "webcam": "FHD webcam",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit keyboard, zero-lattice design, Gorilla Glass 3 palmrest",
+    "pen_support": "touch (no pen)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 25,
+    "real_world_hours": 10.5,
+    "notes": "70Wh. Top-bin 378H and 2TB drive draw slightly more; ~10-11.5h real-world mixed estimated."
+  },
+  "price": {
+    "cad": 7780,
+    "currency": "CAD",
+    "store": "dell.ca",
+    "store_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps14da14260",
+    "confidence": "verified",
+    "notes": "VERIFIED dell.ca 2026-11-24: CAD $7,779.99. No discount shown on this flagship tier.",
+    "offers": [
+      {
+        "store": "dell.ca",
+        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps14da14260",
+        "cad": 7780,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps14da14260"
+  },
+  "image_url": "https://i.dell.com/is/image/DellContent/content/dam/images/products/laptops-and-2-in-1s/xps/14-da14260-touch/dell-da14260t-laptop-c-15000ff100-gy-oled.psd?fmt=png-alpha",
+  "professional": {
+    "avg_score": 8.1,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.1/10",
+        "url": "https://www.cnet.com/tech/computing/dell-xps-14-2026-review/",
+        "quote": "It's great to see Dell bring back the XPS and do so with such style."
+      },
+      {
+        "outlet": "CNET",
+        "score": "8.1/10",
+        "url": "https://www.cnet.com/tech/computing/dell-xps-14-2026-review/",
+        "quote": "Matches MacBook Pro in price but not performance"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "64GB in a 1.38 kg 14-inch is effectively unique in the Windows market — local LLM and VM users actually shop this SKU",
+      "Top-bin Ultra X9 378H is the fastest CPU Dell ships in a consumer clamshell under 16 inches",
+      "2TB Gen4 SSD from factory suits creators shooting 4K on the road",
+      "Big NPU + Arc iGPU combo gives the best on-device AI capability of the 14 line",
+      "Same quiet cooling and premium build owners praise across the line"
+    ],
+    "complaints": [
+      "$7,780 buys no discrete GPU — at this price a MacBook Pro 14 or RTX-equipped creator laptop outperforms it (CNET's price-vs-performance critique at its worst)",
+      "No OLED option on the 14 regardless of price",
+      "Thermals: 16-core H-series in a 15 mm chassis throttles on sustained all-core loads vs thicker rivals",
+      "Zero upgrade path — the 64GB you buy is all you ever have",
+      "No fingerprint reader on a $7.8k machine"
+    ]
+  },
+  "design_philosophy": "The halo configuration of the XPS 14 line: Dell's answer to 'how much can you stuff into 1.38 kg'. It targets developers and AI-curious creators who need 64GB unified-class memory in x86 Windows without carrying a workstation.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 7,
+    "screen_quality": 7.5,
+    "readability_dark": 6.5,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 4.5,
+    "productivity": 9,
+    "portability": 9,
+    "build_quality": 9,
+    "thermals_noise": 7,
+    "port_connectivity": 6.5,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 2,
+    "ai_ml": 7.5,
+    "pen_touch": 6,
+    "repairability_service": 4,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from CNET XPS 14 (2026) 8.1 anchor: X9 378H top bin + 64GB → productivity +0.5 over 358H tier, ai_ml +1 (64GB memory ceiling for local models), battery −0.5, thermals −0.5 (hottest config in chassis)."
+}

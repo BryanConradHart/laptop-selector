@@ -1,0 +1,110 @@
+{
+  "id": "strix-g16-8940hx-5060-16-512",
+  "line": "ASUS ROG Strix G16 (2026, G615)",
+  "config_name": "Strix G16 16\" — Ryzen 9 8940HX, RTX 5060 8GB, 16GB DDR5, 512GB SSD, 16\" FHD+",
+  "tier": "Entry",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 9 8940HX (Zen 4, 16-core/32-thread)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB (full ~115W TGP + boost)",
+    "gpu_type": "discrete",
+    "ram_gb": 16,
+    "ram_type": "DDR5 (2x SODIMM, upgradeable)",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "IPS, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 370,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.5,
+    "ports": "2x USB-A, 1x USB-C (DP/PD), HDMI 2.1, RJ45, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "1080p",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Per-key RGB",
+    "pen_support": "none",
+    "os": "Windows 11"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 5.5,
+    "notes": "~90Wh."
+  },
+  "price": {
+    "cad": 2599.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19861011",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $2,599.99, sale $2,199.99, sku 19861011. Regular price used.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19861011",
+        "cad": 2199.99,
+        "est": false,
+        "name": "ASUS ROG Strix G16 16\" Gaming Laptop - Eclipse Grey (AMD Ryzen 9 8940HX/16GB RAM/512GB SSD/GeForce RTX 5060/Win11)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19861/19861011.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (verdict)",
+        "score": "recommended (verdict: Good)",
+        "url": "https://www.notebookcheck.net/Asus-ROG-Strix-G16-2025-review-verdict-Good-RTX-5080-gaming-laptop-but-faster-Ryzen-9-9955HX-is-only-available-with-RTX-5070-Ti.1008100.0.html",
+        "quote": "a fast gaming notebook with an RTX 5080 Laptop, which is an excellent match for the native QHD resolution of its matte IPS panel... the faster Ryzen 9 9955HX has to make do with the RTX 5070 Ti Laptop (reviewed 5080 config; CA retail tops out at 5070)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Ryzen 9 8940HX 16-core is unusually strong CPU value at the entry GPU tier",
+      "Full-TGP RTX 5060 — solid 1080p/1440p gaming with DLSS",
+      "Same Strix G16 chassis, cooling, and upgradeability (2x SODIMM, 2x M.2) as the $3,400 tiers",
+      "Sale price ~$2,200 makes it competitive with TUF-class builds for less",
+      "Strix G16 user pool rates the line ~4.6/5 on BBY"
+    ],
+    "complaints": [
+      "16GB/512GB out of the box — immediate upgrade recommended",
+      "$100 more than the Ultra 7/5060 twin for the AMD CPU; panel spec identical",
+      "Base FHD+ panel is dim and low-gamut",
+      "Battery short unplugged; Turbo fan noise",
+      "Plastic chassis flex; bulky power brick"
+    ]
+  },
+  "design_philosophy": "The AMD alternative at the Strix G16 entry tier: a high-core-count Ryzen 8940HX paired with the full-wattage RTX 5060 for buyers who value CPU multicore over Intel's newer platform, in the same serviceable chassis as the top trims.",
+  "ratings": {
+    "battery": 5,
+    "screen_size": 8,
+    "screen_quality": 6.3,
+    "readability_dark": 6.3,
+    "readability_bright": 5.5,
+    "ecosystem": 9,
+    "gaming": 6.8,
+    "productivity": 6.6,
+    "portability": 4.3,
+    "build_quality": 7,
+    "thermals_noise": 6.5,
+    "port_connectivity": 7.5,
+    "creative_work": 6.3,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 7.5,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Inferred from anchor 70.json per SHARED-strix-g16.md: RTX 5060 → gaming −1.2, ai_ml −1.0, battery +0.5, thermals_noise +0.5; 8940HX vs 275HX → productivity −0.7 (16 vs 24 cores); 16GB vs 32GB → productivity −0.7 more, ai_ml −0.5; base FHD+ panel → screen_quality −1.7. Nearly identical to 73.json (Intel Ultra 7 twin) — CPU choice is the differentiator. No pro review retrieved (hard-stop); professional null per SCHEMA. Price BBY-verified. Pro anchor added via browser gap-fill (see GAPFILL-strix-g16.md): NBC reviewed the 275HX+5080 sibling config 2025-04."
+}

@@ -1,0 +1,103 @@
+{
+  "id": "tp-p1-g9-u-x7-32-1tb-arcpro",
+  "line": "Lenovo ThinkPad P1 Gen 9 (2026)",
+  "config_name": "ThinkPad P1 Gen 9 16\" — Intel Core Ultra X7 368H vPro, Intel Arc Pro graphics, 32GB, 1TB SSD, 16\" IPS 60Hz",
+  "tier": "Mid",
+  "category": "creator-workstation",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra X7 368H vPro (Panther Lake)",
+    "cpu_cores": 16,
+    "gpu": "Intel Arc Pro (integrated pro-tier, ISV-certified drivers)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe (upgradeable)",
+    "screen_size_in": 16,
+    "display_type": "IPS anti-glare, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.76,
+    "ports": "2x TB4/USB-C, 2x USB-A, HDMI, 3.5mm, optional smart card",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "8MP + IR",
+    "speakers": "2-speaker + woofers, Dolby Audio",
+    "keyboard_notes": "ThinkPad keyboard + TrackPoint, spill-resistant",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 14,
+    "real_world_hours": 8,
+    "notes": "Est. ~90Wh class. No verified pro battery test found (NBC bot-walled); estimated from Panther Lake efficiency in thin 16\" chassis."
+  },
+  "price": {
+    "cad": 3589,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20082044",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $6,399 / sale $3,589 (SKU 20082044). Sale price used as realistic street price.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20082044",
+        "cad": 3589,
+        "est": false,
+        "name": "Lenovo ThinkPad P1 Gen 9 Intel Laptop, 16\" IPS 60Hz, Intel Core Ultra X7 368H vPro, 32GB, 1TB SSD"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20082/20082044.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Thin-and-light 16\" workstation weight (~1.76 kg) — P1-class portability with ISV-certified pro graphics",
+      "Best-in-class ThinkPad keyboard with TrackPoint on a 16\" pro machine",
+      "Panther Lake Arc Pro handles CAD viewport work quietly for a thin chassis; vPro manageability for business fleets",
+      "Deep Black Friday discount ($6,399 → $3,589) makes P1-class build accessible",
+      "Premium magnesium/carbon lid build with MIL-STD durability testing"
+    ],
+    "complaints": [
+      "Soldered RAM — 32GB cannot be upgraded, unusual limitation for a workstation line",
+      "Thin chassis throttles sustained CPU/GPU load vs thicker P16",
+      "Base 60Hz IPS panel at this price tier is mediocre for color-critical creator work",
+      "Lenovo/retail regular prices are heavily inflated anchor pricing; only sale price is real",
+      "No verified Canadian review coverage of Gen 9 — early-buyer risk on drivers for the new Arc Pro stack"
+    ]
+  },
+  "design_philosophy": "The P1 is the thin premium mobile workstation — the successor to the X1 Extreme line — packing ISV-certified pro graphics into a ~1.76 kg 16\" chassis for engineers and creators who travel. This Gen 9 config trades discrete GPU muscle for the integrated Arc Pro tier: maximum portability and battery at the workstation tier, at the cost of heavy 3D throughput.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 8,
+    "screen_quality": 6.3,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 4,
+    "productivity": 8.5,
+    "portability": 7.5,
+    "build_quality": 9,
+    "thermals_noise": 6.5,
+    "port_connectivity": 7.5,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 9.2,
+    "webcam_speakers": 7.5,
+    "upgradability": 4.5,
+    "ai_ml": 5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 8.5
+  },
+  "rating_notes": "No verified pro review found (NBC bot-walled; BBY reviews API empty — see SHARED-thinkpad-p.md); ratings inferred from ThinkPad-line dataset anchors (keyboard 9+, WUXGA IPS ~6.3 screen quality, thin 16\" workstation battery ~8h). Arc Pro integrated tier caps gaming/creative_work/ai_ml despite ISV drivers (+0.5 productivity/creative_work credit for certification). Sentiment synthesized from long-standing P-series owner themes — disclosed, not quoted."
+}

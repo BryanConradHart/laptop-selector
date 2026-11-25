@@ -1,0 +1,110 @@
+{
+  "id": "blade18-2025-275hx-5090-32-2tb",
+  "line": "Razer Blade 18 (2025, Intel)",
+  "config_name": "Razer Blade 18 — Core Ultra 9 275HX / RTX 5090, 32GB RAM, 2TB SSD",
+  "tier": "Flagship",
+  "release": "2025-04",
+  "inferred": true,
+  "specs": {
+    "cpu_cores": 24,
+    "gpu_type": "dedicated",
+    "ram_gb": 32,
+    "ram_type": "DDR5 (DIMM, upgradeable — verify per unit)",
+    "screen_size_in": 18,
+    "display_type": "IPS/miniLED (QHD+, 240Hz HDR; panel type not stated by retailer)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 440,
+    "brightness_hdr_nits": 600,
+    "weight_kg": 3.05,
+    "ports": "2x USB4 40Gbps, 3x USB-A 3.1 Gen2, HDMI 2.1, SDXC, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "6-speaker",
+    "keyboard_notes": "Chiclet, 1.5mm travel, per-key RGB",
+    "pen_support": "none",
+    "os": "Windows 11 Home",
+    "cpu": "Intel Core Ultra 9 275HX (24-core: 8P+16E)",
+    "storage_type": "NVMe M.2 (2 slots est.)",
+    "gpu": "NVIDIA GeForce RTX 5090 Laptop 24GB GDDR7",
+    "storage_gb": 2000
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 4.5,
+    "notes": "~82-90Wh (est.); ~4-5h light use estimated."
+  },
+  "price": {
+    "cad": 6299.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/p/19218981",
+    "confidence": "verified",
+    "notes": "BBY API-verified 2026-11-24, SKU 19218981. Top BBY Blade 18 config (64GB/4TB tier not stocked).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/p/19218981",
+        "cad": 6299.99,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19218/19218981.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "MacBook-like rigid CNC aluminum unibody in a gaming laptop — 'the base unit cannot be warped' (NBC)",
+      "RTX 5090 + 24-core 275HX: the strongest all-round config Razer sells today",
+      "Big 18-inch 240Hz screen with the premium Blade build",
+      "24GB VRAM for AI and 3D work",
+      "Best sustained thermals in the Blade line thanks to chassis size"
+    ],
+    "complaints": [
+      "Black anodized surfaces are extreme fingerprint and dirt magnets (NBC con: 'surfaces remain extremely susceptible to dirt')",
+      "3kg+ weight and a huge charger",
+      "Long-standing Blade-line wear: anodizing/paint scuffs at lid edges and hinge corners over time",
+      "$6,300 CAD with only 32GB RAM at the top tier",
+      "Panel type (IPS vs miniLED) not stated by retailer"
+    ]
+  },
+  "design_philosophy": "The Blade 18 extends the Blade design language to the largest screen while keeping the slim aluminum aesthetic — an 18-inch 240Hz panel on an Intel HX desktop-class platform, still slimmer than typical 18-inch flagships. It is Razer's desk-replacement-with-a-lid, prioritizing screen size and multicore CPU over maximum GPU wattage per dollar.",
+  "ratings": {
+    "battery": 4.5,
+    "screen_size": 8.5,
+    "screen_quality": 8.5,
+    "readability_dark": 7.5,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 9.5,
+    "productivity": 8.5,
+    "portability": 4,
+    "build_quality": 9.5,
+    "thermals_noise": 6.5,
+    "port_connectivity": 8.5,
+    "creative_work": 9,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 7,
+    "upgradability": 5,
+    "ai_ml": 9,
+    "pen_touch": 0,
+    "repairability_service": 4.5,
+    "durability": 7
+  },
+  "rating_notes": "Inferred from NBC's Blade 16 2025 RTX 5090 review (87%) with Blade 18 deltas (see siblings); gaming parity with the 16-inch 5090 (bigger chassis offsets any TGP edge). Weight/battery/panel estimated and disclosed; no Blade 18-specific pro score found within budget.",
+  "standouts": [
+    "Flagship 5090 + 24-core CPU in Razer's biggest screen",
+    "Best sustained thermals of the Blade line"
+  ],
+  "dealbreakers": [
+    "$6,300 with only 32GB RAM at the top tier",
+    "~3kg desk replacement"
+  ],
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell"
+}

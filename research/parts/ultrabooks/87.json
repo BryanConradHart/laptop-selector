@@ -1,0 +1,115 @@
+{
+  "id": "zba14-ux3407-x2e-16-512-oled",
+  "line": "ASUS Zenbook A14 (2026, UX3407, Snapdragon X2 Elite)",
+  "config_name": "Zenbook A14 — Snapdragon X2 Elite, 16GB LPDDR5, 512GB SSD, 14\" 2K OLED, 33h claimed",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": false,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X2 Elite (18-core Oryon)",
+    "cpu_cores": 18,
+    "gpu": "Qualcomm Adreno integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5 soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe",
+    "screen_size_in": 14,
+    "display_type": "OLED 16:10 glossy non-touch (glass option)",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 600,
+    "weight_kg": 1,
+    "ports": "2x USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p FHD + IR",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit, Ceraluminum deck",
+    "pen_support": "none (non-touch)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 33,
+    "real_world_hours": 15,
+    "notes": "70Wh. UBR: <3W idle, ~14h text editing, 20-22h video at Whisper mode; 'excellent runtimes, better than on the Zenbook A16'."
+  },
+  "price": {
+    "cad": 2399.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-a14-14-oled-laptop-snapdragon-x2-elite-16gb-lpddr5-512gb-ssd-windows-11-33h-battery-life-iceland-grey/19826849",
+    "confidence": "verified",
+    "notes": "BBY direct SKU 19826849, reg=sale $2,399.99 (2026-11-24). 4.65/5 from 68 BBY reviews. UBR US price when reviewed $1,349.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-a14-14-oled-laptop-snapdragon-x2-elite-16gb-lpddr5-512gb-ssd-windows-11-33h-battery-life-iceland-grey/19826849",
+        "cad": 2399.99,
+        "est": false,
+        "name": "ASUS Zenbook A14 14\" OLED Laptop - Snapdragon X2 Elite - 16GB LPDDR5 - 512GB SSD - Windows 11 - 33h Battery Life - Iceland Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19826/19826849.jpg",
+  "professional": {
+    "avg_score": 8.5,
+    "reviews": [
+      {
+        "outlet": "Ultrabookreview",
+        "score": "4.25/5",
+        "url": "https://www.ultrabookreview.com/75029-asus-zenbook-a14-x2elite-review/",
+        "quote": "The 2026 refresh of the Asus Zenbook A14 brings compeling Snapdragon X2 Elite hardware to a lightweight 14-inch chassis that weighs about 1 kilo."
+      },
+      {
+        "outlet": "Ultrabookreview",
+        "score": "4.25/5",
+        "url": "https://www.ultrabookreview.com/75029-asus-zenbook-a14-x2elite-review/",
+        "quote": "only a 60Hz 2K OLED display option; Windows on ARM is still somewhat finicky; only available in X2 Elite variants"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "About 1 kg with a 70Wh battery — best weight-to-battery ratio in the Windows camp",
+      "X2 Elite is genuinely fast for a fan-quiet ultrabook; UBR measured 20+h video runtime",
+      "Excellent BBY user rating: 4.65/5 across 68 reviews",
+      "Runs cool and silent on battery in Standard mode",
+      "Ceraluminum chassis feels premium and light"
+    ],
+    "complaints": [
+      "Only 60Hz 2K OLED — no 120Hz option in this line",
+      "Windows-on-ARM app-translation caveats persist (UBR: 'still somewhat finicky')",
+      "X2 Elite-only spec floor makes it pricey vs the X1-gen A14 on clearance",
+      "16GB RAM tier is the entry point; higher configs cost significantly more"
+    ]
+  },
+  "design_philosophy": "ASUS's ARM flagship ultralight: ~1 kg Ceraluminum chassis, huge battery, and Qualcomm's latest X2 Elite silicon, targeting maximum portability and runtime over raw peak performance. The 2026 refresh keeps the chassis and swaps in X2 Elite, at a notable premium over the still-sold 2025 models.",
+  "ratings": {
+    "battery": 9.5,
+    "screen_size": 7,
+    "screen_quality": 7.5,
+    "readability_dark": 8,
+    "readability_bright": 6.5,
+    "ecosystem": 7.5,
+    "gaming": 4,
+    "productivity": 8,
+    "portability": 10,
+    "build_quality": 8.5,
+    "thermals_noise": 9.5,
+    "port_connectivity": 7,
+    "creative_work": 5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 6,
+    "upgradability": 4,
+    "ai_ml": 7.5,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 7
+  },
+  "rating_notes": "Direct Ultrabookreview anchor (X2 Elite config, 4.25/5, US$1,349) — this BBY config matches the reviewed spec tier (16GB/512GB). Ecosystem 7.5 per ARM-Windows calibration; ai_ml 7.5 reflects X2 Elite's 80-TOPS-class NPU. Port list per UBR spec sheet."
+}

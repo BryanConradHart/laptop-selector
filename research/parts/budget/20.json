@@ -1,0 +1,108 @@
+{
+  "id": "vivobook-go-15-i3n305-8-256",
+  "line": "ASUS Vivobook Go 15 (E1504-class, 2026)",
+  "config_name": "Vivobook Go 15 15.6\" — Core i3-N305, 8GB DDR4, 256GB UFS, FHD, Cool Silver",
+  "tier": "Entry",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-08",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core i3-N305 (Alder Lake-N, 8 E-cores, 1.8 GHz)",
+    "cpu_cores": 8,
+    "gpu": "Intel UHD Graphics (integrated, 24EU-class)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "DDR4 onboard (soldered)",
+    "storage_gb": 256,
+    "storage_type": "UFS 2.x (not NVMe)",
+    "screen_size_in": 15.6,
+    "display_type": "FHD, anti-glare (panel type unstated)",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 220,
+    "weight_kg": 1.63,
+    "ports": "1x USB-C 3.2 Gen1 (data), 1x USB-A 3.2 Gen1, 1x USB 2.0, HDMI 1.4, DC-in, 3.5mm",
+    "wireless": "Wi-Fi 5 (802.11ac, 1x1), BT 5.1",
+    "webcam": "720p HD camera",
+    "speakers": "2x stereo",
+    "keyboard_notes": "English-only chiclet with numpad, no backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 9,
+    "real_world_hours": 6.5,
+    "notes": "3550 mAh 3-cell (~42 Wh); Alder Lake-N is extremely efficient — ~6-7h light use."
+  },
+  "price": {
+    "cad": 499.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19946894",
+    "confidence": "verified",
+    "notes": "$499.95 flat (no sale) — cheapest FHD 15.6\" clamshell in the dataset.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19946894",
+        "cad": 499.95,
+        "est": false,
+        "name": "ASUS Vivobook Go 15 15.6\" Laptop - Cool Silver (Intel Core i3-N305/8GB RAM/256GB UFS/Windows 11 Home)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19946/19946894.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "$499.95 for a 15.6\" FHD clamshell with an SSD-class drive is the cheapest real laptop money can buy in Canada",
+      "i3-N305's 8 E-cores handle browsing, Office, and streaming smoothly and completely silently",
+      "Best battery of the Vivobook family for light use — Alder Lake-N draws almost nothing",
+      "1.63 kg with a numpad; fine as a kid's or grandparent's first Windows laptop",
+      "Full HDMI and USB-A ports — no dongle drawer needed for a classroom or guest machine"
+    ],
+    "complaints": [
+      "256GB UFS storage is slow and small — Windows updates and a phone backup nearly fill it",
+      "Wi-Fi 5 (802.11ac) 1x1 only in 2026; oldest wireless in this family",
+      "8GB soldered DDR4: no upgrade path at all",
+      "English-only keyboard (no French legend) unlike the bilingual CA siblings",
+      "UHD 24EU graphics are hopeless for anything 3D or game-adjacent"
+    ]
+  },
+  "standouts": [
+    "Cheapest FHD Windows laptop in the dataset at $499.95 — the default answer for a sub-$500 gift"
+  ],
+  "dealbreakers": [
+    "UFS storage + Wi-Fi 5 + soldered 8GB: acceptable at $499.95, indefensible at any higher price"
+  ],
+  "design_philosophy": "A floor-price machine: ASUS takes the Go 15 chassis and drops in Alder Lake-N — eight little E-cores with a phone-grade UFS storage interface — to hit a psychological $499 price point. Every cost cut is deliberate (Wi-Fi 5, soldered 8GB, UFS, English keyboard) and every one is forgivable only because of that price. It is a browser/email/video terminal that happens to run Windows.",
+  "ratings": {
+    "battery": 6.6,
+    "screen_size": 7,
+    "screen_quality": 3.4,
+    "readability_dark": 4.2,
+    "readability_bright": 3.4,
+    "ecosystem": 9,
+    "gaming": 1,
+    "productivity": 3.6,
+    "portability": 6.2,
+    "build_quality": 4.3,
+    "thermals_noise": 8.2,
+    "port_connectivity": 4.5,
+    "creative_work": 1.2,
+    "keyboard_trackpad": 5,
+    "webcam_speakers": 4.2,
+    "upgradability": 2,
+    "ai_ml": 1,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4
+  },
+  "rating_notes": "No pro review found (see SHARED-vivobook.md). Platform-anchored on Alder Lake-N i3-N305 like the Aspire Lite 15 N350 anchor (15.json): productivity 3.6 (8 E-cores, weak single-thread), gaming 1.0 (24EU UHD). UFS storage + soldered 8GB + Wi-Fi 5 drive the low upgradability/port scores. Panel unstated, assumed ~220-nit TN class. Image URL best-guess BBY CDN pattern."
+}

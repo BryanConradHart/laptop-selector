@@ -1,0 +1,104 @@
+{
+  "id": "lg-gram-17-u9288v-32-1tb",
+  "line": "LG gram 17 AI (2025, Lunar Lake)",
+  "config_name": "LG gram 17 (AI) — Core Ultra 9 288V, Arc 140V iGPU, 32GB, 1TB, 17\" touch; bundled 1TB docking station",
+  "tier": "High",
+  "category": "ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 288V (Lunar Lake)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 140V integrated (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X on-package",
+    "storage_gb": 1000,
+    "storage_type": "NVMe",
+    "screen_size_in": 17,
+    "display_type": "IPS touch, glossy",
+    "resolution": "2560x1600",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 350,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.35,
+    "ports": "2x TB4/USB-C, USB-A, HDMI, microSD, 3.5mm",
+    "wireless": "Wi-Fi 6E/7, BT 5.3",
+    "webcam": "FHD IR with Windows Hello",
+    "speakers": "stereo, downward-firing",
+    "keyboard_notes": "backlit, Copilot key",
+    "pen_support": "touch only",
+    "os": "Windows 11 Home (Copilot+)"
+  },
+  "battery": {
+    "claimed_hours": 22,
+    "real_world_hours": 13,
+    "notes": "Lunar Lake is the most efficient gram silicon; estimated 12-14h real-world light use — best in line."
+  },
+  "price": {
+    "cad": 3039,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19838158",
+    "confidence": "verified",
+    "notes": "Reg $3,799 / sale $3,039 incl. bundled 1TB docking station (BBY-verified 2026-11-24). SKU 19838158.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19838158",
+        "cad": 3039,
+        "est": false,
+        "name": "LG gram 17\" Touchscreen Laptop - Intel Core Ultra 9 288V - 32GB DDR5 - 1TB SSD - Intel Arc Graphics - Windows 11 - Obsidian Black - 1TB Docking Station"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19838/19838158.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "No verified pro review retrieved (bot-walls; see SHARED-lg-gram.md). Lunar Lake gram reviews exist on NBC/RTINGS for other sizes — gap-fill pass."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Lunar Lake efficiency gives the best real battery life of any gram — users report full workdays with margin",
+      "17-inch touch display at ~1.35 kg still shocks people who lift it expecting a desktop replacement",
+      "32GB RAM standard suits heavy browser/Office multitasking",
+      "Bundled 1TB docking station offsets the missing ports complaint at this price",
+      "Arc 140V handles light video editing and casual gaming far better than older Intel iGPUs"
+    ],
+    "complaints": [
+      "Ultra 9 288V is an efficiency part — sustained multi-core renders lag Arrow Lake H chips",
+      "60 Hz glossy panel at a $3.8k list price feels stingy",
+      "RAM is on-package and cannot be upgraded at all",
+      "Lid flex on the 17\" chassis; hinge wobble while typing",
+      "LG's Canadian service/parts network is thin compared to Dell/Lenovo"
+    ]
+  },
+  "design_philosophy": "This is the gram thesis taken to its efficiency extreme: Lunar Lake's on-package memory and low-power Arc 140V graphics let a 17-inch Copilot+ laptop run cool, silent, and ~13 real-world hours on a charge at ~1.35 kg. The 32GB tier plus a bundled dock rounds out what the thin chassis lacks. It suits mobile professionals who value battery and weight over sustained compute.",
+  "ratings": {
+    "battery": 9,
+    "screen_size": 9,
+    "screen_quality": 6.5,
+    "readability_dark": 5.5,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 4.5,
+    "productivity": 8.5,
+    "portability": 9,
+    "build_quality": 6,
+    "thermals_noise": 8.5,
+    "port_connectivity": 8,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 5.5,
+    "upgradability": 2.5,
+    "ai_ml": 6,
+    "pen_touch": 5,
+    "repairability_service": 3.5,
+    "durability": 6
+  },
+  "rating_notes": "Synthesized per SHARED-lg-gram.md; no verified pro anchor (disclosed). Delta vs gram Max 17: Lunar Lake → battery +2, thermals +1.5, portability +0.5 (1.35 kg est.), gaming +0.5 (Arc 140V); on-package RAM drops upgradability. Dock bundle noted in port_connectivity context. Image URL best-guess BBY CDN pattern."
+}

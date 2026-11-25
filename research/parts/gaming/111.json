@@ -1,0 +1,104 @@
+{
+  "id": "scar18-2026-290hxplus-5090-64-4tb",
+  "line": "ASUS ROG Strix SCAR 18 (2026, G835LXG)",
+  "config_name": "Strix SCAR 18 (2026) — Core Ultra 9 290HX Plus / RTX 5090 24GB, 64GB DDR5-6400, 4TB SSD (RAID 0), 18\" 4K 240Hz ROG Nebula HDR Mini-LED",
+  "tier": "Flagship",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 290HX Plus (Arrow Lake-HX refresh, 24c/24t)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5090 Laptop 24GB GDDR7 (full ~175W+ TGP class, MUX + Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "DDR5-6400 SODIMM (2x, user-upgradeable)",
+    "storage_gb": 4000,
+    "storage_type": "2x PCIe Gen 4 NVMe SSD in RAID 0 (M.2, user-upgradeable)",
+    "screen_size_in": 18,
+    "display_type": "ROG Nebula HDR Mini-LED (2,000+ local dimming zones, 100% DCI-P3, 3ms)",
+    "resolution": "3840x2400",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": 1500,
+    "weight_kg": 3.3,
+    "ports": "Thunderbolt 4/USB-C (DP, PD), USB-C 3.2, 3x USB-A 3.2, HDMI 2.1, 2.5G RJ45, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p with IR (Windows Hello)",
+    "speakers": "4-speaker (2 tweeters + 2 woofers)",
+    "keyboard_notes": "Per-key RGB chiclet with numpad; oversized Enter key",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 3.5,
+    "notes": "90 Wh. 5090 + 4K Mini-LED panel: ~3-4.5h light use, ~1-1.5h gaming unplugged (inferred from 2025 SCAR 18 / Strix-line user reports)."
+  },
+  "price": {
+    "cad": 7999,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-rog-strix-scar-18-2026-gaming-laptop-18-4k-240hz-display-intel-core-ultra-9-290hx-plus-nvidia-geforce-rtx-5090-64gb-ram-4tb-windows-11-home-g835lxg-ds99-ca/20182292",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24, sku 20182292 (G835LXG-DS99-CA): $7,999 sale / $8,499 regular, sold by ASUS Canada. 0 customer ratings (new listing).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-rog-strix-scar-18-2026-gaming-laptop-18-4k-240hz-display-intel-core-ultra-9-290hx-plus-nvidia-geforce-rtx-5090-64gb-ram-4tb-windows-11-home-g835lxg-ds99-ca/20182292",
+        "cad": 7999,
+        "est": false,
+        "name": "ASUS ROG Strix SCAR 18 (2026) Gaming Laptop (18\" 4K 240Hz Display / Intel Core Ultra 9 290HX Plus / NVIDIA GeForce RTX 5090 / 64GB RAM / 4TB / Windows 11 Home / G835LXG-DS99-CA)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20182/20182292.png",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "note": "No numeric pro score retrieved 2026-11-24 (NBC/RTINGS bot-walled or absent — see SHARED-scar.md). Ratings inferred from the 2025 SCAR 18 RTX 5080 anchor (entry 110) with GPU/CPU/panel deltas."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Top-of-stack mobile gaming: RTX 5090 24GB at full SCAR wattage — no laptop game unplayable at native res with DLSS (inferred from 2025 SCAR 18 line pool, 4.57/5 n=355)",
+      "18\" 4K 240Hz Mini-LED with 2,000+ dimming zones and 100% DCI-P3 — the best display ASUS has ever put in a laptop per SCAR-line reception",
+      "64GB DDR5-6400 + 4TB RAID 0 standard — no upgrade needed ever; both still user-serviceable",
+      "24GB VRAM makes it the serious local-AI/LLM laptop of the Windows gaming class (CUDA + VRAM headroom)",
+      "Full desktop I/O: Thunderbolt 4, HDMI 2.1, 2.5G ethernet — designed to dock permanently"
+    ],
+    "complaints": [
+      "$8,000-8,500 CAD — exceeds most desktop PCs with better raw performance",
+      "Heaviest tier of the line (~3.3 kg + 330W adapter); portability effectively zero",
+      "Native-4K AAA gaming still needs DLSS/frame-gen on max settings despite the 5090",
+      "5090 in even this big chassis is power-capped relative to desktop; marginal gain over the $4k 5080 tier for ~2x the price",
+      "Same line-level gripes carry over: Turbo fan noise, Armoury Crate bloat, plastic deck flex, ~4h battery"
+    ]
+  },
+  "design_philosophy": "The 2026 SCAR 18 G835LXG is the apex of ASUS's desktop-replacement philosophy: nothing held back — 24GB-VRAM RTX 5090 at full sustained power, the first 4K 240Hz Mini-LED Nebula panel on a gaming laptop, 64GB and 4TB RAID 0 out of the box. It exists for buyers who refuse to compromise on a single spec and accept weight, price, and battery as irrelevant. This DS99-CA top tier is the only 5090 SCAR sold at Canadian retail.",
+  "ratings": {
+    "battery": 3.2,
+    "screen_size": 9.5,
+    "screen_quality": 9.3,
+    "readability_dark": 8,
+    "readability_bright": 8,
+    "ecosystem": 9,
+    "gaming": 10,
+    "productivity": 9.3,
+    "portability": 2.3,
+    "build_quality": 7.5,
+    "thermals_noise": 6.2,
+    "port_connectivity": 8.5,
+    "creative_work": 8.8,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 6.5,
+    "upgradability": 8.5,
+    "ai_ml": 9.3,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 7
+  },
+  "rating_notes": "inferred:true — ratings inferred from the 2025 SCAR 18 RTX 5080 anchor (entry 110, BBY 4.57/5 n=355): +0.5 gaming / +1.3 ai_ml (24GB vs 16GB VRAM) / +0.8 screen_quality, +0.5 readability (4K 240 Mini-LED, 2000+ zones per BBY spec text) / −0.3 battery, −0.3 thermals (5090 heat) / +0.3 productivity (290HX Plus, 64GB DDR5-6400). No pro review of either 2025 or 2026 tier retrieved (disclosed). Brightness figures are lineup-typical estimates. Specs verbatim from BBY product description (sku 20182292). User sentiment inferred from line pool + flagship-tier logic; 0 ratings on this new SKU."
+}

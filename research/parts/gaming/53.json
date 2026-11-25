@@ -1,0 +1,116 @@
+{
+  "id": "omen-max16-5070-32-1tb-ips165",
+  "line": "HP OMEN Max 16 (2025, 16-ah0000)",
+  "config_name": "OMEN Max 16 — Core Ultra 7 255HX, RTX 5070 Laptop 8GB, 32GB DDR5-5600, 1TB SSD, 16\" WQXGA 165Hz IPS",
+  "tier": "Mid",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-04",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 255HX (Arrow Lake-HX, 20c/20t: 8P + 12E, up to 5.2 GHz)",
+    "cpu_cores": 20,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7 (Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600 dual-channel, 2x SODIMM (user-accessible)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe Gen4/Gen5 M.2 (2 slots, PCIe5 main)",
+    "screen_size_in": 16,
+    "display_type": "IPS, 16:10, matte",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.81,
+    "ports": "2x Thunderbolt 4, 2x USB-A 10Gbps, HDMI 2.1, 2.5G Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 7 (Intel BE200), BT 5.4",
+    "webcam": "1080p + IR face unlock",
+    "speakers": "2-speaker + subwoofer",
+    "keyboard_notes": "Per-key RGB, beveled keys",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 4.5,
+    "notes": "83Wh. NBC same chassis: WiFi 5h50 (275HX); 255HX + 5070 draw less, users report ~3.5-4.5h mixed on lower tiers."
+  },
+  "price": {
+    "cad": 2799.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19320070",
+    "confidence": "verified",
+    "notes": "BB regular $2,799.95 verified 2026-11-24 (sku 19320070). BBY customer pool 4.09/5, n=64.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19320070",
+        "cad": 2799.95,
+        "est": false,
+        "name": "HP OMEN MAX 16 16\" 165Hz Gaming Laptop - Intel Core Ultra 7 255HX - 32GB DDR5 - 1TB SSD - RTX 5070 - Windows 11 Home - Shadow Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/193/19320/19320070.jpg",
+  "professional": {
+    "avg_score": 7.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "82%",
+        "url": "https://www.notebookcheck.net/HP-Omen-Max-16-laptop-review-Super-fast-but-a-little-bit-too-hot.999164.0.html",
+        "quote": "Lesser SKUs of this model start with the Core Ultra 7 255HX CPU and RTX 5070 Ti GPU with a 2K IPS display for $2500 USD."
+      },
+      {
+        "outlet": "Tom's Hardware",
+        "score": "3.5/5",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/hp-omen-max-16-review",
+        "quote": "The HP Omen Max 16 offers good performance, stunning visuals and layered sound, but it's a lot to lug around."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Best price/perf of the Max line: full OMEN Max chassis, 32GB and RTX 5070 under $2,800 CAD (BBY pool 4.09/5, n=64)",
+      "'Beautiful laptop with an all metal chassis extremely powerfull plays all my games at max settings while staying quiet' (BBY, line-wide)",
+      "Matte 165Hz IPS avoids the glossy-panel reflections owners complain about on the OLED tiers (BBY)",
+      "RAM upgradeable — 'besides the battery and SSD, the RAM can also be upgraded... several levels above many other laptops that have soldered RAM' (BBY)",
+      "255HX runs cooler than the 275HX tiers, so Balanced mode stays quieter in everyday gaming (BBY 'staying quiet' reports)"
+    ],
+    "complaints": [
+      "8GB VRAM on the RTX 5070 is the tightest of the line for 1440p ultra textures and local AI — pair with DLSS",
+      "Battery still only ~4h unplugged: users peg the line at 3-3.5h on heavier tiers (BBY)",
+      "165Hz IPS panel is the baseline of the line — no HDR, visible backlight bleed vs OLED siblings",
+      "Still 2.81 kg + ~2 lb brick — no portability discount for the cheaper tiers (Tom's: 'a lot to lug around')",
+      "Fan ramps are loud in Performance/Unleashed modes (up to ~55-61 dB(A) per NBC on the same cooler)"
+    ]
+  },
+  "design_philosophy": "The entry-to-mid price point of the OMEN Max line: NBC explicitly describes the lesser SKUs as 'Core Ultra 7 255HX CPU... with a 2K IPS display for $2500 USD' — this CA config is exactly that philosophy: keep the big Arrow Lake-HX chassis, 32GB and dual upgrade slots, and trim spend into the 165Hz IPS panel and a cooler 20-core 255HX.",
+  "ratings": {
+    "battery": 5,
+    "screen_size": 8,
+    "screen_quality": 6.5,
+    "readability_dark": 6,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 7,
+    "productivity": 8,
+    "portability": 3,
+    "build_quality": 7.5,
+    "thermals_noise": 5.5,
+    "port_connectivity": 7.5,
+    "creative_work": 7,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 8.5,
+    "ai_ml": 7.5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from the NBC/Tom's reviewed 5090/275HX OLED config (see SHARED-omen-max16.md). Deltas: GPU 5090→5070 = gaming −3.0, ai_ml −2.0 (24→8GB); CPU 275HX→255HX = productivity −0.5, thermals_noise +1.0 total (cooler 20-core part, less all-core throttling), battery +1.0; panel OLED→165Hz IPS = screen_quality −2.0, readability_dark −1.0 (bleed vs OLED blacks), readability_bright +0.5 (matte), creative_work −1.0 (no OLED HDR/contrast)."
+}

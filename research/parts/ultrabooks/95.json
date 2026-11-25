@@ -1,0 +1,118 @@
+{
+  "id": "fw16-diy-ai9hx-32-1tb-rtx5070",
+  "line": "Framework Laptop 16 (2025, AMD Ryzen AI 300 Series, DIY Edition)",
+  "config_name": "Laptop 16 DIY — Ryzen AI 9 HX 370, 32GB DDR5 (2x16GB), 1TB NVMe, RTX 5070 8GB Expansion Bay Graphics Module",
+  "tier": "High",
+  "category": "ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "specs": {
+    "cpu": "AMD Ryzen AI 9 HX 370 (12-core/24-thread Zen 5/5c, up to 5.1GHz)",
+    "cpu_cores": 12,
+    "gpu": "NVIDIA GeForce RTX 5070 8GB GDDR7 (swappable Expansion Bay module) + Radeon 890M iGPU",
+    "gpu_type": "dedicated-upgradeable",
+    "gpu_notes": "Configurator verbatim: \"Slide the Graphics Module in for a massive boost in gaming, creation, and simulation performance. Configured with 8GB of GDDR7\"; \"Increases the thickness of the rear section to 21.95mm\"",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600 2x SO-DIMM (user-upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "2x M.2 2280 NVMe slots (user-replaceable)",
+    "screen_size_in": 16,
+    "display_type": "IPS matte 16:10, 165Hz",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.5,
+    "ports": "6x user-swappable Expansion Card slots + Expansion Bay (RTX 5070 module), 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + hardware privacy switches",
+    "speakers": "6-speaker system with subwoofer (upgradeable module)",
+    "keyboard_notes": "Full-size backlit; replaceable assembly",
+    "pen_support": "none",
+    "os": "None (DIY — bring your own; Windows or Linux; CUDA works on Linux + Windows)"
+  },
+  "battery": {
+    "claimed_hours": 9,
+    "real_world_hours": 6.5,
+    "notes": "85Wh. dGPU module costs ~1-1.5h vs shell config; users report ~6-7.5h light use with module installed."
+  },
+  "price": {
+    "cad": 4900,
+    "currency": "CAD",
+    "store": "frame.work/ca",
+    "store_url": "https://frame.work/ca/en/products/laptop16-diy-amd-ai300/configuration/new",
+    "confidence": "estimated",
+    "notes": "Configurator sum (2026-11-24): AI 9 HX 370 base $2,608 + 32GB +$750 (assumed same as FW13) + 1TB +$300 + RTX 5070 8GB module (~$1,200 est.; module adder price was truncated by batch-noise in configurator fetch — flagged estimated). Excludes 6 expansion cards + OS. Pre-order batches mostly sold out.",
+    "offers": [
+      {
+        "store": "frame.work/ca",
+        "url": "https://frame.work/ca/en/products/laptop16-diy-amd-ai300/configuration/new",
+        "cad": 4900,
+        "est": true
+      }
+    ],
+    "official_url": "https://frame.work/ca/en/products/laptop16-diy-amd-ai300/configuration/new"
+  },
+  "image_url": "https://static.frame.work/uus5z07s12wmc02e2g7kdx3kjfgb",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "iFixit",
+        "score": "10/10 repairability (Framework platform)",
+        "url": "https://www.ifixit.com/Teardown/Framework+Laptop+13+Teardown",
+        "quote": "first laptop ever to earn a 10/10 repairability score"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "The only laptop whose GPU is a slide-in module you can replace in seconds — future-proof gaming in a repairable chassis",
+      "RTX 5070 module brings real DLSS gaming and CUDA acceleration to an otherwise iGPU machine",
+      "Module is shareable across FW16 owners and upgradeable to the next GPU generation without buying a new laptop",
+      "HX 370 + 32GB socketed RAM + dual M.2 = a genuinely serviceable creator/gaming desktop-replacement",
+      "165Hz matte panel and 6-speaker system with subwoofer are big upgrades over FW13"
+    ],
+    "complaints": [
+      "GPU module sold out in nearly every batch — the headline feature is the scarcest item",
+      "Module adds weight and thickness (\"Increases the thickness of the rear section to 21.95mm\") — ~2.5kg total",
+      "dGPU module costs ~$1,200 CAD on top, pushing the total near flagship gaming-laptop money",
+      "8GB VRAM on the module limits the newest AAA titles at 1600p+ ultra",
+      "Battery drops ~1-1.5h with the module installed even when idle"
+    ]
+  },
+  "design_philosophy": "Framework's most radical expression: a laptop where even the GPU is a modular, generational upgrade rather than a fixed spec. This top FW16 tier is a buy-once-upgrade-forever desktop replacement — the RTX 5070 slides out when the next module ships, and everything else in the machine remains a documented, orderable spare part.",
+  "standouts": [
+    "Only laptop with a user-replaceable, generationally upgradeable discrete GPU",
+    "iFixit 10/10 repairability platform with CUDA-capable dGPU — rare combo for local ML tinkering"
+  ],
+  "dealbreakers": [
+    "Pre-order batch system: effectively sold out with December+/Q1 ship dates — cannot buy today",
+    "~$4,900 CAD all-in approaches custom-desktop territory for an 8GB-VRAM module"
+  ],
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 8.5,
+    "screen_quality": 7,
+    "readability_dark": 7,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 7,
+    "productivity": 8.5,
+    "portability": 4.5,
+    "build_quality": 7.5,
+    "thermals_noise": 7,
+    "port_connectivity": 9,
+    "creative_work": 7.5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 6,
+    "upgradability": 10,
+    "ai_ml": 7,
+    "pen_touch": 0,
+    "repairability_service": 10,
+    "durability": 7.5
+  },
+  "rating_notes": "See SHARED-framework.md. No pro numeric review found for FW16 AI 300 + RTX 5070 (honest null; RTINGS bot-walled on FW13). Inferred from FW13 AI 300 anchor + FW16 shell sibling per SHARED calibration, then dGPU deltas: +3.5 gaming (RTX 5070 8GB at 1600p, DLSS; capped below 5070Ti-class laptops by 8GB VRAM and power envelope), −1 battery, −1 portability vs shell config, +1.5 creative_work and +1.5 ai_ml for CUDA/8GB VRAM. GPU module price estimated (configurator adder truncated); flagged for gap-fill.",
+  "inferred": true
+}

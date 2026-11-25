@@ -1,0 +1,103 @@
+{
+  "id": "tp-p14s-g6-pro500-90hz-64-2tb",
+  "line": "Lenovo ThinkPad P14s Gen 6 (2025)",
+  "config_name": "ThinkPad P14s Gen 6 14.5\" 90Hz — Intel Core Ultra 7 255H, NVIDIA RTX PRO 500 Blackwell, 64GB, 2TB SSD",
+  "tier": "High",
+  "category": "creator-workstation",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 255H (Arrow Lake-H, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA RTX PRO 500 Blackwell (ISV-certified)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "DDR5 SODIMM (upgradeable)",
+    "storage_gb": 2000,
+    "storage_type": "M.2 NVMe (upgradeable)",
+    "screen_size_in": 14.5,
+    "display_type": "IPS anti-glare, 16:10, 90Hz",
+    "resolution": "1920x1200",
+    "refresh_hz": 90,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.45,
+    "ports": "2x TB4/USB-C, 2x USB-A, HDMI 2.1, 3.5mm, optional smart card",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker, Dolby Audio",
+    "keyboard_notes": "ThinkPad keyboard + TrackPoint, spill-resistant",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 12,
+    "real_world_hours": 6.5,
+    "notes": "Est. ~57-75Wh class; 90Hz panel trims runtime slightly. Estimated ~6.5h light use. No verified pro battery test found."
+  },
+  "price": {
+    "cad": 4719,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19898059",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $8,179 / sale $4,719 (SKU 19898059). Sale price used.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19898059",
+        "cad": 4719,
+        "est": false,
+        "name": "Lenovo ThinkPad P14s Gen 6 14.5\" 90Hz Laptop - Intel Core Ultra 7 255H - 64GB - 2TB SSD - RTX PRO 500 - Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19898/19898059.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "90Hz panel makes scrolling CAD drawings and documents noticeably smoother than the 60Hz tier",
+      "64GB + 2TB capacity in a 1.45 kg portable workstation chassis",
+      "RTX PRO 500 ISV certification for SolidWorks/CAD viewport work",
+      "Cheapest max-RAM P14s sale price in the CA retail lineup",
+      "Classic ThinkPad keyboard, TrackPoint and business durability"
+    ],
+    "complaints": [
+      "RTX PRO 500 remains the entry certified GPU — no rendering headroom",
+      "$8,179 regular price is a fictional anchor; sale is the real price",
+      "Non-vPro CPU on this SKU — matters for managed corporate fleets",
+      "Slim 14.5\" chassis runs fans loudly under sustained load",
+      "60Hz-to-90Hz difference is nice but panel color accuracy is still entry-grade"
+    ]
+  },
+  "design_philosophy": "The 90Hz-panel variant of the max-capacity P14s Gen 6 CAD starter: same RTX PRO 500 + 64GB + 2TB formula as the sibling config around a smoother-refresh display, trading vPro and a hair of battery for scroll/viewport smoothness at a slightly lower street price.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 6.5,
+    "screen_quality": 6.5,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 4,
+    "productivity": 8.6,
+    "portability": 8,
+    "build_quality": 8.8,
+    "thermals_noise": 6,
+    "port_connectivity": 7,
+    "creative_work": 7,
+    "keyboard_trackpad": 9.2,
+    "webcam_speakers": 7,
+    "upgradability": 8,
+    "ai_ml": 5,
+    "pen_touch": 0,
+    "repairability_service": 8,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings inferred from sibling entry 37 (same GPU/RAM/storage; SHARED-thinkpad-p.md, no verified pro anchor): 90Hz panel → +0.2 screen_quality, −0.5 battery; non-vPro noted in sentiment only. RTX PRO 500 → ai_ml 5.0 per SHARED guidance. Sentiment synthesized from P-series owner themes, disclosed."
+}

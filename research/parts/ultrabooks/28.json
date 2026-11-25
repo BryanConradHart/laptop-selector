@@ -1,0 +1,116 @@
+{
+  "id": "ys7i-g9-u7-32-1tb-lcd",
+  "line": "Lenovo Yoga Slim 7i Aura Edition Gen 9 (15\" Intel, 2025)",
+  "config_name": "Yoga Slim 7i Aura Edition Gen 9 — Core Ultra 7 258V (Lunar Lake), Arc 140V, 32GB LPDDR5X, 1TB SSD, 15\" 2.8K IPS 120Hz 500-nit",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 258V (Lunar Lake, 8-core: 4P+4LPE)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 140V (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X-8533 on-package (VERIFIED on PDP)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 PCIe Gen4 NVMe",
+    "screen_size_in": 15,
+    "display_type": "PureSight Pro 2.8K IPS LCD, 120Hz, 500 nits, 16:10 (optional touch)",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.4,
+    "ports": "2x Thunderbolt 4, 1x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "4-speaker",
+    "keyboard_notes": "Yoga backlit keyboard",
+    "pen_support": "non-touch on this tier (touch optional on some configs)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 16,
+    "real_world_hours": 11.5,
+    "notes": "70Wh (VERIFIED on PDP). Lunar Lake is exceptionally efficient; ~11-12h real mixed use."
+  },
+  "price": {
+    "cad": 1799,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-slim-series/yoga-slim-7i-gen-9-aura-edition-15-inch-intel/len101y0051",
+    "confidence": "estimated",
+    "notes": "PDP ld+json price hidden (0) but InStock; single CPU/RAM/storage tier listed (VERIFIED: Ultra 7 258V / 32GB / 1TB). Estimated from typical CA Lunar Lake pricing; heavily discounted in late 2026 as Gen 11 lines replace it — notable value pick.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20281262",
+        "cad": 2459.99,
+        "est": false,
+        "name": "Lenovo Yoga Slim 7i Ultra Aura Edition Laptop, 14\" Glass, Intel Core Ultra 7 355, 32GB, 1TB SSD"
+      },
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-slim-series/yoga-slim-7i-gen-9-aura-edition-15-inch-intel/len101y0051",
+        "cad": 1799,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-slim-series/yoga-slim-7i-gen-9-aura-edition-15-inch-intel/len101y0051"
+  },
+  "image_url": "https://p2-ofp.static.pub/ShareResource/optimized/pdp/yoga/yoga-slim-series/len101y0051/lenovo-yoga-slim-7i-gen-9-aura-edition-15-intel-hero.png",
+  "professional": {
+    "avg_score": 8.2,
+    "reviews": [
+      {
+        "outlet": "The Tech Chap (via lenovo.com/ca, sibling Slim 7a)",
+        "score": "recommended",
+        "url": "https://www.lenovo.com/ca/en/yoga/",
+        "quote": "We also have one of the absolute best displays on any laptop that I've tested."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Lunar Lake 258V sips power — easily the best battery of any x86 Yoga Slim",
+      "2.8K 120Hz 500-nit IPS panel is bright and colour-accurate without OLED PWM concerns",
+      "32GB on-package memory standard — no upsell trap",
+      "Arc 140V plays popular titles at 1080p medium, unusual for a thin 15-inch iGPU machine",
+      "Quiet thermals; fan is a whisper in office work"
+    ],
+    "complaints": [
+      "8-core CPU falls behind Snapdragon X2 Elite and Arrow Lake-H in heavy multitasking/compile work",
+      "IPS backlight shows corner bleed in dark rooms vs OLED siblings",
+      "Gen 9 is the outgoing generation — clearance stock and short remaining support window",
+      "Plastic-reinforced lid feels less premium than the Pro line's full aluminium",
+      "No SD reader; 15-inch size undercuts its own portability claim vs the 14-inch Slim 7x"
+    ]
+  },
+  "design_philosophy": "The Intel-Lunar Lake counterpart to the Slim 7x: a big-screen, big-battery x86 thin-and-light with the PureSight Pro IPS display, aimed at users who want Windows-x86 compatibility with near-ARM battery life. In late 2026 it is the value pick of the Yoga clamshell range.",
+  "ratings": {
+    "battery": 9,
+    "screen_size": 8,
+    "screen_quality": 7.2,
+    "readability_dark": 7,
+    "readability_bright": 8.2,
+    "ecosystem": 9,
+    "gaming": 4.5,
+    "productivity": 8,
+    "portability": 8.2,
+    "build_quality": 8.2,
+    "thermals_noise": 8.8,
+    "port_connectivity": 7,
+    "creative_work": 5.8,
+    "keyboard_trackpad": 7.8,
+    "webcam_speakers": 6.5,
+    "upgradability": 2.5,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 7
+  },
+  "rating_notes": "No direct pro review fetched for this exact CA config (quote from sibling Slim 7a carousel VERIFIED via lenovo.com/ca). Specs VERIFIED on PDP (Ultra 7 258V, Arc 140V, 32GB LPDDR5X-8533, 1TB, 2.8K 120Hz 500nit, 70Wh). IPS panel → screen_quality 7.2 per NOTES calibration (IPS 1200p ~6.5; this is 2.8K 500nit, better). Arc 140V gaming ~4.5 per calibration."
+}

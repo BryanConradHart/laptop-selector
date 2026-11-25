@@ -1,0 +1,116 @@
+{
+  "id": "sl8-138-x2e-16-512",
+  "line": "Microsoft Surface Laptop 8 (2026, Snapdragon X2)",
+  "config_name": "Surface Laptop 13.8\" — Snapdragon X2 Elite, 16GB LPDDR5x, 512GB SSD, 120Hz PixelSense touch",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X2 Elite (18-core Oryon v3)",
+    "cpu_cores": 18,
+    "gpu": "Qualcomm Adreno (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 2230 NVMe soldered",
+    "screen_size_in": 13.8,
+    "display_type": "PixelSense LCD touch, 3:2, 120Hz",
+    "resolution": "2880x1920",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.22,
+    "ports": "2x USB-C (DP/charge), 1x USB-A, Surface Connect, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1440p Quad HD + IR",
+    "speakers": "2-speaker Omnisonic",
+    "keyboard_notes": "backlit, fingerprint power button",
+    "pen_support": "touch; MPP pen",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 14,
+    "notes": "~54Wh est. X2 Elite strong idle efficiency; ~14h light use expected."
+  },
+  "price": {
+    "cad": 2399.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19852081",
+    "confidence": "verified",
+    "notes": "Best Buy CA SKU 19852081, reg $2,399.99, BF sale $1,999.99 (2026-11-24 API).",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19852081",
+        "cad": 1999.99,
+        "est": false,
+        "name": "Microsoft Surface 13.8\" 2K Touch Laptop, Snapdragon X2 Elite X2E‑80‑100, 16GB RAM, 512GB SSD, Adreno Graphics, Backlit, Wi-Fi7, Win11 Pro, Jade"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19852/19852081.jpg",
+  "professional": {
+    "avg_score": 7.8,
+    "reviews": [
+      {
+        "outlet": "Tom's Guide",
+        "score": "recommended",
+        "url": "https://www.tomsguide.com/computers/surface-devices/microsoft-surface-laptop-8-review",
+        "quote": "The new Microsoft Surface Laptop 8 is great — but it's hard to recommend to most people"
+      },
+      {
+        "outlet": "Windows Central",
+        "score": "recommended",
+        "url": "https://www.windowscentral.com/microsoft/surface-laptop-8-for-business-review",
+        "quote": "The privacy King: Surface Laptop 8 for business review—is the new stealth screen worth the $2,549 entry price?"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "X2 Elite multicore is a huge jump over X Plus — heavy Excel/compile work flies for a fanless-feel machine",
+      "80 TOPS NPU: local Copilot+ models and live captioning run without cloud round-trips",
+      "Same gorgeous 13.8\" 3:2 120Hz 600-nit touch panel as the base tier",
+      "Effectively silent in daily use; chassis barely warms",
+      "$2,000 BF sale price makes the Elite chip the smart buy over the Plus"
+    ],
+    "complaints": [
+      "Still only 16GB RAM at $2,400 regular — soldered, no option to add",
+      "ARM translation gaps persist for niche pro apps and games",
+      "Sparse port loadout for the price",
+      "$100 premium over X2 Plus is only worth it for multicore-heavy users",
+      "Storage non-upgradable and 512GB fills fast"
+    ]
+  },
+  "design_philosophy": "The performance tier of the 13.8\" Surface Laptop 8: same featherweight sealed aluminium design, upgraded to full X2 Elite silicon for users who want workstation-adjacent multicore and top NPU throughput in a 1.2 kg machine.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 6.5,
+    "screen_quality": 8.5,
+    "readability_dark": 7.5,
+    "readability_bright": 8.5,
+    "ecosystem": 7.5,
+    "gaming": 4,
+    "productivity": 8.5,
+    "portability": 9.5,
+    "build_quality": 9,
+    "thermals_noise": 9,
+    "port_connectivity": 6,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 8.5,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 8,
+    "pen_touch": 7,
+    "repairability_service": 3,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from SL8 anchor (Tom's Guide / Windows Central verified headlines): +0.5 productivity, +0.5 gaming, +1.0 ai_ml (80 TOPS X2 Elite) vs X2 Plus entry."
+}

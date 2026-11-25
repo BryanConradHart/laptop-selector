@@ -1,0 +1,118 @@
+{
+  "id": "sp11-xplus-16-256-lcd",
+  "line": "Microsoft Surface Pro 11 (13\", Snapdragon, 2024)",
+  "config_name": "Surface Pro 11 — Snapdragon X Plus (Lumen, 10-core), 16GB, 256GB, 13\" LCD touch + Signature Keyboard",
+  "tier": "Entry",
+  "category": "convertibles-2in1",
+  "ecosystem": "Windows",
+  "form_factor": "tablet",
+  "release": "2024-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X Plus X1P-42-100 \"Lumen\" (10-core Oryon, 3.4GHz)",
+    "cpu_cores": 10,
+    "gpu": "Qualcomm Adreno (X Plus bin, integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 256,
+    "storage_type": "M.2 2230 NVMe (replaceable under kickstand)",
+    "screen_size_in": 13,
+    "display_type": "PixelSense Flow LCD IPS glossy touch, 3:2",
+    "resolution": "2880x1920",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.895,
+    "ports": "2x USB-C/USB4 40Gbps (DP+PD), Surface Connect",
+    "wireless": "Wi-Fi 7, BT 5.3",
+    "webcam": "1440p front Windows Hello + 10MP rear",
+    "speakers": "2W stereo, Studio Mics",
+    "keyboard_notes": "Signature Keyboard included in entry price (sold separately by MS); backlit chiclet, small trackpad",
+    "pen_support": "Surface Slim Pen 2 supported, sold separately (~CA$159.99)",
+    "os": "Windows 11 Home (ARM)"
+  },
+  "battery": {
+    "claimed_hours": 14,
+    "real_world_hours": 12.5,
+    "notes": "48Wh. LCD panel + lower-bin X Plus = best endurance of the line. CNET measured just under 13h video on OLED X Elite; LCD X Plus typically a bit better."
+  },
+  "price": {
+    "cad": 1599.98,
+    "currency": "CAD",
+    "store": "microsoft.com/en-ca",
+    "store_url": "https://www.microsoft.com/en-ca/d/surface-pro-11-with-snapdragon-technology/8mzbkmz0lmc1",
+    "confidence": "estimated",
+    "notes": "Tablet-only est CA$1,399.99 (CA launch MSRP; microsoft.com/en-ca unfetchable at research time) + Signature Keyboard est CA$199.99. Keyboard sold separately — price INCLUDES it per site rule. 512GB twin verified at BBY for CA$1,499.99 sale.",
+    "offers": [
+      {
+        "store": "microsoft.com/en-ca",
+        "url": "https://www.microsoft.com/en-ca/d/surface-pro-11-with-snapdragon-technology/8mzbkmz0lmc1",
+        "cad": 1599.98,
+        "est": true
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19263399",
+        "cad": 1349.99,
+        "est": false,
+        "name": "Microsoft Surface Pro (LCD) Copilot+ PC 13\" 512GB Tablet with Snapdragon X Plus/16GB RAM (2024) - Dune - Device Only"
+      }
+    ],
+    "official_url": "https://www.microsoft.com/en-ca/d/surface-pro-11-with-snapdragon-technology/8mzbkmz0lmc1"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/179/17921/17921778.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.3/10 (X Elite OLED sibling)",
+        "url": "https://www.cnet.com/tech/computing/microsoft-surface-pro-11-review-snapdragon-and-oled-deliver/",
+        "quote": "the Surface Pro 11's Qualcomm Snapdragon X Elite finally breaks the mold, delivering surprisingly competitive performance and a lot fewer compatibility issues for mainstream use"
+      }
+    ],
+    "notes": "CNET did not test X Plus explicitly ('I haven't tested the lower-power Snapdragon X Plus'). Ratings inferred from X Elite OLED anchor; see SHARED-surface-pro.md."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Battery routinely hits a full workday-plus; LCD + X Plus is the endurance pick of the line (BBY 4.63★/99 on the 512GB twin)",
+      "Silent fanless operation — zero noise in office use",
+      "Performance on battery stays near plugged-in levels, unlike x86 convertibles (CNET)",
+      "Kickstand with 155° range and tablet form factor loved for couch/pen use",
+      "Windows Hello face unlock is instant even in the dark (IR camera)"
+    ],
+    "complaints": [
+      "Keyboard sold separately — real laptop price is ~CA$200+ above sticker",
+      "LCD tier is 60Hz and dull next to the OLED sibling; glossy glass reflects everything",
+      "No 3.5mm headphone jack on any Pro 11",
+      "ARM app gaps: some peripherals, plugins and anti-cheat games still don't run",
+      "16GB shared with GPU fills up fast under many browser tabs (CNET: '16GB is not enough')"
+    ]
+  },
+  "design_philosophy": "Microsoft's flagship detachable tablet: fanless ARM silicon for all-day silence and battery, a 3:2 touch/kickstand design that doubles as a pen tablet, with Windows-on-ARM finally reaching mainstream app compatibility. This X Plus LCD tier is the affordable Copilot+ entry — same chassis and NPU as the OLED models, trading display polish and GPU bin for price and endurance.",
+  "ratings": {
+    "battery": 9,
+    "screen_size": 6,
+    "screen_quality": 6.5,
+    "readability_dark": 7,
+    "readability_bright": 6,
+    "ecosystem": 7.5,
+    "gaming": 2.8,
+    "productivity": 6.2,
+    "portability": 9.2,
+    "build_quality": 8.8,
+    "thermals_noise": 7.5,
+    "port_connectivity": 4.5,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 5.5,
+    "webcam_speakers": 7,
+    "upgradability": 5,
+    "ai_ml": 6,
+    "pen_touch": 8.5,
+    "repairability_service": 6,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from CNET 8.3 review of the X Elite 16/1TB OLED config (SHARED-surface-pro.md): LCD 60Hz sRGB vs OLED → screen_quality −2.3, readability_dark −1.5; X Plus lower GPU bin → gaming −0.7, productivity −1.0; LCD + lower TDP → battery +0.5; Signature Keyboard (no pen storage, thinner) → keyboard_trackpad −1.0 vs Flex Keyboard tiers. Replaceable SSD under kickstand lifts upgradability vs fully-soldered rivals.",
+  "inferred_details": "inferred from sibling X Elite OLED review (CNET)"
+}

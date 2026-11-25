@@ -1,0 +1,110 @@
+{
+  "id": "ipad-mini-a17pro-512",
+  "line": "Apple iPad mini (A17 Pro, 7th Gen, 2024)",
+  "config_name": "iPad mini — A17 Pro, 8GB RAM, 512GB, 8.3\" Liquid Retina (no official keyboard; Bluetooth-keyboard-optional)",
+  "tier": "Upper",
+  "category": "tablets-ios-android",
+  "ecosystem": "iPadOS",
+  "form_factor": "tablet",
+  "release": "2024-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple A17 Pro (6-core: 2P+4E)",
+    "cpu_cores": 6,
+    "gpu": "Apple A17 Pro 5-core GPU with hardware ray tracing (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "unified/soldered LPDDR5 (BBY listing-confirmed)",
+    "storage_gb": 512,
+    "storage_type": "NVMe soldered",
+    "screen_size_in": 8.3,
+    "display_type": "Liquid Retina IPS LCD (fully laminated, anti-reflective, no ProMotion)",
+    "resolution": "2266x1488",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.293,
+    "ports": "1x USB-C (USB 3 10Gb/s, DisplayPort) — no Smart Connector",
+    "wireless": "Wi-Fi 6E (2x2), BT 5.3",
+    "webcam": "12MP landscape Ultra Wide front",
+    "speakers": "Landscape stereo (2-speaker)",
+    "keyboard_notes": "NO official Apple keyboard exists for the mini (no Smart Connector). Typing = on-screen or an optional Bluetooth keyboard (~$125 Magic-style case kbd, BBY 19709624 sale) — not priced in",
+    "pen_support": "Apple Pencil Pro +$168.99 (BBY sale) or Pencil USB-C ~$119 — not included; hover supported",
+    "os": "iPadOS (Apple Intelligence supported)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 7,
+    "notes": "19.3Wh cell. Apple claims 10h web/video Wi-Fi; users report ~6-8h mixed real-world use."
+  },
+  "price": {
+    "cad": 1149,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/18902683",
+    "confidence": "estimated",
+    "notes": "NO keyboard priced in: Apple makes no keyboard for the mini (no Smart Connector) — Bluetooth-keyboard-optional (~$125 case keyboard, BBY 19709624). 512GB was $1,149.00 at the 2024 Apple CA launch; no new 512GB stock found at BBY on 2026-11-24 (clearance ran down to 128/256GB first) — price estimated from launch list; treat as best-effort. Discontinued at apple.com/ca. Cellular variants omitted.",
+    "offers": [],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/189/18902/18902683.jpeg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87%",
+        "url": "https://www.notebookcheck.net/Apple-iPad-mini-7-2024-review-This-compact-tablet-continues-to-be-nearly-unrivaled.930558.0.html",
+        "quote": "This compact tablet continues to be nearly unrivaled. Pros: fast SoC, optional lots of memory, Pencil and 5G possible, PWM-free display, compact. Cons: stale display-to-surface ratio, refresh rate only 60 Hz, no high-res audio via Bluetooth, only 12 months warranty."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Half a terabyte turns the mini into a truly offline machine: every game, season of TV, and reference library at 293g (r/ipad)",
+      "A17 Pro + 8GB RAM + Apple Intelligence — full-current features in the pocket format",
+      "Fully laminated 326ppi display remains the best small reading panel anywhere",
+      "USB 3 10Gb/s doubles as a fast archive drive when plugged to a hub for desk sessions",
+      "Clearance-line pricing made even the 512GB far cheaper than any 512GB Android alternative with this silicon"
+    ],
+    "complaints": [
+      "No official keyboard, ever — the top storage tier still can't be a typing machine",
+      "512GB clearance stock is nearly gone at Canadian retail; availability is the real problem with this tier",
+      "60Hz 500-nit LCD at four-figure totals",
+      "Diminishing returns: the extra $400 over 256GB buys capacity, not capability",
+      "iPadOS file management makes a big local library harder to exploit than on a Surface"
+    ]
+  },
+  "design_philosophy": "The max-capacity pocket slate: the tier for users who treat the mini as an all-in-one offline device — full game libraries, media archives, and note bases with no cloud dependency. It also marks the point where the mini's total price approaches the iPad Air line, buying capacity rather than capability.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 4.2,
+    "screen_quality": 7.3,
+    "readability_dark": 5.8,
+    "readability_bright": 7,
+    "ecosystem": 6.5,
+    "gaming": 6.7,
+    "productivity": 4.5,
+    "portability": 10,
+    "build_quality": 9,
+    "thermals_noise": 8.5,
+    "port_connectivity": 4,
+    "creative_work": 6,
+    "keyboard_trackpad": 4,
+    "webcam_speakers": 7,
+    "upgradability": 1,
+    "ai_ml": 6,
+    "pen_touch": 8.8,
+    "repairability_service": 5,
+    "durability": 8
+  },
+  "rating_notes": "Pro score attached from NBC review of this exact model (gap-fill 2026-11-24). Ratings inferred from the 128GB Wi-Fi line anchor (SHARED-ipad-mini.md): +0.5 gaming and +0.5 creative_work for 512GB headroom. Price estimated (launch list; no current 512GB BBY stock found 2026-11-24) — confidence estimated. No verbatim pro score found (NBC review exists but bot-walled; disclosed, none invented). keyboard_trackpad 4.0 = no official keyboard per task rule. Image URL is BBY CDN closest-SKU guess (18902683, 128GB same-line image).",
+  "standouts": [
+    "512GB at 293g: the ultimate offline pocket library",
+    "Full Apple Intelligence + ray-traced gaming in the smallest chassis"
+  ],
+  "dealbreakers": [
+    "Zero official keyboard path",
+    "Canadian new stock of this tier is nearly exhausted — at its price the new A20 Pro mini is the fresher buy"
+  ]
+}

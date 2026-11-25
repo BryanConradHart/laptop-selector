@@ -1,0 +1,109 @@
+{
+  "id": "xps13-u7-32-1tb",
+  "line": "Dell XPS 13 (2026, DX13260)",
+  "config_name": "XPS 13 — Core Ultra 7 355, 32GB LPDDR5X, 1TB SSD, 13.4\" 2.5K touch 120Hz (Storm)",
+  "tier": "High",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 355 (Series 3 Panther Lake, 8-core, up to 4.7 GHz)",
+    "cpu_cores": 8,
+    "gpu": "Intel Graphics (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe SSD",
+    "screen_size_in": 13.4,
+    "display_type": "IPS touch, 2.5K, 30-120Hz, 500 nits, InfinityEdge",
+    "resolution": "2560x1600",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1,
+    "ports": "2x Thunderbolt 4 (USB-C), 3.5mm",
+    "wireless": "Wi-Fi 7, BT",
+    "webcam": "FHD webcam",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit keyboard, zero-lattice edge-to-edge design",
+    "pen_support": "touch (no pen)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 17,
+    "real_world_hours": 11.5,
+    "notes": "Same 70Wh-class platform as mid tier; ~10-13h light use estimated."
+  },
+  "price": {
+    "cad": 2300,
+    "currency": "CAD",
+    "store": "dell.ca",
+    "store_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps13dx13260",
+    "confidence": "verified",
+    "notes": "VERIFIED dell.ca 2026-11-24: CAD $2,299.99 (est. value $3,099.99, save $800).",
+    "offers": [
+      {
+        "store": "dell.ca",
+        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps13dx13260",
+        "cad": 2300,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps13dx13260"
+  },
+  "image_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-dx13260/media-gallery/sky/laptop-xps-13-sky-dx13260-silver-gallery-1.psd?fmt=png-alpha",
+  "professional": {
+    "avg_score": 8,
+    "reviews": [
+      {
+        "outlet": "CNET (XPS 14 2026 line anchor)",
+        "score": "8.1/10",
+        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps13dx13260",
+        "quote": "It's great to see Dell bring back the XPS and do so with such style."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "32GB in a 1 kg chassis is nearly unique — this is the road-warrior config that actually survives 2026 Chrome-tab loads",
+      "$800 off est. value at Black Friday softens Dell's usual config tax",
+      "120Hz 2.5K touch panel stays smooth and bright (500 nits) outdoors",
+      "Copilot+ NPU handles local AI features without a dGPU",
+      "Owners repeatedly praise fast boot times and quiet, efficient cooling (dell.ca review summary)"
+    ],
+    "complaints": [
+      "Even at $2,300 you get the same 2-speaker, 2-port package — the money buys RAM, not features",
+      "Soldered everything; at this price buyers expect at least a replaceable SSD",
+      "No fingerprint reader (line-wide omission)",
+      "Some owners report keyboard feel problems and occasional hardware faults (dell.ca review summary)",
+      "Steep $650 premium over the 16GB/512GB tier for modest real-world gains"
+    ]
+  },
+  "design_philosophy": "The max-memory XPS 13 tier proves the chassis concept: Dell's thinnest, lightest premium laptop configured for people who refuse to carry weight but refuse 16GB. It trades any thermal headroom for RAM density.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 5.5,
+    "screen_quality": 8,
+    "readability_dark": 7,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 3.2,
+    "productivity": 7.5,
+    "portability": 10,
+    "build_quality": 9,
+    "thermals_noise": 8,
+    "port_connectivity": 5,
+    "creative_work": 4,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 2,
+    "ai_ml": 6,
+    "pen_touch": 6,
+    "repairability_service": 4,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from CNET XPS 14 (2026) 8.1 anchor + dell.ca specs. +0.5 productivity vs 16GB tier for 32GB headroom (per SCHEMA 'more RAM → productivity +0.5')."
+}

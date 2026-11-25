@@ -1,0 +1,110 @@
+{
+  "id": "xps16ce-n1x-64-1tb",
+  "line": "Dell XPS 16 Creator Edition (2026, DX16263)",
+  "config_name": "XPS 16 Creator Edition — RTX Spark N1X (20-core) + RTX 6144-core GPU, 64GB, 1TB, 16\" 3.2K OLED touch",
+  "tier": "Top",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "NVIDIA RTX Spark N1X (20-core Arm CPU, up to 4.0 GHz)",
+    "cpu_cores": 20,
+    "gpu": "NVIDIA Blackwell RTX 6144-core GPU (SoC-integrated)",
+    "gpu_type": "integrated (SoC, RTX-class)",
+    "ram_gb": 64,
+    "ram_type": "LPDDR5X soldered, up to 9400 MT/s",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe Gen4 SSD",
+    "screen_size_in": 16,
+    "display_type": "OLED touch, 3.2K (3200x2000), 20-120Hz, 1000-nit peak",
+    "resolution": "3200x2000",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 1000,
+    "weight_kg": 2.1,
+    "ports": "3x USB4 Type-C (DP 2.1, PD), HDMI 2.1b, headset jack",
+    "wireless": "Wi-Fi 7, BT",
+    "webcam": "FHD webcam",
+    "speakers": "multi-speaker",
+    "keyboard_notes": "Backlit keyboard",
+    "pen_support": "touch (no pen)",
+    "os": "Windows 11 Home (Arm), Copilot+ PC",
+    "card_reader": "1x SDXC"
+  },
+  "battery": {
+    "claimed_hours": 15,
+    "real_world_hours": 9,
+    "notes": "Estimated; RTX Spark platform battery criticised in press, no verified CA figure."
+  },
+  "price": {
+    "cad": 5800,
+    "currency": "CAD",
+    "store": "dell.ca",
+    "store_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16dx16263",
+    "confidence": "verified",
+    "notes": "VERIFIED dell.ca 2026-11-24: CAD $5,799.99 (est. value $6,599.99, $800 off). A 128GB/2TB tier exists at $8,899.99 (omitted).",
+    "offers": [
+      {
+        "store": "dell.ca",
+        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16dx16263",
+        "cad": 5800,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16dx16263"
+  },
+  "image_url": "https://i.dell.com/assetlink/img/global/laptop-xps-dx16263-gy-gallery-1-dl12v3lo-large.png?fmt=png-alpha",
+  "professional": {
+    "avg_score": 7.8,
+    "reviews": [
+      {
+        "outlet": "TechRadar (RTX Spark platform)",
+        "score": "mixed",
+        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16dx16263",
+        "quote": "isn't the MacBook Pro killer I hoped for"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "64GB unified memory + RTX 6144-core GPU is the best out-of-the-box local-LLM laptop in Dell's entire consumer range",
+      "Runs 70B-class quantized models locally that 32GB machines cannot load",
+      "SDXC + HDMI 2.1b + USB4 covers creator I/O natively",
+      "3.2K OLED 1000-nit touch panel doubles as a calibrated-grade reference display",
+      "$1,000 below the 128GB tier, which most buyers do not need"
+    ],
+    "complaints": [
+      "Arm Windows translation caveats remain for pro audio plugins and anti-cheat games despite the powerful GPU",
+      "$5,800 puts it against MacBook Pro 14 M-series Max with stronger battery",
+      "Press consensus on the RTX Spark platform is mixed on battery life",
+      "~2.1 kg / 17.8 mm — heavier than the standard XPS 16 OLED",
+      "Soldered memory: paying $1,000 for the 64GB you cannot later add"
+    ]
+  },
+  "design_philosophy": "The memory-max Creator Edition: Dell's flagship statement that a Windows creator laptop should unify CPU, RTX GPU, and large memory pool in one thin chassis for on-device AI. Aimed at developers and AI tinkerers who want CUDA locally without a workstation.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 8.5,
+    "screen_quality": 9,
+    "readability_dark": 9.5,
+    "readability_bright": 7,
+    "ecosystem": 7.5,
+    "gaming": 7.5,
+    "productivity": 9.5,
+    "portability": 7,
+    "build_quality": 9,
+    "thermals_noise": 7,
+    "port_connectivity": 8.5,
+    "creative_work": 8.5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6.5,
+    "upgradability": 2,
+    "ai_ml": 9.5,
+    "pen_touch": 6,
+    "repairability_service": 4,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from sibling 32GB Creator Edition (entry 52) + CNET XPS 16 chassis anchor: 64GB unified memory → ai_ml +0.5 (9.5), productivity +0.5 (9.5). Arm ecosystem caveat 7.5 per NOTES calibration. Battery/weight estimated."
+}

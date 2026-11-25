@@ -1,0 +1,117 @@
+{
+  "id": "legion7i-g10-16-255hx-5060-32-1tb",
+  "line": "Lenovo Legion 7i Gen 10 (2025, 16\" 16IAX10 Aura Edition)",
+  "config_name": "Legion 7i 16 Gen 10 — Core Ultra 7 255HX / RTX 5060 8GB (115W), 32GB DDR5, 1TB SSD, 16\" 2.5K OLED 165Hz, Glacier White",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-10",
+  "inferred": false,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 255HX (Arrow Lake-HX, 20c/20t)",
+    "cpu_cores": 20,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7 (115W TGP, Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600 (SODIMM, upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe WD PC SN7100S (M.2, upgradeable)",
+    "screen_size_in": 16,
+    "display_type": "OLED glossy (Samsung ATNA60HS01-0, G-Sync/Adaptive Sync, HDR)",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 483,
+    "brightness_hdr_nits": 900,
+    "weight_kg": 1.98,
+    "ports": "1x TB4 USB-C (DP2.1, PD 100W), 1x USB-C 3.2 Gen2 (DP/PD), 2x USB-A 3.2, HDMI 2.1, SD reader, 3.5mm",
+    "wireless": "Wi-Fi 7 (MediaTek MT7925), BT 5.4",
+    "webcam": "5MP 1440p30 + electronic privacy switch",
+    "speakers": "2x 2W stereo",
+    "keyboard_notes": "Legion TrueStrike backlit chiclet; comfortable per NBC; non-removable power-button glow",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 4.7,
+    "notes": "84 Wh. NBC WiFi browsing test: 4h40m (vs 7+h on Alienware 16 Aurora/Gigabyte A16). Full charge <90 min; 245W adapter or 100W USB-C PD."
+  },
+  "price": {
+    "cad": 3499.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/lenovo-legion-7i-16-gaming-laptop-glacier-white-intel-core-ultra-7-255hx-32gb-ram-1tb-ssd-geforce-rtx-5060-win-11/19784199",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24, sku 19784199: $3,499.99 sale / $3,999.99 regular. BBY customer rating 3.67/5 (n=3).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/lenovo-legion-7i-16-gaming-laptop-glacier-white-intel-core-ultra-7-255hx-32gb-ram-1tb-ssd-geforce-rtx-5060-win-11/19784199",
+        "cad": 3499.99,
+        "est": false,
+        "name": "Lenovo Legion 7i 16\" Gaming Laptop -Glacier White (Intel Core Ultra 7 255HX/32GB RAM/1TB SSD/GeForce RTX 5060/Win 11)"
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/legion-laptops/legion-7-series/lenovo-legion-7i-gen-10-16-inch-intel/len101g0044"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19784/19784199.jpg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87%",
+        "url": "https://www.notebookcheck.net/Lenovo-Legion-7-16IAX10-review-Formidable-Razer-Blade-16-competitor.1122108.0.html",
+        "quote": "It's one of the lightest and fastest gaming laptops we've tested with the same RTX 5060 GPU due to its high 115 W TGP target. ... Core temperatures are relatively high, battery life is average at best, and loud fans are unavoidable if playing on Performance mode."
+      },
+      {
+        "outlet": "Notebookcheck (follow-up benchmarks)",
+        "score": "87% (same review)",
+        "url": "https://www.notebookcheck.net/Lenovo-Legion-7i-16-Gen-10-outperforms-most-other-ultrathin-laptops-with-similar-RTX-5060-graphics.1130255.0.html",
+        "quote": "The new Legion 7 16IAX10 with Core Ultra 7 255HX CPU and GeForce RTX 5060 graphics is almost consistently faster than most other laptops with the same GPU in our database sometimes by up to 20 percent."
+      }
+    ],
+    "note": "NBC tested this exact configuration (255HX/RTX 5060/32GB/1TB/165Hz OLED). RTINGS has no Legion 7i Gen 10 review (404) — not cited."
+  },
+  "user_sentiment": {
+    "praises": [
+      "~2 kg / 17.9 mm for a 16-inch OLED gaming laptop — genuinely portable; called a 'finely-tuned' and cheaper Razer Blade 16 alternative",
+      "RTX 5060 runs at full 115 W with the fast HX CPU, beating most other 5060 laptops by up to 20% in games (NBC game benchmarks)",
+      "Comfortable TrueStrike keyboard and large clickpad; matte Glacier White finish resists fingerprints",
+      "Fast charging (<90 min) plus 100 W USB-C PD over Thunderbolt 4 — can run off a small GaN charger away from gaming",
+      "Fast SD card reader (234 MB/s), 5MP webcam with hardware kill switch, and inky OLED with 0.6 ms response praised for creator/travel hybrid use"
+    ],
+    "complaints": [
+      "Battery only ~4h40m WiFi browsing — far below 16-inch rivals (7+h); high iGPU idle draw (9.4-10.6 W) drains it even doing nothing",
+      "Fans pulse audibly (~30 dB) during simple web browsing on Balanced mode; 54.6 dB in Performance mode gaming",
+      "Glossy OLED is mandatory — reflections in bright rooms; bright power-button glow cannot be disabled (NBC)",
+      "Speakers (2x2W) are quiet and thin for a 16-inch chassis",
+      "CPU hits 105°C briefly under heavy load (light cooling at its limits with Arrow Lake-HX); white paint shows scratches more readily than dark chassis, and Legion-line threads report warranty repair friction plus occasional fan-bearing noise"
+    ]
+  },
+  "design_philosophy": "The Legion 7i Gen 10 is Lenovo's slim-and-light gaming flagship: an Arrow Lake-HX CPU and up to 100% color-gamut OLED in a sub-2 kg aluminum chassis, trading top-tier GPU options (capped at RTX 5070) for portability. This config pairs the Ultra 7 255HX with a full-power 115 W RTX 5060 — the sweet spot NBC calls a lighter, cheaper Razer Blade 16 alternative. It maximizes performance-per-gram at the cost of battery life and fan noise, targeting gamers who travel.",
+  "ratings": {
+    "battery": 4,
+    "screen_size": 7.5,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 6.8,
+    "productivity": 8.5,
+    "portability": 8,
+    "build_quality": 8.5,
+    "thermals_noise": 5.8,
+    "port_connectivity": 7,
+    "creative_work": 7.8,
+    "keyboard_trackpad": 8.5,
+    "webcam_speakers": 6.5,
+    "upgradability": 7,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 7
+  },
+  "rating_notes": "NBC-tested config, ratings anchored directly (87%). Battery 4.0 per measured 4h40m WiFi (matches Legion Pro 7i calibration despite lighter chassis — HX+iGPU drain). Gaming 6.8: strong-for-class 115W RTX 5060 (up to 20% above 5060 average) but 8GB VRAM limits AAA at QHD (CP2077 QHD 59 fps, Alan Wake 2 QHD 37 fps). Portability 8.0 exceptional for 16\" (1.98 kg/17.9 mm). Readability_bright docked for mandatory glossy panel; readability_dark boosted by OLED perfect blacks (min 4.6 nits). Thermals_noise 5.8: 54.6 dB Performance-mode fans, 105°C transient CPU spikes. Upgradability 7.0: SODIMM RAM + M.2 user-serviceable, no RAM info from Lenovo but verified dual-channel SODIMM per NBC teardown of WLAN/RAM access. ai_ml 6.0: CUDA + 8GB VRAM (limited for LLMs), NPU modest. repairability_service 6.5 tempered ~1pt per SHARED calibration (Legion-line warranty friction, BBY rating 3.67/5 vs pro 87%). Only 16\" exists for this line — no 14\" Legion 7i Gen 10. Image URL is BBY product CDN for this exact SKU."
+}

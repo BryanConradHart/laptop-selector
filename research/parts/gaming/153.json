@@ -1,0 +1,110 @@
+{
+  "id": "gigabyte-a16-pro-core7-240h-5070ti-32-1tb-dock",
+  "line": "Gigabyte A16 Pro (2025)",
+  "config_name": "Gigabyte A16 Pro — Core 7 240H / RTX 5070 Ti, 32GB RAM, 1TB SSD (+1TB drive dock bundle)",
+  "tier": "Upper",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-09",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 7 240H (Raptor Lake-H refresh, 10-core est.)",
+    "cpu_cores": 10,
+    "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop 12GB GDDR7 (~100W TGP est.)",
+    "gpu_type": "dedicated",
+    "ram_gb": 32,
+    "ram_type": "DDR5 SO-DIMM (2 slots, upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (2 slots est.)",
+    "screen_size_in": 16,
+    "display_type": "Matte IPS",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 350,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.3,
+    "ports": "1x USB-C, 2x USB-A, HDMI, gigabit Ethernet, 3.5mm (Thunderbolt/USB4 not confirmed)",
+    "wireless": "Wi-Fi 6E est., BT 5.2",
+    "webcam": "FHD 1080p",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Chiclet, backlit",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 6,
+    "notes": "~76Wh est. (A16 chassis); higher-TGP 5070 Ti trims runtime vs 5070 tier."
+  },
+  "price": {
+    "cad": 2979,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/p/20206315",
+    "confidence": "verified",
+    "notes": "BBY API-verified 2026-11-24, SKU 20206315 reg $4,259 / sale $2,979. Marketplace DOCK-BUNDLE SET (laptop + 1TB portable drive/dock) — set pricing, fulfillment/return-policy risk; twin SKU 20206299 at $4,119/$2,879. 'Reg' anchor is marketplace-inflated.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/p/20206315",
+        "cad": 2979,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20206/20206315.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "RTX 5070 Ti + 12GB VRAM at ~$2,979 sale is one of the cheapest 5070 Ti prices in Canada",
+      "Bundle includes an extra 1TB drive/dock (set value)",
+      "A16 chassis is upgradeable: SO-DIMM RAM + dual M.2 (platform trait from reviewed Gaming A16)",
+      "WQXGA 165Hz matte panel suits both gaming and productivity",
+      "Consistent sustained performance is the line's known trait (NBC on Gaming A16 platform)"
+    ],
+    "complaints": [
+      "No professional review of the A16 Pro exists — specs (CPU cores, TGP, ports) are partly unverified",
+      "Marketplace dock-bundle: inflated 'regular' price anchor and third-party return policy",
+      "Core 7 240H is a re-badged older Raptor Lake refresh, not current-gen silicon",
+      "Loud fan under load expected from the A16 chassis (NBC platform con)",
+      "Plastic chassis at a $4,259 anchor price feels cheap if bought off-sale"
+    ]
+  },
+  "design_philosophy": "The A16 Pro is the upper trim of Gigabyte's value Gaming A16 platform: same understated 16-inch chassis, upgraded to a stronger RTX 5070 Ti GPU and WQXGA panel, sold in Canada mainly as marketplace dock-bundle sets at deep Black Friday discounts. It chases maximum GPU-tier-per-dollar over premium materials.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 7.5,
+    "screen_quality": 6.5,
+    "readability_dark": 5.5,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 8,
+    "productivity": 7,
+    "portability": 6.5,
+    "build_quality": 6,
+    "thermals_noise": 5.5,
+    "port_connectivity": 6,
+    "creative_work": 7,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 6,
+    "upgradability": 8.5,
+    "ai_ml": 6.5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 6
+  },
+  "rating_notes": "No pro numeric score found for the A16 Pro (avg_score null, reviews empty — honest disclosure). Ratings inferred from NBC's Gaming A16 GA6H review (80%) with deltas: RTX 5070 Ti 12GB vs 5070 8GB -> gaming +1.0, creative_work +1.0, ai_ml +1.0, battery -0.5; WQXGA panel -> screen_quality +0.0 vs anchor. CPU (Core 7 240H) treated as i7-13620H-class. CPU/TGP/ports partly estimated and disclosed.",
+  "standouts": [
+    "Cheapest RTX 5070 Ti laptop price found at BBY CA ($2,979 sale)",
+    "Dock/drive bundle sweetens the set price"
+  ],
+  "dealbreakers": [
+    "Marketplace dock-bundle: third-party fulfillment and inflated price anchor",
+    "No professional review of this exact line — specs partly unverified"
+  ]
+}

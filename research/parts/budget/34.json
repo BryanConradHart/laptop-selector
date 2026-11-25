@@ -1,0 +1,106 @@
+{
+  "id": "hp-chromebook-plus-flip-14-n355",
+  "line": "HP Chromebook Plus x360 Flip 14 (2025)",
+  "config_name": "HP Chromebook Plus Flip 14\" 2-in-1 — Core 3 N355, 8GB RAM, 512GB SSD, 14\" 2K WUXGA touch",
+  "tier": "Mid",
+  "category": "budget",
+  "ecosystem": "ChromeOS",
+  "form_factor": "convertible",
+  "release": "2025-07",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 3 N355 (8-core: 4P+4E, Alder Lake-N refresh, up to 3.9 GHz)",
+    "cpu_cores": 8,
+    "gpu": "Intel UHD Graphics (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "soldered LPDDR",
+    "storage_gb": 512,
+    "storage_type": "NVMe M.2 (serviceable per HP service manual)",
+    "screen_size_in": 14,
+    "display_type": "2K WUXGA (1920x1200) IPS touch, 360° flip hinge",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.6,
+    "ports": "2x USB-C, 2x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "5MP webcam with privacy shutter (HP Plus spec)",
+    "speakers": "2x stereo, quad-ish HP Audio",
+    "keyboard_notes": "Bilingual CA chiclet, spill-resistant HP keyboard",
+    "pen_support": "touch (active pen not bundled)",
+    "os": "ChromeOS (Chromebook Plus, ~10-year automatic updates)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 8.5,
+    "notes": "N355 + ChromeOS + larger battery: ~8-9h real web use; convertible hinge doesn't change efficiency."
+  },
+  "price": {
+    "cad": 649.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19817309",
+    "confidence": "verified",
+    "notes": "Regular $899.99; sale $649.99 (BBY-verified 2026-11-24, SKU 19817309).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19817309",
+        "cad": 649.99,
+        "est": false,
+        "name": "HP Chromebook Plus Flip 14\" 2K WUXGA Touchsceen Laptop - Intel Core 3 N355 - 8GB LPDDR5 - 512GB SSD - Intel Graphics - Meteor Silver - Chromebook Plus - includes 12 month of Google AI Pro"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19817/19817309.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "360° flip hinge + touch at $649.99 — the cheapest real convertible Chromebook Plus in CA retail",
+      "512GB SSD is the most storage on any N355 Chromebook listed, and NVMe (not eMMC)",
+      "2K WUXGA 16:10 touch panel is sharper and taller than the 16:9 FHD rivals",
+      "5MP webcam is far ahead of the 720p/1080p cams elsewhere in the class",
+      "HP's spill-resistant keyboard and convertible build suit classrooms and kitchens"
+    ],
+    "complaints": [
+      "No active pen support despite being a flip — tablet mode is finger-only",
+      "N355 is the same web-class CPU as the $450 Lenovo; you pay for the hinge, not speed",
+      "Convertibles flex more at the hinge than clamshells in this price class",
+      "$899.99 regular is bad value; only the $649.99 sale is competitive",
+      "ChromeOS tablet mode is shallow — few Android apps use the touch form factor well"
+    ]
+  },
+  "standouts": [
+    "Best convertible value in the inventory: 512GB NVMe + 2K touch + 5MP cam + flip hinge at $649.99 sale"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "HP's Flip applies the Chromebook Plus formula to the 2-in-1 form: a 360° hinge and touch layer turn the same efficient N355 platform into a tablet/kiosk/stand machine, and HP loads this tier with the practical extras (512GB NVMe, 5MP camera, spill-resistant deck) that families actually use. The convertible is the one hardware dimension a Chromebook can gain without needing desktop apps.",
+  "ratings": {
+    "battery": 7.8,
+    "screen_size": 6,
+    "screen_quality": 5.5,
+    "readability_dark": 4.3,
+    "readability_bright": 4,
+    "ecosystem": 5,
+    "gaming": 1.2,
+    "productivity": 5.6,
+    "portability": 6.8,
+    "build_quality": 6.2,
+    "thermals_noise": 8,
+    "port_connectivity": 6,
+    "creative_work": 2.2,
+    "keyboard_trackpad": 6.2,
+    "webcam_speakers": 7,
+    "upgradability": 3,
+    "ai_ml": 1.5,
+    "pen_touch": 6,
+    "repairability_service": 5.5,
+    "durability": 6
+  },
+  "rating_notes": "No pro score found (outlets bot-walled; see SHARED-chromebooks.md). Inferred from Chromebook Plus anchor (29.json) — same N355/8GB core: 2K WUXGA touch → screen_quality +1.0; 5MP cam → webcam +1.5; 512GB NVMe → productivity +0.2, upgradability +0.5 (HP service manuals list M.2); convertible + touch → pen_touch 6.0 (no active pen, tablet mode capped); slightly heavier → portability -0.7. Image URL best-guess BBY CDN pattern."
+}

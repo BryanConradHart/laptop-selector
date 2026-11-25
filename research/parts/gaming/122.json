@@ -1,0 +1,117 @@
+{
+  "id": "pred-helios-neo18-275hx-5070-32-1tb",
+  "line": "Acer Predator Helios Neo 18 (2025, PHN18-72)",
+  "config_name": "Predator Helios Neo 18 — Ultra 9 275HX / RTX 5070 8GB, 32GB DDR5, 1TB SSD, 18\" WQXGA IPS 240Hz",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7 (Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5 SODIMM (upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (upgradeable)",
+    "screen_size_in": 18,
+    "display_type": "IPS matte, non-touch",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 350,
+    "brightness_hdr_nits": null,
+    "weight_kg": 3.49,
+    "ports": "3x USB-A, 2x USB-C (incl. USB4/TB4), HDMI, RJ-45, 3.5mm, SD",
+    "wireless": "Wi-Fi 6E/7 (Killer), BT 5.3-5.4",
+    "webcam": "FHD 1080p",
+    "speakers": "Stereo",
+    "keyboard_notes": "Chiclet, RGB backlight, numeric keypad",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 4.3,
+    "notes": "99 Wh but 18\" panel + HX silicon; expect ~4-5h light use, worse under load."
+  },
+  "price": {
+    "cad": 3239.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca (marketplace)",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20122654",
+    "confidence": "verified",
+    "notes": "BBY CA verified 2026-11-24: reg $4,039.99, sale $3,239.99 (marketplace seller — fulfillment/return-policy risk).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20122654",
+        "cad": 3239.99,
+        "est": false,
+        "name": "Acer Predator Helios Neo 18\" 240Hz (Intel Ultra 9-275HX/32GB RAM/1.0TB SSD/RTX5070/Win11) - Brand New"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20122/20122654.jpeg",
+  "professional": {
+    "avg_score": 7.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (model-page aggregate, sibling PHN16-73)",
+        "score": "76%",
+        "url": "https://www.notebookcheck.net/Acer-Predator-Helios-Neo-16-AI-PHN16-73.1171432.0.html",
+        "quote": "Aggregated scoring places it at around 76% overall, indicating a solid but not flawless package."
+      },
+      {
+        "outlet": "Tom's Guide (sibling Neo 16 AI)",
+        "score": "no numeric score found",
+        "url": "https://www.tomsguide.com/computing/gaming-laptops/acer-predator-helios-neo-16-ai-review",
+        "quote": "An ineffective cooling system, slow SSD hampered by bloatware, bulky design, and short battery life make the Neo 16 AI a hard sell."
+      }
+    ],
+    "note": "No dedicated pro review found for the Neo 18 non-AI PHN18-72; ratings inferred from the NBC-reviewed PHN16-73 Neo platform (same CPU/GPU stack, larger chassis). Honest null — no numeric score exists for this exact config."
+  },
+  "user_sentiment": {
+    "praises": [
+      "18\" 240Hz screen at ~$3,240 sale is one of the cheapest big-screen 5070 laptops in Canada",
+      "24-core Ultra 9 275HX is a workstation-class CPU at a gaming price",
+      "Roomy chassis runs the 5070 cool and quiet in Performance mode (Neo platform pattern)",
+      "Full numeric keypad + wide deck — comfortable for long sessions",
+      "USB4/TB4, SD reader and RJ-45; RAM/storage user-upgradeable"
+    ],
+    "complaints": [
+      "3.5 kg + 400W-class brick: this is a desktop replacement, not a laptop you carry",
+      "RTX 5070's 8GB VRAM is the weak link vs 12GB 5070 Ti at similar street prices",
+      "Matte IPS panel is average — mediocre brightness and contrast next to OLED rivals",
+      "Acer bloatware and PredatorSense quirks on first boot (line-wide complaint)",
+      "Short battery life; 18\" HX machines realistically live plugged in"
+    ]
+  },
+  "design_philosophy": "The Neo 18 stretches the Neo 16 formula to 18 inches: same flagship CPU and mid-tier GPUs in a desktop-replacement chassis where cooling headroom and screen real estate replace portability. This 5070/32GB tier is the value entry to big-screen Predator gaming — you buy it for the 18\" 240Hz canvas and the 24-core CPU, accepting the 8GB-VRAM GPU.",
+  "ratings": {
+    "battery": 4.3,
+    "screen_size": 9,
+    "screen_quality": 6,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 7.3,
+    "productivity": 8,
+    "portability": 2.5,
+    "build_quality": 7,
+    "thermals_noise": 6,
+    "port_connectivity": 8,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 5,
+    "upgradability": 7.5,
+    "ai_ml": 5.4,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Inferred from NBC 76% PHN16-73 anchor per SHARED-predator.md 18\" deltas: screen_size +1.5, portability -1.5 (3.5 kg), thermals +0.5 (bigger chassis cooling), gaming -1.0 for RTX 5070 vs 5070 Ti, matte-IPS display deltas as in 120.json. No dedicated pro review of PHN18-72 found — disclosed honest null. BBY 0-rating listing; sentiment review-grounded."
+}

@@ -1,0 +1,110 @@
+{
+  "id": "omen16-5060-core7-240h-16-1tb-fhd144",
+  "line": "HP OMEN 16 (2025, mainstream non-Max)",
+  "config_name": "OMEN 16 — Intel Core 7 240H, RTX 5060 Laptop 8GB, 16GB DDR5, 1TB SSD, 16\" WUXGA 144Hz",
+  "tier": "Entry",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 7 240H (Arrow Lake-H, 8-core: 4P+4E)",
+    "cpu_cores": 8,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7 (Advanced Optimus, ~115W)",
+    "gpu_type": "discrete",
+    "ram_gb": 16,
+    "ram_type": "DDR5 SODIMM (2 slots, user-upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe Gen4",
+    "screen_size_in": 16,
+    "display_type": "IPS, anti-glare, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 144,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": 0,
+    "weight_kg": 2.4,
+    "ports": "1x USB-C 10Gbps (DP), 2x USB-A, HDMI 2.1, Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "1080p with shutter",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Full-size with numpad, 4-zone RGB",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 4.5,
+    "notes": "~83Wh chassis. OMEN-line users report ~4-5h light use; OMEN Max pro WiFi 5h50 but users ~2h worse on mixed use (SHARED-omen16.md)."
+  },
+  "price": {
+    "cad": 1799.97,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19320069",
+    "confidence": "verified",
+    "notes": "BBY sku 19320069, $1,799.97 verified 2026-11-24 (direct-sold, no marketplace markup). BBY customer pool 4.21/5, n=75.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19320069",
+        "cad": 1799.97,
+        "est": false,
+        "name": "HP OMEN 16\" 144Hz Gaming Laptop - Intel Core 7 240H - 16GB DDR5 - 1TB SSD - GeForce RTX 5060 - Windows 11 Home - Shadow Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/193/19320/19320069.jpg",
+  "professional": {
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "83%",
+        "url": "https://www.notebookcheck.net/The-best-budget-gamer-HP-Omen-16-laptop-review.1135455.0.html",
+        "quote": "The best budget gamer? Pros: clean, cohesive design; solid keyboard and touchpad; excellent CPU/GPU performance; cool surface temperatures even under load. Cons: fingerprint-prone surfaces; no USB 4, Thunderbolt, or SD reader; only Wi-Fi 6; subpar display with slow response times; ad-bloated control center; single-channel RAM; relatively small battery."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest RTX 50-series OMEN in Canada: 5060 + DLSS 4 for 1080p-ultra gaming under $1,800 (BBY pool 4.21/5, n=75)",
+      "Quiet and cool in everyday use — fans barely audible for browsing and video (recurring BBY theme)",
+      "Socketed DDR5 and standard M.2: cheap to add RAM/storage yourself, unlike soldered rivals",
+      "Full-size numpad keyboard with 4-zone RGB praised for feel on this price tier",
+      "1080p webcam with physical shutter — better than the 720p cams on cheaper rivals"
+    ],
+    "complaints": [
+      "Battery ~4h in mixed use — mediocre for an 83Wh cell (recurring BBY/OMEN-line complaint)",
+      "Mostly plastic deck with noticeable flex near the vents; Max sibling is aluminum",
+      "Base WUXGA 144Hz IPS is dim (~300 nits) with washed-out off-axis viewing",
+      "HP bloat out of the box: OMEN Hub nags and McAfee trial (OMEN-line-wide complaint)",
+      "No Thunderbolt on this tier and only one USB-C — dock options limited vs Max"
+    ]
+  },
+  "design_philosophy": "The OMEN 16 is HP's mainstream 16-inch gaming value line: last-gen-class CPUs and plastic-heavy chassis traded for current RTX 50-series GPUs at aggressive big-box prices. This entry tier pairs the RTX 5060 with an Arrow Lake-H Core 7 to hit sub-$1,800, betting that gamers care more about GPU generation than CPU pedigree or premium materials.",
+  "ratings": {
+    "battery": 5,
+    "screen_size": 8,
+    "screen_quality": 5.5,
+    "readability_dark": 5.5,
+    "readability_bright": 5,
+    "ecosystem": 9.5,
+    "gaming": 5.5,
+    "productivity": 6.5,
+    "portability": 4.5,
+    "build_quality": 6,
+    "thermals_noise": 7,
+    "port_connectivity": 6,
+    "creative_work": 5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 5.5,
+    "upgradability": 8,
+    "ai_ml": 5,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6
+  },
+  "rating_notes": "Pro score attached from NBC OMEN 16 2025 review (83%, gap-fill 2026-11-24); WQXGA tiers may differ from the reviewed panel. No numeric pro score found for the 2025 mainstream OMEN 16 (RTINGS slug 404, NBC bot-walled, search engines CAPTCHA'd — see SHARED-omen16.md; nothing fabricated). Ratings inferred from the NBC-reviewed OMEN Max 16 sibling (SHARED-omen-max16.md) with mainstream-chassis deltas: build −1.5 (plastic vs aluminum), port_connectivity −1.5 (no TB4/2.5G-Ethernet), portability +1.5 (2.4 kg vs 2.81), thermals +1 (milder CPU). GPU 5060 = gaming 5.5 per Max SHARED delta (−4.5 from 5090 anchor, floored at line-consistent 5.5 like OMEN 17 5060 tier)."
+}

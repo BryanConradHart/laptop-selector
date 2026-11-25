@@ -1,0 +1,104 @@
+{
+  "id": "lg-gram-book-16-ryzen-ai-7-445",
+  "line": "LG gram Book 16 (AMD, value line)",
+  "config_name": "LG gram Book 16 — Ryzen AI 7 445, Radeon 720M, 16GB LPDDR5X, 2TB, 16\" WUXGA touch",
+  "tier": "Entry",
+  "category": "ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 7 445",
+    "cpu_cores": 8,
+    "gpu": "Radeon 720M integrated (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 2000,
+    "storage_type": "NVMe",
+    "screen_size_in": 16,
+    "display_type": "IPS touch, WUXGA 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 250,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.7,
+    "ports": "USB-C, 2x USB-A, HDMI, microSD, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "FHD IR",
+    "speakers": "stereo",
+    "keyboard_notes": "backlit, numeric keypad",
+    "pen_support": "touch only",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 15,
+    "real_world_hours": 9.5,
+    "notes": "Zen5 AI 445 is efficient; estimated 9-10h light use."
+  },
+  "price": {
+    "cad": 1799,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19997977",
+    "confidence": "verified",
+    "notes": "Reg $2,249 / sale $1,799 (BBY-verified 2026-11-24). Only AMD gram at CA retail; 2TB storage at this price is the standout. SKU 19997977.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19997977",
+        "cad": 1799,
+        "est": false,
+        "name": "LG Gram Book 16\" WUXGA Touchscreen AI Laptop - Titan Black (AMD Ryzen AI 7 445/ 16GB LPDDR5X RAM/ 2TB SSD/ AMD Radeon Graphics/ Backlit Keyboard/ Numeric Keypad/ Win 11)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19997/19997977.png",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "gram Book line not covered by major pro outlets; no review retrieved (see SHARED-lg-gram.md)."
+  },
+  "user_sentiment": {
+    "praises": [
+      "2TB of storage at $1,799 sale — the biggest SSD per dollar anywhere in the gram range",
+      "Ryzen AI 7 445 runs cool and quiet while beating Intel U-series in multi-core office work",
+      "Copilot+ NPU (50 TOPS) at a value-line price",
+      "16-inch 16:10 touch screen with numeric keypad in a light chassis (~1.7 kg est.)",
+      "Only AMD option in the whole Canadian gram retail lineup"
+    ],
+    "complaints": [
+      "Dim ~250-nit FHD+ panel is the same weak value-line display as the gram Book 15.6",
+      "Radeon 720M is a weak iGPU — lighter gaming only at low settings",
+      "Value-line plasticky build, a clear step below magnesium gram Pro chassis",
+      "60 Hz and Wi-Fi 6E only at a $2,249 list price",
+      "16GB soldered LPDDR5X with no upgrade path"
+    ]
+  },
+  "design_philosophy": "The AMD gram Book 16 extends the value sub-line with a Ryzen AI 400-series platform, bringing Copilot+ NPU capability and a huge 2TB SSD to the cheapest 16-inch gram. It keeps the value-line compromises — dim FHD+ panel, plasticky chassis, soldered RAM — but the price-per-storage and efficient Zen5 silicon make it the sleeper of the Book line at its sale price.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 8,
+    "screen_quality": 4.5,
+    "readability_dark": 5,
+    "readability_bright": 4.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7,
+    "portability": 7,
+    "build_quality": 5.5,
+    "thermals_noise": 8,
+    "port_connectivity": 7,
+    "creative_work": 4,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 4.5,
+    "upgradability": 3.5,
+    "ai_ml": 5,
+    "pen_touch": 5,
+    "repairability_service": 3.5,
+    "durability": 5.5
+  },
+  "rating_notes": "Synthesized per SHARED-lg-gram.md; no pro coverage of value line (honest null). Delta vs gram Book 15.6: larger 16:10 screen (+screen_size), Ryzen AI NPU (+ai_ml to Copilot+ threshold), Radeon 720M slightly better gaming than Intel U iGPU, ~1.7 kg est. weight. Image URL best-guess BBY CDN pattern."
+}

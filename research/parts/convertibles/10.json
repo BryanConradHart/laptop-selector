@@ -1,0 +1,104 @@
+{
+  "id": "yoga7i2-14-u5-322-16-512-oled",
+  "line": "Lenovo Yoga 7i 2-in-1 14 (Gen 11, 2026)",
+  "config_name": "Yoga 7i 2-in-1 14\" — Core Ultra 5 322 (Panther Lake), 16GB LPDDR5x, 512GB SSD, 14\" 2.8K OLED touch",
+  "tier": "Entry",
+  "category": "convertibles-2in1",
+  "ecosystem": "Windows",
+  "form_factor": "convertible",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 5 322 (Panther Lake)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc integrated (Panther Lake iGPU)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe (single slot)",
+    "screen_size_in": 14,
+    "display_type": "OLED glossy touch, 16:10 (BBY: 2K OLED)",
+    "resolution": "2880x1800",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 600,
+    "weight_kg": 1.34,
+    "ports": "2x USB-C (TB/DP/PD), 2x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p",
+    "speakers": "2-speaker + tweeters, Audio Boost",
+    "keyboard_notes": "Backlit chiclet, fingerprint reader",
+    "pen_support": "MPP 2.0 active pen (sold separately)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 11.5,
+    "notes": "~70Wh. Panther Lake efficiency tier; est. 10-13h light use. No pro lab test verified."
+  },
+  "price": {
+    "cad": 1299.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/lenovo-yoga-7i-14-oled-touchscreen-2-in-1-laptop-intel-core-ultra-5-322-16gb-lpddr5x-512gb-ssd-windows-11-home-luna-grey/19767706",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: reg $1,899.99 / sale $1,299.99. 4.58★/182 BBY reviews. Sale price used.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/lenovo-yoga-7i-14-oled-touchscreen-2-in-1-laptop-intel-core-ultra-5-322-16gb-lpddr5x-512gb-ssd-windows-11-home-luna-grey/19767706",
+        "cad": 1299.99,
+        "est": false,
+        "name": "Lenovo Yoga 7i 14\" OLED Touchscreen 2-in-1 Laptop - Intel Core Ultra 5 322 - 16GB LPDDR5x - 512GB SSD - Windows 11 Home - Luna Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19767/19767706.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "No numeric pro score found (RTINGS slug 404, NBC bot-walled at research time). Anchored on BBY user aggregate 4.58★/182; see SHARED-yoga7i-2in1.md."
+  },
+  "user_sentiment": {
+    "praises": [
+      "OLED blacks at this price point are the standout — BBY reviewers repeatedly call the 14\" OLED display gorgeous for the money",
+      "Battery routinely beats expectations for the price (day of mixed use reported across the 182-review listing)",
+      "Quiet and cool during office/streaming work; fans barely audible in light tasks",
+      "Copilot+ NPU and Wi-Fi 7 at a mid-range price feels future-proof",
+      "Light ~1.34 kg convertible with solid aluminium feel; flip hinge is smooth"
+    ],
+    "complaints": [
+      "16GB LPDDR5x is soldered — no upgrade path ever",
+      "Glossy OLED reflections are harsh outdoors and in bright rooms",
+      "Active pen is NOT included despite touch/MPP support",
+      "1080p webcam is average; image soft in dim rooms",
+      "Occasional coil whine / fan whine reports on fresh units (BBY reviews)"
+    ]
+  },
+  "design_philosophy": "Lenovo's mainstream premium convertible: aluminium 360° hinge, OLED touch, and current-gen silicon at sale prices that undercut business 2-in-1s. This Panther Lake Ultra 5 OLED tier is the value hero of the line — the deepest-discounted OLED config ($1,299 sale) and BBY's hero listing for the family.",
+  "ratings": {
+    "battery": 8.2,
+    "screen_size": 6.5,
+    "screen_quality": 8.6,
+    "readability_dark": 8.5,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7,
+    "portability": 7.5,
+    "build_quality": 7.5,
+    "thermals_noise": 7.5,
+    "port_connectivity": 7,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 5.5,
+    "upgradability": 3,
+    "ai_ml": 5.5,
+    "pen_touch": 6,
+    "repairability_service": 5,
+    "durability": 6.5
+  },
+  "rating_notes": "Ratings synthesized per SCHEMA budget rule (no verified pro review found; bot-walls documented in SHARED-yoga7i-2in1.md). Anchored on BBY aggregate 4.58★/182 for THIS SKU. Panther Lake Ultra 5 322: battery +0.2 vs Lunar Lake tier, Arc iGPU gaming ~3.5, NPU Copilot+ → ai_ml 5.5. OLED → screen_quality 8.6 / readability_dark 8.5 / readability_bright 6.5 (glossy). Soldered RAM → upgradability 3.0."
+}

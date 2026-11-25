@@ -1,0 +1,108 @@
+{
+  "id": "lenovo-chromebook-plus-14-oled-kompanio-ultra",
+  "line": "Lenovo Chromebook Plus 14 OLED (2025, Kompanio Ultra)",
+  "config_name": "Lenovo Chromebook Plus 14\" OLED — MediaTek Kompanio Ultra 910, 16GB RAM, 256GB SSD, 14\" FHD OLED touch",
+  "tier": "Premium",
+  "category": "budget",
+  "ecosystem": "ChromeOS",
+  "form_factor": "clamshell",
+  "release": "2025-09",
+  "inferred": true,
+  "specs": {
+    "cpu": "MediaTek Kompanio Ultra 910 (Arm, 8-core big-small with NPU)",
+    "cpu_cores": 8,
+    "gpu": "Arm Mali (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "soldered LPDDR5X",
+    "storage_gb": 256,
+    "storage_type": "SSD (soldered; no user upgrade path advertised)",
+    "screen_size_in": 14,
+    "display_type": "FHD OLED touch",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "weight_kg": 1.35,
+    "ports": "USB4/USB-C x2, USB-A, HDMI, 3.5mm (Kompanio Ultra platform supports USB4)",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "FHD 1080p with privacy shutter",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Bilingual CA chiclet, backlit (premium tier)",
+    "pen_support": "touch (active pen not bundled)",
+    "os": "ChromeOS (Chromebook Plus, ~10-year automatic updates)"
+  },
+  "battery": {
+    "claimed_hours": 12,
+    "real_world_hours": 10,
+    "notes": "Kompanio Ultra Arm efficiency + ChromeOS: ~9-11h real web use expected for this class."
+  },
+  "price": {
+    "cad": 1149.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19767599",
+    "confidence": "verified",
+    "notes": "Regular $1,349.95; sale $1,149.95 (BBY-verified 2026-11-24, SKU 19767599). Only OLED Chromebook stocked at BBY CA.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19767599",
+        "cad": 1149.95,
+        "est": false,
+        "name": "Lenovo Chromebook Plus 14\" OLED Touchscreen Chromebook - MediaTek Kompanio Ultra 910 - 16GB LPDDR5x - 256GB SSD - ChromeOS - Seashell"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19767/19767599.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "The only OLED Chromebook in Canadian retail — infinite contrast makes web video and dark-mode UI look flagship",
+      "16GB RAM is double the Chromebook Plus minimum, so dozens of tabs plus Android apps never swap",
+      "Kompanio Ultra 910 is the fastest ChromeOS CPU sold — smooth 4K AV1 playback and snappy Gemini features",
+      "Touchscreen plus premium chassis: feels like a $1,600 ultrabook at the sale price",
+      "Arm efficiency keeps it silent and cool with battery still around 10 real hours"
+    ],
+    "complaints": [
+      "$1,150-1,350 for a Chromebook is a hard sell when a $450 Chromebook Plus covers 90% of the use case",
+      "Still ChromeOS: the OLED panel cannot run desktop Photoshop/Office — the OS ceiling is the same as the $450 model",
+      "OLED touch at 60Hz with no active pen bundled — no stylus story despite the touch layer",
+      "16GB/256GB are soldered — no upgrade path at a premium price",
+      "FHD (1920x1080) on a premium OLED panel is lower resolution than OLED Windows rivals at this money"
+    ]
+  },
+  "standouts": [
+    "Only OLED + only 16GB Chromebook in the CA inventory — the premium ChromeOS experience, and the Kompanio Ultra 910 is the fastest Chromebook CPU available"
+  ],
+  "dealbreakers": [
+    "$1,149.95+ buys a far more capable Windows ultrabook for anyone who actually needs desktop apps — this is only worth it as a deliberate ChromeOS purchase"
+  ],
+  "design_philosophy": "Lenovo's halo Chromebook: put MediaTek's first flagship Arm chip, 16GB RAM, and an OLED touch panel into the 14\" chassis to prove ChromeOS can be premium, not just cheap. It is the anti-thesis of the value tier — the same OS, wrapped in genuinely flagship hardware for buyers who want the simplest possible machine without the usual budget compromises.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 6,
+    "screen_quality": 8.5,
+    "readability_dark": 8.5,
+    "readability_bright": 6,
+    "ecosystem": 5,
+    "gaming": 1.3,
+    "productivity": 6.5,
+    "portability": 8,
+    "build_quality": 7,
+    "thermals_noise": 8.5,
+    "port_connectivity": 6.5,
+    "creative_work": 3,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 2.5,
+    "ai_ml": 3,
+    "pen_touch": 5.5,
+    "repairability_service": 5,
+    "durability": 5.5
+  },
+  "rating_notes": "No pro score found (outlets bot-walled; see SHARED-chromebooks.md). Ratings inferred from the Chromebook Plus platform anchor (29.json) with spec deltas: OLED → screen_quality +4.0, readability_dark +4.0; Kompanio Ultra + 16GB → productivity +1.0, ai_ml +1.5 (real NPU, though ChromeOS local-AI use is thin); touch → pen_touch 5.5 (no active pen bundled, so capped); premium chassis → build +1.5. Arm platform battery advantage +0.5. Image URL best-guess BBY CDN pattern."
+}

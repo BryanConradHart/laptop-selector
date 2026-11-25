@@ -1,0 +1,110 @@
+{
+  "id": "msi-vector-16-hx-ai-5070ti-255hx-32-1tb-qhd240",
+  "line": "MSI Vector 16 HX AI (2025, A2XWHG)",
+  "config_name": "Vector 16 HX AI — Core Ultra 7 255HX, RTX 5070 Ti 12GB, 32GB DDR5, 1TB SSD, 16\" QHD+ 240Hz",
+  "tier": "High",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 255HX (Arrow Lake-HX, 20-core: 8P+12E, 80W PL1 sustained)",
+    "cpu_cores": 20,
+    "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop 12GB GDDR7 (MUX + Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600 SODIMM (2 slots, user-upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe Gen4 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "IPS, anti-glare, 16:10 (near-full sRGB/DCI-P3 per NBC-tested panel)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 0,
+    "weight_kg": 2.7,
+    "ports": "2x Thunderbolt 5 (USB-C), 3x USB-A, HDMI 2.1, 2.5G Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p with privacy shutter",
+    "speakers": "2-speaker",
+    "keyboard_notes": "24-zone RGB backlit, numpad; unconventional MSI layout",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 4.5,
+    "notes": "90 Wh cell; QHD+ panel shaves ~15-30 min vs FHD+ under load. Estimated."
+  },
+  "price": {
+    "cad": 3499,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19966926",
+    "confidence": "verified",
+    "notes": "BBY sku 19966926, $3,499 sale / $4,998.57 reg, verified 2026-11-24. Marketplace seller PC Heaven with inflated regular-price anchor (~30% 'sale') — treat $3,499 as the real market price.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19966926",
+        "cad": 3499,
+        "est": false,
+        "name": "MSI Vector 16 HX AI 16\" QHD+ 240Hz Gaming Laptop- Gray (Intel Core Ultra 7 255HX/GeForce RTX 5070 Ti/32GB DDR5/1TB SSD/24-Zone RGB Keyboard/Win 11)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19966/19966926.png",
+  "professional": {
+    "avg_score": 8.4,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "84%",
+        "url": "https://www.notebookcheck.net/MSI-Vector-16-HX-AI-review-A-feature-rich-gaming-laptop-powered-by-RTX-5070-Ti.1039895.0.html",
+        "quote": "The IPS display impresses with its sharp 2,560 by 1,600 resolution, smooth 240 hertz refresh rate, and nearly complete coverage of the sRGB and DCI-P3 colour spaces."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "The NBC-tested panel spec (WQXGA 240Hz, near-full DCI-P3) at the cheapest CA price for that spec + 5070 Ti",
+      "Two Thunderbolt 5 ports + 2.5G Ethernet — docking well above price class (NBC)",
+      "Sturdy chassis, two M.2 + two SO-DIMM slots; 32GB from the factory means no early upgrade needed",
+      "Consistent full-watt 5070 Ti + 255HX performance (NBC: \"consistent CPU and GPU performance\")",
+      "1080p webcam with privacy shutter; 90Wh battery (NBC pros)"
+    ],
+    "complaints": [
+      "Audible fan at idle in AI mode out of the box (NBC + owner consensus)",
+      "Huge power brick adds ~0.5kg to travel weight (NBC)",
+      "Unconventional keyboard layout (NBC)",
+      "Limited lid opening angle, bulky rear (NBC)",
+      "Marketplace listing (PC Heaven) with inflated anchor price; MSI Center bloat"
+    ]
+  },
+  "design_philosophy": "MSI's Vector = maximum GPU watts and ports per dollar in an understated chassis. This is the sweet-spot tier: the exact panel (WQXGA 240Hz) and GPU the pro reviewers tested, doubled RAM, at roughly the NBC-tested European price in CAD.",
+  "ratings": {
+    "battery": 5,
+    "screen_size": 8,
+    "screen_quality": 7.5,
+    "readability_dark": 6,
+    "readability_bright": 6,
+    "ecosystem": 9.5,
+    "gaming": 8.5,
+    "productivity": 8.5,
+    "portability": 4,
+    "build_quality": 7.5,
+    "thermals_noise": 6,
+    "port_connectivity": 9,
+    "creative_work": 7.5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 6,
+    "upgradability": 8.5,
+    "ai_ml": 7,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from NBC-reviewed Vector 16 HX AI 255HX/5070 Ti (84%, SHARED-msi-katana-vector.md) — this tier matches the tested panel + GPU; +0.5 productivity/creative_work for 32GB vs tested 16GB. 2TB twin: BBY 19966929 $3,779."
+}

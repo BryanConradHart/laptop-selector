@@ -1,0 +1,102 @@
+{
+  "id": "g14-2025-hx370-5080-32-1tb",
+  "line": "ASUS ROG Zephyrus G14 (2025, GA403)",
+  "config_name": "ROG Zephyrus G14 (2025) — Ryzen AI 9 HX 370 / RTX 5080 16GB, 32GB LPDDR5X, 1TB SSD, 14\" 3K OLED 120Hz",
+  "tier": "Top (availability uncertain)",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 9 HX 370 (12-core: 4 Zen5 + 8 Zen5c)",
+    "cpu_cores": 12,
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop 16GB (severely TGP-capped in 1.5kg chassis, ~100-110W)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe (1x M.2 2280)",
+    "screen_size_in": 14,
+    "display_type": "OLED (ROG Nebula HDR, glossy)",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 900,
+    "weight_kg": 1.5,
+    "ports": "2x USB4 40Gbps (DP/PD), 2x USB-A 3.2, HDMI 2.1, microSD, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "quad-speaker",
+    "keyboard_notes": "backlit chiclet",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 5,
+    "notes": "73Wh with the hungriest GPU of the line; -1h vs anchor per SHARED-zephyrus-g14.md. ~1h gaming."
+  },
+  "price": {
+    "cad": 5700,
+    "currency": "CAD",
+    "store": "asus.com/en-ca (configurator / retail partners)",
+    "store_url": "https://www.asus.com/en-ca/store",
+    "confidence": "estimated",
+    "notes": "NOT verified on Best Buy CA today (ROG_LIST.md: seen historically on asus.com/ca configurator, est. $5,500-6,000). Midpoint estimate; treat as indicative only. A CA 5080 G14 tier may not be in current stock — verify before purchase.",
+    "offers": [],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/196/19697/19697004.jpg",
+  "professional": {
+    "avg_score": 8.9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "89%",
+        "url": "https://www.notebookcheck.net/14-inches-with-the-GeForce-RTX-5080-Laptop-Asus-ROG-Zephyrus-G14-2025-review.1014019.0.html",
+        "quote": "With the RTX 5070 Ti and RTX 5080 options the new ROG Zephyrus G14 is currently pretty unrivaled. Very high-quality and compact aluminum case, brilliant OLED display at 120 Hz with G-Sync, excellent speakers, great input devices. Cons: soldered-on RAM, PWM flickering, limited maximum HDR brightness, loud fans. (NBC review of the GA403WW RTX 5080 config, \"top rated\" award.)"
+      }
+    ],
+    "note": "No pro review retrieved for this tier (hard-stop, disclosed). Anchored on GA403 line via SHARED-zephyrus-g14.md."
+  },
+  "user_sentiment": {
+    "praises": [
+      "16GB VRAM RTX 5080 in a 1.5kg laptop is unmatched for portable AI/ML work (local LLMs) in the G14 line",
+      "Class-leading 3K OLED 120Hz panel and premium aluminum chassis shared across the line",
+      "Enough GPU headroom that 1080p/1440p gaming is effortless even with the TGP cap",
+      "Still USB-C chargeable and genuinely portable unlike 5080-equipped 16-18\" bricks"
+    ],
+    "complaints": [
+      "The 5080 is severely power-limited (~100-110W vs 150W+ rated) — buyers pay 5080 money for well-below-5080 performance; a thicker 5070 Ti laptop often matches it",
+      "Est. ~$5,500-6,000 CAD puts it against full-size 5080/5090 machines — extreme thin-and-light tax",
+      "Hot under load and loud in Turbo; the 1.5kg chassis cannot dissipate a 5080",
+      "Soldered RAM and single M.2 at this price; no upgrade path",
+      "Canadian availability unconfirmed today — may only be orderable via ASUS store with long lead times"
+    ]
+  },
+  "design_philosophy": "The theoretical ceiling of ASUS's thin-and-light gaming bet: cram a 16GB RTX 5080 into the same 1.5kg aluminum OLED chassis, accepting heavy TGP capping and thermal compromise to keep the portability that defines the line. It exists for buyers who absolutely need discrete-GPU VRAM on the road; value-wise the chassis physics work against it.",
+  "ratings": {
+    "battery": 5,
+    "screen_size": 5.5,
+    "screen_quality": 9.2,
+    "readability_dark": 9,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 9.5,
+    "productivity": 8,
+    "portability": 9,
+    "build_quality": 8.5,
+    "thermals_noise": 4.5,
+    "port_connectivity": 7.5,
+    "creative_work": 8,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 7,
+    "upgradability": 2.5,
+    "ai_ml": 8,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Pro score attached from NBC review of the GA403 RTX 5080 config (89% very good, gap-fill 2026-11-24); lower GPU tiers share chassis/display/thermals findings. Inferred from anchor entry 76 per SHARED-zephyrus-g14.md: 5060 -> 5080 = gaming +3.0 (capped from +3.2 because the 1.5kg chassis throttles it; still top of this line), ai_ml +1.5 for 16GB VRAM + CUDA, battery -1.0, thermals_noise -1.0. CA availability and price UNVERIFIED today (estimated $5,700 midpoint of $5,500-6,000 band from ROG_LIST.md) — flagged for gap-fill. Image URL is the sibling 2025 GA403 product shot (best guess)."
+}

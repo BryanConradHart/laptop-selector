@@ -1,0 +1,106 @@
+{
+  "id": "hp-15-i7-1355u-16-1tb",
+  "line": "HP Laptop 15 (15s/15q chassis, 2026)",
+  "config_name": "HP 15.6\" FHD — Core i7-1355U, 16GB DDR4, 1TB SSD, Jet Black",
+  "tier": "Mid",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core i7-1355U (10-core: 2P+8E, up to 5.0 GHz, 12 MB)",
+    "cpu_cores": 10,
+    "gpu": "Intel Iris Xe Graphics (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "DDR4-3200 (2x8 GB SO-DIMM)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2",
+    "screen_size_in": 15.6,
+    "display_type": "FHD, panel type unstated (assume TN)",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 250,
+    "weight_kg": 1.69,
+    "ports": "1x USB-C 5Gbps (data only), 2x USB-A 5Gbps, HDMI 1.4b, SD reader, 3.5mm, AC smart pin",
+    "wireless": "Wi-Fi 6, BT 5.4",
+    "webcam": "HP True Vision 720p HD with dual-array mics",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Bilingual CA chiclet with numpad, no backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 7,
+    "real_world_hours": 5,
+    "notes": "~41 Wh class; 13th-gen U drains quickly under load — ~4.5-5.5h real light use."
+  },
+  "price": {
+    "cad": 949.97,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19220171",
+    "confidence": "verified",
+    "notes": "$949.97 flat — 1TB storage is the headline.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19220171",
+        "cad": 949.97,
+        "est": false,
+        "name": "HP 15.6\" Laptop - Intel Core i7-1355U - 16GB DDR4 - 1TB SSD - Windows 11 - Jet Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19220/19220171.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "1TB SSD at $949.97 — double the storage of most rivals at this price",
+      "i7-1355U's 10 cores chew through office multitasking; snappiest Intel office CPU of the HP group",
+      "Dual 8GB DDR4 SO-DIMMs: proper dual-channel and an upgrade path to 32GB",
+      "SD card reader built in — handy for photographers on a budget",
+      "Jet Black finish and micro-edge display look professional in a meeting room"
+    ],
+    "complaints": [
+      "USB-C is explicitly data-only per HP's own spec — no charging, no monitor",
+      "Panel type unstated and almost certainly a TN: dim, off-axis colour washout",
+      "No keyboard backlight at $949",
+      "720p webcam and average speakers; McAfee + Microsoft 365 trial bloat on first boot",
+      "Modest ~41 Wh battery gives ~5h, not the claimed 7h, under real loads"
+    ]
+  },
+  "standouts": [
+    "1TB NVMe + 16GB dual-channel DDR4 in a 10-core Intel for under $950 — storage-per-dollar leader of the HP group"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "HP's spec-sheet special: the storage and CPU numbers do the selling — i7 badge, 1TB, 16GB dual-channel — while the invisible parts (a probably-TN 250-nit panel, a data-only USB-C, no backlight, small battery) absorb the cost. It rewards buyers who shop on numbers and punishes those who care about the display.",
+  "ratings": {
+    "battery": 5.2,
+    "screen_size": 7,
+    "screen_quality": 3.5,
+    "readability_dark": 4.2,
+    "readability_bright": 3.6,
+    "ecosystem": 9,
+    "gaming": 2.3,
+    "productivity": 6.3,
+    "portability": 6,
+    "build_quality": 4.6,
+    "thermals_noise": 6.6,
+    "port_connectivity": 5.2,
+    "creative_work": 2,
+    "keyboard_trackpad": 5.3,
+    "webcam_speakers": 4.5,
+    "upgradability": 6,
+    "ai_ml": 1.3,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4.2
+  },
+  "rating_notes": "No pro review found (see SHARED-budget-misc.md). Platform-anchored on i7-1355U/Iris Xe (gaming 2.3, productivity 6.3); panel unstated → assumed TN per BUDGET_LIST rule, dropping screen_quality/readability below the IPS 7730U twin (22.json). BBY weight field (2.29 kg) is a carton error; real chassis ~1.69 kg. Image URL best-guess BBY CDN pattern."
+}

@@ -1,0 +1,108 @@
+{
+  "id": "steam-deck-lcd-512",
+  "line": "Valve Steam Deck LCD (2022)",
+  "config_name": "Steam Deck LCD — Custom AMD 'Aerith' Zen 2 8-core / 8 RDNA1 CUs, 8GB LPDDR5-5500, 512GB NVMe, 7\" 1280x800 60Hz IPS",
+  "tier": "High",
+  "category": "handheld-pcs",
+  "ecosystem": "SteamOS",
+  "form_factor": "handheld",
+  "release": "2022-02",
+  "inferred": true,
+  "specs": {
+    "cpu": "Custom AMD 'Aerith' APU, Zen 2 8-core (4C+4C) 2.4-3.5GHz, 7nm",
+    "cpu_cores": 8,
+    "gpu": "Radeon 8 CUs RDNA 1 1.0-1.6GHz (1.6 TFLOPS)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "LPDDR5-5500 soldered (4x16-bit)",
+    "storage_gb": 512,
+    "storage_type": "M.2 2230 NVMe Gen3 (user-replaceable)",
+    "screen_size_in": 7,
+    "display_type": "IPS LCD, glossy, touch",
+    "resolution": "1280x800",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.669,
+    "ports": "1x USB-C 3.1 Gen1 (DP alt-mode, PD), microSD UHS-I, 3.5mm",
+    "wireless": "Wi-Fi 5, BT 5.0",
+    "webcam": "none",
+    "speakers": "2 stereo speakers",
+    "keyboard_notes": "no keyboard; on-screen keyboard in SteamOS/Desktop mode",
+    "pen_support": "touch only, no pen",
+    "os": "SteamOS 3 (Arch Linux + KDE Plasma desktop mode)"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 4.5,
+    "notes": "40Wh, 7nm APU; identical to 256GB LCD. Engadget measured Hades 2h42m on an early LCD unit."
+  },
+  "price": {
+    "cad": 1249,
+    "currency": "CAD",
+    "store": "Best Buy CA / Amazon CA (stock clearance)",
+    "store_url": "https://www.bestbuy.ca/en-ca/shop/computers-tablets/valve-steam-deck",
+    "confidence": "estimated",
+    "notes": "Discontinued tier sold down at retail; LIST.md estimate C$1,249. Note: near the verified C$1,349 OLED 512GB price, so only a value pick when discounted.",
+    "offers": [],
+    "official_url": null
+  },
+  "image_url": "https://cdn.akamai.steamstatic.com/steamdeck/images/deck/deck_top.png",
+  "professional": {
+    "avg_score": 8.6,
+    "reviews": [
+      {
+        "outlet": "Tom's Guide (original Steam Deck)",
+        "score": "4/5",
+        "url": "https://www.tomsguide.com/reviews/steam-deck-review-the-nintendo-switch-for-adults",
+        "quote": "The original model was great, but this latest iteration demonstrates that Valve can improve on perfection."
+      },
+      {
+        "outlet": "Engadget (OLED review, LCD comparison)",
+        "score": "recommended",
+        "url": "https://www.engadget.com/steam-deck-oled-review-its-just-better-180038030.html",
+        "quote": "One of the downsides of the first Steam Deck was its short battery life, which maxed out at eight hours, and that was only under ideal conditions."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "512GB NVMe (faster than the 64GB eMMC original) holds several AAA games without touching the slow microSD slot",
+      "Same SteamOS console UX, controls and library as the OLED — verified/verified labels, sleep/resume, desktop mode",
+      "Clearance pricing often lands it well under C$1,000 at Best Buy/Amazon, making it the budget SteamOS pick",
+      "Standard M.2 2230 SSD and Valve's parts store keep it repairable and upgradable for a decade",
+      "For emulators and pre-UE5 libraries the performance gap vs OLED is zero — same APU architecture"
+    ],
+    "complaints": [
+      "Discontinued — stock is thin and clearance prices sometimes exceed sensible levels vs the C$1,349 OLED 512GB",
+      "Battery tops out ~4-6h light, ~2.5-4h gaming; Engadget measured 2h42m in Hades",
+      "400-nit glossy 60Hz LCD: no HDR, visible backlight bleed in dark scenes, poor outdoor readability",
+      "Runs warmer than the OLED in the same hands-on comparison; older fan is audibly louder under load",
+      "Wi-Fi 5 only and BT 5.0 — slower downloads and worse simultaneous Bluetooth audio + Wi-Fi behaviour"
+    ]
+  },
+  "design_philosophy": "The launch 2022 Steam Deck's previous top LCD tier, now a clearance SKU. It embodies Valve's original thesis — an open Linux PC disguised as a handheld console — at the largest LCD storage config; today it only makes sense at clearance discounts given how close LCD and OLED pricing have converged.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 4,
+    "screen_quality": 6.3,
+    "readability_dark": 7.5,
+    "readability_bright": 6,
+    "ecosystem": 7.5,
+    "gaming": 6,
+    "productivity": 2.5,
+    "portability": 6.5,
+    "build_quality": 8.5,
+    "thermals_noise": 7.5,
+    "port_connectivity": 3.5,
+    "creative_work": 1.5,
+    "keyboard_trackpad": 1,
+    "webcam_speakers": 3.5,
+    "upgradability": 9,
+    "ai_ml": 1,
+    "pen_touch": 4,
+    "repairability_service": 9.5,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from OLED 512GB anchor via SHARED-steam-deck.md LCD deltas (screen_quality −3.0, readability_dark −2.0, readability_bright −1.5, battery −1.0, thermals_noise −1.0, portability −0.5, productivity −0.5 for 8GB). Identical to the 256GB LCD except storage tier (SSD was NVMe on both 256GB and 512GB). Pro anchor: Tom's Guide original Deck review (4/5) + Engadget LCD comparisons."
+}

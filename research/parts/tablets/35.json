@@ -1,0 +1,112 @@
+{
+  "id": "tab-s11-ultra-16-512",
+  "line": "Samsung Galaxy Tab S11 Ultra (2025)",
+  "config_name": "Galaxy Tab S11 Ultra — Dimensity 9400+, 16GB RAM, 512GB, 14.6\" Dynamic AMOLED 2X 120Hz + Book Cover Keyboard Slim S11/S12 Ultra (price includes Slim cover; Pro Keyboard w/ trackpad option noted).",
+  "tier": "High",
+  "category": "tablets",
+  "ecosystem": "Android",
+  "form_factor": "tablet",
+  "release": "2025-09",
+  "inferred": true,
+  "specs": {
+    "cpu": "MediaTek Dimensity 9400+ (8-core: 1x3.63GHz Cortex-X925 + 3x3.3GHz X4 + 4x2.4GHz A720, 3nm)",
+    "cpu_cores": 8,
+    "gpu": "Arm Immortalis-G925 (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "soldered LPDDR5X",
+    "storage_gb": 512,
+    "storage_type": "UFS soldered + dedicated microSDXC slot (up to 2TB)",
+    "screen_size_in": 14.6,
+    "display_type": "Dynamic AMOLED 2X (glossy, anti-reflective coating)",
+    "resolution": "2960x1848",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 900,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 0.692,
+    "ports": "1x USB-C 3.2 Gen 1 (DisplayPort/DeX out), no 3.5mm jack",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "12MP ultrawide front (landscape)",
+    "speakers": "Quad AKG-tuned speakers (larger chambers than S11)",
+    "keyboard_notes": "Book Cover Keyboard Slim S11/S12 Ultra included in price ($299.99 reg cover): scissor keys + AI key, NO trackpad. Pro Keyboard with trackpad $499.99 reg/$299.99 sale (BBY 20142500) is the premium typing option",
+    "pen_support": "S Pen INCLUDED in box (Bluetooth air actions, 4096 pressure, IP68)",
+    "os": "Android 16 / One UI 8 at launch (Android 17 / One UI 9 current); 7 years OS+security updates"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 9.5,
+    "notes": "11600 mAh (~44.4Wh) cell, 45W USB-PD charging (charger not in box). No official video-hours claim; users report ~8-11h mixed real-world use."
+  },
+  "price": {
+    "cad": 2399,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19652312",
+    "confidence": "verified",
+    "notes": "Tablet $2,099.00 reg / $1,699.00 sale (BBY SKU 19652312) + Book Cover Keyboard Slim Ultra $299.99 reg / $179.99 sale (BBY 19433657) = $2,398.99 at regular prices. Cover-only price: Slim $299.99 reg/$179.99 sale; Pro Keyboard w/ trackpad $499.99/$299.99 (BBY 20142500). BBY sale combined total ~$1,878.99. RAM/storage inferred from spec sheet per ANDROID_LIST caveat.     1TB Ultra tier not stocked new at BBY; 5G variant omitted.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19652312",
+        "cad": 1699,
+        "est": false,
+        "name": "Samsung Galaxy Tab S11 Ultra 14.6\" 512GB Android Tablet with D9400+ (DX4+) Processor - Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/196/19652/19652312.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "16GB RAM is the tier for DeX power users: a dozen windows plus emulated Linux (Termux/Boxer) without app reloads",
+      "14.6\" AMOLED at 5.1mm thin — MacBook-sized canvas that still weighs 692g",
+      "S Pen in the box — no extra $199 accessory tax like the iPad Pro",
+      "512GB soldered + microSD slot covers both speed and archive storage without cloud fees",
+      "Full Galaxy phone continuity: Quick Share, clipboard sync, calls/texts on the tablet"
+    ],
+    "complaints": [
+      "The priced-in Slim cover has NO trackpad; the trackpad Pro Keyboard adds $499.99 reg on top of a $2,400 total",
+      "Regular price ($2,399 with cover) crosses into MacBook Pro territory while still running Android apps",
+      "App optimization still uneven on 14.6\" — stretched phone UIs persist",
+      "No 3.5mm jack; 4K@30 camera cap",
+      "BBY stock of the 16/512 tier is thinner than the 12/256 — colour options sell out and refills lag"
+    ]
+  },
+  "design_philosophy": "The top stocked Ultra tier is Samsung's proof that Android tablets can be configured like laptops — 16GB RAM and 512GB match mid-tier ultrabooks, aimed at DeX power users who keep many windows and heavy apps resident. It is also where the line's pricing logic strains: at regular price with the keyboard included it exceeds most Windows ultrabooks, so it is really a sale-price flagship.",
+  "ratings": {
+    "battery": 8.2,
+    "screen_size": 8.2,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 8.2,
+    "ecosystem": 7,
+    "gaming": 6.6,
+    "productivity": 8.3,
+    "portability": 7.6,
+    "build_quality": 8.8,
+    "thermals_noise": 8,
+    "port_connectivity": 5.5,
+    "creative_work": 7.6,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 7.8,
+    "upgradability": 6.5,
+    "ai_ml": 6.3,
+    "pen_touch": 9.3,
+    "repairability_service": 6,
+    "durability": 7.5
+  },
+  "rating_notes": "Ratings inferred from the Tab S11 11\" 12/256 anchor per SHARED-tab-s11.md: Ultra deltas (screen_size 8.2, portability 7.6, battery +0.4, productivity +0.7, creative_work +0.5, gaming −0.2, keyboard_trackpad 6.5 for Slim cover w/o trackpad) plus 16GB/512GB tier bumps (+0.4 productivity, +0.3 creative_work, +0.3 ai_ml for headroom). No pro numeric score found 2026-11-24 — avg_score null, none invented (outlets bot-walled; disclosed synthesis in SHARED file). Ecosystem 7.0 = DeX + Galaxy-phone parity per SHARED calibration. Brightness figures are Samsung marketing approximations. User sentiment is disclosed synthesis, not verbatim quotes. RAM tier inferred from spec sheet, not BBY title.",
+  "standouts": [
+    "16GB RAM + 512GB: the only Android tablet tier that matches ultrabook memory specs",
+    "Best DeX canvas in retail (14.6\" AMOLED) with S Pen + microSD included",
+    "At BBY sale (~$1,879 incl. cover) it undercuts every comparable iPad Pro 13 bundle"
+  ],
+  "dealbreakers": [
+    "Trackpad only via the $499.99 Pro Keyboard",
+    "At $2,399 regular with cover it costs laptop money while running tablet apps"
+  ]
+}

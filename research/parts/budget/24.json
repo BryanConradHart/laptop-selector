@@ -1,0 +1,107 @@
+{
+  "id": "hp-15-u5-125h-16-1tb",
+  "line": "HP Laptop 15 (15s/15q chassis, 2026)",
+  "config_name": "HP 15 15.6\" FHD — Core Ultra 5 125H, 16GB RAM, 1TB SSD, IPS 300-nit 62.5% sRGB, Natural Silver",
+  "tier": "High",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 5 125H (14-core: 4P+8E+2LP, Arc iGPU, NPU, 18 MB)",
+    "cpu_cores": 14,
+    "gpu": "Intel Arc Graphics (integrated, 7 Xe-cores) + NPU",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "DDR4/DDR5 SO-DIMM (per chassis)",
+    "storage_gb": 1000,
+    "storage_type": "PCIe NVMe M.2",
+    "screen_size_in": 15.6,
+    "display_type": "FHD IPS, micro-edge, anti-glare, 300 nits, 62.5% sRGB",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.69,
+    "ports": "1x USB-C 10Gbps (PD + DP1.4 + Sleep&Charge), 2x USB-A 5Gbps, HDMI 1.4b, SD reader, 3.5mm, AC smart pin",
+    "wireless": "Wi-Fi 6, BT 5.4",
+    "webcam": "HP True Vision 720p HD",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Bilingual CA chiclet with numpad, backlit",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 5,
+    "notes": "H-series TDP eats the small battery: ~4.5-5.5h light use despite the efficiency cores."
+  },
+  "price": {
+    "cad": 999.97,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19187155",
+    "confidence": "verified",
+    "notes": "$999.97 flat — frequently cited as the standout value HP 15 config.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19187155",
+        "cad": 999.97,
+        "est": false,
+        "name": "HP 15 15.6\" Laptop - Intel Core Ultra 5 125H - 16GB RAM - 1TB SSD - Windows 11 Home - Natural Silver"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/191/19187/19187155.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Arc iGPU is the best integrated graphics on the budget HP shelf — light gaming and video editing genuinely work",
+      "IPS panel covers 62.5% sRGB — the only HP 15 with a panel fit for casual photo work",
+      "USB-C does power delivery AND DisplayPort 1.4: one cable docks the whole setup",
+      "1TB SSD + 16GB + backlit keyboard under $1,000",
+      "Meteor Lake NPU gives Copilot-ready AI acceleration (AV1 encode too) without the Arm compatibility tax"
+    ],
+    "complaints": [
+      "H-series chip in a thin budget chassis: fan spins up audibly under sustained load",
+      "Battery drains quickly — H-series at ~5h real, HP's 8h claim is a stretch",
+      "720p webcam still, on a 'premium' budget config",
+      "Plastic chassis and hinge flex are unchanged from the $850 SKUs",
+      "HDMI 1.4b caps external monitors at 4K30 despite the capable USB-C"
+    ]
+  },
+  "standouts": [
+    "Best all-rounder of the HP group: Arc iGPU + NPU + 62.5% sRGB IPS + full-function USB-C + 1TB at $999.97",
+    "The only budget HP 15 that can credibly double as an entry creator machine"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "The halo trim of HP's budget 15: a Meteor Lake H chip with Arc graphics and an NPU — real modern silicon rather than a recycled U-series — paired with the best panel HP puts in this chassis and a fully functional USB-C. HP pays for it with a small battery (H-series appetite makes the claim optimistic) and the same plastic shell. Historically the config reviewers single out as the value standout of the line.",
+  "ratings": {
+    "battery": 5.2,
+    "screen_size": 7,
+    "screen_quality": 5,
+    "readability_dark": 4.5,
+    "readability_bright": 4.2,
+    "ecosystem": 9,
+    "gaming": 3,
+    "productivity": 6.8,
+    "portability": 6,
+    "build_quality": 4.6,
+    "thermals_noise": 5.8,
+    "port_connectivity": 6.3,
+    "creative_work": 3.2,
+    "keyboard_trackpad": 5.8,
+    "webcam_speakers": 4.5,
+    "upgradability": 5.5,
+    "ai_ml": 2.5,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4.2
+  },
+  "rating_notes": "No pro numeric score retrievable (bot-walls; see SHARED-budget-misc.md), though this config is the historically reviewed value pick of the line. Platform-anchored on Core Ultra 5 125H: Arc iGPU gaming 3.0 (best of office group), NPU lifts ai_ml to 2.5, H-series thermals/noise and battery penalized. Verified IPS 300-nit/62.5% sRGB panel from BBY spec. Image URL best-guess BBY CDN pattern."
+}

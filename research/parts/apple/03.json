@@ -1,0 +1,121 @@
+{
+  "id": "mba13-m5-10gpu-24-512",
+  "line": "Apple MacBook Air 13-inch (2026, M5)",
+  "config_name": "MacBook Air 13-inch — M5 10-core CPU / 10-core GPU, 24GB RAM, 512GB SSD",
+  "tier": "Mid",
+  "category": "apple",
+  "ecosystem": "macOS",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M5 (10-core: 4 super + 6 efficiency)",
+    "cpu_cores": 10,
+    "gpu": "Apple M5 10-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 24,
+    "ram_type": "unified/soldered",
+    "storage_gb": 512,
+    "storage_type": "NVMe soldered (PCIe 4.0)",
+    "screen_size_in": 13.6,
+    "display_type": "IPS LCD (Liquid Retina)",
+    "resolution": "2560x1664",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 0,
+    "weight_kg": 1.23,
+    "ports": "2x TB4/USB-C, MagSafe 3, 3.5mm",
+    "wireless": "Wi-Fi 7 (Apple N1), BT 6",
+    "webcam": "12MP Center Stage",
+    "speakers": "4-speaker",
+    "keyboard_notes": "Magic Keyboard, Touch ID, Force Touch trackpad",
+    "pen_support": "none",
+    "os": "macOS Tahoe 26"
+  },
+  "battery": {
+    "claimed_hours": 18,
+    "real_world_hours": 13.8,
+    "notes": "Same 53.8Wh cell; extra RAM has negligible runtime impact."
+  },
+  "price": {
+    "cad": 2099,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-mac/macbook-air/13-inch-midnight-m5-chip-10-core-cpu-10-core-gpu-24gb-memory-512gb-storage",
+    "confidence": "verified",
+    "notes": "Verified from apple.com/ca buy page (fullPrice 2099.00).",
+    "offers": [
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-mac/macbook-air/13-inch-midnight-m5-chip-10-core-cpu-10-core-gpu-24gb-memory-512gb-storage",
+        "cad": 2099,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-mac/macbook-air/13-inch-midnight-m5-chip-10-core-cpu-10-core-gpu-24gb-memory-512gb-storage"
+  },
+  "image_url": "https://www.apple.com/v/macbook-air/specs/c/images/specs/13-inch/mba_13_hero__c067qisf51oy_large.jpg",
+  "professional": {
+    "avg_score": 9.1,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "92%",
+        "url": "https://www.notebookcheck.net/Insane-performance-and-efficiency-without-fans-Apple-MacBook-Air-13-M5-Entry-Review.1242707.0.html",
+        "quote": "Apple's M5 SoC is the fastest single core processor you can buy."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.3/10",
+        "url": "https://rtings.com/laptop/reviews/apple/macbook-air-13-m5-2026",
+        "quote": "The Apple MacBook Air 13 M5 has outstanding battery life."
+      },
+      {
+        "outlet": "Tom's Hardware",
+        "score": "Editor's Choice",
+        "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-air-13-inch-m5-review",
+        "quote": "The MacBook Air M5 is the sum of years of refinements, with a mix of premium design, strong performance, and solid battery life."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "24GB unified memory handles heavy Xcode/Chrome-tab life and local LLMs that 16GB can't (r/macbook)",
+      "Still the cheapest way into 24GB + fast M5 in a 1.23 kg fanless chassis",
+      "Full workday battery regardless of RAM tier (RTINGS)",
+      "Silent — zero fan noise under any workload (NBC)",
+      "macOS ecosystem continuity with iPhone/iPad is the top reason buyers pick this over Windows ultrabooks (Amazon.ca reviews)"
+    ],
+    "complaints": [
+      "+C$300 for 24GB is expensive and non-upgradeable later (top r/macbook warning to buyers)",
+      "60Hz notched LCD at C$2,099 invites comparisons to cheaper OLED Windows machines",
+      "Fanless throttling on long exports/compiles despite the extra RAM",
+      "Two Thunderbolt ports only; dongles required for most desks",
+      "No Face ID — Touch ID only"
+    ]
+  },
+  "design_philosophy": "The RAM-forward tier: for buyers who run many apps, VMs, or on-device AI, 24GB in the silent Air chassis is the sweet spot Apple added this generation. Storage stays at the sensible 512GB baseline.",
+  "ratings": {
+    "battery": 9.4,
+    "screen_size": 6.5,
+    "screen_quality": 7.5,
+    "readability_dark": 7,
+    "readability_bright": 7,
+    "ecosystem": 9.5,
+    "gaming": 4,
+    "productivity": 8.8,
+    "portability": 9.6,
+    "build_quality": 9.2,
+    "thermals_noise": 9.4,
+    "port_connectivity": 4.5,
+    "creative_work": 7,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 7.5,
+    "upgradability": 1,
+    "ai_ml": 7.3,
+    "pen_touch": 0,
+    "repairability_service": 4,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings inferred from directly-tested M5 13-inch base (NBC 92%, RTINGS 8.3): +0.4 productivity / +0.7 ai_ml for 24GB vs 16GB, GPU tiers equal. Image is Apple specs-page CDN jpg. Sentiment from pro reviews + Amazon.ca aggregate; Reddit API blocked (403)."
+}

@@ -1,0 +1,108 @@
+{
+  "id": "aspire-lite-16-c5-120u-8-512",
+  "line": "Acer Aspire Lite 16 (AL16)",
+  "config_name": "Aspire Lite 16\" — Core 5 120U (BBY-labelled 'Ultra 5 120U'), 8GB LPDDR5, 512GB SSD, 16\" WUXGA IPS",
+  "tier": "Entry",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 5 120U (10-core Series 1; BBY mislabels as 'Ultra 5 120U')",
+    "cpu_cores": 10,
+    "gpu": "Intel Graphics (integrated, Iris Xe-class)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "LPDDR5 soldered",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 16,
+    "display_type": "IPS anti-glare",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.49,
+    "ports": "2x USB-C 3.2 Gen2x2 20Gbps (DP, 65W PD), 2x USB-A 3.2 Gen1 (1 power-off charging), HDMI 1.4, 3.5mm",
+    "wireless": "Wi-Fi 6, BT 5.x",
+    "webcam": "720p HD",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Chiclet with numeric keypad, bilingual CA",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 12,
+    "real_world_hours": 7.4,
+    "notes": "58.14 Wh verified; 8GB config idles slightly lighter than 16GB twin: ~7h real."
+  },
+  "price": {
+    "cad": 949.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19889763",
+    "confidence": "verified",
+    "notes": "BF sale $699.99.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19889763",
+        "cad": 699.99,
+        "est": false,
+        "name": "Acer Aspire Lite 16\" Laptop - Iron (Intel Ultra 5 120U/8GB RAM/512GB SSD/Windows 11)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19889/19889763.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "$699.99 sale for a 16\" WUXGA IPS, 58Wh, 1.49 kg laptop is the standout deal of the Lite line",
+      "Battery comfortably clears a school/workday for light users",
+      "Same dual 20Gbps USB-C ports with DP + PD as the pricier Lite twin",
+      "Light enough that the 16\" size doesn't punish commuting",
+      "Core 5 120U keeps Windows and Office snappy for single-task use"
+    ],
+    "complaints": [
+      "8GB soldered LPDDR5 is the worst kind of dead-end: 16\" productivity screen you can't feed",
+      "BBY listing calls it 'Ultra 5 120U' — no such Intel chip; buyers expecting Meteor Lake Ultra AI features are misled",
+      "With Chrome + Teams + Office open, 8GB swaps to SSD and stutters",
+      "Thin Lite chassis flexes; 720p webcam and unlit keyboard are entry-tier",
+      "Dull 45%-gamut IPS panel like every other unit in the family"
+    ]
+  },
+  "standouts": [
+    "Cheapest 16\" WUXGA IPS + 58Wh battery combo at its $699.99 sale"
+  ],
+  "dealbreakers": [
+    "8GB soldered RAM with no upgrade path on a large-screen productivity machine — the $100 16GB twin is the better buy long-term"
+  ],
+  "design_philosophy": "The entry RAM tier of the Lite 16: identical thin 1.49 kg 58Wh shell and Core 5 120U as the 16GB model, with 8GB soldered LPDDR5 as the cost lever. At its sale price it is one of the cheapest big screens in Canada, but the RAM ceiling caps its useful life.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 7.5,
+    "screen_quality": 4,
+    "readability_dark": 5,
+    "readability_bright": 4.5,
+    "ecosystem": 9,
+    "gaming": 2,
+    "productivity": 5,
+    "portability": 7.2,
+    "build_quality": 4,
+    "thermals_noise": 5.8,
+    "port_connectivity": 6.5,
+    "creative_work": 2.5,
+    "keyboard_trackpad": 5.2,
+    "webcam_speakers": 3.8,
+    "upgradability": 4,
+    "ai_ml": 1.5,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4
+  },
+  "rating_notes": "No pro review found (see SHARED-aspire-go.md). Inferred from 16GB Lite 16 sibling: −0.8 productivity for 8GB vs 16GB, +0.2 battery for lower memory power, −0.3 creative_work. BBY 'Ultra 5 120U' label is a mislabel (no such Intel SKU) — treated as Core 5 120U; no NPU, hence ai_ml 1.5."
+}

@@ -1,0 +1,131 @@
+{
+  "id": "dellplus14-2in1-u7-256v-16-1tb-dock",
+  "line": "Dell Plus 14 2-in-1 (2025)",
+  "config_name": "Dell Plus 14 2-in-1 — Core Ultra 7 256V, 16GB LPDDR5X, 1TB SSD + 1TB docking-station HDD set, 14\" 2K touch (Home)",
+  "tier": "Mid",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 256V (Lunar Lake, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 140V (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X on-package",
+    "storage_gb": 1000,
+    "storage_type": "NVMe + 1TB dock storage",
+    "screen_size_in": 14,
+    "display_type": "2K IPS touch",
+    "resolution": "2240x1400",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.5,
+    "ports": "2x Thunderbolt 4 / USB-C, 1x USB-A, 3.5mm; + dock ports via bundle",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p (no IR)",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit, shallow travel",
+    "pen_support": "Active pen (sold separately)",
+    "os": "Windows 11 Home (Pro twin 20231085)"
+  },
+  "battery": {
+    "claimed_hours": 18,
+    "real_world_hours": 8,
+    "notes": "Estimated ~8h mixed; dock adds desktop connectivity when parked."
+  },
+  "price": {
+    "cad": 1929,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20231086",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 20231086 Home 1TB+1TB-dock reg $2,539 / sale $1,929. 512GB+dock bundle 20231087 $1,749; 2TB+dock 20231088 $2,149; Pro twins 20231085/84/83 $1,749/$1,949/$2,179.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20231086",
+        "cad": 1929,
+        "est": false,
+        "name": "Dell Plus 14\" 2K 2-in-1 Touch Laptop, Intel Core Ultra 7 256V, Intel Graphics, 16GB LPDDR5X, 2TB Storage(1TB SSD+1TB Docking Station Set), Backlit, Win 11 Home, Ice Blue"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20231087",
+        "cad": 1749,
+        "est": false,
+        "name": "Dell Plus 14\" 2K 2-in-1 Touch Laptop, Intel Core Ultra 7 256V, Intel Graphics, 16GB LPDDR5X, 1.5TB Storage(512GB SSD+1TB Docking Station Set), Backlit, Win 11 Home, Ice Blue"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20231085",
+        "cad": 1749,
+        "est": false,
+        "name": "Dell Plus 14\" 2K 2-in-1 Touch Laptop, Intel Core Ultra 7 256V, Intel Graphics, 16GB LPDDR5X, 1.5TB Storage(512GB SSD+1TB Docking Station Set), Backlit, Win 11 Pro, Ice Blue"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20231/20231086.png",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "CNET (sibling DB06250, inferred)",
+        "score": "7.3/10",
+        "url": "https://www.cnet.com/tech/computing/dell-16-plus-2-in-1-review-the-mini-led-display-shines-but-theres-little-else-to-get-excited-about/",
+        "quote": "Strong productivity performance"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Bundle adds a docking station + 1TB extra storage for only ~$30 over the bare 1TB laptop",
+      "Dock fixes the line's weak port count for desk use",
+      "Ultra 7 256V + Arc 140V handles office multitasking smoothly",
+      "2K touch 14\" convertible under $2,000 all-in",
+      "Copilot+ NPU for local AI features"
+    ],
+    "complaints": [
+      "The 'docking station' is a basic USB hub + enclosure, not a full TB dock — check contents before buying",
+      "Reg $2,539 anchor pricing again",
+      "16GB soldered; shallow Dell keyboard",
+      "No IR camera",
+      "New SKU with no retail owner reviews"
+    ]
+  },
+  "design_philosophy": "Best Buy's bundle strategy applied to Dell's mainstream convertible: pair the volume 14\" Lunar Lake 2-in-1 with a storage dock to soften the soldered-storage limit and the thin port set, at a near-flat price premium.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 6,
+    "screen_quality": 6.5,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7,
+    "portability": 7,
+    "build_quality": 7,
+    "thermals_noise": 7.5,
+    "port_connectivity": 7,
+    "creative_work": 5,
+    "keyboard_trackpad": 4.5,
+    "webcam_speakers": 5,
+    "upgradability": 2.5,
+    "ai_ml": 5.5,
+    "pen_touch": 7,
+    "repairability_service": 4.5,
+    "durability": 6
+  },
+  "rating_notes": "Entry 44 ratings +1 port_connectivity and +0.5 upgradability for the bundled dock/storage per SHARED-dell-2in1.md sibling rule. Inferred from CNET 16 Plus 2-in-1 anchor; dock contents not independently verified.",
+  "standouts": [
+    "Dock + 1TB extra storage for ~$30 over bare laptop"
+  ],
+  "dealbreakers": [
+    "Dock is basic hub/enclosure class",
+    "Inflated anchor pricing"
+  ]
+}

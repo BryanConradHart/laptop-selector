@@ -1,0 +1,111 @@
+{
+  "id": "envyx360-16-a7-8840hs-16-1tb",
+  "line": "HP Envy x360 16 (2024, Ryzen 7 8840HS) — leftover stock",
+  "config_name": "Envy x360 16 — Ryzen 7 8840HS, 16GB LPDDR5, 1TB SSD, WUXGA 120Hz touch",
+  "tier": "Mid (value)",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2024-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 7 8840HS (Hawk Point, Zen 4)",
+    "cpu_cores": 8,
+    "gpu": "Radeon 780M (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5 soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe",
+    "screen_size_in": 16,
+    "display_type": "WUXGA IPS touch, 120Hz",
+    "resolution": "1920x1200",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.07,
+    "ports": "2x USB-C, 2x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "5MP IR",
+    "speakers": "2-speaker B&O",
+    "keyboard_notes": "Backlit, numeric pad",
+    "pen_support": "HP pen (MPP)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 14,
+    "real_world_hours": 7.5,
+    "notes": "HS-class Ryzen drains faster than U chips; 68Wh pack. Estimate."
+  },
+  "price": {
+    "cad": 1199.97,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/hp-envy-x360-16-touchscreen-120hz-2-in-1-laptop-amd-ryzen-7-8840hs-16gb-lpddr5-1tb-ssd-windows-11-home-meteor-silver/17744997",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 17744997 $1,199.97 (4.83★/6). Leftover 2024 stock of the pre-AI-300 Envy generation.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/hp-envy-x360-16-touchscreen-120hz-2-in-1-laptop-amd-ryzen-7-8840hs-16gb-lpddr5-1tb-ssd-windows-11-home-meteor-silver/17744997",
+        "cad": 1199.97,
+        "est": false,
+        "name": "HP Envy x360 16\" Touchscreen 120Hz 2-in-1 Laptop - AMD Ryzen 7 8840HS - 16GB LPDDR5 - 1TB SSD - Windows 11 Home - Meteor Silver"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/177/17744/17744997.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Radeon 780M is the best iGPU in any sub-$1,300 CA convertible — light gaming genuinely works",
+      "120Hz touch panel feels far smoother than the 60Hz panels on newer Envys",
+      "4.83/5 from Best Buy buyers on this exact listing",
+      "Strong Zen 4 multicore for video exports and compiles at this price",
+      "1TB storage and backlit keyboard standard"
+    ],
+    "complaints": [
+      "Heavy (~2.1 kg) — tablet mode is a token feature",
+      "HS chip runs warm and the fans audibly spin up under load in this thin chassis",
+      "Battery life mediocre (~7.5h) vs newer U-series convertibles",
+      "No NPU Copilot+ certification — excluded from some Windows AI features",
+      "Leftover stock: warranty clock started at original sale, limited units remain"
+    ]
+  },
+  "design_philosophy": "Last-generation Envy x360 16 hardware (Zen 4 Hawk Point) now cleared at aggressive pricing: raw CPU/GPU punch and a 120Hz panel that embarrass the current U-series refresh, at the cost of battery life and Copilot+ credentials. A classic leftover value pick.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 8,
+    "screen_quality": 6,
+    "readability_dark": 5,
+    "readability_bright": 5,
+    "ecosystem": 9,
+    "gaming": 5,
+    "productivity": 7.5,
+    "portability": 5,
+    "build_quality": 6.5,
+    "thermals_noise": 6,
+    "port_connectivity": 8,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6.5,
+    "upgradability": 2.5,
+    "ai_ml": 4,
+    "pen_touch": 6,
+    "repairability_service": 4.5,
+    "durability": 5.5
+  },
+  "rating_notes": "Notable value pick (rule 10 previous-gen exception). Ratings inferred from 2024 Envy x360 14/16 reviews of the 8840HS platform (NBC/PCMag reviewed this generation; exact slugs not re-fetched — bot-walls, see SHARED-hp-convertibles.md) + BBY 4.83★/6. +1.5 gaming for 780M vs the U-series entries; -1 battery for HS TDP.",
+  "standouts": [
+    "780M gaming + 120Hz at $1,199",
+    "Best iGPU per dollar in category"
+  ],
+  "dealbreakers": [
+    "~2.1 kg",
+    "Weak battery vs current-gen"
+  ]
+}

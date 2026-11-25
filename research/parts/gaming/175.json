@@ -1,0 +1,115 @@
+{
+  "id": "legion5-16-ips-275hx-5060-32-1tb",
+  "line": "Lenovo Legion 5 16 (Gen 10, 2025, IPS 240Hz)",
+  "config_name": "Legion 5 16 — Core Ultra 9 275HX / RTX 5060 8GB, 32GB DDR5, 1TB SSD, 16\" WQXGA IPS 240Hz",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7 (~115W Legion TGP, MUX)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5 (2x SODIMM, upgradeable to 64GB)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "IPS anti-glare (WQXGA, 240 Hz)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.4,
+    "ports": "2x USB-C (DP, PD), 3x USB-A, HDMI 2.1, RJ45 GbE, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "5MP with electronic shutter",
+    "speakers": "Stereo",
+    "keyboard_notes": "Chiclet w/ numpad, 1.6mm travel, backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 6.5,
+    "notes": "80 Wh class. Inferred from NBC Legion 5/Pro 5 Gen 10 chassis testing; ~6-7h WiFi est."
+  },
+  "price": {
+    "cad": 3599,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19811132",
+    "confidence": "verified",
+    "notes": "Regular $5,149 / sale $3,599, BBY API-verified 2026-11-24 (LEGION_LIST.md).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19811132",
+        "cad": 3599,
+        "est": false,
+        "name": "Lenovo Legion 5 16\" WQXGA 240Hz Gaming Laptop - Intel Core Ultra 9 275HX - 32GB DDR5 - 1TB SSD - RTX 5060 - Windows 11 Home - Gray"
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/legion-laptops/legion-5-series/"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19811/19811132.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (collection)",
+        "score": "86.8% (closest-tested 16\": Legion Pro 5 16 Gen 10)",
+        "url": "https://www.notebookcheck.net/Lenovo-Legion-Pro-5-16IAX10-RTX-5070-Ti.1089964.0.html",
+        "quote": "It's built well and clean looking, offers solid ergonomics, decent inputs ... the mid-range RTX 5060/5070 options are the ones to look at, as they are priced competitively and can be properly tamed in this chassis."
+      }
+    ],
+    "note": "No pro review found for the Legion 5 16 Gen 10 IPS config (honest disclosure per SHARED-legion5-ips.md); inferred from Pro 5 16 Gen 10 (86.8%) and Legion 5 15 chassis (87%)."
+  },
+  "user_sentiment": {
+    "praises": [
+      "24-core Ultra 9 275HX + 32GB RAM makes this the workstation spec of the 16\" Legion 5 line at a sale price well under its $5,149 list",
+      "240Hz 16\" WQXGA matte IPS: buttery motion, ~500 nits, zero PWM flicker",
+      "UltrabookReview: the 5060/5070 tiers 'can be properly tamed in this chassis' — good sustained clocks without extreme fan noise",
+      "Dual SODIMM to 64GB and dual M.2 — future-proof without warranty hassle",
+      "Wi-Fi 7, 5MP webcam with eShutter, full-size numpad keyboard praised across the chassis family (NBC: 'very comfortable')"
+    ],
+    "complaints": [
+      "GPU/RAM pairing still skewed: for pure gaming, a 5070 config elsewhere is better FPS per dollar",
+      "~2.4 kg / 25 mm — this is a desk-first laptop; the 15\" Legion 5s travel much better",
+      "No Thunderbolt on Intel Legion 5 models; no card reader (NBC cons)",
+      "Speakers 'could be better' (NBC)",
+      "Legion platform threads: warranty friction (LENOVEO), occasional fan-bearing grind and 50-series driver crashes on some units"
+    ]
+  },
+  "standouts": [
+    "32GB + 24-core CPU + 240Hz 16\" at $3,599 sale — the best all-round 16\" spec of the non-OLED Legion 5 range"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "The 32GB twin of the 16\" Legion 5 Gen 10 fixes the entry tier's one real gap: it matches the desktop-class CPU with enough memory for heavy multitasking, VMs, or local LLM tinkering, while keeping the cool-running 5060 and the big 240Hz matte panel. It is the 'gamer who also works' configuration of the line.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 7.5,
+    "screen_quality": 6.4,
+    "readability_dark": 6.8,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 6.4,
+    "productivity": 9,
+    "portability": 5.8,
+    "build_quality": 8,
+    "thermals_noise": 6.7,
+    "port_connectivity": 6.8,
+    "creative_work": 6.3,
+    "keyboard_trackpad": 8.3,
+    "webcam_speakers": 6.3,
+    "upgradability": 8.5,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 6.8
+  },
+  "rating_notes": "Ratings inferred from NBC Legion Pro 5 16 Gen 10 collection (86.8%) + Legion 5 15 chassis (87%) per SHARED-legion-pro5.md / SHARED-legion5-oled.md, IPS deltas per SHARED-legion5-ips.md. Identical to 174.json except 32GB RAM: +0.5 productivity / +0.3 ai_ml (per OLED SHARED RAM delta). Image URL follows standard BBY CDN pattern, not individually verified."
+}

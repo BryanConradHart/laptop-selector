@@ -1,0 +1,104 @@
+{
+  "id": "gb6-14-u7-16-512",
+  "line": "Samsung Galaxy Book6 14 (Copilot+)",
+  "config_name": "Galaxy Book6 14 — Intel Core Ultra 7 (Series 2), Arc iGPU, 16GB LPDDR5X, 512GB, 14\" FHD+ IPS",
+  "tier": "Mid",
+  "category": "ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 (Series 2, Lunar Lake)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 140V integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered (on-package)",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 14,
+    "display_type": "IPS non-touch (base tier)",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.13,
+    "ports": "2x USB-C, 2x USB-A, HDMI, microSD, 3.5mm",
+    "wireless": "Wi-Fi 6E/7, BT 5.3",
+    "webcam": "FHD IR",
+    "speakers": "stereo",
+    "keyboard_notes": "backlit chiclet",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 15,
+    "real_world_hours": 12,
+    "notes": "Same Lunar Lake platform as Ultra 5 tier; ~12h light use."
+  },
+  "price": {
+    "cad": 1900,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19735870",
+    "confidence": "verified",
+    "notes": "Flat $1,899.99 (no sale, BBY-verified 2026-11-24). $600 over the Ultra 5 tier for a CPU bump — weak pricing vs the 1TB twin on sale at the same $1,899.99. SKU 19735870.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19735870",
+        "cad": 1899.99,
+        "est": false,
+        "name": "Samsung Galaxy Book6 14\" CoPilot+ PC Laptop - Intel Core Ultra 7 - 16GB LPDDR5X - 512GB SSD - Windows 11 Home - Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19735/19735870.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "No retrievable pro review of this exact config; NBC/RTINGS bot-walled this pass (see SHARED-galaxy-book.md). Honest null."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Ultra 7 Lunar Lake adds a stronger Arc 140V iGPU — light gaming and video editing noticeably better than the Ultra 5 tier",
+      "Ultra-light ~1.13 kg chassis with all-day battery",
+      "Galaxy phone integration (Quick Share, Second Screen, Side Sync) is the best Windows-phone pairing short of Apple",
+      "Copilot+ NPU (47+ TOPS) future-proofs local AI features",
+      "Quiet, cool operation under office productivity"
+    ],
+    "complaints": [
+      "$600 premium over the Ultra 5 tier for the same 512GB and same dim IPS panel — the 1TB twin is better value at the same price",
+      "Base FHD+ IPS ~300-nit glossy panel unchanged at $1,900",
+      "16GB soldered, no upgrade path",
+      "Samsung bloatware preinstalled",
+      "60 Hz non-touch at this price when the Book6 Pro 14 touch was on sale for less"
+    ]
+  },
+  "design_philosophy": "The Ultra 7 / 512GB tier sits awkwardly in the Book6 14 range: same chassis, panel, and RAM as the Ultra 5, with a faster CPU/iGPU. Its flat $1,899.99 price against the sale-priced Ultra 5 and the same-price 1TB twin makes it the tier to skip — a pricing artifact of Best Buy stocking rather than a distinct product idea.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 6.5,
+    "screen_quality": 4.5,
+    "readability_dark": 5,
+    "readability_bright": 4.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7.5,
+    "portability": 9.5,
+    "build_quality": 7,
+    "thermals_noise": 8.5,
+    "port_connectivity": 7.5,
+    "creative_work": 4.5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 5.5,
+    "upgradability": 2,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 3.5,
+    "durability": 5.5
+  },
+  "rating_notes": "Inferred from Ultra 5 sibling (+0.5 gaming/productivity/creative for Arc 140V vs 130V). See SHARED-galaxy-book.md; bot-wall disclosure there. Image URL best-guess BBY CDN pattern."
+}

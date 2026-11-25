@@ -1,0 +1,106 @@
+{
+  "id": "asus-chromebook-plus-cx34-i5",
+  "line": "ASUS Chromebook Plus CX34 (2024-2026 refresh)",
+  "config_name": "ASUS Chromebook Plus CX34 14\" touch — Core i5-1334U, 16GB RAM, 512GB SSD, 14\" FHD touch",
+  "tier": "Mid",
+  "category": "budget",
+  "ecosystem": "ChromeOS",
+  "form_factor": "clamshell",
+  "release": "2024-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core i5-1334U (10-core: 2P+8E, Raptor Lake-U, up to 4.6 GHz)",
+    "cpu_cores": 10,
+    "gpu": "Intel Iris Xe (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "soldered LPDDR5",
+    "storage_gb": 512,
+    "storage_type": "NVMe M.2 (soldered/limited service access on CX34)",
+    "screen_size_in": 14,
+    "display_type": "FHD IPS touch",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.47,
+    "ports": "2x USB-C 3.2 Gen2, 2x USB-A 3.2 Gen1, HDMI 2.1, microSD, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "FHD 1080p with privacy shutter",
+    "speakers": "2x stereo (harman/kardon tuned)",
+    "keyboard_notes": "Bilingual CA chiclet, backlit on this tier",
+    "pen_support": "touch (active pen not supported)",
+    "os": "ChromeOS (Chromebook Plus, ~10-year automatic updates)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 8,
+    "notes": "~50 Wh + ChromeOS efficiency: ~7-9h real web use; 13th-gen U is thirstier than N-series but still strong on ChromeOS."
+  },
+  "price": {
+    "cad": 699.97,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/18935889",
+    "confidence": "verified",
+    "notes": "BBY-verified 2026-11-24, SKU 18935889. Includes 12 months Google AI Pro. Strongest spec-per-dollar of the CX34 twins.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/18935889",
+        "cad": 699.97,
+        "est": false,
+        "name": "ASUS CX34 14\" Touchscreen Chromebook Plus - Intel Core i5-1334U - 16GB LPDDR5X - 512GB SSD - ChromeOS - Rocky Grey - 12 month of Google AI Pro"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/189/18935/18935889.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "i5-1334U + 16GB + 512GB at $699.97 is the highest x86 spec you can buy on ChromeOS in Canada — headroom for years",
+      "CX34 chassis is the best-built budget Chromebook: rigid deck, good hinge, backlit keyboard",
+      "Touchscreen plus 1080p webcam plus microSD — the practical extras the cheap SKUs skip",
+      "12 months of Google AI Pro bundled (per listing) — real value on top of the machine",
+      "Iris Xe handles Linux-container dev tools and heavy tab loads far better than N-series Chromebooks"
+    ],
+    "complaints": [
+      "Still ChromeOS at $700 — buyers who later need desktop apps are stuck",
+      "16GB RAM is soldered; the 512GB is the only reason to pick this tier over cheaper ones",
+      "Glossy touch panel reflects light and is class-typical ~45% NTSC colour",
+      "13th-gen Intel (2023) is aging in a 2026 listing; newer N-series twins are more efficient",
+      "No active pen support despite the touchscreen"
+    ]
+  },
+  "standouts": [
+    "Best raw spec-per-dollar in the CA Chromebook inventory: 16GB/512GB + i5 + touch + backlit keyboard at $699.97 with 12mo Google AI Pro"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "ASUS's CX34 is the 'spec-maxxing' Chromebook Plus: instead of cutting hardware to hold a price, it packs a full 13th-gen Core i5, 16GB RAM, and 512GB storage into a well-built touch chassis at just under $700. The bet is that Chromebook buyers keep machines ~6 years (the update window), so CPU/RAM headroom is worth more than thinness.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 6,
+    "screen_quality": 4.8,
+    "readability_dark": 4.2,
+    "readability_bright": 4,
+    "ecosystem": 5,
+    "gaming": 1.5,
+    "productivity": 6.5,
+    "portability": 7.3,
+    "build_quality": 6.5,
+    "thermals_noise": 7,
+    "port_connectivity": 7,
+    "creative_work": 2.5,
+    "keyboard_trackpad": 6.8,
+    "webcam_speakers": 6,
+    "upgradability": 3,
+    "ai_ml": 1.8,
+    "pen_touch": 5,
+    "repairability_service": 5,
+    "durability": 6
+  },
+  "rating_notes": "No pro score found (outlets bot-walled; see SHARED-chromebooks.md). Inferred from the Chromebook Plus anchor (29.json): i5-1334U + 16GB → productivity +1.0, gaming +0.3 (Iris Xe, still cloud-only gaming), battery -0.5 vs N-series; better CX34 chassis → build +1.0, keyboard +0.8; microSD/HDMI 2.1 → ports +1.0; touch → pen_touch 5.0 (no active pen). Image URL best-guess BBY CDN pattern."
+}

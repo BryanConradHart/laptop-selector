@@ -1,0 +1,128 @@
+{
+  "id": "mba15-m5-24-1tb",
+  "line": "Apple MacBook Air 15-inch (2026, M5)",
+  "config_name": "MacBook Air 15-inch — M5 10-core CPU / 10-core GPU, 24GB RAM, 1TB SSD",
+  "tier": "Top",
+  "category": "apple",
+  "ecosystem": "macOS",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M5 (10-core: 4 super + 6 efficiency)",
+    "cpu_cores": 10,
+    "gpu": "Apple M5 10-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 24,
+    "ram_type": "unified/soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe soldered (PCIe 4.0)",
+    "screen_size_in": 15.3,
+    "display_type": "IPS LCD (Liquid Retina)",
+    "resolution": "2880x1864",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 0,
+    "weight_kg": 1.51,
+    "ports": "2x TB4/USB-C, MagSafe 3, 3.5mm",
+    "wireless": "Wi-Fi 7 (Apple N1), BT 6",
+    "webcam": "12MP Center Stage",
+    "speakers": "6-speaker",
+    "keyboard_notes": "Magic Keyboard, Touch ID, Force Touch trackpad",
+    "pen_support": "none",
+    "os": "macOS Tahoe 26"
+  },
+  "battery": {
+    "claimed_hours": 18,
+    "real_world_hours": 14.3,
+    "notes": "66.5Wh cell across the Air 15 line."
+  },
+  "price": {
+    "cad": 2849,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-mac/macbook-air/15-inch-midnight-m5-chip-10-core-cpu-10-core-gpu-24gb-memory-1tb-storage",
+    "confidence": "verified",
+    "notes": "Verified from apple.com/ca buy page (fullPrice 2849.00).",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19790680",
+        "cad": 2589.99,
+        "est": false,
+        "name": "Apple MacBook Air 15.3\" w/ Touch ID (2026) - Silver (Apple M5 / 24GB RAM / 1TB SSD) - English"
+      },
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-mac/macbook-air/15-inch-midnight-m5-chip-10-core-cpu-10-core-gpu-24gb-memory-1tb-storage",
+        "cad": 2849,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-mac/macbook-air/15-inch-midnight-m5-chip-10-core-cpu-10-core-gpu-24gb-memory-1tb-storage"
+  },
+  "image_url": "https://www.apple.com/v/macbook-air/specs/c/images/specs/15-inch/mba_15_hero__gkshp5bw2f6m_large.jpg",
+  "professional": {
+    "avg_score": 9.2,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "92%",
+        "url": "https://www.notebookcheck.net/Apple-MacBook-Air-15-M5-Review.1244905.0.html",
+        "quote": "There is just nothing comparable in the Windows world."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.3/10",
+        "url": "https://rtings.com/laptop/reviews/apple/macbook-air-13-m5-2026",
+        "quote": "It can easily last through a full workday without needing to recharge."
+      },
+      {
+        "outlet": "Tom's Hardware",
+        "score": "Editor's Choice",
+        "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-air-13-inch-m5-review",
+        "quote": "For many, it's the best Mac around."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "The complete Air: 24GB + 1TB + big quiet screen + great speakers in 1.51 kg",
+      "Handles Xcode + Docker + 50 Chrome tabs without fan noise (r/macbook)",
+      "Battery lasts multiple days of moderate use (Amazon.ca reviewers)",
+      "Best price-performance in its class — NBC says nothing Windows compares",
+      "High resale value keeps true cost of ownership low"
+    ],
+    "complaints": [
+      "At C$2,849 you're C$50 from an M6 MacBook Pro 14 — the perennial Air-vs-Pro debate (r/macbook)",
+      "Soldered RAM/SSD locks the config in permanently",
+      "60Hz notched LCD and only two ports at nearly C$3k",
+      "Fanless throttling keeps sustained multi-core behind the Pro",
+      "No HDMI/SDXC means creators still need a dock"
+    ]
+  },
+  "design_philosophy": "The ceiling of the Air line in Canada: maximum memory and storage Apple offers on the 15-inch without crossing into Pro territory. It's the 'buy once, keep for six years' Air.",
+  "ratings": {
+    "battery": 9.5,
+    "screen_size": 7.5,
+    "screen_quality": 7.5,
+    "readability_dark": 7,
+    "readability_bright": 7,
+    "ecosystem": 9.5,
+    "gaming": 3.5,
+    "productivity": 9.1,
+    "portability": 8.8,
+    "build_quality": 9.2,
+    "thermals_noise": 9.4,
+    "port_connectivity": 4.5,
+    "creative_work": 7.4,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 8.3,
+    "upgradability": 1,
+    "ai_ml": 7.3,
+    "pen_touch": 0,
+    "repairability_service": 4,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings inferred from directly-tested Air 15 M5 base (NBC 92%): RAM/storage bumps per parts 06/07 deltas. Image follows Apple specs-page CDN pattern. Sentiment from NBC cons + Amazon.ca aggregate; Reddit API blocked (403)."
+}

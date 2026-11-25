@@ -1,0 +1,121 @@
+{
+  "id": "yp9i-g10-u9-32-1tb-tandem-5050",
+  "line": "Lenovo Yoga Pro 9i Aura Edition Gen 10 (16\" Intel, 2025)",
+  "config_name": "Yoga Pro 9i Aura Edition Gen 10 — Core Ultra 9 285H, RTX 5050 8GB, 32GB LPDDR5X, 1TB SSD, 16\" 3.2K Tandem OLED 120Hz (as-reviewed config)",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": false,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 285H (Arrow Lake-H, 16-core, P-cores up to 5.4GHz)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5050 Laptop 8GB GDDR7",
+    "gpu_type": "dedicated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X-8400 dual channel soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 PCIe Gen4 NVMe",
+    "screen_size_in": 16,
+    "display_type": "PureSight Pro 3.2K Tandem OLED, 16:10",
+    "resolution": "3200x2000",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 1.62,
+    "ports": "2x Thunderbolt 4, 1x USB-A, HDMI 2.1, SD Express, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "6-speaker array",
+    "keyboard_notes": "Yoga creator keyboard; CNET: slightly awkward keyboard placement",
+    "pen_support": "none (non-touch)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 13,
+    "real_world_hours": 8.5,
+    "notes": "84Wh (VERIFIED on lenovo.com/ca). CNET's as-reviewed config; ~8-9h light mixed use."
+  },
+  "price": {
+    "cad": 2649,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-pro-series/yoga-pro-9i-gen-10-aura-edition-16-inch-intel/len101y0063",
+    "confidence": "estimated",
+    "notes": "CNET as-reviewed US$1,950 (VERIFIED via NOTES.md anchor); x1.35 → ~$2,650 CAD. Lenovo CA ld+json price hidden (0) on this PDP; eCoupon pricing applies.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-pro-series/yoga-pro-9i-gen-10-aura-edition-16-inch-intel/len101y0063",
+        "cad": 2649,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-pro-series/yoga-pro-9i-gen-10-aura-edition-16-inch-intel/len101y0063"
+  },
+  "image_url": "https://p4-ofp.static.pub/ShareResource/optimized/pdp/yoga/yoga-pro-series/len101y0063/yoga-pro-9i-gen-10-aura-editionn-16-intel.png",
+  "professional": {
+    "avg_score": 8.6,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.6/10",
+        "url": "https://www.cnet.com/tech/computing/",
+        "quote": "Centered around a gorgeous 16-inch OLED display, this Yoga laptop provides the performance and build that graphics pros demand."
+      },
+      {
+        "outlet": "CNET",
+        "score": "8.6/10",
+        "url": "https://www.cnet.com/tech/computing/",
+        "quote": "Six-speaker array produces tinny, hollow sound"
+      },
+      {
+        "outlet": "CNET",
+        "score": "8.6/10 Editors' Choice",
+        "url": "https://www.cnet.com/tech/computing/",
+        "quote": "Slightly awkward keyboard placement"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "CNET Editors' Choice config: the exact Ultra 9 + RTX 5050 + 32GB + 1TB build reviewers validated",
+      "3.2K Tandem OLED sustains 1,600-nit HDR peaks — the display is the reason people buy this SKU",
+      "Arrow Lake-H Ultra 9 handles sustained exports far better than the Lunar-Lake-class Slims",
+      "SD Express + HDMI + USB-A + dual TB4 is the most complete creator port set in the Yoga range",
+      "84Wh battery is huge for a thin 16-inch dGPU laptop"
+    ],
+    "complaints": [
+      "Six-speaker array produces tinny, hollow sound (CNET) — worst part of an otherwise premium build",
+      "Slightly awkward keyboard placement crowds palms on long typing sessions (CNET)",
+      "Soldered RAM/storage, no user upgrade path",
+      "Fans spin up audibly during long GPU renders in the thin chassis",
+      "Lenovo CA pricing swings with eCoupon games; hard to catch the true street price"
+    ]
+  },
+  "design_philosophy": "The as-reviewed heart of Lenovo's 16-inch creator flagship — CNET's Editors' Choice config pairing Ultra 9 with the RTX 5050 and Tandem OLED. It defines the Pro 9i formula: studio-grade display and pro performance in a body that still passes as an ultrabook.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 8.5,
+    "screen_quality": 9.2,
+    "readability_dark": 9,
+    "readability_bright": 8.5,
+    "ecosystem": 9,
+    "gaming": 6,
+    "productivity": 8.8,
+    "portability": 6.5,
+    "build_quality": 9,
+    "thermals_noise": 7,
+    "port_connectivity": 8,
+    "creative_work": 8.6,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 5.5,
+    "upgradability": 3,
+    "ai_ml": 6.8,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 7.5
+  },
+  "rating_notes": "This IS the CNET-reviewed config (8.6/10, US$1,950, Editors' Choice — anchor VERIFIED in NOTES.md), so inferred=false. CNET review URL left generic because the exact slug could not be fetched (404 on guessed slugs); quotes are the verified ones from NOTES.md. Port list best-effort from PDP."
+}

@@ -1,0 +1,104 @@
+{
+  "id": "omen17-5060-365-32-1tb",
+  "line": "HP OMEN 17 (2025, RTX 50-series)",
+  "config_name": "OMEN 17 — RTX 5060 8GB, Ryzen AI 9 365, 32GB DDR5, 1TB SSD, 17.3\" FHD 144Hz",
+  "tier": "Mid",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 9 365 (Zen 5/5c, 10-core: 4P+6E)",
+    "cpu_cores": 10,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7",
+    "gpu_type": "dedicated",
+    "ram_gb": 32,
+    "ram_type": "DDR5 SODIMM (2 slots)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe Gen4",
+    "screen_size_in": 17.3,
+    "display_type": "IPS, anti-glare, 16:9",
+    "resolution": "1920x1080",
+    "refresh_hz": 144,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": 0,
+    "weight_kg": 2.8,
+    "ports": "1x USB-C 10Gbps (DP), 2x USB-A, HDMI 2.1, Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "720p (average)",
+    "speakers": "2-speaker, average",
+    "keyboard_notes": "Full-size with numpad, 1-zone RGB option",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 4.5,
+    "notes": "~83Wh. OMEN 16/17 chassis with Ryzen AI 9: ~4-5h light use per user reports; RAM tier does not change runtime."
+  },
+  "price": {
+    "cad": 2749,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19763449",
+    "confidence": "verified",
+    "notes": "BBY sku 19763449 (marketplace seller PC Heaven): regular $3,929 anchor, sale $2,749 (verified 2026-11-24 via BBY search API). PC Heaven regular-price anchors inflated ~40% — treat $2,749 as the real street price. A Win 11 Pro twin exists at $2,799 (sku 19763441).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19763449",
+        "cad": 2749,
+        "est": false,
+        "name": "HP OMEN 17 17.3\" 144Hz Gaming Laptop - AMD Ryzen AI 9 365 - 32GB DDR5 - 1TB SSD - RTX 5060 8GB - Windows 11 - Black"
+      }
+    ],
+    "official_url": null
+  },
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "32GB from the factory at $2,749 sale: the RAM HP charges a premium for elsewhere, pre-installed",
+      "RTX 5060 + Ryzen AI 9 365 handles 1080p-ultra/1440p-medium gaming with DLSS 4 comfortably",
+      "17.3-inch 144Hz panel at this price: big screen without flagship money",
+      "Socketed DDR5 and standard M.2 — already at 32GB but still user-serviceable",
+      "Numpad keyboard and full port set (HDMI 2.1, USB-C with DP, Ethernet) for desk use"
+    ],
+    "complaints": [
+      "Battery ~4-5h light use — mediocre for a Ryzen AI chip",
+      "Base 144Hz IPS is dim (~300 nits) with washed-out viewing angles",
+      "Plastic deck flexes near the vents; not the sturdiest 17-inch",
+      "Average 720p webcam and mics — poor on calls",
+      "$350 RAM upcharge over the 16GB SKU is steep vs buying SODIMMs; HP bloat (OMEN Hub, McAfee) out of the box"
+    ]
+  },
+  "design_philosophy": "HP's big-screen mainstream gaming value play: the OMEN 17 stretches the 2025 OMEN 16 chassis to 17.3 inches at the same price points, prioritising screen size and GPU-per-dollar over thinness, battery, or premium materials. This 32GB RTX 5060 config is the multitasker's pick of the line.",
+  "ratings": {
+    "battery": 5,
+    "screen_size": 9.5,
+    "screen_quality": 5.5,
+    "readability_dark": 5.5,
+    "readability_bright": 5,
+    "ecosystem": 9.5,
+    "gaming": 7,
+    "productivity": 7.5,
+    "portability": 3.5,
+    "build_quality": 6.5,
+    "thermals_noise": 7,
+    "port_connectivity": 7.5,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 4,
+    "upgradability": 7.5,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6
+  },
+  "rating_notes": "Ratings inferred from the 16GB sibling baseline (61.json) per SHARED-omen-17.md: 32GB RAM → productivity +0.5 and ai_ml +0.5 (more headroom for local models / heavy multitasking); all else identical. No numeric pro score found for this config (NBC bot-walled — see SHARED file; nothing fabricated). Image URL is a best-guess BBY CDN pattern — site has fallback.",
+  "rating_notes_source": "SHARED-omen-17.md",
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19763/19763439.jpeg"
+}

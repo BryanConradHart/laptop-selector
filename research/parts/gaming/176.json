@@ -1,0 +1,115 @@
+{
+  "id": "legion5-16-ips-hdr-275hx-5060-32-1tb",
+  "line": "Lenovo Legion 5 16 (Gen 10, 2025, IPS 240Hz HDR)",
+  "config_name": "Legion 5 16 — Core Ultra 9 275HX / RTX 5060 8GB, 32GB DDR5, 1TB SSD, 16\" WQXGA IPS 240Hz HDR",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-11",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7 (~115W Legion TGP, MUX)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5 (2x SODIMM, upgradeable to 64GB)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "IPS anti-glare (WQXGA, HDR, 240 Hz)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 500,
+    "weight_kg": 2.4,
+    "ports": "2x USB-C (DP, PD), 3x USB-A, HDMI 2.1, RJ45 GbE, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "5MP with electronic shutter",
+    "speakers": "Stereo",
+    "keyboard_notes": "Chiclet w/ numpad, 1.6mm travel, backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 6.5,
+    "notes": "80 Wh class. Inferred from NBC Legion 5/Pro 5 Gen 10 chassis testing; ~6-7h WiFi est."
+  },
+  "price": {
+    "cad": 3649,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19875571",
+    "confidence": "verified",
+    "notes": "Regular $5,219 / sale $3,649, BBY API-verified 2026-11-24 (LEGION_LIST.md). Only $50 over the non-HDR twin at sale price.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19875571",
+        "cad": 3649,
+        "est": false,
+        "name": "Lenovo Legion 5 16\" WQXGA 240Hz HDR Gaming Laptop - Intel Ultra 9 275HX - 32GB DDR5 - 1TB SSD - RTX 5060 - Windows 11 Home - Gray"
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/legion-laptops/legion-5-series/"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19875/19875571.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (collection)",
+        "score": "86.8% (closest-tested 16\": Legion Pro 5 16 Gen 10)",
+        "url": "https://www.notebookcheck.net/Lenovo-Legion-Pro-5-16IAX10-RTX-5070-Ti.1089964.0.html",
+        "quote": "It's built well and clean looking, offers solid ergonomics, decent inputs ... the mid-range RTX 5060/5070 options are the ones to look at, as they are priced competitively and can be properly tamed in this chassis."
+      }
+    ],
+    "note": "No pro review found for the Legion 5 16 Gen 10 IPS HDR config (honest disclosure per SHARED-legion5-ips.md); inferred from Pro 5 16 Gen 10 (86.8%) and Legion 5 15 chassis (87%)."
+  },
+  "user_sentiment": {
+    "praises": [
+      "HDR-labelled 240Hz 16\" IPS: brighter HDR highlights than standard IPS (~500-nit class) while staying matte and PWM-free",
+      "24-core Ultra 9 275HX + 32GB RAM: workstation-grade multitasking under $3,700 on sale",
+      "Only $50 over the non-HDR twin at sale price — the cheap upgrade if you watch HDR video",
+      "UltrabookReview: 5060/5070 tiers 'properly tamed in this chassis' — good sustained performance, manageable noise",
+      "Full Legion serviceability: dual SODIMM to 64GB, dual M.2, screwed battery, published maintenance manual"
+    ],
+    "complaints": [
+      "HDR on edge-lit IPS is marketing more than HDR — no local dimming, so highlights bloom; OLED siblings remain far better for HDR",
+      "GPU still the mid RTX 5060 despite the big CPU — gamers should price the 5070 configs first",
+      "~2.4 kg / 25 mm desk-first weight class",
+      "No Thunderbolt on Intel Legion 5 models; no card reader; speakers mediocre (NBC cons)",
+      "Legion platform threads: warranty friction and occasional fan-bearing grind / 50-series driver crashes on some units"
+    ]
+  },
+  "standouts": [
+    "HDR-panel upgrade for $50 over the standard twin at sale price"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "The HDR-panel variant of the 16\" Legion 5 Gen 10: Lenovo's way of offering a brighter, HDR-capable (though still edge-lit IPS) 240Hz panel without pushing buyers up into the OLED Pro tiers. Same CPU-first spec as the 32GB twin — a work-and-play 16\" machine at a mainstream sale price.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 7.5,
+    "screen_quality": 6.6,
+    "readability_dark": 6.8,
+    "readability_bright": 7.2,
+    "ecosystem": 9,
+    "gaming": 6.4,
+    "productivity": 9,
+    "portability": 5.8,
+    "build_quality": 8,
+    "thermals_noise": 6.7,
+    "port_connectivity": 6.8,
+    "creative_work": 6.4,
+    "keyboard_trackpad": 8.3,
+    "webcam_speakers": 6.3,
+    "upgradability": 8.5,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 6.8
+  },
+  "rating_notes": "Ratings inferred from NBC Legion Pro 5 16 Gen 10 collection (86.8%) + Legion 5 15 chassis (87%) per SHARED-legion-pro5.md / SHARED-legion5-oled.md, IPS deltas per SHARED-legion5-ips.md. Identical to 175.json except HDR IPS panel: +0.2 screen_quality / +0.2 readability_bright (brighter HDR-capable panel), +0.1 creative_work. HDR on edge-lit IPS is modest — disclosed. Image URL follows standard BBY CDN pattern, not individually verified."
+}

@@ -1,0 +1,123 @@
+{
+  "id": "ipad-11-a16-512",
+  "line": "Apple iPad 11-inch (A16, 11th Gen, 2025)",
+  "config_name": "iPad 11-inch — A16, 6GB RAM, 512GB, 11\" Liquid Retina + Magic Keyboard Folio",
+  "tier": "Upper",
+  "category": "tablets-ios-android",
+  "ecosystem": "iPadOS",
+  "form_factor": "tablet",
+  "release": "2025-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple A16 (6-core: 2P+4E)",
+    "cpu_cores": 6,
+    "gpu": "Apple A16 5-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 6,
+    "ram_type": "unified/soldered (Apple-unpublished, teardown est)",
+    "storage_gb": 512,
+    "storage_type": "NVMe soldered",
+    "screen_size_in": 10.86,
+    "display_type": "Liquid Retina IPS LCD (non-laminated, anti-reflective coating, no ProMotion)",
+    "resolution": "2360x1640",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.477,
+    "ports": "1x USB-C (USB 2.0 480Mb/s), Smart Connector (Magic Keyboard Folio)",
+    "wireless": "Wi-Fi 6 (2x2), BT 5.3",
+    "webcam": "12MP landscape Ultra Wide front",
+    "speakers": "Landscape stereo (2-speaker)",
+    "keyboard_notes": "Magic Keyboard Folio included in price: detachable scissor keyboard with 14-key function row, adjustable hinge — NO trackpad",
+    "pen_support": "Apple Pencil (USB-C) ~$119 or Apple Pencil 1st gen ~$149 — not included; no Pencil Pro/2 support, no hover",
+    "os": "iPadOS (Apple Intelligence NOT supported on A16 base iPad)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 8.5,
+    "notes": "28.93Wh cell. Apple claims 10h web/video Wi-Fi; users report ~8-9h mixed real-world use."
+  },
+  "price": {
+    "cad": 1409,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-ipad/ipad/512gb-blue-wifi",
+    "confidence": "verified",
+    "notes": "Tablet-only $1,079.00 (apple.com/ca, verified 2026-11-24; BBY 19204174 $1,079.99) + Magic Keyboard Folio $329.99 (BBY 16567047). Wi-Fi+Cellular +$200 ($1,279 tablet) omitted per precedent. Pencil not included.",
+    "offers": [
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-ipad/ipad/512gb-blue-wifi",
+        "cad": 1409,
+        "est": false
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19204174",
+        "cad": 1079.99,
+        "est": false,
+        "name": "Apple iPad A16 11\" 512GB with Wi-Fi 6 (11th Generation) - Blue"
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-ipad/ipad/512gb-blue-wifi"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19204/19204174.jpg",
+  "professional": {
+    "avg_score": 8.4,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "84%",
+        "url": "https://www.notebookcheck.net/Apple-iPad-11-2025-review-The-affordable-tablet-lags-behind-in-the-most-important-area.1006011.0.html",
+        "quote": "The affordable tablet lags behind in the most important area. Pros: fast SoC, hardly any heat dissipation, premium case. Cons: thick bezels, a slow 60 Hz screen, the panel is not completely laminated, only a 12-month guarantee, only a few Bluetooth audio codecs, only USB 2.0."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Half a terabyte in the cheap iPad — offline media libraries, downloaded courses, and large note archives with no iCloud bill (r/ipad)",
+      "A16 stays smooth under heavy multitasking; 512GB owners never see the storage-full slowdown",
+      "Landscape 12MP front camera + Center Stage remains the best budget video-call combo",
+      "Magic Keyboard Folio turns it into a real writing machine for long-form work",
+      "8-9h real battery and USB-C display-out make it a viable travel workstation"
+    ],
+    "complaints": [
+      "$1,409 with keyboard lands within ~$100 of an iPad Air M4 + keyboard on sale — the Air is the better chip, display, and AI story",
+      "Non-laminated display at $1,400 total is hard to defend",
+      "No Apple Intelligence on the most expensive tier of the budget iPad",
+      "USB 2.0 makes moving hundreds of gigabytes off the device painfully slow",
+      "Folio keyboard lacks a trackpad and backlight"
+    ]
+  },
+  "design_philosophy": "The capacity outlier of the base line: buyers choose 512GB here when they want iPad simplicity plus bulk offline storage without Pro pricing. It exposes the base iPad's ceiling — beyond ~$1,300 total, the Air M4 line is usually the smarter Apple.",
+  "ratings": {
+    "battery": 8.3,
+    "screen_size": 6,
+    "screen_quality": 6.3,
+    "readability_dark": 5.5,
+    "readability_bright": 6.5,
+    "ecosystem": 6.5,
+    "gaming": 4,
+    "productivity": 5.5,
+    "portability": 9.2,
+    "build_quality": 8.5,
+    "thermals_noise": 9,
+    "port_connectivity": 3.5,
+    "creative_work": 5.3,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 7.5,
+    "upgradability": 1,
+    "ai_ml": 3.5,
+    "pen_touch": 6,
+    "repairability_service": 5,
+    "durability": 8
+  },
+  "rating_notes": "Pro score attached from NBC review of this exact model (gap-fill 2026-11-24). Ratings inferred from the line anchor (iPad A16 256GB, entry 28); +0.3 creative_work for 512GB headroom. No verbatim pro score found (NBC reviewed the model; notebookcheck + search engines bot-walled this session) — disclosed, none invented; synthesis per SHARED base-iPad consensus. Ecosystem 6.5 per tablets rule. Image URL is BBY CDN closest-SKU guess (19204174).",
+  "standouts": [
+    "512GB for offline media/notes at the base-line price",
+    "Same 8-9h battery and landscape camera as every base-iPad tier"
+  ],
+  "dealbreakers": [
+    "At $1,409 with keyboard, an iPad Air M4 (laminated display, Apple Intelligence, M4) is often cheaper on BBY sale — this tier only makes sense if 512GB in the cheapest chassis is a hard requirement"
+  ]
+}

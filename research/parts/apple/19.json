@@ -1,0 +1,122 @@
+{
+  "id": "mbp16-m5pro-24-1tb",
+  "line": "Apple MacBook Pro 16-inch (2026, M5 Pro)",
+  "config_name": "MacBook Pro 16-inch — M5 Pro 18-core CPU / 20-core GPU, 24GB RAM, 1TB SSD",
+  "tier": "Mid",
+  "category": "apple",
+  "ecosystem": "macOS",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": false,
+  "specs": {
+    "cpu": "Apple M5 Pro (18-core: 5 super + 13 performance)",
+    "cpu_cores": 18,
+    "gpu": "Apple M5 Pro 20-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 24,
+    "ram_type": "unified/soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe soldered (PCIe 5.0)",
+    "screen_size_in": 16.2,
+    "display_type": "Mini-LED IPS (Liquid Retina XDR)",
+    "resolution": "3456x2234",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 1000,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 2.14,
+    "ports": "3x TB5/USB-C, HDMI, SDXC, MagSafe 3, 3.5mm",
+    "wireless": "Wi-Fi 7 (Apple N1), BT 6",
+    "webcam": "12MP Center Stage",
+    "speakers": "6-speaker",
+    "keyboard_notes": "Magic Keyboard, Touch ID, Force Touch trackpad",
+    "pen_support": "none",
+    "os": "macOS Tahoe 26"
+  },
+  "battery": {
+    "claimed_hours": 24,
+    "real_world_hours": 13.5,
+    "notes": "100Wh; 140W adapter. NBC: runtime a bit shorter than the M4 Pro unit, likely due to more RAM power draw."
+  },
+  "price": {
+    "cad": 4199,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/16-inch",
+    "confidence": "verified",
+    "notes": "Verified on apple.com/ca buy page (see research/parts/apple/NOTES.md).",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19791133",
+        "cad": 4189.99,
+        "est": false,
+        "name": "Apple MacBook Pro 16.2\" (2026) - Space Black (Apple M5 Pro / 24GB RAM / 1TB SSD) - English"
+      },
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/16-inch",
+        "cad": 4199,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/16-inch"
+  },
+  "image_url": "https://www.apple.com/v/macbook-pro/specs/e/images/specs/16-inch/macbook_pro_16_inch__cqvg4x5ohjv6_large.jpg",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "92.3% Editor's Choice",
+        "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-16-2026-Review-M5-Pro-makes-one-of-the-best-multimedia-laptops-even-better.1245523.0.html",
+        "quote": "The new Apple M5 Pro SoC is a perfect fit for the MacBook Pro 16 because it can utilize the full performance of the chip without throttling. We see noticeable performance advantages over the previous M4 Pro chip (~20 % CPU, 30-50 % GPU)."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.2/10",
+        "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-16-m5-2026",
+        "quote": "premium workstation laptop designed for creative and professional work... outstanding build quality with premium materials and incredible fit and finish"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "The M5 Pro hits its full performance in the 16-inch chassis without any throttling (NBC)",
+      "Stays very quiet in most scenarios even under sustained load (NBC)",
+      "Mini-LED panel is still among the best and the matte option is a big advantage over most rivals (NBC)",
+      "Thunderbolt 5 and much faster PCIe 5.0 SSDs versus the previous generation (NBC)",
+      "The 16-inch speaker system and keyboard are the best Apple ships (NBC and RTINGS)"
+    ],
+    "complaints": [
+      "Prices are still high, especially when you add upgrades (NBC con)",
+      "Battery runtime is a bit shorter than the previous M4 Pro unit (NBC)",
+      "Still no SD Express support in the card reader (NBC con)",
+      "Wi-Fi 7 module limited to 160 MHz, capping rates around 2 Gbps (NBC)",
+      "2.14 kg plus the 140W brick makes this a desk-first laptop (RTINGS)"
+    ]
+  },
+  "design_philosophy": "The 16-inch is the chassis the Pro chip was made for: NBC's testing shows the bigger cooling headroom lets the M5 Pro run at full power indefinitely. It trades portability for the best display, speakers, and thermal behaviour Apple currently sells.",
+  "ratings": {
+    "battery": 9,
+    "screen_size": 8.5,
+    "screen_quality": 9.3,
+    "readability_dark": 9,
+    "readability_bright": 8.5,
+    "ecosystem": 9.5,
+    "gaming": 4.2,
+    "productivity": 9.4,
+    "portability": 6.5,
+    "build_quality": 9.5,
+    "thermals_noise": 9.2,
+    "port_connectivity": 7,
+    "creative_work": 8.8,
+    "keyboard_trackpad": 9.2,
+    "webcam_speakers": 8.5,
+    "upgradability": 1,
+    "ai_ml": 7.2,
+    "pen_touch": 0,
+    "repairability_service": 4,
+    "durability": 8.5
+  },
+  "rating_notes": "Directly tested config (NBC 92.3% Editor's Choice on the M5 Pro 18-core/20-core; RTINGS 8.2 on the M5 2026 16-inch chassis). Image URL is Apple's own specs-page CDN jpg; site fallback applies if it rotates. Sentiment synthesized from pro reviews — Reddit API blocked (403)."
+}

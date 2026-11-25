@@ -1,0 +1,128 @@
+{
+  "id": "x1c13-u7-32-1tb-oled",
+  "line": "Lenovo ThinkPad X1 Carbon Gen 13 Aura Edition (2025, Lunar Lake) — current value pick",
+  "config_name": "ThinkPad X1 Carbon Gen 13 — Core Ultra 7 258V, 32GB LPDDR5x, 1TB SSD, 14\" 2.8K OLED",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-03",
+  "inferred": false,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 258V (Lunar Lake, 8-core: 4P+4LPE)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 140V integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5x on-package",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2242 NVMe",
+    "screen_size_in": 14,
+    "display_type": "OLED 2.8K, 16:10",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 500,
+    "weight_kg": 0.98,
+    "ports": "2x TB4, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker",
+    "keyboard_notes": "ThinkPad keyboard, TrackPoint",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 18,
+    "real_world_hours": 13,
+    "notes": "57Wh; CNET: 'more than twice the battery time' vs Gen 12; several hours longer than Gen 14."
+  },
+  "price": {
+    "cad": 2199,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-13-aura-edition-14-inch-intel/len101t0108",
+    "confidence": "estimated",
+    "notes": "Clearance pricing as Gen 14 ships; CNET reviewed at US$2,474 new. CAD estimate.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19592184",
+        "cad": 3298.12,
+        "est": false,
+        "name": "Lenovo ThinkPad X1 Carbon Gen 13 14\" Business Laptop - Intel Core Ultra 7 258V - 32GB LPDDR5X - 1TB NVMe SSD - Windows 11 Pro - Black"
+      },
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-13-aura-edition-14-inch-intel/len101t0108",
+        "cad": 2199,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-13-aura-edition-14-inch-intel/len101t0108"
+  },
+  "image_url": "https://p2-ofp.static.pub/ShareResource/optimized/pdp/thinkpad/thinkpad-x1-series/len101t0108/lenovo-thinkpad-x1-carbon-gen-13-14-intel-hero.3e298a613b04c277.png",
+  "professional": {
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.3/10",
+        "url": "https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-13-aura-edition-review-great-business-laptop-gets-pricey-fast/",
+        "quote": "The little laptop is extremely light and long-running, making it a great pick for road warriors. But, Lenovo, you want how much for an OLED display?"
+      },
+      {
+        "outlet": "CNET",
+        "score": "8.3/10",
+        "url": "https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-13-aura-edition-review-great-business-laptop-gets-pricey-fast/",
+        "quote": "Exceptionally lightweight yet sturdy build; Lengthy battery life; Stellar 2.8K OLED display; Best-in-class ThinkPad keyboard."
+      },
+      {
+        "outlet": "CNET",
+        "score": "8.3/10",
+        "url": "https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-14-review-flagship-ultraportable-repairable/",
+        "quote": "last year's [Gen 13] model... battery life is actually a few hours shorter [on Gen 14]"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Lunar Lake battery life is the best any X1 Carbon has had — easily a full workday with WiFi browsing",
+      "Sub-1 kg with the OLED panel; feels like a prototype in hand",
+      "2.8K 120Hz OLED is gorgeous for the price now that it is discounted",
+      "Aura Share file drop between Android phone and laptop actually works well",
+      "Quieter and cooler than the T14 under sustained compile jobs"
+    ],
+    "complaints": [
+      "OLED upgrade cost an absurd amount at launch — buy the discounted OLED tiers now",
+      "1080p webcam is disappointing given the price",
+      "Aura Edition feature bundle is mostly bloat users ignore",
+      "Only one USB-A port; dock or hub needed for legacy offices",
+      "Gen 14's repairability makes Gen 13 a worse long-term keep (soldered-heavy internals)"
+    ]
+  },
+  "design_philosophy": "The Lunar Lake-gen X1 Carbon that traded CPU cores for class-leading efficiency; now the notable value pick in the line at clearance pricing, beating the newer Gen 14 on battery.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 7,
+    "screen_quality": 8.5,
+    "readability_dark": 9,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 8.5,
+    "portability": 10,
+    "build_quality": 9,
+    "thermals_noise": 8.5,
+    "port_connectivity": 8,
+    "creative_work": 5,
+    "keyboard_trackpad": 9.5,
+    "webcam_speakers": 6,
+    "upgradability": 5,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 7.5,
+    "durability": 9
+  },
+  "rating_notes": "Directly reviewed by CNET (OLED config). +1.5 battery vs Gen 14 per CNET's 'few hours shorter' note on Gen 14; −1 repairability (pre-Space Frame). Image URL is best-guess Lenovo CDN; site has fallback."
+}

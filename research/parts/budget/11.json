@@ -1,0 +1,106 @@
+{
+  "id": "aspire-go-15-r5-40-16-1tb",
+  "line": "Acer Aspire Go 15.6 (AG15-41)",
+  "config_name": "Aspire Go 15.6\" — Ryzen 5 40, 16GB LPDDR5, 1TB SSD, FHD IPS",
+  "tier": "Entry",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 5 40 (4-core/4-thread Zen 2 Mendocino)",
+    "cpu_cores": 4,
+    "gpu": "AMD Radeon 610M (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5 soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe",
+    "screen_size_in": 15.6,
+    "display_type": "IPS anti-glare",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.73,
+    "ports": "2x USB-C 3.2 Gen2 (DP, 45W PD), 1x USB-A 3.2 Gen1, 1x USB 2.0, HDMI 1.4, 3.5mm",
+    "wireless": "Wi-Fi 6, BT 5.x",
+    "webcam": "720p HD",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Chiclet with numeric keypad, bilingual CA",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 11,
+    "real_world_hours": 7,
+    "notes": "~45 Wh. The 4-core Zen 2 chip sips power: ~6.5-7.5h light web/video despite modest pack."
+  },
+  "price": {
+    "cad": 999.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19889767",
+    "confidence": "verified",
+    "notes": "No sale; $999.99 flat.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19889767",
+        "cad": 999.99,
+        "est": false,
+        "name": "Acer Aspire Go 15.6\" Laptop - Silver (AMD R5 40/16GB RAM/1TB SSD/Windows 11)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19889/19889767.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "16GB + 1TB at $999.99 is the storage/RAM bargain of the Aspire line",
+      "Battery runs long (~7h) because the 4-core Mendocino chip barely draws power at idle",
+      "Cool and near-silent for browsing, docs, and streaming",
+      "Both USB-C ports do DisplayPort video and PD charging",
+      "IPS FHD panel still beats the TN panels on rival entry 15.6\" machines"
+    ],
+    "complaints": [
+      "Ryzen 5 40 is only 4 cores / 4 threads — heavy tabs-plus-video calls stutter noticeably",
+      "LPDDR5 is soldered: 16GB is the permanent ceiling despite the roomy 1TB drive",
+      "Only one full-size USB-A port; the second is USB 2.0 speed",
+      "Heaviest chassis of the family at 1.73 kg despite the low-power internals",
+      "Dull 45%-gamut IPS panel and 720p webcam match nothing above the entry tier"
+    ]
+  },
+  "standouts": [
+    "Best RAM+storage per dollar in the Aspire family (16GB/1TB under $1,000) with genuinely long battery for the class"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "Acer's low-power high-capacity entry: a 4-core Zen 2 Mendocino part that trades CPU muscle for battery life and silence, wrapped in the standard Go 15 chassis with an unusually generous 16GB/1TB spec. It suits light users who keep many files but do little computation.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 7,
+    "screen_quality": 4,
+    "readability_dark": 5,
+    "readability_bright": 4.5,
+    "ecosystem": 9,
+    "gaming": 1.5,
+    "productivity": 4.5,
+    "portability": 5.5,
+    "build_quality": 4.3,
+    "thermals_noise": 7.5,
+    "port_connectivity": 6,
+    "creative_work": 2,
+    "keyboard_trackpad": 5.3,
+    "webcam_speakers": 3.8,
+    "upgradability": 4,
+    "ai_ml": 1,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4.3
+  },
+  "rating_notes": "No pro review found (see SHARED-aspire-go.md). Inferred from 7730U Go 15 sibling: −1.8 productivity (4C/4T Zen 2 vs 8C/16T Zen 3), +1.5 battery and +2.5 thermals for the ultra-low-draw Mendocino part on ~45Wh, −0.8 gaming (610M vs Vega 8), −2.0 upgradability (soldered LPDDR5 vs SO-DIMM). Battery hours class-estimated."
+}

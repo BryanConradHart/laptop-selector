@@ -1,0 +1,126 @@
+{
+  "id": "dell16plus2in1-u7-256v-16-1tb-ips",
+  "line": "Dell 16 Plus 2-in-1 (2025, DB06250)",
+  "config_name": "Dell 16 Plus 2-in-1 — Core Ultra 7 256V, 16GB LPDDR5X, 1TB SSD, 16\" WUXGA IPS touch (Home)",
+  "tier": "Mid",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 256V (Lunar Lake, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 140V (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X on-package",
+    "storage_gb": 1000,
+    "storage_type": "NVMe",
+    "screen_size_in": 16,
+    "display_type": "WUXGA IPS touch",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2,
+    "ports": "1x Thunderbolt 4, 1x USB-C 3.2 Gen 2, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p (no IR)",
+    "speakers": "2-speaker down-firing",
+    "keyboard_notes": "Full numpad, shallow mushy keys, non-haptic trackpad",
+    "pen_support": "Active pen (sold separately)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 7,
+    "notes": "CNET measured 8:58 streaming drain on the mini-LED config; IPS should do slightly better but 64Wh is small for 16\". ~6.5-7h real mixed use."
+  },
+  "price": {
+    "cad": 1531.21,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19735225",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 19735225 reg $2,194.81 / sale $1,531.21 (2026-11-24). Pro twin (Win11 Pro) 19735221 at $1,600.25.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19735225",
+        "cad": 1531.21,
+        "est": false,
+        "name": "Dell 16 Plus 2-in-1 16\" WUXGA IPS Touchscreen Laptop - Intel Ultra 7 256V - 16GB LPDDR5 - 1TB SSD - Intel Arc - Windows 11 Home - Ice Blue"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19735221",
+        "cad": 1600.25,
+        "est": false,
+        "name": "Dell 16 Plus 2-in-1 16\" WUXGA IPS Touchscreen Laptop - Intel Ultra 7 256V - 16GB LPDDR5 - 1TB SSD - Intel Arc - Windows 11 Pro - Ice Blue"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19735/19735225.jpeg",
+  "professional": {
+    "avg_score": 7.3,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "7.3/10",
+        "url": "https://www.cnet.com/tech/computing/dell-16-plus-2-in-1-review-the-mini-led-display-shines-but-theres-little-else-to-get-excited-about/",
+        "quote": "This big-screen convertible laptop certainly has some positives but there are a few too many minuses to give this Plus a full-throated recommendation."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Strong single-core snappiness for office multitasking (GB6 single 2760, best in CNET's 16\" 2-in-1 field)",
+      "Sturdy chassis with a clean, understated Ice Blue design",
+      "Full-size numpad — a real productivity plus on a 16\" convertible",
+      "Big bright touch panel that 'really shines in tablet mode' (CNET)",
+      "Sale price ~$1,530 makes a 16\" 2-in-1 with Arc 140V very affordable"
+    ],
+    "complaints": [
+      "Battery is class-worst: CNET logged 8:58, well behind Yoga 7 16 (10:57) and Envy x360 16 (11:11)",
+      "Mushy shallow keyboard; CNET's spacebar 'frequently failed to register my inputs'",
+      "Down-firing speakers sound 'hollow and muffled, as though audio was being broadcast from inside a cardboard box'",
+      "At 2.0 kg it is heavier than the Spectre x360 16 and Yoga 7 16",
+      "Only one Thunderbolt 4 port, no SD reader, no Kensington slot; soldered RAM"
+    ]
+  },
+  "design_philosophy": "Dell's 2025 rebrand put the 16 Plus 2-in-1 in the consumer mid tier: Lunar Lake silicon chosen for efficiency over raw multi-core punch, a big touch panel, and cost cuts (single TB4, down-firing speakers, shallow keyboard) to hit an aggressive price. This CA config pairs the efficiency chip with the basic 16\" 1200p IPS panel rather than CNET's mini-LED, trading screen quality for the lowest big-screen convertible price on the shelf.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 8,
+    "screen_quality": 5,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7,
+    "portability": 5.5,
+    "build_quality": 7,
+    "thermals_noise": 7.5,
+    "port_connectivity": 5.5,
+    "creative_work": 5,
+    "keyboard_trackpad": 4,
+    "webcam_speakers": 4.5,
+    "upgradability": 2,
+    "ai_ml": 5.5,
+    "pen_touch": 7,
+    "repairability_service": 4.5,
+    "durability": 6
+  },
+  "rating_notes": "Ratings inferred from CNET's DB06250 review (Ultra 7 258V/32GB/2.5K mini-LED, 7.3/10). This CA config: 256V vs 258V (-0.3 gaming), 16GB vs 32GB (-0.5 productivity), and the 16\" 1920x1200 IPS instead of mini-LED drops screen_quality 8.0->5.0 — CNET warned that panel 'sounds like a recipe for fuzzy, grainy text'. Battery +0.5 vs anchor for IPS backlight efficiency. RTINGS/NBC/PCMag had no review of this line (bot-walls confirmed; see SHARED-dell-2in1.md).",
+  "standouts": [
+    "Cheapest big 16\" 2-in-1 at ~$1,531 on sale",
+    "Fast single-core Lunar Lake performance",
+    "Numpad + big touch panel"
+  ],
+  "dealbreakers": [
+    "Class-worst battery",
+    "Mushy keyboard + cardboard-box speakers"
+  ]
+}

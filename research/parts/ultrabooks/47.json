@@ -1,0 +1,115 @@
+{
+  "id": "xps16-u7-16-1tb-fhd",
+  "line": "Dell XPS 16 (2026, DA16260)",
+  "config_name": "XPS 16 — Core Ultra 7 355, 16GB LPDDR5X, 1TB SSD, 16\" FHD+ 120Hz non-touch",
+  "tier": "Entry",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 355 (Series 3 Panther Lake, 8-core, up to 4.7 GHz)",
+    "cpu_cores": 8,
+    "gpu": "Intel UMA Graphics (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2230 NVMe Gen4",
+    "screen_size_in": 16,
+    "display_type": "IPS non-touch, 2K (1920x1200), 1-120Hz, 500 nits",
+    "resolution": "1920x1200",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.74,
+    "ports": "3x Thunderbolt 4 (USB-C) with DP 2.1 + PD, universal audio jack",
+    "wireless": "Wi-Fi 7 (Intel BE211 2x2), BT 6.0",
+    "webcam": "FHD webcam",
+    "speakers": "2-speaker (quad-speaker on higher tiers)",
+    "keyboard_notes": "Backlit keyboard, zero-lattice design, Gorilla Glass 3 palmrest",
+    "pen_support": "none (non-touch)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 31,
+    "real_world_hours": 12,
+    "notes": "70Wh. Dell claims up to 31h streaming on 2K display @250 nits; real-world mixed ~11-13h."
+  },
+  "price": {
+    "cad": 3900,
+    "currency": "CAD",
+    "store": "dell.ca",
+    "store_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16da16260",
+    "confidence": "verified",
+    "notes": "VERIFIED dell.ca 2026-11-24: CAD $3,899.99. Note: the 358H/Arc config below is $300 CHEAPER — Dell pricing anomaly.",
+    "offers": [
+      {
+        "store": "dell.ca",
+        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16da16260",
+        "cad": 3900,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16da16260"
+  },
+  "image_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-16-da16260/media-gallery/touch/notebook-da16260-t-gray-gallery-11.psd?fmt=png-alpha",
+  "professional": {
+    "avg_score": 8,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.0/10",
+        "url": "https://www.cnet.com/tech/computing/dell-xps-16-2026-review/",
+        "quote": "the XPS 16 is a fantastic laptop befitting of the premium XPS name"
+      },
+      {
+        "outlet": "CNET",
+        "score": "8.0/10",
+        "url": "https://www.cnet.com/tech/computing/dell-xps-16-2026-review/",
+        "quote": "RTX-level price without RTX GPU"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Dell's thinnest 16-inch: 14.6-15.4 mm and 1.74 kg — lighter than most 14-inch laptops from three years ago",
+      "Up to 31h claimed streaming on this exact 2K LCD config; class-leading battery",
+      "1TB standard even at entry tier, unlike the XPS 14 base",
+      "3x TB4 with DP 2.1 handles triple-monitor docking",
+      "Sleek CNC aluminum design owners describe as premium in every review"
+    ],
+    "complaints": [
+      "16GB soldered at a CAD $3,900 price is stingy; the better-spec'd 358H config is actually cheaper",
+      "FHD+ 1200p on 16 inches is visibly low-density; most buyers should skip this tier",
+      "No HDMI/SD/USB-A — the old XPS 16 ports returned only on Creator Edition (CNET con: limited ports)",
+      "No fingerprint reader",
+      "8-core 355 lacks Arc iGPU punch of the 358H tiers"
+    ]
+  },
+  "design_philosophy": "The 2026 XPS 16 rebuild abandons the 2025 Premium's throttled RTX dGPU in favour of extreme thinness and battery — 'the ultimate creator's canvas... in our thinnest 16-inch laptop' per Dell. This entry tier is the battery-maximalist door, though Dell's own pricing makes it hard to recommend over the mid tier.",
+  "ratings": {
+    "battery": 9,
+    "screen_size": 8.5,
+    "screen_quality": 6.5,
+    "readability_dark": 6.5,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7.5,
+    "portability": 8,
+    "build_quality": 9,
+    "thermals_noise": 8,
+    "port_connectivity": 6.5,
+    "creative_work": 4,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 2,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 4,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from CNET XPS 16 (2026) 8.0 anchor (US$2,650 as-reviewed). Entry tier with weaker 8-core CPU: productivity −0.5, gaming −1 vs Arc tiers. screen_size 8.5 for 16\"; portability 8.0 (1.74 kg is light for 16\")."
+}

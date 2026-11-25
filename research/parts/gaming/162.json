@@ -1,0 +1,110 @@
+{
+  "id": "omen16-5070-ryzen-ai9-365-32-1tb-wqxga240",
+  "line": "HP OMEN 16 (2025, mainstream non-Max)",
+  "config_name": "OMEN 16 — AMD Ryzen AI 9 365, RTX 5070 Laptop 8GB, 32GB DDR5, 1TB SSD (+1TB dock bundle), 16\" WQXGA 240Hz",
+  "tier": "Mid",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-08",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 9 365 (Zen 5/5c, 10-core: 4P+6E, 50 TOPS NPU)",
+    "cpu_cores": 10,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7 (Advanced Optimus, ~115W)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5 SODIMM (2 slots, user-upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe Gen4 (listing bundles an external 1TB docking-station drive)",
+    "screen_size_in": 16,
+    "display_type": "IPS, anti-glare, 16:10",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": 0,
+    "weight_kg": 2.4,
+    "ports": "1x USB-C 10Gbps (DP), 2x USB-A, HDMI 2.1, Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "1080p with shutter",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Full-size with numpad, 4-zone RGB",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 5,
+    "notes": "~83Wh. Ryzen AI 9 365 is the most efficient CPU in the line; OMEN-line users report ~4-5h light use."
+  },
+  "price": {
+    "cad": 2969,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19968864",
+    "confidence": "verified",
+    "notes": "BBY sku 19968864 (marketplace seller PC Heaven): reg anchor $4,249, sale $2,969 verified 2026-11-24. PC Heaven anchors inflated ~40%; $2,969 is the street price. Win 11 Pro twin sku 19968868 at $3,049 omitted as near-duplicate. No BBY reviews yet (new SKU).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19968864",
+        "cad": 2969,
+        "est": false,
+        "name": "HP OMEN 16\" WQXGA 240Hz Gaming Laptop, AMD Ryzen AI 9 365, 32GB RAM, 1TB SSD+1TB Docking Station, NVIDIA GeForce RTX 5070, 4-zone RGB backlit, Win 11, Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19968/19968864.jpeg",
+  "professional": {
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "83%",
+        "url": "https://www.notebookcheck.net/The-best-budget-gamer-HP-Omen-16-laptop-review.1135455.0.html",
+        "quote": "The best budget gamer? Pros: clean, cohesive design; solid keyboard and touchpad; excellent CPU/GPU performance; cool surface temperatures even under load. Cons: fingerprint-prone surfaces; no USB 4, Thunderbolt, or SD reader; only Wi-Fi 6; subpar display with slow response times; ad-bloated control center; single-channel RAM; relatively small battery."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Best all-round mainstream OMEN 16: RTX 5070 + Ryzen AI 9 365 + 32GB for ~$2,969 sale with a free 1TB dock drive (OMEN-line-grounded)",
+      "Ryzen AI 9 365's 50 TOPS NPU plus 32GB gives real local-AI headroom that Intel Core 7 tiers lack",
+      "WQXGA 240Hz panel: high refresh at 1440p suits the 5070's DLSS 4 frame-gen for competitive titles",
+      "Efficient Zen 5 chip keeps this tier the quietest and longest-lasting of the OMEN 16 range",
+      "Socketed DDR5 (to 96GB+) and dual M.2 — the upgrade path most soldered thin-and-lights deny"
+    ],
+    "complaints": [
+      "8GB VRAM on the 5070 is the pain point at WQXGA: new AAA titles at max settings need DLSS to hold high FPS",
+      "Base WQXGA IPS still ~300 nits with average contrast — no OLED option on the non-Max chassis",
+      "Battery ~4-5h light use, less under load; unplugged gaming throttles hard (OMEN-line pattern)",
+      "Plastic chassis and middling trackpad vs the aluminum OMEN Max for ~$500 more",
+      "Marketplace listing (PC Heaven) with inflated $4,249 regular-price anchor; seller-service variance risk"
+    ]
+  },
+  "design_philosophy": "The balanced middle of the mainstream OMEN 16 line: current-gen Ryzen AI silicon, a proper 32GB complement, and the fast WQXGA 240Hz panel, while keeping the price under $3,000 on sale. It targets buyers who want current-gen GPU + CPU without paying for the Max's metal chassis — HP's definition of mainstream gaming sanity.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 8,
+    "screen_quality": 6.5,
+    "readability_dark": 6,
+    "readability_bright": 5,
+    "ecosystem": 9.5,
+    "gaming": 7,
+    "productivity": 7.5,
+    "portability": 4.5,
+    "build_quality": 6,
+    "thermals_noise": 7,
+    "port_connectivity": 6,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 5.5,
+    "upgradability": 8,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6
+  },
+  "rating_notes": "Pro score attached from NBC OMEN 16 2025 review (83%, gap-fill 2026-11-24); WQXGA tiers may differ from the reviewed panel. No numeric pro score found for the 2025 mainstream OMEN 16 (see SHARED-omen16.md; nothing fabricated). Ratings inferred from OMEN Max 16 NBC anchor (SHARED-omen-max16.md) with mainstream-chassis deltas (build −1.5, ports −1.5, portability +1.5) and SHARED-omen16.md config deltas: 5070 gaming 7.0; Ryzen AI 9 365 productivity +0.5/ai_ml +0.5 (NPU) and battery +0.5 vs Core 7; 32GB +0.5 productivity/ai_ml; WQXGA 240Hz screen_quality 6.5, battery −0.5. Cross-checked against OMEN 17 5060/365 32GB sibling (62.json): same platform, +1.5 gaming for 5070, panel up, 16-inch portability up vs 17.3."
+}

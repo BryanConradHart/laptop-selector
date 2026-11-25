@@ -1,0 +1,116 @@
+{
+  "id": "slu15-spark-24-512",
+  "line": "Microsoft Surface Laptop Ultra (2026, NVIDIA RTX Spark)",
+  "config_name": "Surface Laptop Ultra 15\" — NVIDIA RTX Spark (N1X), 24GB LPDDR5x, 512GB SSD, Mini-LED touch",
+  "tier": "Base",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "NVIDIA RTX Spark N1X (Arm, 20-core) — 18-core variant on some SKUs",
+    "cpu_cores": 20,
+    "gpu": "RTX Spark integrated Blackwell-class GPU",
+    "gpu_type": "integrated",
+    "ram_gb": 24,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe soldered",
+    "screen_size_in": 15,
+    "display_type": "Mini-LED touch, high refresh",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 1.65,
+    "ports": "2x USB-C/TB, 1x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1440p IR",
+    "speakers": "2-speaker Studio",
+    "keyboard_notes": "backlit, fingerprint, Copilot key",
+    "pen_support": "touch; MPP pen",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 16,
+    "real_world_hours": 9,
+    "notes": "Reviewers flag battery as the weak point ('battery life is disappointing' — IT Pro); ~9h light use estimated."
+  },
+  "price": {
+    "cad": 3899.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20122629",
+    "confidence": "verified",
+    "notes": "Best Buy CA SKU 20122629 (Platinum), $3,899.99 (2026-11-24 API).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20122629",
+        "cad": 3899.99,
+        "est": false,
+        "name": "Microsoft Surface Laptop Ultra 15\" Touchscreen Laptop - NVIDIA RTX Spark - 24GB LPDDR5x RAM - 512GB SSD - Win11 Home - En - Platinum"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20122/20122629.jpg",
+  "professional": {
+    "avg_score": 7.5,
+    "reviews": [
+      {
+        "outlet": "TechRadar",
+        "score": "recommended",
+        "url": "https://www.techradar.com/computers/laptops/microsoft-surface-laptop-ultra-review",
+        "quote": "isn't the MacBook Pro killer I hoped for"
+      },
+      {
+        "outlet": "IT Pro",
+        "score": "recommended",
+        "url": "https://www.itpro.com/hardware/laptops/microsoft-surface-laptop-ultra-review",
+        "quote": "has all the on-device AI your devs need – but its battery life is disappointing"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "RTX Spark's Blackwell GPU + CUDA on Arm finally makes thin-and-light video/AI work genuinely fast",
+      "Mini-LED 15\" HDR panel (1,600-nit peaks) is the best display Microsoft has shipped",
+      "24GB unified memory headroom runs local LLMs that 16GB x86 ultrabooks can't",
+      "First-class dev tooling: CUDA on Windows Arm works in PyTorch now",
+      "Build quality and keyboard are classic Surface — rigid, quiet, comfortable"
+    ],
+    "complaints": [
+      "Battery life is the Achilles heel reviewers keep citing — ~9h real use for a $3,900 machine",
+      "Arm Windows translation gaps remain for some pro apps and games despite NVIDIA's drivers",
+      "Base 512GB at this price is stingy; Microsoft storage tax again",
+      "Heavier than Surface Laptop 8 (~1.65 kg) and charger is a brick",
+      "TechRadar's 'not the MacBook Pro killer' sums it: M5-class rivals beat it on perf-per-watt"
+    ]
+  },
+  "design_philosophy": "Microsoft's halo machine: an Arm Windows ultrabook rebuilt around NVIDIA's RTX Spark SoC to prove local AI and CUDA-class GPU power belong in a 1.6 kg clamshell. The 24GB/512GB tier is the entry to that vision.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 8,
+    "screen_quality": 9.5,
+    "readability_dark": 8.5,
+    "readability_bright": 9,
+    "ecosystem": 7,
+    "gaming": 6.5,
+    "productivity": 9,
+    "portability": 7.5,
+    "build_quality": 9,
+    "thermals_noise": 7,
+    "port_connectivity": 7,
+    "creative_work": 8.5,
+    "keyboard_trackpad": 8.5,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 9.5,
+    "pen_touch": 7,
+    "repairability_service": 3,
+    "durability": 7.5
+  },
+  "rating_notes": "Ratings anchored on SL Ultra reviews (TechRadar/IT Pro/TweakTown headlines verified in NOTES; full pages 403). RTX Spark N1X: ai_ml 9.5 (CUDA + unified mem), gaming 6.5 (Blackwell iGPU class), battery penalised to 5.5 per consistent 'disappointing' verdicts. ARM ecosystem 7.0 (slightly better than Snapdragon thanks to NVIDIA GPU stack)."
+}

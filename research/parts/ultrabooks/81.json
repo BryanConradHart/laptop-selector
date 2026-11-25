@@ -1,0 +1,109 @@
+{
+  "id": "zb14-um3406ga-a9-16-512-oled2k-touch",
+  "line": "ASUS Zenbook 14 OLED (2025/26, UM3406GA, AMD Ryzen AI 300)",
+  "config_name": "Zenbook 14 OLED — Ryzen AI 9 465, 16GB LPDDR5X, 512GB SSD, 14\" 2K OLED touch, Win 11 Pro",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 9 465 (Krackan Point, 10-core: 4 Zen5 + 6 Zen5c)",
+    "cpu_cores": 10,
+    "gpu": "AMD Radeon 880M iGPU (12 CU RDNA3.5) integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 2280 NVMe (single slot)",
+    "screen_size_in": 14,
+    "display_type": "OLED 16:10 glossy touch, HDR 600",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 600,
+    "weight_kg": 1.22,
+    "ports": "2x USB-C 4.0, 1x USB-A 3.2, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "1080p FHD + IR",
+    "speakers": "2-speaker Harman Kardon",
+    "keyboard_notes": "Backlit chiclet, large glass touchpad",
+    "pen_support": "touch (pen via USI support)",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 18,
+    "real_world_hours": 12,
+    "notes": "75Wh (UX3405 chassis). UBR long-term review of UM3406GA reports ~12-15h light use."
+  },
+  "price": {
+    "cad": 1699,
+    "currency": "CAD",
+    "store": "bestbuy.ca (marketplace)",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-14-14-2k-oled-touchscreen-laptop-jasper-gray-amd-ryzen-ai-9-465-16gb-lpddr5x-ram-512gb-ssd-amd-radeon-graphics-copilot-pc-backlit-keyboard-win-11-pro/20076833",
+    "confidence": "verified",
+    "notes": "BBY marketplace SKU 20076833, reg $2,149 sale $1,699 (2026-11-24). UBR notes UM3406GA AI 9 465 config is 'a far more interesting option' at ~US$1,000 levels.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-14-14-2k-oled-touchscreen-laptop-jasper-gray-amd-ryzen-ai-9-465-16gb-lpddr5x-ram-512gb-ssd-amd-radeon-graphics-copilot-pc-backlit-keyboard-win-11-pro/20076833",
+        "cad": 1699,
+        "est": false,
+        "name": "ASUS Zenbook 14 14\" 2K OLED Touchscreen Laptop -Jasper Gray (AMD Ryzen AI 9 465/ 16GB LPDDR5X RAM/ 512GB SSD/ AMD Radeon Graphics/ Copilot+ PC/ Backlit Keyboard/ Win 11 Pro)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20076/20076833.png",
+  "professional": {
+    "avg_score": 8.2,
+    "reviews": [
+      {
+        "outlet": "Ultrabookreview",
+        "score": "recommended",
+        "url": "https://www.ultrabookreview.com/77371-asus-zenbook-14-ux3480ka-review/",
+        "quote": "what you can get in some regions is the Ryzen AI 9 465 configuration of the Zenbook 14 UM3406GA, available for around 1000 USD in the US at the time of this article. That's a far more interesting option at that level"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Ryzen AI 9 465 + Radeon 880M handles light gaming (esports titles at 1080p) far better than Lunar Lake rivals",
+      "Touchscreen OLED at this price is rare — great for scrolling and pen notes",
+      "75Wh battery gives comfortable full-day light-use runtime",
+      "Win 11 Pro included on this SKU",
+      "Crisp 400-nit HDR600 OLED panel praised for media"
+    ],
+    "complaints": [
+      "16GB soldered RAM is the ceiling on this tier — no 32GB option",
+      "60Hz panel only",
+      "Marketplace seller stock — warranty/return experience varies vs BBY-direct",
+      "Older UX3405 chassis design (pre-2026 refresh)"
+    ]
+  },
+  "design_philosophy": "The previous-generation Zenbook 14 chassis refreshed with AMD's top Krackan Point silicon — the value play of the Zenbook 14 family: near-flagship CPU/GPU at mid-range price with a touch OLED, at the cost of older styling and a 16GB RAM cap.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 7,
+    "screen_quality": 7.5,
+    "readability_dark": 8,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 5,
+    "productivity": 8,
+    "portability": 8.5,
+    "build_quality": 8,
+    "thermals_noise": 8,
+    "port_connectivity": 7.5,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 6,
+    "upgradability": 4.5,
+    "ai_ml": 6,
+    "pen_touch": 6,
+    "repairability_service": 5,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from Ultrabookreview's UX3480KA/UM3406 coverage: AI 9 465 + 880M gives +1 gaming vs the 840M-reviewed config; touch panel adds pen_touch 6; brighter 400-nit HDR600 panel +1 readability_bright vs entry 80."
+}

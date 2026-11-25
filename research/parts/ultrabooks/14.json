@@ -1,0 +1,115 @@
+{
+  "id": "t14s7-intel-u7-32-1tb-ips-touch",
+  "line": "Lenovo ThinkPad T14s Gen 7 (2026, Intel Panther Lake)",
+  "config_name": "ThinkPad T14s Gen 7 — Core Ultra 7 365 vPro, 32GB LPDDR5X, 1TB SSD, 14\" WUXGA IPS 500-nit touch",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 365 vPro (Panther Lake)",
+    "cpu_cores": 8,
+    "gpu": "Intel Graphics (Xe3) integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X-8533 soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2280 NVMe Gen4 (replaceable)",
+    "screen_size_in": 14,
+    "display_type": "IPS WUXGA anti-glare touch (500-nit sRGB class)",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.19,
+    "ports": "2x TB4, 1x USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7 (Intel BE211 320MHz), BT 5.4",
+    "webcam": "5MP RGB + IR with privacy shutter",
+    "speakers": "2-speaker (improved gen)",
+    "keyboard_notes": "ThinkPad keyboard 1.5mm travel, TrackPoint, auto backlit, fingerprint reader",
+    "pen_support": "touch enabled, finger only (no stylus support per NBC)",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 14,
+    "real_world_hours": 12.5,
+    "notes": "58Wh. NBC measured ~17.5h Wi-Fi test at 150 nits on the AMD sibling with the same 500-nit touch panel."
+  },
+  "price": {
+    "cad": 2899,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadt/",
+    "confidence": "estimated",
+    "notes": "US anchor verified: Amazon.com $1,979.06 on 2026-11-22 for this exact config (NBC-quoted). CAD estimate ~1.35x; CA availability via lenovo.com/ca CTO/prebuys.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadt/",
+        "cad": 2899,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadt/"
+  },
+  "image_url": "https://p2-ofp.static.pub/ShareResource/optimized/pdp/thinkpad/thinkpad-t-series/LEN101T0171/lenovo-thinkpad-t14s-gen-7-amd-series-tn.ff23d6caa387d3d7.png",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
+        "quote": "The matte IPS touchscreen with full sRGB color gamut offers decent image quality and can even be used for picture editing after calibration."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
+        "quote": "Both the AMD and Intel SKUs offer pretty much the same level of performance."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "vPro on the Ultra 7 365 for fleet management, plus native Thunderbolt 4 docking",
+      "500-nit full-sRGB touch panel is the sweet spot NBC praised — bright, accurate, matte, no PWM flicker",
+      "Amazon US sells this exact config under $2,000 USD — strong value vs X1 Carbon",
+      "Charges from either side with USB-C ports on both edges",
+      "5MP webcam + IR face login + fingerprint reader — both Hello methods work"
+    ],
+    "complaints": [
+      "Touchscreen gets finger smudges on the matte coating and offers no stylus support (finger only)",
+      "60 Hz cap on every IPS option including this 500-nit tier",
+      "Soldered RAM — 32GB max on most prebuys",
+      "CAD pricing runs ~35% above US sticker; CA buyers mostly wait for eCoupon cycles",
+      "Standby drain (~1.3W) noted by NBC on the platform"
+    ]
+  },
+  "design_philosophy": "The practical touch tier of the Intel T14s: NBC's preferred panel (bright matte sRGB IPS touch) paired with vPro manageability — the configuration corporate buyers order when they want the reviewed 'good' display without paying for OLED.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 7,
+    "screen_quality": 6.5,
+    "readability_dark": 7.5,
+    "readability_bright": 8,
+    "ecosystem": 9,
+    "gaming": 3,
+    "productivity": 9,
+    "portability": 9,
+    "build_quality": 8.5,
+    "thermals_noise": 9,
+    "port_connectivity": 8.5,
+    "creative_work": 4.5,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 7.5,
+    "upgradability": 6,
+    "ai_ml": 6,
+    "pen_touch": 4,
+    "repairability_service": 8.5,
+    "durability": 9
+  },
+  "rating_notes": "Panel ratings taken directly from NBC's reviewed 500-nit matte sRGB IPS touch (the exact panel of this config); CPU swapped to Intel Ultra 7 365 per NBC's 'AMD and Intel SKUs offer pretty much the same level of performance'. pen_touch 4 = touch without stylus. Price estimated from verified US$1,979 Amazon anchor."
+}

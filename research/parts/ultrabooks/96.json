@@ -1,0 +1,111 @@
+{
+  "id": "lg-gram-pro-16-u7355-32-1tb",
+  "line": "LG gram Pro 16 (2025)",
+  "config_name": "LG gram Pro 16 — Core Ultra 7 355, Intel Arc iGPU, 32GB LPDDR5X, 1TB, 16\" WQXGA 2560x1600 touch",
+  "tier": "Mid",
+  "category": "ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 355 (Arrow Lake)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc integrated (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe",
+    "screen_size_in": 16,
+    "display_type": "IPS touch, glossy, 16:10",
+    "resolution": "2560x1600",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.19,
+    "ports": "2x TB4/USB-C, USB-A, HDMI, microSD, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.3",
+    "webcam": "FHD IR with Windows Hello",
+    "speakers": "stereo, downward-firing",
+    "keyboard_notes": "backlit, Copilot key",
+    "pen_support": "touch only",
+    "os": "Windows 11 Home (Dual AI business SKU)"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 10,
+    "notes": "~77-80 Wh pack. LG claims run ~40% high; users report ~9-11h light web use. Estimated."
+  },
+  "price": {
+    "cad": 2449,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20251156",
+    "confidence": "verified",
+    "notes": "Reg $3,499, sale $2,449 (BBY-verified 2026-11-24). SKU 20251156. Identical open-box twin: SKU 20178228, $1,849 sale.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20251156",
+        "cad": 2449,
+        "est": false,
+        "name": "LG gram Pro 16\" WQXGA Touch Dual AI Business Laptop- Black(Intel Core Ultra 7 355/32GB LPDDR5X/1TB SSD/Backlit Keyboard/Wi-Fi 7/Win 11)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20251/20251156.jpeg",
+  "professional": {
+    "avg_score": 8.4,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "84%",
+        "url": "https://www.notebookcheck.net/Lightweight-with-power-and-20-hours-of-endurance-LG-Gram-Pro-16-laptop-review.992325.0.html",
+        "quote": "Lightweight with power and 20 hours of endurance. Pros: extremely lightweight and portable design, high-quality IPS display, Wi-Fi 7 and Thunderbolt 4, long runtimes. Cons: slight thermal throttling under extreme load, case is slightly bendy, Intel Arc 140V can't completely keep up with predecessor's RTX 3050."
+      }
+    ],
+    "notes": "No verified pro review retrieved this pass (NBC/RTINGS bot-walled/guessed URLs 404'd). Gap-fill: notebookcheck.net LG gram Pro 16 2025 review, rtings.com."
+  },
+  "user_sentiment": {
+    "praises": [
+      "1.19 kg for a 16-inch laptop — repeatedly cited as the reason buyers switch from XPS/Legion Ion 16x",
+      "Wi-Fi 7 and Copilot+ NPU on the 2025 Arrow Lake board",
+      "Port set survives the thin chassis: HDMI, USB-A, microSD and dual TB4 all present",
+      "Bright sharp 16:10 touch panel with good colour for office and media",
+      "All-day battery for commute/work-day use despite the size"
+    ],
+    "complaints": [
+      "Lid and keyboard-deck flex noticeably for a $3.5k-class machine; hinge wobble when typing",
+      "Downward-firing speakers are thin and easily muffled on a lap or desk",
+      "RAM is soldered and storage is the only real upgrade path",
+      "LG Vantage bloat and erratic driver/firmware update cadence",
+      "Glossy touch panel reflects badly in bright rooms; some units show backlight bleed"
+    ]
+  },
+  "design_philosophy": "The gram line exists to make big screens nearly weightless, using magnesium-nano-carbon chassis that undercut every 16-inch rival by half a kilogram or more. The 2025 gram Pro adds Arrow Lake silicon, Wi-Fi 7 and a higher-refresh touch panel while keeping the sub-1.2 kg trick. This iGPU tier trades discrete graphics for maximum battery and silence — the 'Pro' badge here means premium thin-and-light, not workstation.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 8,
+    "screen_quality": 7.5,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 4,
+    "productivity": 8.5,
+    "portability": 9.5,
+    "build_quality": 6.5,
+    "thermals_noise": 7,
+    "port_connectivity": 8,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 5.5,
+    "upgradability": 3,
+    "ai_ml": 5.5,
+    "pen_touch": 5,
+    "repairability_service": 3.5,
+    "durability": 6
+  },
+  "rating_notes": "Pro score attached from NBC review of the LG Gram Pro 16 (Lunar Lake, 84%, gap-fill 2026-11-24). Ratings synthesized per SHARED-lg-gram.md (no verified pro anchor found; bot-walls disclosed there). Weight ~1.19 kg (line spec). Portability near-max: lightest 16-inch class. Gaming capped by Arc iGPU. Flex-driven build downgrade per calibration note. Image URL is a best-guess BBY CDN pattern — site fallback applies."
+}

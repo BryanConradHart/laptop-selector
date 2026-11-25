@@ -1,0 +1,111 @@
+{
+  "id": "yoga7i2-14-u5-322-16-512-oled-dock",
+  "line": "Lenovo Yoga 7i 2-in-1 14 (Gen 11, 2026)",
+  "config_name": "Yoga 7i 2-in-1 14\" — Core Ultra 5 322 (Panther Lake), 16GB LPDDR5x, 512GB SSD + 1TB docking-station SSD, 14\" 2.8K OLED touch, Win 11 Pro",
+  "tier": "Entry",
+  "category": "convertibles-2in1",
+  "ecosystem": "Windows",
+  "form_factor": "convertible",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 5 322 (Panther Lake)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc integrated (Panther Lake iGPU)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 1536,
+    "storage_type": "M.2 NVMe 512GB + bundled 1TB dock SSD",
+    "screen_size_in": 14,
+    "display_type": "OLED glossy touch, 16:10 (BBY: 2K OLED)",
+    "resolution": "2880x1800",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 600,
+    "weight_kg": 1.34,
+    "ports": "2x USB-C (TB/DP/PD), 2x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p",
+    "speakers": "2-speaker + tweeters, Audio Boost",
+    "keyboard_notes": "Backlit chiclet, fingerprint reader",
+    "pen_support": "MPP 2.0 active pen (sold separately)",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 11.5,
+    "notes": "~70Wh. Same chassis as 19767706; bundle adds external 1TB dock drive."
+  },
+  "price": {
+    "cad": 1699,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20135206",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: reg $2,429 / sale $1,699 (marketplace bundle; Home-OS twin 20135204 same price). 0 reviews (new listing).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20135206",
+        "cad": 1699,
+        "est": false,
+        "name": "Lenovo Yoga 7i 2-in-1 14\" 2K OLED Touch Laptop,Intel Core Ultra 5 322,16GB RAM,512GB SSD+1TB Dock,Fingerprint,Copilot+ PC,Backlit,Wi-Fi 7,Win 11 Pro,Luna Grey"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20135204",
+        "cad": 1699,
+        "est": false,
+        "name": "Lenovo Yoga 7i 2-in-1 14\" 2K OLED Touch Laptop-Luna Grey(Intel Ultra 5 322/16GB Memory/512GB SSD/Intel Graphics/Copilot+ PC/Backlit Keyboard/Fingerprint/Wi-Fi 7/Windows 11 Home)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20135/20135206.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "No numeric pro score found (see SHARED-yoga7i-2in1.md). Ratings inferred from sibling 19767706 (same chassis/CPU/display)."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Bundle math is the draw: same OLED machine plus a 1TB dock drive for less than the standalone regular price",
+      "Windows 11 Pro on this bundle tier (BitLocker/Remote Desktop) at a consumer sale price",
+      "OLED contrast and 2.8K sharpness praised across the 14\" OLED family listing",
+      "Light 1.34 kg convertible with solid aluminium build",
+      "Copilot+ NPU and Wi-Fi 7 keep the platform current"
+    ],
+    "complaints": [
+      "Marketplace-seller bundle: slower shipping/support than Best Buy direct stock",
+      "The 'dock' is an external SSD enclosure, not a port dock — buyers sometimes expect hub ports",
+      "16GB soldered RAM ceiling",
+      "Glossy OLED reflections in bright rooms",
+      "Pen not included"
+    ]
+  },
+  "design_philosophy": "Same value-hero Panther Lake OLED convertible as the base 14\" tier, packaged by a marketplace seller with a 1TB docking-station SSD and Win 11 Pro — extra storage and business OS at bundle pricing.",
+  "ratings": {
+    "battery": 8.2,
+    "screen_size": 6.5,
+    "screen_quality": 8.6,
+    "readability_dark": 8.5,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7.2,
+    "portability": 7.5,
+    "build_quality": 7.5,
+    "thermals_noise": 7.5,
+    "port_connectivity": 7,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 5.5,
+    "upgradability": 3,
+    "ai_ml": 5.5,
+    "pen_touch": 6,
+    "repairability_service": 5,
+    "durability": 6.5
+  },
+  "rating_notes": "Ratings inferred from sibling 19767706 (identical chassis/CPU/display; SHARED-yoga7i-2in1.md). +0.2 productivity for 1.5TB effective storage and Win 11 Pro. No verified pro review (bot-walls disclosed)."
+}

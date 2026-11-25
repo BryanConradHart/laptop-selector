@@ -1,0 +1,106 @@
+{
+  "id": "vivobook-15-c5320-16-512",
+  "line": "ASUS Vivobook 15 (Core 5 320, 2026)",
+  "config_name": "Vivobook 15 15.6\" 60Hz — Core 5 320, 16GB DDR5, 512GB SSD, FHD anti-glare, Quiet Blue",
+  "tier": "Mid",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 5 320 (6-core: 2P+4E, Raptor Lake refresh)",
+    "cpu_cores": 6,
+    "gpu": "Intel Graphics (UHD-class integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "DDR5 SO-DIMM (replaceable)",
+    "storage_gb": 512,
+    "storage_type": "NVMe M.2",
+    "screen_size_in": 15.6,
+    "display_type": "FHD IPS-class, anti-glare (250 nits)",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 250,
+    "weight_kg": 1.7,
+    "ports": "1x USB-C 3.2 Gen1 (data only), 2x USB-A 3.2 Gen1, 1x USB 2.0, HDMI 1.4, DC-in, 3.5mm",
+    "wireless": "Wi-Fi 6 (1x1), BT 5.3",
+    "webcam": "720p HD with privacy shutter",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Bilingual CA chiclet with numpad, no backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 5,
+    "notes": "3550 mAh 3-cell (~42 Wh); Core 5 320 is idle-light but capacity is small — ~4.5-5.5h light use."
+  },
+  "price": {
+    "cad": 1299.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20099717",
+    "confidence": "verified",
+    "notes": "BF sale $849.99. Regular price poor; sale is the honest number.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20099717",
+        "cad": 849.99,
+        "est": false,
+        "name": "ASUS Vivobook 15 15.6\" 60Hz Laptop - Intel Core 5 320 - 16GB RAM - 512GB SSD - Windows 11 Home - Quiet Blue"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20099/20099717.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "16GB DDR5 in an upgradable SO-DIMM slot — rare at this price and future-proof",
+      "Core 5 320 handles office work, dozens of tabs, and video calls without stutter",
+      "Webcam has a physical privacy shutter, which most budget rivals omit",
+      "Numeric keypad fits a 1.7 kg 15.6\" chassis — appreciated for spreadsheet work",
+      "At the $849.99 sale it undercuts nearly every 16GB FHD competitor"
+    ],
+    "complaints": [
+      "250-nit panel is genuinely dim indoors and useless outdoors; colours look washed out",
+      "USB-C is data-only — no power delivery or DisplayPort, and charging is a DC barrel only",
+      "Lid and keyboard deck flex noticeably; middle hinge wobbles when typing",
+      "No keyboard backlight at $1,299 regular",
+      "BestBuy spec sheet falsely flags it as a Copilot+ PC — the Core 5 320 has no NPU"
+    ]
+  },
+  "standouts": [
+    "Upgradable 16GB DDR5 SO-DIMM plus 16GB-from-box: the safest long-term RAM story in the budget class"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "ASUS's volume 15.6\" budget chassis dressed with the newest low-cost Intel refresh silicon and padded RAM. The design bets that buyers shop CPU/RAM numbers first: a real 6-core with 16GB upgradable DDR5 at an aggressive sale price, paid for with a dim 250-nit panel, a flexy all-plastic chassis, and a stripped USB-C (data only). The 16GB tier is the config to own — the twin 8GB SKU gives up little savings logic.",
+  "ratings": {
+    "battery": 5.3,
+    "screen_size": 7,
+    "screen_quality": 3.6,
+    "readability_dark": 4.2,
+    "readability_bright": 3.5,
+    "ecosystem": 9,
+    "gaming": 1.5,
+    "productivity": 6,
+    "portability": 5.8,
+    "build_quality": 4.5,
+    "thermals_noise": 7,
+    "port_connectivity": 5,
+    "creative_work": 1.8,
+    "keyboard_trackpad": 5.2,
+    "webcam_speakers": 4.3,
+    "upgradability": 5.5,
+    "ai_ml": 1.2,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4
+  },
+  "rating_notes": "No pro review found (see SHARED-vivobook.md; bot-walled sources, budget rule). Platform-anchored: Core 5 320 = office-adequate 6-core with UHD iGPU (gaming 1.5, no NPU so ai_ml 1.2 — BBY's Copilot+ flag is a listing error). Ratings inferred from the shared Vivobook/IdeaPad-Slim-3-class calibration rather than a same-line pro review, hence inferred:true. Battery estimated from ~42 Wh 3-cell. Image URL is best-guess BBY CDN pattern."
+}

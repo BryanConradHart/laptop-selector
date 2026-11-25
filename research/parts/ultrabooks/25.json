@@ -1,0 +1,116 @@
+{
+  "id": "ys7x-g11-x2e-16-1tb-oled",
+  "line": "Lenovo Yoga Slim 7x Gen 11 (14\" Snapdragon, 2026)",
+  "config_name": "Yoga Slim 7x Gen 11 — Snapdragon X2 Elite, 16GB LPDDR5X, 1TB SSD, 14\" 2.8K OLED 120Hz",
+  "tier": "Base",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows (ARM)",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X2 Elite (Oryon 3, 18-core)",
+    "cpu_cores": 18,
+    "gpu": "Qualcomm Adreno (integrated, X2 series)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 PCIe Gen4 NVMe",
+    "screen_size_in": 14,
+    "display_type": "PureSight 2.8K OLED, 120Hz VRR, 16:10",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1100,
+    "weight_kg": 1.24,
+    "ports": "2x USB-C, 1x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "4-speaker with AMD/audio tuning per config",
+    "keyboard_notes": "Refined Yoga keyboard, backlit",
+    "pen_support": "touchscreen optional on higher tiers",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 14,
+    "notes": "70Wh (VERIFIED on lenovo.com/ca PDP). Snapdragon X efficiency class; Jon Rettinger: 'Same performance unplugged.'"
+  },
+  "price": {
+    "cad": 1399,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7x-gen-11-14-inch-snapdragon/len101y0066",
+    "confidence": "verified",
+    "notes": "$1,399.99 CAD from ld+json on lenovo.com/ca PDP (VERIFIED, InStock) — base listed config of the line; assumed 16GB tier per PDP copy ('16GB of memory' marketing).",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19784269",
+        "cad": 1999.99,
+        "est": false,
+        "name": "Lenovo Yoga Slim 7x 14\" Touchscreen Laptop - Snapdragon X2 Elite Mahua - 16GB LPDDR5x - 1TB SSD - Windows 11 Home - Cosmic Blue"
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7x-gen-11-14-inch-snapdragon/len101y0066"
+  },
+  "image_url": "https://p1-ofp.static.pub/ShareResource/optimized/pdp/yoga/yoga-slim-series/len101y0066/lenovo-yoga-slim-7x-gen-11-14-snapdragon-pdp-gallery-3.2a5808f6c7ad6deb.png",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Jon Rettinger (via lenovo.com/ca)",
+        "score": "recommended",
+        "url": "https://www.lenovo.com/ca/en/yoga/",
+        "quote": "The Yoga Slim 7x isn't just an alternative in ways that matter day-to-day. It's actually better. Lighter, brighter screen with actual black instead of gray, double the refresh rate, more keyboard travel, touchscreen if you want it. Same performance unplugged."
+      },
+      {
+        "outlet": "Dave2D (via lenovo.com/ca)",
+        "score": "recommended",
+        "url": "https://www.lenovo.com/ca/en/yoga/",
+        "quote": "The new Lenovo Slim 7X, it's an awesome device this year. Super fast chip, crazy battery life."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "X2 Elite matches or beats x86 ultrabooks unplugged — no Snapdragon-1 performance cliff",
+      "2.8K 120Hz OLED at this price point is the value story of the CA market",
+      "Silent for everyday work; fan barely runs in browser/office loads",
+      "All-day-to-two-day light-use battery on the 70Wh cell",
+      "80+ TOPS NPU actually accelerates Copilot+ features today"
+    ],
+    "complaints": [
+      "ARM app-compat caveats remain: some anti-cheat games, niche drivers and old Win32 utilities translate poorly",
+      "GPU is fine for media but weak for gaming vs same-price x86+iGPU",
+      "16GB soldered on the base tier — no upgrade path if you outgrow it",
+      "Ports are thinner than Pro line (no Thunderbolt/SD)",
+      "Occasional per-app quirks carried over from Snapdragon translation layer"
+    ]
+  },
+  "design_philosophy": "Lenovo's flagship thin-and-light: Snapdragon X silicon for x86-class speed at ARM battery life, in an all-metal 14-inch chassis with a 2.8K OLED. The X2 generation closes the performance gap that haunted the first Snapdragon wave, targeting students and mobile professionals.",
+  "ratings": {
+    "battery": 9.5,
+    "screen_size": 7,
+    "screen_quality": 8.8,
+    "readability_dark": 9,
+    "readability_bright": 8,
+    "ecosystem": 7.5,
+    "gaming": 3.5,
+    "productivity": 8.5,
+    "portability": 9.3,
+    "build_quality": 8.8,
+    "thermals_noise": 9,
+    "port_connectivity": 6.5,
+    "creative_work": 6,
+    "keyboard_trackpad": 8,
+    "webcam_speakers": 6.5,
+    "upgradability": 2.5,
+    "ai_ml": 7,
+    "pen_touch": 4,
+    "repairability_service": 5,
+    "durability": 7.5
+  },
+  "rating_notes": "Ratings anchored on widely-reviewed Snapdragon X2 Elite Slim 7x coverage (quotes VERIFIED from lenovo.com/ca creator carousel; Rettinger/Dave2D). ARM ecosystem 7.5 per NOTES calibration. 16GB base tier: productivity −0.5 vs 32GB sibling. Ports/weight estimated from PDP. Touch optional → pen_touch modest."
+}

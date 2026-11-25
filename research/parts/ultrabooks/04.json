@@ -1,0 +1,115 @@
+{
+  "id": "x1c14-u-x7-32-1tb-oled",
+  "line": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition (2026, Panther Lake)",
+  "config_name": "ThinkPad X1 Carbon Gen 14 — Core Ultra X7 358H (Arc B390 12 Xe), 32GB LPDDR5, 1TB SSD, 14\" 2.8K 120Hz touch OLED",
+  "tier": "High",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra X7 358H (Panther Lake, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "Intel Arc B390 (12 Xe cores) integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2280 NVMe Gen4",
+    "screen_size_in": 14,
+    "display_type": "OLED 2.8K touch, 16:10",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1100,
+    "weight_kg": 1.02,
+    "ports": "2x TB4, 1x USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7 (Intel BE201), BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker downward firing",
+    "keyboard_notes": "ThinkPad keyboard, TrackPoint, haptic touchpad",
+    "pen_support": "touch enabled (no pen bundled)",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 14,
+    "real_world_hours": 9,
+    "notes": "58Wh; touch OLED + B390 slightly shorter runtime."
+  },
+  "price": {
+    "cad": 3899,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159",
+    "confidence": "estimated",
+    "notes": "X7/Arc B390 tier is X1 Carbon-exclusive per Ultrabookreview; CAD estimate.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159",
+        "cad": 3899,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159"
+  },
+  "image_url": "https://p2-ofp.static.pub/ShareResource/optimized/pdp/thinkpad/thinkpad-x1-series/len101t0159/thinkpad-x1-carbon-gen-14-aura-edition-14-intel-hero.png",
+  "professional": {
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "Ultrabookreview",
+        "score": "recommended",
+        "url": "https://www.ultrabookreview.com/77001-lenovo-thinkpad-x1carbon-macbook-yoga-zenbook/",
+        "quote": "if you want the Core Ultra X7 hardware with the Arc B390 GPU, that's only offered on the Carbon and not on the other two"
+      },
+      {
+        "outlet": "CNET",
+        "score": "8.3/10",
+        "url": "https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-14-review-flagship-ultraportable-repairable/",
+        "quote": "the model Lenovo sent me is actually $100 cheaper tha[n last year's]"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Arc B390 plays esports titles (Valorant, LoL) at 1080p medium — genuinely playable on a 1 kg ThinkPad",
+      "Touch OLED tier adds pen input support for markup",
+      "Best iGPU option in any business ultrabook this year",
+      "Same repairable Space Frame and 1 kg weight as base config",
+      "vPro on the X-series chips for fleet management"
+    ],
+    "complaints": [
+      "Big price jump over the Ultra 7 tier for modest gaming uplift",
+      "B390 drivers still maturing; occasional stutter in older DX11 titles",
+      "Touch glass adds weight and glare vs matte non-touch",
+      "Battery a bit shorter than the Ultra 7 OLED config",
+      "Still capped at 32GB RAM"
+    ]
+  },
+  "design_philosophy": "The performance apex of the X1 Carbon line: Panther Lake's Arc B390 graphics only appear on this flagship, letting light gaming and GPU-accelerated work coexist with the classic 1 kg ThinkPad form.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 7,
+    "screen_quality": 9,
+    "readability_dark": 8.5,
+    "readability_bright": 8,
+    "ecosystem": 9,
+    "gaming": 5,
+    "productivity": 9,
+    "portability": 9.5,
+    "build_quality": 9.5,
+    "thermals_noise": 8,
+    "port_connectivity": 8.5,
+    "creative_work": 6,
+    "keyboard_trackpad": 9.5,
+    "webcam_speakers": 6,
+    "upgradability": 6.5,
+    "ai_ml": 6.5,
+    "pen_touch": 5,
+    "repairability_service": 9,
+    "durability": 9
+  },
+  "rating_notes": "Inferred from Gen 14 OLED review (CNET/Ultrabookreview): Arc B390 → +2 gaming vs 4-Xe config, −0.5 battery/thermals for higher GPU power; touch adds pen_touch 5 (touch only, no active pen); +1 creative_work for B390 media encode. Image from lenovo.com CA CDN."
+}

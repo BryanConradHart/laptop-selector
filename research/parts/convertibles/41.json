@@ -1,0 +1,118 @@
+{
+  "id": "dell16plus2in1-u7-256v-16-1tb-oled-bby",
+  "line": "Dell 16 Plus 2-in-1 (2025, DB06250)",
+  "config_name": "Dell 16 Plus 2-in-1 — Core Ultra 7 256V, 16GB LPDDR5X, 1TB SSD, 16\" touch (higher display tier, Home)",
+  "tier": "High",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 256V (Lunar Lake, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 140V (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X on-package",
+    "storage_gb": 1000,
+    "storage_type": "NVMe",
+    "screen_size_in": 16,
+    "display_type": "Touch (panel tier not stated in BBY listing; likely 2.5K mini-LED given price gap over IPS twin)",
+    "resolution": "2560x1600",
+    "refresh_hz": 90,
+    "brightness_sdr_nits": 467,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2,
+    "ports": "1x Thunderbolt 4, 1x USB-C 3.2 Gen 2, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p (no IR)",
+    "speakers": "2-speaker down-firing",
+    "keyboard_notes": "Full numpad, shallow mushy keys, non-haptic trackpad",
+    "pen_support": "Active pen (sold separately)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 6.5,
+    "notes": "CNET measured 8:58 on this display+chip pairing; ~6.5h real mixed use."
+  },
+  "price": {
+    "cad": 1951.79,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19386172",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 19386172 reg $2,899 / sale $1,951.79. Display tier not stated in product name — flagged; $420 above the IPS twin suggests the mini-LED option.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19386172",
+        "cad": 1951.79,
+        "est": false,
+        "name": "Dell 16 Plus 2-in-1 16\" Touch Laptop - Intel Core Ultra 7 256V - 16GB LPDDR5X - 1TB SSD - Intel Arc - Windows 11 Home - Ice Blue"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/193/19386/19386172.jpeg",
+  "professional": {
+    "avg_score": 7.3,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "7.3/10",
+        "url": "https://www.cnet.com/tech/computing/dell-16-plus-2-in-1-review-the-mini-led-display-shines-but-theres-little-else-to-get-excited-about/",
+        "quote": "Bright, striking mini-LED display... Clocking in at 467 nits in my testing, it's a great choice for outdoor or bright indoor workspaces."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "The 2.5K mini-LED panel CNET praised: bright (467 nits), responsive, great in tablet mode",
+      "Arc 140V handles light games and video editing better than any iGPU in this price class",
+      "Strong single-core speed for everyday productivity",
+      "Sturdy chassis with full numpad",
+      "$950 off regular price at BBY"
+    ],
+    "complaints": [
+      "Mini-LED costs battery: CNET's worst-in-class 8:58 was measured on this panel",
+      "Mushy keyboard and grainy non-haptic trackpad",
+      "Down-firing speakers 'as though audio was being broadcast from inside a cardboard box' (CNET)",
+      "BBY listing doesn't even state which display you're getting — panel-lottery risk",
+      "One TB4 port, no SD reader; soldered RAM"
+    ]
+  },
+  "design_philosophy": "The top-shelf BBY build of the DB06250: same Lunar Lake chassis as the value tiers but with the 2.5K mini-LED display that defines the line's one genuinely standout feature. It is closest to CNET's as-reviewed configuration, carrying both its strength (bright striking panel) and its penalty (battery drain).",
+  "ratings": {
+    "battery": 5,
+    "screen_size": 8,
+    "screen_quality": 8,
+    "readability_dark": 6.5,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7,
+    "portability": 5.5,
+    "build_quality": 7,
+    "thermals_noise": 7.5,
+    "port_connectivity": 5.5,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 4,
+    "webcam_speakers": 4.5,
+    "upgradability": 2,
+    "ai_ml": 5.5,
+    "pen_touch": 7,
+    "repairability_service": 4.5,
+    "durability": 6
+  },
+  "rating_notes": "Closest CA config to CNET's as-reviewed unit (258V/32GB/mini-LED); adjusted -0.3 gaming and -0.5 productivity for 256V/16GB per SHARED-dell-2in1.md anchor. Display tier inferred from price gap (IPS twin $1,531 vs this $1,952) — BBY name omits panel; noted as likely mini-LED.",
+  "standouts": [
+    "Bright 2.5K mini-LED (if panel as inferred)",
+    "Best display of the Dell 2-in-1 line"
+  ],
+  "dealbreakers": [
+    "Class-worst battery with mini-LED",
+    "Keyboard/speaker compromises"
+  ]
+}

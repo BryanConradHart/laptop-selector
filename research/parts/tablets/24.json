@@ -1,0 +1,123 @@
+{
+  "id": "ipad-air-11-m4-256",
+  "line": "Apple iPad Air 11-inch (M4, 2026)",
+  "config_name": "iPad Air 11-inch — M4 8-core CPU / 9-core GPU, 12GB RAM, 256GB SSD, 11\" Liquid Retina + Magic Keyboard",
+  "tier": "Mid",
+  "category": "tablets-ios-android",
+  "ecosystem": "iPadOS",
+  "form_factor": "tablet",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M4 (8-core: 3P+5E)",
+    "cpu_cores": 8,
+    "gpu": "Apple M4 9-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 12,
+    "ram_type": "unified/soldered LPDDR5X",
+    "storage_gb": 256,
+    "storage_type": "NVMe soldered",
+    "screen_size_in": 10.86,
+    "display_type": "Liquid Retina IPS LCD (fully laminated, anti-reflective, no ProMotion)",
+    "resolution": "2360x1640",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.464,
+    "ports": "1x USB-C (USB 3 10Gb/s, DisplayPort), magnetic Magic Keyboard connector, Smart Connector",
+    "wireless": "Wi-Fi 7 (2x2 MIMO), BT 6, Thread",
+    "webcam": "12MP landscape Center Stage front",
+    "speakers": "Landscape stereo (2-speaker)",
+    "keyboard_notes": "Magic Keyboard for iPad Air 11\" included in price: scissor keys with full function row (unlit), glass trackpad, cantilever hinge",
+    "pen_support": "Apple Pencil Pro +$168.99 (BBY sale; ~$199 Apple) — not included in total; Pencil USB-C +$99; hover supported",
+    "os": "iPadOS (Apple Intelligence supported)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 8,
+    "notes": "28.93Wh cell. Apple claims 10h web/video Wi-Fi (9h cellular); users report ~8h mixed real-world use on the 11\"."
+  },
+  "price": {
+    "cad": 1529,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/11-inch-display-256gb-space-grey-wifi",
+    "confidence": "verified",
+    "notes": "Tablet-only $1,149.00 (apple.com/ca, verified 2026-11-24) + Magic Keyboard Air 11\" $379.99 (BBY 19204080). BBY sale: tablet $999.99 (reg $1,149.99) → ~$1,380 with keyboard — the line's standout deal. Cellular variant +$200 ($1,349 tablet). Pencil Pro not included.",
+    "offers": [
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/11-inch-display-256gb-space-grey-wifi",
+        "cad": 1529,
+        "est": false
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19788341",
+        "cad": 999.99,
+        "est": false,
+        "name": "Apple iPad Air M4 11\" 256GB with Wi-Fi 7 (8th Generation) - Space Grey"
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/11-inch-display-256gb-space-grey-wifi"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19788/19788341.jpg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87%",
+        "url": "https://www.notebookcheck.net/The-fiercest-competitor-for-the-iPad-Pro-is-home-made-Apple-iPad-Air-13-M4-2026-tablet-review.1279201.0.html",
+        "quote": "The fiercest competitor for the iPad Pro is home-made. Pros: brute top performance, WiFi very fast, high-quality unibody chassis, USB-C with 10 GBit/s, two external displays possible, good color accuracy (PWM-free), well-balanced speakers, high recycled content. Cons: slow 60 Hz display, battery charging takes time, SoC throttles under sustained load. (NBC review of the iPad Air 13\" M4 2026; 11\" shares SoC and chassis design.)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "The value pick of the whole iPad lineup at BBY sale: M4 + 12GB + 256GB, ~$1,380 with keyboard (r/ipad deal threads)",
+      "464g tablet + keyboard under 1kg total — real laptop-class speed that vanishes in a backpack",
+      "256GB finally feels adequate for pro apps plus a media library without an external SSD",
+      "Function-row Magic Keyboard with glass trackpad makes it a genuine writing machine",
+      "Silent fanless M4 that still outruns most mid-range ultrabooks in single-core bursts"
+    ],
+    "complaints": [
+      "60Hz — Apple's most defended cut: every sibling phone and the Pro are smoother",
+      "500-nit LCD is the dimmest Air panel; outdoor readability suffers vs the 13\"'s 600 nits",
+      "Unlit keyboard keys at $379.99 accessory price",
+      "Single USB-C port (10Gb/s, no Thunderbolt) means a dock for anything serious",
+      "iPadOS multitasking and app ceiling still frustrate power users at any price"
+    ]
+  },
+  "design_philosophy": "The 11\" 256GB is the config most reviewers mean by 'the Air for most people': the full M4/12GB machine at the capacity where the device stops feeling cramped, at the smallest size Apple currently sells it in. Retail sales regularly drop the tablet to $999.99, making it the best price-to-capability point in the whole iPad range.",
+  "ratings": {
+    "battery": 7.8,
+    "screen_size": 6,
+    "screen_quality": 7.6,
+    "readability_dark": 6,
+    "readability_bright": 7.3,
+    "ecosystem": 6.5,
+    "gaming": 4.5,
+    "productivity": 6.8,
+    "portability": 9.4,
+    "build_quality": 9,
+    "thermals_noise": 9,
+    "port_connectivity": 5.5,
+    "creative_work": 7.6,
+    "keyboard_trackpad": 7.9,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 6.8,
+    "pen_touch": 9.3,
+    "repairability_service": 5,
+    "durability": 8
+  },
+  "rating_notes": "Pro score attached from NBC review of the iPad Air 13\" M4 2026 (87%, gap-fill 2026-11-24). Ratings inferred from the 13\" M4 256GB line anchor (SHARED-ipad-air.md): 11\" deltas screen_size 6.0, portability 9.4, battery 7.8, readability_bright 7.3, keyboard_trackpad 7.9. No verbatim pro score found (bot-walls) — disclosed, none invented. Ecosystem 6.5 per tablets rule. BBY CDN image is this SKU (19788341).",
+  "standouts": [
+    "Best price-to-capability iPad in Canada, especially at BBY's ~$999.99 tablet sale price",
+    "Sub-1kg complete laptop-ish setup (464g tablet + Magic Keyboard)"
+  ],
+  "dealbreakers": [
+    "If 120Hz/OLED matter to you, no Air qualifies — that's the Pro line"
+  ]
+}

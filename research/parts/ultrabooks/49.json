@@ -1,0 +1,115 @@
+{
+  "id": "xps16-u7-32-1tb-oled",
+  "line": "Dell XPS 16 (2026, DA16260)",
+  "config_name": "XPS 16 — Core Ultra 7 358H (Arc), 32GB LPDDR5X, 1TB SSD, 16\" 3.2K OLED touch",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 358H (Series 3 Panther Lake, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "Intel Arc Graphics (integrated Arc iGPU)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X soldered, up to 9600 MT/s",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2230 NVMe Gen4",
+    "screen_size_in": 16,
+    "display_type": "OLED touch, 3.2K (3200x2000), 120Hz",
+    "resolution": "3200x2000",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1000,
+    "weight_kg": 1.65,
+    "ports": "3x Thunderbolt 4 (USB-C) with DP 2.1 + PD, universal audio jack",
+    "wireless": "Wi-Fi 7 (Intel BE211 2x2), BT 6.0",
+    "webcam": "FHD webcam",
+    "speakers": "multi-speaker (higher tier audio)",
+    "keyboard_notes": "Backlit keyboard, zero-lattice design, Gorilla Glass 3 palmrest",
+    "pen_support": "touch (no pen)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 26,
+    "real_world_hours": 10.5,
+    "notes": "70Wh. OLED tier loses ~1-1.5h vs the 2K LCD per CNET line testing; ~10-11h real-world mixed."
+  },
+  "price": {
+    "cad": 4800,
+    "currency": "CAD",
+    "store": "dell.ca",
+    "store_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16da16260",
+    "confidence": "verified",
+    "notes": "VERIFIED dell.ca 2026-11-24: CAD $4,799.99.",
+    "offers": [
+      {
+        "store": "dell.ca",
+        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16da16260",
+        "cad": 4800,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16da16260"
+  },
+  "image_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-16-da16260/media-gallery/touch/notebook-da16260-t-gray-gallery-11.psd?fmt=png-alpha",
+  "professional": {
+    "avg_score": 8,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.0/10",
+        "url": "https://www.cnet.com/tech/computing/dell-xps-16-2026-review/",
+        "quote": "the XPS 16 is a fantastic laptop befitting of the premium XPS name"
+      },
+      {
+        "outlet": "CNET",
+        "score": "8.0/10",
+        "url": "https://www.cnet.com/tech/computing/dell-xps-16-2026-review/",
+        "quote": "RTX-level price without RTX GPU"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "3.2K OLED touch is the screen this line deserves — CNET highlights the 3.2K OLED option as the XPS 16's showpiece",
+      "OLED tier is actually LIGHTER (1.65 kg) than the LCD tier (1.74 kg) and thinner (14.62 mm)",
+      "Owners cite smooth video editing and a 'vivid OLED display' as the top reasons to buy (dell.ca review summary)",
+      "120Hz + true blacks makes dark-room work and HDR video excellent",
+      "16-core 358H + 32GB handles creator workloads without a dGPU brick"
+    ],
+    "complaints": [
+      "CAD $4,800 with no discrete GPU — 'RTX-level price without RTX GPU' (CNET)",
+      "No upgrade path: RAM and SSD both fixed (CNET con)",
+      "Glossy OLED reflects more in bright rooms than the matte-ish LCD",
+      "USB-C-only ports; creators still need a dock for SD/HDMI",
+      "No fingerprint reader"
+    ]
+  },
+  "design_philosophy": "The OLED tier is the config the 2026 XPS 16 was designed around: 'the ultimate creator's canvas' — a 3.2K OLED in a 14.62 mm chassis that stays lighter than its own LCD sibling. It trades battery and price for the best display in any thin 16-inch Windows laptop.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 8.5,
+    "screen_quality": 9,
+    "readability_dark": 9.5,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 4.5,
+    "productivity": 8.5,
+    "portability": 8.5,
+    "build_quality": 9,
+    "thermals_noise": 7.5,
+    "port_connectivity": 6.5,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 2,
+    "ai_ml": 6.5,
+    "pen_touch": 6,
+    "repairability_service": 4,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from CNET XPS 16 (2026) 8.0 anchor (reviewed with 3.2K OLED option per CNET). OLED delta vs LCD tier: screen_quality 6.5→9.0, readability_dark →9.5, readability_bright −0.5 (gloss), battery −1, creative_work +1.5, portability +0.5 (1.65 kg)."
+}

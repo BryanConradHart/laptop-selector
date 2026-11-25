@@ -1,0 +1,122 @@
+{
+  "id": "steam-deck-oled-1tb",
+  "line": "Valve Steam Deck OLED (2023)",
+  "config_name": "Steam Deck OLED — Custom AMD 'Sephiroth' Zen 2 8-core / 8 RDNA2 CUs, 16GB LPDDR5-6400, 1TB NVMe, 7.4\" 1280x800 90Hz HDR OLED anti-glare etched glass",
+  "tier": "High",
+  "category": "handheld-pcs",
+  "ecosystem": "SteamOS",
+  "form_factor": "handheld",
+  "release": "2023-11",
+  "inferred": true,
+  "specs": {
+    "cpu": "Custom AMD 'Sephiroth' APU, Zen 2 8-core (4C+4C) 2.4-3.5GHz, 6nm",
+    "cpu_cores": 8,
+    "gpu": "Radeon 8 CUs RDNA 2 1.6GHz (1.6 TFLOPS)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5-6400 soldered (4x32-bit)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2230 NVMe Gen3 (user-replaceable)",
+    "screen_size_in": 7.4,
+    "display_type": "HDR OLED, 10-bit, P3 wide gamut, touch, anti-glare etched glass",
+    "resolution": "1280x800",
+    "refresh_hz": 90,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": 1000,
+    "weight_kg": 0.649,
+    "ports": "1x USB-C 3.1 Gen1 (DP alt-mode, PD), microSD UHS-I, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3 (dedicated antenna)",
+    "webcam": "none",
+    "speakers": "2 stereo speakers, enhanced spatial audio",
+    "keyboard_notes": "no keyboard; on-screen keyboard in SteamOS/Desktop mode",
+    "pen_support": "touch only, no pen",
+    "os": "SteamOS 3 (Arch Linux + KDE Plasma desktop mode)"
+  },
+  "battery": {
+    "claimed_hours": 12,
+    "real_world_hours": 6,
+    "notes": "50Wh, identical to 512GB OLED. Engadget measured Hades 4h23m, Elden Ring maxed 2h20m on the same hardware."
+  },
+  "price": {
+    "cad": 1549,
+    "currency": "CAD",
+    "store": "store.steampowered.com/steamdeck",
+    "store_url": "https://www.steamdeck.com/en/buy",
+    "confidence": "estimated",
+    "notes": "LIST.md estimate (C$200 premium over verified C$1,349 512GB, matching US$549/$649 gap); 1TB listed on steamdeck.com but CAD price not shown.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19882502",
+        "cad": 1799.99,
+        "est": false,
+        "name": "Steam Deck OLED 7” 90Hz HDR Touchscreen Handheld Gaming PC (AMD Zen 2/AMD RDNA 3/16GB RAM/1TB SSD/SteamOS)"
+      },
+      {
+        "store": "store.steampowered.com/steamdeck",
+        "url": "https://www.steamdeck.com/en/buy",
+        "cad": 1549,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.steamdeck.com/en/buy"
+  },
+  "image_url": "https://cdn.akamai.steamstatic.com/steamdeck/images/oled/social_media_image.jpg",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Tom's Guide",
+        "score": "4.5/5",
+        "url": "https://www.tomsguide.com/reviews/steam-deck-oled",
+        "quote": "the premium $649 edition packs a big 1TB SSD and an anti-reflective display... The Steam Deck OLED impresses thanks to its vibrant display, lighter design, faster Wi-Fi and improved cooling."
+      },
+      {
+        "outlet": "Engadget",
+        "score": "recommended",
+        "url": "https://www.engadget.com/steam-deck-oled-review-its-just-better-180038030.html",
+        "quote": "This isn't the Steam Deck 2 some are waiting for, it's just a welcome improvement on an already good device."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Etched anti-glare glass diffuses outdoor/light reflections far better than the glossy 512GB — big win for window-side couch gaming",
+      "1TB means AAA installs (Cyberpunk ~160GB) plus a retro emulation library without juggling the slow microSD slot",
+      "Same OLED HDR 90Hz panel as the 512GB — pure blacks and 1000-nit HDR highlights",
+      "SSD is a standard M.2 2230 anyway, so buyers who'd have upgraded the 512GB see the C$200 premium as fair",
+      "SteamOS console-like sleep/resume and Valve's first-party replacement parts keep long-term ownership easy"
+    ],
+    "complaints": [
+      "Etched glass adds a faint sparkle/grain to fine text and desktop mode that some users dislike after the glossy OLED",
+      "Identical 2021-era APU to every other Deck — C$1,549 in 2026 buys faster Xbox Ally X or Legion Go 2",
+      "Bulkiest-in-class 640g+ footprint; anti-glare doesn't help the small-hands ergonomics",
+      "Anti-cheat multiplayer games remain unplayable on SteamOS regardless of storage tier",
+      "1TB OLED has periodically been the hardest SKU to get stock of at Canadian retail"
+    ]
+  },
+  "design_philosophy": "The top of Valve's current OLED lineup: identical hardware to the reviewed 512GB with double the storage and the signature etched anti-glare glass, aimed at users who install many AAA titles and play in bright rooms. It keeps Valve's console-like, repair-friendly formula unchanged.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 4,
+    "screen_quality": 9.2,
+    "readability_dark": 9.5,
+    "readability_bright": 8.5,
+    "ecosystem": 7.5,
+    "gaming": 6,
+    "productivity": 3,
+    "portability": 7,
+    "build_quality": 8.5,
+    "thermals_noise": 8.5,
+    "port_connectivity": 3.5,
+    "creative_work": 1.5,
+    "keyboard_trackpad": 1,
+    "webcam_speakers": 3.5,
+    "upgradability": 9,
+    "ai_ml": 1,
+    "pen_touch": 4,
+    "repairability_service": 9.5,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from the OLED 512GB anchor (SHARED-steam-deck.md): identical internals; deltas are +1.0 readability_bright for etched anti-glare glass, −0.1 screen_quality for slight etch sparkle, +0.5 storage headroom (no rating change needed). Price estimated per LIST.md."
+}

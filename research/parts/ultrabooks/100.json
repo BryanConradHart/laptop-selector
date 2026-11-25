@@ -1,0 +1,118 @@
+{
+  "id": "lg-gram-book-156-u7255u",
+  "line": "LG gram Book 15.6 (value line)",
+  "config_name": "LG gram Book 15.6 — Core Ultra 7 255U, Intel iGPU, 15.6\" FHD touch; tiers: 16GB/512GB $1,499 (SKU 19743053), 32GB/1TB $2,079 (SKU 19743055), 64GB/2TB $3,099 (SKU 19743089)",
+  "tier": "Entry",
+  "category": "ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 255U (Arrow Lake-U, low-power)",
+    "cpu_cores": 8,
+    "gpu": "Intel integrated (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "DDR5",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 15.6,
+    "display_type": "IPS touch, FHD 16:9",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 250,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.65,
+    "ports": "USB-C, 2x USB-A, HDMI, microSD, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "FHD IR",
+    "speakers": "stereo",
+    "keyboard_notes": "backlit, numeric keypad",
+    "pen_support": "touch only",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 15,
+    "real_world_hours": 9,
+    "notes": "Low-power U-series chip and modest pack; estimated 8-10h light use."
+  },
+  "price": {
+    "cad": 1499,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19743053",
+    "confidence": "verified",
+    "notes": "Entry tier reg $1,869 / sale $1,499. Higher tiers: 32GB/1TB reg $2,599/sale $2,079; 64GB/2TB reg $3,869/sale $3,099 (poor value vs gram Pro line). All BBY-verified 2026-11-24.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19743053",
+        "cad": 1499,
+        "est": false,
+        "name": "LG Gram Book 15.6\" FHD Touchscreen Laptop - Intel Core Ultra 7 255U - 16GB DDR5 - 512GB SSD - Intel Graphics - Windows 11 Pro - Black"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19743055",
+        "cad": 2079,
+        "est": false,
+        "name": "LG gram Book 15.6\" FHD Touchscreen Laptop - Intel Core Ultra 7 255U - 32GB DDR5 - 1TB SSD - Intel Graphics - Windows 11 Pro - Black"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19743089",
+        "cad": 3099,
+        "est": false,
+        "name": "LG Gram Book 15.6\" FHD Touchscreen Laptop - Intel Core Ultra 7 255U - 64GB DDR5 - 2TB SSD - Intel Graphics - Windows 11 Home - Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19743/19743053.png",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "gram Book value line is not covered by major pro outlets; no review retrieved (see SHARED-lg-gram.md)."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest way into the gram name — light 15.6\" chassis well under most rivals' weight",
+      "Windows 11 Pro and vPro-class manageability at a small-business price",
+      "Numeric keypad plus touch screen suit office and POS-style use",
+      "U-series chip runs cool and near-silent on office workloads",
+      "Lightweight for a 15.6\" with numpad (~1.65 kg est.)"
+    ],
+    "complaints": [
+      "FHD 16:9 60 Hz panel with ~250 nits is dim and washed out vs any gram Pro display",
+      "Ultra 7 255U is a low-power office part — noticeably slower than H-series under multitask load",
+      "Plasticky chassis build is a step down from the magnesium-nano-carbon grams",
+      "64GB/2TB tier at $3,099 makes no sense next to the gram Pro 16",
+      "Speakers and webcam are basic; Wi-Fi 6E only, no Wi-Fi 7"
+    ]
+  },
+  "design_philosophy": "The gram Book is LG's value sub-line: the gram lightness pitch at office-laptop prices, built on a low-power Arrow Lake-U platform with Win11 Pro for small businesses. It drops the premium chassis materials, high-res panels, and Copilot+ NPU of the mainline grams. This entry consolidates the three RAM/storage tiers, which differ only in memory and price — the entry tier is the one that makes sense.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 7.5,
+    "screen_quality": 4.5,
+    "readability_dark": 5,
+    "readability_bright": 4.5,
+    "ecosystem": 9,
+    "gaming": 2.5,
+    "productivity": 6.5,
+    "portability": 7.5,
+    "build_quality": 5.5,
+    "thermals_noise": 8,
+    "port_connectivity": 7,
+    "creative_work": 3.5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 4.5,
+    "upgradability": 4,
+    "ai_ml": 3.5,
+    "pen_touch": 5,
+    "repairability_service": 3.5,
+    "durability": 5.5
+  },
+  "rating_notes": "Synthesized per SHARED-lg-gram.md; value line has no pro coverage (honest null). U-series + dim FHD panel pull screen/creative down; silent cool running lifts thermals. Ratings anchored on 16GB/512GB tier; 32GB tier ≈ productivity +0.5. Image URL best-guess BBY CDN pattern."
+}

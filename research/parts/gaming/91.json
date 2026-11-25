@@ -1,0 +1,122 @@
+{
+  "id": "legion-pro5-r7-5060-32-1tb-refurb",
+  "line": "Lenovo Legion Pro 5 16 (Gen 10, 2025)",
+  "config_name": "Legion Pro 5 16\" WQXGA (Refurb Excellent) — Ryzen 7 8745HX / RTX 5060 8GB, 32GB DDR5, 1TB SSD",
+  "tier": "Entry (refurb value pick)",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 7 8745HX (Dragon Range, 8c/16t, no NPU)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600 (2x SODIMM, upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe PCIe Gen4 (dual M.2 slots)",
+    "screen_size_in": 16,
+    "display_type": "OLED, glossy (WQXGA tier assumed OLED per tested config)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 900,
+    "weight_kg": 2.42,
+    "ports": "1x USB4 40Gbps/TB (DP+PD), 2x USB-A 3.2 Gen2, 2x USB-A 3.2 Gen1, HDMI 2.1, 1GbE RJ45, 3.5mm",
+    "wireless": "Wi-Fi 6E/7, BT 5.2+",
+    "webcam": "5MP",
+    "speakers": "stereo (2x)",
+    "keyboard_notes": "TrueStrike 24-zone RGB backlit, numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 4,
+    "notes": "80Wh; 'battery life is typical for the class' (Back2Gaming). ~5h light browsing, ~1-1.5h gaming."
+  },
+  "price": {
+    "cad": 2749,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20178812",
+    "confidence": "verified",
+    "notes": "Regular $3,829; sale $2749 VERIFIED via BBY API 2026-11-24 (sku 20178812).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20178812",
+        "cad": 2749,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20178/20178812.jpeg",
+  "professional": {
+    "avg_score": 8.68,
+    "reviews": [
+      {
+        "outlet": "Ultrabook Review",
+        "score": "85%",
+        "url": "https://www.ultrabookreview.com/73868-lenovo-legion-pro-5i-gen10-review/",
+        "quote": "It's built well and clean looking, offers solid ergonomics, decent inputs, and a beautiful OLED display that you won't normally find in this segment."
+      },
+      {
+        "outlet": "Back2Gaming",
+        "score": "87%",
+        "url": "https://www.back2gaming.com/review/lenovo-legion-pro-5i-2025/",
+        "quote": "strong raster performance from the RTX 5070 Ti Laptop GPU, excellent motion clarity from the 240Hz 2560×1600 OLED, and a cooling design that sustains clocks without resorting to gimmicks."
+      },
+      {
+        "outlet": "91mobiles",
+        "score": "87%",
+        "url": "https://www.91mobiles.com/reviews/lenovo-legion-pro-5i-gen-10-review/",
+        "quote": "it focuses on nailing the fundamentals: strong performance, a fantastic display, sturdy build quality, and a keyboard that's genuinely comfortable to use."
+      }
+    ],
+    "note": "Pro scores are for the tested Ultra 9 275HX / RTX 5070 Ti / 32GB config (NBC collection 86.8%); this tier's ratings inferred per SHARED-legion-pro5.md deltas."
+  },
+  "user_sentiment": {
+    "praises": [
+      "$2,749 CAD refurb (BBY \"Excellent\") for the Pro 5 chassis + RTX 5060 is one of the best price-per-frame deals in Canada today",
+      "Same sturdy Pro 5 chassis, comfortable TrueStrike keyboard, and upgradeable dual SODIMM/dual M.2 as the full-price tiers",
+      "RTX 5060 runs cool and quiet in this chassis — the cooling stack is over-spec for this GPU",
+      "32GB RAM standard despite the discount price",
+      "DLSS 4 frame-gen keeps the 5060 viable at WQXGA in most current titles"
+    ],
+    "complaints": [
+      "Refurb unit: no first-owner warranty history, possible cosmetic wear; panel type (IPS vs OLED) not guaranteed",
+      "Ryzen 7 8745HX has no NPU — Copilot+ features and local-AI acceleration absent",
+      "8GB VRAM on the 5060 is the first thing to run out in new AAA at WQXGA max settings",
+      "Battery remains mediocre even with the smaller GPU — desk machine",
+      "Some Gen 10 Legion 50-series units hit nvlddmkm TDR black-screen crashes (platform-wide Legion reports)"
+    ]
+  },
+  "design_philosophy": "Lenovo's 'mainstream affordable Legion Pro' bet: take the Pro 7 chassis language, keep the strong 140W-class GPU cooling and comfortable TrueStrike keyboard, and differentiate with an OLED panel rarely seen at this tier — while trimming premium extras (rear I/O, big speaker arrays). This 275HX/5070 Ti/32GB/2TB tier is the sweet-spot config the professional reviewers tested and recommend: standouts = OLED 240Hz + upgradeable RAM/storage; dealbreakers for some = battery life and sale-price-dependent value.",
+  "ratings": {
+    "battery": 4.5,
+    "screen_size": 7.5,
+    "screen_quality": 8.8,
+    "readability_dark": 8.5,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 6.5,
+    "productivity": 7.8,
+    "portability": 3.5,
+    "build_quality": 8.3,
+    "thermals_noise": 7,
+    "port_connectivity": 7.5,
+    "creative_work": 7.5,
+    "keyboard_trackpad": 8,
+    "webcam_speakers": 5.5,
+    "upgradability": 8,
+    "ai_ml": 6.2,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Inferred from anchor 80 per SHARED-legion-pro5.md: RTX 5060 8GB vs 5070 Ti = -2.2 gaming / -0.8 ai_ml; Ryzen 7 8745HX (8c, no NPU) -0.7 productivity; easier GPU/cooling headroom +0.5 thermals / +0.5 battery. Refurb \"Excellent\" condition at BBY — notable value pick today at $2,749."
+}

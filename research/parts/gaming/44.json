@@ -1,0 +1,116 @@
+{
+  "id": "legion-pro7-16-5080-ips-64-2tb",
+  "line": "Lenovo Legion Pro 7 16 (Gen 10, 2025)",
+  "config_name": "Legion Pro 7 16\" — Core Ultra 9 275HX, RTX 5080 16GB, 64GB DDR5, 2TB SSD, 16\" WQXGA 240Hz IPS",
+  "tier": "Top",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24-core: 8P+16E)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop 16GB (up to 175W)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "DDR5-5600 (2x SODIMM, upgradeable)",
+    "storage_gb": 2000,
+    "storage_type": "M.2 2280 NVMe Gen4 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "IPS anti-glare, 16:10",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.6,
+    "ports": "2x USB-C (one DP/PD), 3x USB-A, HDMI 2.1, RJ45, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker front + bottom firing, Nahimic",
+    "keyboard_notes": "Per-key RGB, no TrackPoint; keys not centered on numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 4.8,
+    "notes": "99.9Wh. RTINGS measured sub-5h browsing on the OLED config; IPS tier marginally more efficient."
+  },
+  "price": {
+    "cad": 6799,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/lenovo-legion-pro-7-16-wqxga-240hz-gaming-laptop-intel-ultra-9-275hx-64gb-ddr5-2tb-ssd-rtx-5080-windows-11-black/19763291",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $9,719 / sale $6,799 (marketplace seller, online only).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/lenovo-legion-pro-7-16-wqxga-240hz-gaming-laptop-intel-ultra-9-275hx-64gb-ddr5-2tb-ssd-rtx-5080-windows-11-black/19763291",
+        "cad": 6799,
+        "est": false,
+        "name": "Lenovo Legion Pro 7 16\" WQXGA 240Hz Gaming Laptop - Intel Ultra 9 275HX - 64GB DDR5 - 2TB SSD - RTX 5080 - Windows 11 - Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19763/19763291.jpeg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "RTINGS",
+        "score": "8.7/10",
+        "url": "https://www.rtings.com/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026",
+        "quote": "The Legion Pro 7i is a great option if your work regularly involves demanding rendering, 3D applications, or compiling code. The RTX 5080 and Core Ultra 9 configuration performs well in graphics- and processor-heavy workloads, with little slowdown during long jobs."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.7/10",
+        "url": "https://www.rtings.com/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026",
+        "quote": "The Legion Pro 7i has disappointing battery life. The RTX 5080 configuration lasts under five hours while browsing the web."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "64GB RAM handles VMs, heavy compiling, and local LLM/data work alongside gaming — owners report doing coding and AAA games simultaneously with headroom",
+      "240Hz panel plus 175W RTX 5080: no gaming compromise at any tier of the line",
+      "RAM is SODIMM not soldered — this config is exactly what a $9,719 list price should buy without DIY",
+      "2TB NVMe with a free second M.2 slot keeps creators and engineers covered out of the box",
+      "Matte IPS + aluminum chassis reads professional enough for client work when RGB is switched off"
+    ],
+    "complaints": [
+      "$1,000 over the 32GB/1TB IPS SKU for RAM+storage you can source far cheaper yourself",
+      "At this price the OLED tier (or the 5090 Pro 7i) is only slightly more — hard sell for the matte panel",
+      "RTX 5080's 16GB VRAM, not system RAM, is the real ceiling for local AI at this tier",
+      "Same line-wide TDR-crash and fan-bearing anecdotes from owners; $6,800 raises expectations",
+      "4.5h battery and 2.6kg + 400W brick: never leaving the desk anyway"
+    ]
+  },
+  "design_philosophy": "The max-memory configuration of Lenovo's flagship 16-inch gaming line: identical 175W RTX 5080 and aluminum chassis, but 64GB DDR5 and 2TB SSD push it toward mobile-workstation duty for developers, engineers, and creators who also game. It is the Pro 7 spec'd for people who keep one machine for everything.",
+  "ratings": {
+    "battery": 4.2,
+    "screen_size": 8,
+    "screen_quality": 8.3,
+    "readability_dark": 8,
+    "readability_bright": 7.1,
+    "ecosystem": 9,
+    "gaming": 9.5,
+    "productivity": 9.1,
+    "portability": 3,
+    "build_quality": 8.8,
+    "thermals_noise": 6,
+    "port_connectivity": 8,
+    "creative_work": 8.6,
+    "keyboard_trackpad": 7.8,
+    "webcam_speakers": 7,
+    "upgradability": 7.5,
+    "ai_ml": 9,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6.8
+  },
+  "rating_notes": "Ratings inferred from RTINGS' reviewed OLED RTX 5080 config (8.7) per SHARED-legion-pro7.md deltas: IPS panel (BBY name omits OLED) → screen_quality -1.0, readability_dark -1.5, readability_bright +0.3, battery +0.2; 64GB RAM → productivity +0.5, ai_ml +0.5 (still capped by 16GB VRAM); 2TB → creative_work +0.3."
+}

@@ -1,0 +1,106 @@
+{
+  "id": "asus-chromebook-plus-cx14-n355",
+  "line": "ASUS Chromebook Plus CX14 (2025)",
+  "config_name": "ASUS Chromebook Plus CX14 14\" touch — Core 3 N355, 8GB RAM, 256GB eMMC, 14\" touch",
+  "tier": "Entry",
+  "category": "budget",
+  "ecosystem": "ChromeOS",
+  "form_factor": "clamshell",
+  "release": "2025-08",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 3 N355 (8-core: 4P+4E, Alder Lake-N refresh, up to 3.9 GHz)",
+    "cpu_cores": 8,
+    "gpu": "Intel UHD Graphics (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "soldered LPDDR",
+    "storage_gb": 256,
+    "storage_type": "eMMC (soldered)",
+    "screen_size_in": 14,
+    "display_type": "FHD IPS touch",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.45,
+    "ports": "2x USB-C, 2x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 6, BT 5.3",
+    "webcam": "FHD 1080p with privacy shutter",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Bilingual CA chiclet",
+    "pen_support": "touch (active pen not supported)",
+    "os": "ChromeOS (Chromebook Plus, ~10-year automatic updates)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 9,
+    "notes": "Same low-power N355 + ChromeOS recipe as the Lenovo: ~8-10h real web use."
+  },
+  "price": {
+    "cad": 599.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19860976",
+    "confidence": "verified",
+    "notes": "Regular $749.99; sale $599.99 (BBY-verified 2026-11-24, SKU 19860976). Non-touch 128GB twin 19872460 at $899.99 reg — skip at regular price.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19860976",
+        "cad": 599.99,
+        "est": false,
+        "name": "ASUS CX14 14\" Touchscreen Chromebook Plus - Intel Core 3-N355 - 8GB LPDDR5 - 256GB eMMC - ChromeOS - Rock Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19860/19860976.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "$599.99 sale gets touchscreen + 256GB storage on the new N355 — the touch pick of the value tier",
+      "Same near-silent, cool-running N355 platform as the best-value Lenovo",
+      "Chromebook Plus minimums met: 8GB RAM, 1080p webcam, ~10-year update window",
+      "Touchscreen is genuinely useful on ChromeOS for scrolling and Android apps",
+      "ASUS's CX-series chassis feels sturdier than the no-name sub-$400 Chromebooks"
+    ],
+    "complaints": [
+      "eMMC storage (not SSD) — slower than the Lenovo's SSD at $150 less, and soldered",
+      "$749.99 regular price is poor value; only the $599.99 sale is honest",
+      "Glossy touch panel is reflective and class-typical washed colour",
+      "No active pen support despite the touch layer",
+      "N355 is fine for web but the $699.97 CX34 i5 twin is a much faster machine"
+    ]
+  },
+  "standouts": [
+    "Cheapest touchscreen Chromebook Plus in the CA inventory at $599.99 sale"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "The CX14 is ASUS's refresh of the value Chromebook Plus: current-gen N355 efficiency, a touchscreen as the differentiator, and 256GB to ease the soldered-storage problem — while keeping costs down with eMMC and a plastic chassis. It slots between the $450 Lenovo and the $700 CX34 as the 'touch on a budget' option.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 6,
+    "screen_quality": 4.5,
+    "readability_dark": 4.2,
+    "readability_bright": 3.8,
+    "ecosystem": 5,
+    "gaming": 1.2,
+    "productivity": 5.4,
+    "portability": 7.5,
+    "build_quality": 5.8,
+    "thermals_noise": 8,
+    "port_connectivity": 6,
+    "creative_work": 2,
+    "keyboard_trackpad": 6,
+    "webcam_speakers": 5.5,
+    "upgradability": 2.5,
+    "ai_ml": 1.5,
+    "pen_touch": 5,
+    "repairability_service": 5,
+    "durability": 5.5
+  },
+  "rating_notes": "No pro score found (outlets bot-walled; see SHARED-chromebooks.md). Inferred from Chromebook Plus anchor (29.json) — same N355/8GB platform, so near-identical: +2.0 storage but eMMC → productivity -0.1; touch → pen_touch 5.0 (no active pen); glossy touch panel → readability_bright -0.2. Image URL best-guess BBY CDN pattern."
+}

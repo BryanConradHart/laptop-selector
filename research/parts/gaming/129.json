@@ -1,0 +1,123 @@
+{
+  "id": "pred-helios18-275hx-5080-32-1tb",
+  "line": "Acer Predator Helios 18 AI (2025, PH18-73)",
+  "config_name": "Predator Helios 18 AI — Ultra 9 275HX / RTX 5080 16GB, 32GB DDR5, 1TB SSD, 18\" WQXGA mini-LED 250Hz HDR",
+  "tier": "Flagship",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": false,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t, 115W PL2/75W PL1)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop 16GB GDDR7, 175W (Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600, 4 SODIMM slots (upgradeable to 192GB+)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (3 SSD slots)",
+    "screen_size_in": 18,
+    "display_type": "mini-LED (AUO B180QAN01.2), matte, HDR, Adaptive Sync",
+    "resolution": "2560x1600",
+    "refresh_hz": 250,
+    "brightness_sdr_nits": 620,
+    "brightness_hdr_nits": 1000,
+    "weight_kg": 3.495,
+    "ports": "4x USB-A 3.2, 1x USB 3.0, 2x USB-C (TB5/DP), HDMI, 2x mini-DP via USB-C, RJ-45 2.5G/5G, SD reader, 3.5mm, Kensington",
+    "wireless": "Wi-Fi 7 (Killer BE1750x), BT 5.4",
+    "webcam": "FHD 1080p",
+    "speakers": "6-speaker, loud",
+    "keyboard_notes": "Chiclet per-key RGB, WASD keycaps included",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 4.5,
+    "notes": "99 Wh; NBC tested WiFi-wifi ~5h class on this config; users report ~1h less in mixed use. 400W PSU."
+  },
+  "price": {
+    "cad": 4399,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19715863",
+    "confidence": "verified",
+    "notes": "BBY CA verified 2026-11-24: reg $4,599, sale $4,399. BBY-direct SKU 19715863.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19715863",
+        "cad": 4399,
+        "est": false,
+        "name": "Acer Predator Helios 18 250Hz HDR Gaming Laptop - Intel Core Ultra 9-275HX - 32GB DDR5 - 1TB SSD - RTX 5080 - Windows 11 Home - Abyss Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19715/19715863.jpeg",
+  "professional": {
+    "avg_score": 8.9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "89%",
+        "url": "https://www.notebookcheck.net/Acer-Predator-Helios-18-AI-review-Finally-a-quieter-gaming-laptop-but-at-what-cost.1054468.0.html",
+        "quote": "With \"Performance mode\" enabled, the gaming laptop delivers slightly below-average performance for its class. In return, it operates more quietly than many competitors, though the optional \"Turbo mode\" significantly increases noise levels. ... The system's excellent upgrade options—4 RAM slots and 3 SSD slots—along with a high-quality mini LED panel and fast Wi-Fi 7, remain clear highlights."
+      },
+      {
+        "outlet": "Digital Camera World (via NBC)",
+        "score": "80%",
+        "url": "https://www.notebookcheck.net/Acer-Predator-Helios-18-AI-review-Finally-a-quieter-gaming-laptop-but-at-what-cost.1054468.0.html",
+        "quote": "If you're in the market for a very large gaming laptop, this is a good choice."
+      },
+      {
+        "outlet": "TechRadar (tested 5090/4K config)",
+        "score": "no numeric score found",
+        "url": "https://www.techradar.com/computing/gaming-laptops/acer-predator-helios-18-ai-review",
+        "quote": "if you must have unparalleled performance and don't mind sacrificing practical portability, the Predator Helios 18 AI has very few equals. You'll need some seriously deep pockets, though, and there are plenty of better value alternatives out there."
+      }
+    ],
+    "note": "THIS is the NBC-reviewed configuration (275HX/5080/32GB/mini-LED 250Hz) — 89%. NBC cons: lid closes too easily, slow 5GHz Wi-Fi, slightly below-average performance in Performance mode, SSD throttles under prolonged load, system not completely smooth."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Best-reviewed config in the whole Predator range (NBC 89%) — mini-LED 250Hz HDR panel is bright, matte, and burn-in-free",
+      "4 RAM slots + 3 SSD slots: the most upgrade-friendly 18-inch flagship of its generation",
+      "Noticeably quieter than competing 5080 flagships in Performance mode (NBC headline finding)",
+      "Thunderbolt 5 + 2.5G/5G Ethernet + Wi-Fi 7 — genuinely next-gen connectivity",
+      "6-speaker system is loud and full (NBC pro); sale price near $4,400 undercuts Legion Pro 7i/Omen Max 5080 rivals"
+    ],
+    "complaints": [
+      "Performance mode is quiet but ~5-10% below class average; Turbo fixes rank but is loud (NBC)",
+      "SSD throttles under prolonged heavy writes (NBC, also flagged on last-gen Helios 18)",
+      "Lid closes too quickly on its own — hinge too loose (NBC)",
+      "5GHz Wi-Fi throughput slow in comparison; system \"does not run completely smoothly\" per NBC",
+      "3.5 kg + 1.17 kg 400W brick; TechRadar: \"barely portable\", compromised keyboard layout"
+    ]
+  },
+  "design_philosophy": "The Helios 18 AI is Predator's no-compromise desktop replacement: full 175W RTX 5080, the best panel Acer ships (18\" mini-LED 250Hz), Thunderbolt 5, and an unusually serviceable interior (4 SODIMMs, 3 M.2s). Acer's 2025 answer to critics of the 40-series Helios was acoustic discipline — quieter default tuning over brute benchmark rank — and this reviewed config is the line at its most balanced.",
+  "ratings": {
+    "battery": 4.5,
+    "screen_size": 9,
+    "screen_quality": 8.5,
+    "readability_dark": 7.5,
+    "readability_bright": 8,
+    "ecosystem": 9,
+    "gaming": 9,
+    "productivity": 8.5,
+    "portability": 2.5,
+    "build_quality": 8,
+    "thermals_noise": 6.5,
+    "port_connectivity": 9,
+    "creative_work": 7.5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 7,
+    "upgradability": 9,
+    "ai_ml": 7.5,
+    "pen_touch": 0,
+    "repairability_service": 7.5,
+    "durability": 7
+  },
+  "rating_notes": "ANCHOR entry — directly reviewed by NBC (89%) in this exact configuration. Gaming 9.0 not 9.5 because NBC measured slightly below-class-average performance in default Performance mode (Turbo closes the gap at noise cost). Upgradability 9.0 per NBC (4 RAM/3 SSD slots). BBY 0-rating listing; sentiment NBC/TechRadar-grounded per SHARED-predator.md."
+}

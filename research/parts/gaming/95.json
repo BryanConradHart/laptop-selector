@@ -1,0 +1,118 @@
+{
+  "id": "g16-2025-285h-5080-64-2tb",
+  "line": "ASUS ROG Zephyrus G16 (2025, GU605)",
+  "config_name": "ROG Zephyrus G16 (2025) — Core Ultra 9 285H / RTX 5080 16GB, 64GB LPDDR5X, 2TB SSD, 16\" 2.5K OLED 240Hz",
+  "tier": "High",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-04",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 285H (Arrow Lake-H, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop 16GB (TGP-capped slim chassis ~110W)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 2000,
+    "storage_type": "NVMe (2x M.2 2280 slots)",
+    "screen_size_in": 16,
+    "display_type": "OLED (ROG Nebula HDR, glossy, G-Sync)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 900,
+    "weight_kg": 1.87,
+    "ports": "1x Thunderbolt 4, 1x USB-C 3.2 Gen2 (DP/PD), 2x USB-A 3.2, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "quad-speaker (praised by NBC)",
+    "keyboard_notes": "backlit chiclet, per-key RGB; NBC: 'brilliant input devices'",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 6.3,
+    "notes": "90Wh. NBC lab WiFi test on the GU605CX sibling: 9h00 @150nits / 6h43 max brightness; ~5-7h real mixed use, ~1.25h gaming on the 5080 tier. USB-C PD charging."
+  },
+  "price": {
+    "cad": 5299,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19602225",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24, sku 19602225 (Eclipse Gray, ASUS Canada direct), sale $5,299 (reg $6,499). White colourway sku 19872687 same price. No customer reviews on listing.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19602225",
+        "cad": 5299,
+        "est": false,
+        "name": "ROG Zephyrus G16 (2025) 16\" 240Hz Ultralight Gaming Laptop - Intel Core Ultra 9 285H - 64GB LPDDR5X - 2TB SSD - RTX 5080 - Windows 11 Pro - Eclipse Gray - Bilingual"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19872687",
+        "cad": 5299,
+        "est": false,
+        "name": "ROG Zephyrus G16 16\" 240Hz OLED Gaming Laptop - Intel Core Ultra 9 - 64GB RAM - 2TB SSD - RTX 5080 - Windows 11 Pro - White"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/196/19602/19602225.png",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/A-slim-gaming-laptop-now-with-an-RTX-5090-and-64-GB-of-RAM-Asus-ROG-Zephyrus-G16-2025-review.993365.0.html",
+        "quote": "The ROG Zephyrus G16's 2025 update offers several upgrades. Its overall performance has also increased thanks to the Arrow Lake processor and the new GeForce RTX 5090 laptop GPU. However, it's still important to know that it uses a relatively slow version of the GPU. (NBC 'very good' 90%, tested the 64GB/2TB RTX 5090 tier — nearest tested sibling to this 5080/64GB/2TB config.)"
+      }
+    ],
+    "note": "NBC tested the adjacent RTX 5090/64GB/2TB tier of this exact chassis; 5080/64GB/2TB ratings inferred with GPU-tier delta."
+  },
+  "user_sentiment": {
+    "praises": [
+      "64GB soldered RAM + 16GB VRAM makes this the creator/AI pick of the line — video editing, VMs, and local LLMs in a 1.87kg chassis",
+      "RTX 5080 comfortably drives the 2.5K OLED at 100+ FPS in most titles with DLSS — the best gaming-per-kg in the lineup under $6k",
+      "NBC-praised OLED 240Hz G-Sync panel, speakers, and input devices unchanged at the top tiers — nothing is cost-cut here",
+      "$5,299 sale price (from $6,499) puts it near Razer Blade 16 5080 pricing with more RAM",
+      "Two M.2 slots under the aluminum — storage to 4-8TB is the one easy upgrade"
+    ],
+    "complaints": [
+      "Slim-chassis TGP cap (~110W): NBC's central finding — even the top GPU is 'unable to reach its potential'; a thicker $4.5k 5080 laptop can beat it",
+      "OLED PWM flickering and low HDR peak brightness remain (NBC cons) at a price where Mini-LED rivals offer brighter HDR",
+      "RAM is soldered — 64GB is fixed, and buyers note the upcharge for it is steep",
+      "Lid creak and hinge rocking called out by NBC on the top tier specifically; fans pulse audibly at idle",
+      "Full $6,499 regular price exceeds the Razer Blade 16 (NBC: 'very expensive'); only the sale price is defensible"
+    ]
+  },
+  "design_philosophy": "The halo config of ASUS's thin-first flagship: everything the line does well — aluminum unibody, 2.5K OLED 240Hz, best-in-class inputs/speakers — with the near-top GPU and maximum (soldered) memory. It targets the buyer who wants one machine for gaming, creative work, and travel, accepting the TGP tax that comes with 1.87 kg.",
+  "ratings": {
+    "battery": 6.3,
+    "screen_size": 8,
+    "screen_quality": 9,
+    "readability_dark": 8.5,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 8.4,
+    "productivity": 8.4,
+    "portability": 8.1,
+    "build_quality": 8,
+    "thermals_noise": 5.4,
+    "port_connectivity": 6.5,
+    "creative_work": 8.3,
+    "keyboard_trackpad": 8.5,
+    "webcam_speakers": 8,
+    "upgradability": 3,
+    "ai_ml": 7.5,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 6.5
+  },
+  "rating_notes": "Inferred from NBC GU605CX (5090/64GB/2TB) 90% anchor per SHARED-zephyrus-g16.md: -1.0 gaming and -1.0 ai_ml for 5080 tier (16GB vs 24GB VRAM; both TGP-capped so gap compressed), -0.3 thermals_noise (hotter GPU in same chassis). 64GB keeps NBC's productivity/ai_ml ceiling (no RAM delta). Battery lab 9h minus calibration. Upgradability 3.0 (soldered RAM, 2x M.2). Sale price $5,299 used; reg $6,499 noted."
+}

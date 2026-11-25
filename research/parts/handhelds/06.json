@@ -1,0 +1,124 @@
+{
+  "id": "legion-go-2-z2e-16-512",
+  "line": "Lenovo Legion Go 2 (2025)",
+  "config_name": "Legion Go 2 — AMD Ryzen AI Z2 Extreme (8C/16T) / Radeon 820M 16CU, 16GB LPDDR5X-8000, 512GB NVMe, 8.8\" 2560x1600 144Hz OLED",
+  "tier": "Mid",
+  "category": "handhelds",
+  "ecosystem": "Windows",
+  "form_factor": "handheld",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI Z2 Extreme (Zen 5, 8-core/16-thread, up to ~5.0GHz)",
+    "cpu_cores": 8,
+    "gpu": "Radeon 820M 16 CU RDNA 3.5 (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X-8000 soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 2242 PCIe 4.0 x4 NVMe (user-replaceable)",
+    "screen_size_in": 8.8,
+    "display_type": "OLED, glossy, 10-point touch",
+    "resolution": "2560x1600",
+    "refresh_hz": 144,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.982,
+    "ports": "2x USB4 40Gbps (DP alt-mode, PD 3.0), 3.5mm, microSD UHS-II; no HDMI",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "none",
+    "speakers": "2 stereo speakers, Dolby Atmos",
+    "keyboard_notes": "no keyboard; detachable Legion TrueStrike controllers (hall-effect sticks, 3ms low-latency mode, rear mappable buttons, touchpad in right controller)",
+    "pen_support": "touch only, no pen",
+    "os": "Windows 11 Home + Lenovo Legion Space"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 5.5,
+    "notes": "Identical 74.25Wh battery and APU as the 32GB/1TB tier — no battery delta. Estimate ~6-8h light use, ~3.5-5h gaming at 2560x1600; not pro-verified this session."
+  },
+  "price": {
+    "cad": 1549,
+    "currency": "CAD",
+    "store": "lenovo.com/ca (Best Buy CA also stocks the line)",
+    "store_url": "https://www.lenovo.com/ca/en/laptops/legion-go/",
+    "confidence": "estimated",
+    "notes": "C$1,549 carried over from research/parts/handhelds/LIST.md (est). Not verifiable this session (BBY API DNS failure, lenovo.com bot-walled). Only ~C$250 below the 32GB/1TB tier — the 32GB config is usually the better buy; choose this one only when discounted.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/laptops/legion-go/",
+        "cad": 1549,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/laptops/legion-go/"
+  },
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lenovo_Legion_Go.jpg/250px-Lenovo_Legion_Go.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": null,
+        "url": "https://www.notebookcheck.net/Reviews.55.0.html",
+        "quote": null,
+        "note": "NBC reviewed the Legion Go 2 (32GB/1TB anchor config) but the article URL/score could not be resolved this session; recorded as null per schema rule 5."
+      },
+      {
+        "outlet": "Engadget (2026 Steam Deck re-check, mentions Legion Go 2)",
+        "score": "n/a (about the Deck)",
+        "url": "https://www.engadget.com/2248094/is-steam-deck-still-worth-it/",
+        "quote": "competitors (Xbox Ally/Ally X, Legion Go 2) beat it in raw Time Spy, but in real-world applications, Valve's handheld often comes out on top"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Same Z2 Extreme + Radeon 820M and same 8.8\" 144Hz OLED as the flagship tier — zero performance or display compromise vs the C$1,799 model",
+      "Detachable TrueStrike controllers with hall-effect sticks and the 3ms low-latency mode are identical across tiers",
+      "C$1,549 makes it the cheapest way into the Go 2's screen and detachable-controller design in Canada",
+      "512GB M.2 2242 SSD is user-replaceable and the UHS-II microSD slot covers library growth cheaply",
+      "Full Windows 11 runs Game Pass and anti-cheat titles that SteamOS handhelds cannot, even at 16GB"
+    ],
+    "complaints": [
+      "16GB is the tight spot: newer AAA at 2560x1600 plus Windows background load can push into paging, and the RAM is soldered with no upgrade path",
+      "512GB fills almost immediately — a few current AAA games at this resolution eat the whole drive",
+      "Only ~C$250 separates it from the 32GB/1TB tier, so the value case is weak unless this SKU is on sale",
+      "~982g with controllers is still the heaviest mainstream handheld, and the glossy 500-nit OLED is poor outdoors",
+      "Same no-webcam and Windows wake/sleep frustrations as the flagship tier"
+    ]
+  },
+  "standouts": [
+    "Cheapest Canadian entry into the Go 2's 8.8\" 144Hz OLED and detachable-controller design",
+    "Identical CPU/GPU/display to the flagship tier — the performance story is unchanged"
+  ],
+  "dealbreakers": [
+    "16GB soldered RAM at 2560x1600 is the practical floor for newer AAA, with no upgrade path",
+    "Nearly 1kg in-hand and no webcam — same portability/ergonomics liabilities as the flagship"
+  ],
+  "design_philosophy": "Lenovo builds the Legion Go 2 as a detachable-controller Windows tablet first and a handheld console second, and every tier shares the same screen, APU and controllers — the tiers buy you memory headroom, not capability. This 16GB/512GB entry is the access point of that philosophy: the full design idea at the lowest Canadian price, but with the soldered-RAM ceiling that makes the desktop-mode pitch weaker than on the 32GB flagship.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 5.5,
+    "screen_quality": 9.3,
+    "readability_dark": 9.5,
+    "readability_bright": 7,
+    "ecosystem": 8.5,
+    "gaming": 7.2,
+    "productivity": 4.5,
+    "portability": 5,
+    "build_quality": 7.5,
+    "thermals_noise": 7.5,
+    "port_connectivity": 5.5,
+    "creative_work": 2.5,
+    "keyboard_trackpad": 1,
+    "webcam_speakers": 2,
+    "upgradability": 8,
+    "ai_ml": 3,
+    "pen_touch": 4,
+    "repairability_service": 6.5,
+    "durability": 6
+  },
+  "rating_notes": "Ratings inferred from the 32GB/1TB anchor entry (05.json), which is itself delta-derived from the verified Steam Deck OLED anchor (see SHARED-legion-go2.md) — professional scores unverified. Sibling deltas from the anchor: productivity -0.5 and creative_work -0.5 (16GB vs 32GB for multitask/heavier work), gaming -0.3 (16GB at 2560x1600 is the practical floor for newer AAA; paging pressure). Everything else identical: same APU, GPU, battery, display, chassis and controllers. Handheld conventions from SHARED-steam-deck.md: screen_size kept modest (5.5) with portability carrying the form-factor story; keyboard_trackpad 1.0 (no keyboard; touchpad is inside the right controller); pen_touch 4.0 (multi-touch yes, no pen). Omitted tier: a 32GB/2TB variant exists in some markets but Canadian retail availability/pricing could not be confirmed this session. Image URL is a real Commons photo of the first-gen Legion Go (wrong generation, best verified direct image available)."
+}

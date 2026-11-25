@@ -1,0 +1,123 @@
+{
+  "id": "dell-pro-max-16-plus-mb16250-pro3000-32-1tb",
+  "line": "Dell Pro Max 16 Plus (MB16250, 2025)",
+  "config_name": "Dell Pro Max 16 Plus — Intel Core Ultra 7 265HX, NVIDIA RTX PRO 3000 Blackwell, 32GB, 1TB SSD, 16\"",
+  "tier": "High",
+  "category": "creator",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 265HX (Arrow Lake-HX, 20-core)",
+    "cpu_cores": 20,
+    "gpu": "NVIDIA RTX PRO 3000 Blackwell (ISV-certified)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe",
+    "screen_size_in": 16,
+    "display_type": "IPS anti-glare, 16:10",
+    "resolution": "2560x1600",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.1,
+    "ports": "2x TB4/USB-C, 2x USB-A, HDMI 2.1, 3.5mm, SD card",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "8MP + IR",
+    "speakers": "2-speaker + tweeters, Dolby Audio",
+    "keyboard_notes": "Backlit keyboard with numeric keypad",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 12,
+    "real_world_hours": 5.5,
+    "notes": "Est.; Arrow Lake-HX + RTX PRO 3000 in thin 16\" chassis — HX-class power draw. No verified pro battery test found (NBC bot-walled)."
+  },
+  "price": {
+    "cad": 7599,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20333967",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $7,599 (open-box $5,899.98) (SKU 20333967). Regular price used — no new-unit sale recorded.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19446125",
+        "cad": 4113.41,
+        "est": false,
+        "name": "Dell Pro Max 16\" 120Hz Laptop - Intel Core Ultra 7 265 - 32GB LPDDR5X - 1TB SSD - NVIDIA RTX PRO 2000 - Windows 11 Pro - Black"
+      },
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20333967",
+        "cad": 5899.98,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/203/20333/20333967.jpeg",
+  "professional": {
+    "avg_score": 8.9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.9,
+        "url": "https://www.notebookcheck.net/Dell-Pro-Max-16-Plus-review-One-of-a-kind-mobile-workstation.1132122.0.html",
+        "quote": "Flagship Dell workstation with unique specifications including CAMM2 memory, 4K 120 Hz OLED, Arrow Lake-HX processors, and RTX 5000 Blackwell graphics. (NBC 89.1%; reviewed unit was the top-end 285HX / RTX PRO 5000 / 128GB config - applied to this lower-tier Plus config with disclosure.)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "RTX PRO 3000 Blackwell + 20-core 265HX in a ~2.1 kg 16\" chassis — near-Precision-7000 throughput at roughly half the flagship money",
+      "Best CAD/render-per-dollar of the Pro Max range on paper: HX CPU plus upper-tier certified pro GPU in one thin box",
+      "SD card slot plus TB4 docking suits on-location creator/photographer workflows the MC chassis lacks",
+      "Ubuntu and Windows 11 Pro both officially offered — Linux CAD/ML users can buy this tier retail in Canada",
+      "Strong resale/service story: Dell ProSupport and the ex-Precision parts channel behind a rebranded but proven platform"
+    ],
+    "complaints": [
+      "HX CPU in a thin Plus chassis: sustained all-core renders throttle well below a P16/MC-class machine with the same chip",
+      "Battery drains fast (~5h realistic) — HX silicon is the wrong fit for travel-heavy use",
+      "32GB from a $7,600 workstation tier feels stingy; RAM upgrades hit soldered/SODIMM limits depending on build",
+      "Only ~$1,700 separates it from the Premium MA16250 open-box — buyers question the Plus tier pricing position",
+      "Fan noise under CAD load is the recurring thin-HX complaint: high-pitched and frequent spools"
+    ]
+  },
+  "standouts": [
+    "RTX PRO 3000 Blackwell + 20-core 265HX in ~2.1 kg — near-flagship throughput at half the flagship money",
+    "Best raw CAD/render-per-dollar of the Pro Max range for mobile engineers"
+  ],
+  "dealbreakers": [
+    "Thin-HX thermals throttle sustained renders and battery is ~5.5h — poor fit for desk-bound or travel-heavy buyers"
+  ],
+  "design_philosophy": "The Pro Max 16 Plus is the renamed Precision 5000-class thin-performance tier: desktop-grade HX silicon and upper-tier RTX PRO Blackwell graphics squeezed into a chassis you can carry daily. It trades sustained thermal headroom and battery for mobility-with-muscle, aimed at engineers and 3D creators who need certified performance away from the desk and accept the thin-chassis compromises to get it.",
+  "ratings": {
+    "battery": 5,
+    "screen_size": 8,
+    "screen_quality": 6.8,
+    "readability_dark": 5.5,
+    "readability_bright": 5.5,
+    "ecosystem": 9,
+    "gaming": 6,
+    "productivity": 8.8,
+    "portability": 5,
+    "build_quality": 8,
+    "thermals_noise": 5,
+    "port_connectivity": 8,
+    "creative_work": 7.8,
+    "keyboard_trackpad": 7.8,
+    "webcam_speakers": 7,
+    "upgradability": 5,
+    "ai_ml": 7,
+    "pen_touch": 0,
+    "repairability_service": 7.5,
+    "durability": 7.5
+  },
+  "rating_notes": "(gap-fill 2026-11-25: NBC 89.1% retrieved via browser for Pro Max 16 Plus, reviewed config is higher-spec sibling.) No verified pro review found (NBC bot-walled; see SHARED-dell-promax.md); ratings synthesized from line anchors + spec deltas: PRO 3000 Blackwell tier = gaming 6.0 / ai_ml 7.0 per SHARED-thinkpad-p guidance; thin-HX chassis means battery 5.0, thermals 5.0 (consistent with P1-class thin-workstation calibration). QHD+ resolution assumed from MB \"Plus\" trim; if the retail panel is WUXGA, screen_quality would be ~6.3 (noted as estimate). Sentiment synthesized from Precision 5000-class owner themes — disclosed, not quoted."
+}

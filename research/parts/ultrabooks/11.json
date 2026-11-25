@@ -1,0 +1,115 @@
+{
+  "id": "t14s7-amd-a7pro-32-1tb-ips",
+  "line": "Lenovo ThinkPad T14s Gen 7 (2026, AMD Ryzen AI)",
+  "config_name": "ThinkPad T14s Gen 7 — Ryzen AI 7 PRO 450, 32GB LPDDR5X, 1TB SSD, 14\" WUXGA IPS 400-nit non-touch",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 7 PRO 450 (8-core/16-thread: 4 Zen 5 + 4 Zen 5c, up to 5.1 GHz, 40W PL2)",
+    "cpu_cores": 8,
+    "gpu": "AMD Radeon 860M integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X-8533 soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2280 NVMe Gen4 TLC Opal (replaceable)",
+    "screen_size_in": 14,
+    "display_type": "IPS WUXGA anti-glare non-touch (45% NTSC)",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.19,
+    "ports": "2x TB4/USB4, 1x USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7 (MediaTek MT7925), BT 5.4",
+    "webcam": "5MP + IR with privacy shutter",
+    "speakers": "2-speaker (improved gen, 86.5 dB loud)",
+    "keyboard_notes": "ThinkPad keyboard 1.5mm travel, TrackPoint, auto backlit, fingerprint reader",
+    "pen_support": "none (non-touch)",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 14,
+    "real_world_hours": 13,
+    "notes": "58Wh. NBC Wi-Fi test at 150 nits: almost 17.5h; 11.5h at max brightness (reviewed same CPU)."
+  },
+  "price": {
+    "cad": 2269,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadt/thinkpad-t14s-gen-7-14-inch-amd/len101t0171",
+    "confidence": "verified",
+    "notes": "Verified 2026-11-24: prebuilt model 21YW001KUS promo $2,269 (38% off $3,719 est value), One Year Onsite warranty. Lenovo CA promo max 5 units/order.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadt/thinkpad-t14s-gen-7-14-inch-amd/len101t0171",
+        "cad": 2269,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadt/thinkpad-t14s-gen-7-14-inch-amd/len101t0171"
+  },
+  "image_url": "https://p1-ofp.static.pub/medias/28140950393_T14sGen7AMDBK_202602030219581778605890302.png",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
+        "quote": "While the performance is only slightly better than before due to improved cooling, you get a lighter chassis and longer battery runtimes."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
+        "quote": "The speakers were improved as well, so this is a very good overall package, even though the memory is still soldered."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Exact CPU Notebookcheck reviewed — Ryzen AI 7 PRO 450 sustains 25W quietly, fan often off in light work",
+      "$2,269 CA promo for 32GB/1TB with vPro-class PRO chip is aggressive vs X1 Carbon pricing",
+      "Radeon 860M handles light gaming (GTA V ~25 fps 1080p) plus AVX/encode grunt for the NPU-boosted apps",
+      "Fingerprint reader + 5MP IR camera + privacy shutter = Windows Hello works face or finger",
+      "One-year onsite warranty on this CA SKU, upgradeable through Lenovo's Premier options"
+    ],
+    "complaints": [
+      "Still ships with the 45% NTSC 400-nit panel at this price — same washed-out base display complaint",
+      "Soldered RAM: 32GB is the practical ceiling for most CA prebuys",
+      "60 Hz IPS only; smooth 120 Hz requires jumping to the OLED tier",
+      "Standby power draw is high (1.3W measured) — drains battery on shelf between sessions",
+      "Wi-Fi 7 module limited to 160 MHz — roughly half the throughput of Intel BE211 rivals"
+    ]
+  },
+  "design_philosophy": "The volume-seller configuration of the T14s line: PRO-series AMD Ryzen AI silicon with manageability, 32GB/1TB in the sweet spot for knowledge workers, at the price point fleet buyers actually order. It trades the OLED screen for verified all-day battery and the quietest cooling Lenovo has shipped in a T-series s.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 7,
+    "screen_quality": 5,
+    "readability_dark": 7,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 9,
+    "portability": 9,
+    "build_quality": 8.5,
+    "thermals_noise": 9,
+    "port_connectivity": 8.5,
+    "creative_work": 3.5,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 7.5,
+    "upgradability": 6,
+    "ai_ml": 6.5,
+    "pen_touch": 0,
+    "repairability_service": 8.5,
+    "durability": 9
+  },
+  "rating_notes": "Directly matches the CPU of the Notebookcheck-reviewed config (90%); that unit had the better 500-nit sRGB touch panel, so screen_quality/readability are set down for this prebuilt's 45% NTSC panel. 32GB vs reviewed 64GB: productivity −0.5, ai_ml −0.5 (less memory for local LLMs). Battery rating taken directly from NBC's measured runtimes on this CPU."
+}

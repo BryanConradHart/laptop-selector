@@ -1,0 +1,103 @@
+{
+  "id": "tp-p16-g3-pro5000-64-2tb",
+  "line": "Lenovo ThinkPad P16 Gen 3 (2025)",
+  "config_name": "ThinkPad P16 Gen 3 16\" WUXGA IPS — Intel Core Ultra 9 285HX, NVIDIA RTX PRO 5000 Blackwell 24GB, 64GB DDR5, 2TB SSD",
+  "tier": "Flagship",
+  "category": "creator-workstation",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 285HX (Arrow Lake-HX, 24-core: 8P+16E)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA RTX PRO 5000 Blackwell 24GB (ISV-certified)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "DDR5-5600 (2x SODIMM, upgradeable to 192GB)",
+    "storage_gb": 2000,
+    "storage_type": "M.2 2280 NVMe Gen4 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "WUXGA IPS anti-glare, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.7,
+    "ports": "2x TB4/USB-C, 2x USB-A, HDMI 2.1, SDXC, RJ45, 3.5mm, smart card",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker, Dolby Audio",
+    "keyboard_notes": "ThinkPad keyboard + TrackPoint, spill-resistant, optional numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 5,
+    "notes": "90Wh. Estimated ~5h light use; no verified pro battery test found."
+  },
+  "price": {
+    "cad": 9458,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20183305",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $12,458 / sale $9,458 (SKU 20183305). Sale price used. 3TB twin ($9,987, SKU 20183311) omitted — same specs.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20183305",
+        "cad": 9458,
+        "est": false,
+        "name": "Lenovo ThinkPad P16 Gen 3 Mobile Workstation, Intel Core Ultra 9-285HX, NVIDIA RTX PRO 5000 24GB, 64GB DDR5 RAM, 2TB SSD, 16\" WUXGA IPS Display, Windows 11 Pro"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20183/20183305.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "RTX PRO 5000 24GB + 2TB covers huge CAD assemblies and dataset caches without an external drive",
+      "24-core 285HX sustains render/compile workloads in a fully serviceable chassis (SODIMM + dual M.2)",
+      "ISV-certified Blackwell pro drivers for SolidWorks, CATIA, DaVinci Resolve Studio",
+      "24GB VRAM doubles as a local-AI accelerator — runs 13B-class LLMs and SDXL comfortably",
+      "$3,000 off regular pricing is the only sane way to buy this tier"
+    ],
+    "complaints": [
+      "2.7 kg + 230W power brick = desk-bound despite the 'mobile' label",
+      "WUXGA 60Hz IPS panel undersells a $9,458 machine for color work",
+      "Fan noise under sustained load is loud even in balanced mode",
+      "Only 64GB standard despite chassis supporting 192GB — RAM upgrade is an extra cost",
+      "No verified CA pro review of this exact config; marketplace-seller warranty terms need checking"
+    ]
+  },
+  "design_philosophy": "The top storage tier of the P16 Gen 3 flagship line: the same 24-core Ultra 9 / RTX PRO 5000 24GB combination as the 1TB config, with 2TB of NVMe for professionals whose project files and datasets justify it (a 3TB twin also exists). Desktop-replacement priorities throughout: sustained power and serviceability over weight or battery.",
+  "ratings": {
+    "battery": 4.5,
+    "screen_size": 8,
+    "screen_quality": 6.3,
+    "readability_dark": 5.8,
+    "readability_bright": 6.5,
+    "ecosystem": 9.2,
+    "gaming": 7,
+    "productivity": 9.3,
+    "portability": 2.8,
+    "build_quality": 8.8,
+    "thermals_noise": 6.8,
+    "port_connectivity": 9,
+    "creative_work": 9.2,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 6.8,
+    "upgradability": 9,
+    "ai_ml": 8,
+    "pen_touch": 0,
+    "repairability_service": 8.5,
+    "durability": 8.5
+  },
+  "rating_notes": "Same specs as entry 32 (1TB twin) with +0 storage; ratings identical, inferred per SHARED-thinkpad-p.md (no verified pro anchor: NBC bot-walled, BBY reviews empty). RTX PRO 5000 24GB → ai_ml 8.0 per task brief; ISV cert lifts creative_work/productivity. Storage upgrade doesn't move ratings."
+}

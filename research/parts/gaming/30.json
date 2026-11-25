@@ -1,0 +1,121 @@
+{
+  "id": "flow-z13-gz302-max395-32-1tb",
+  "line": "ASUS ROG Flow Z13 (2025, GZ302EA)",
+  "config_name": "ROG Flow Z13 — Ryzen AI MAX+ 395, Radeon 8060S (integrated), 32GB LPDDR5 unified, 1TB SSD, 13.4\" 2.5K 180Hz touch",
+  "tier": "Mid",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "tablet",
+  "release": "2025-02",
+  "inferred": false,
+  "specs": {
+    "cpu": "AMD Ryzen AI MAX+ 395 (Strix Halo, 16-core Zen 5, up to 5.1 GHz)",
+    "cpu_cores": 16,
+    "gpu": "AMD Radeon 8060S 40 CU RDNA 3.5 (integrated iGPU)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5-8000 soldered unified (up to 24 GB allocatable as VRAM)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2230 NVMe (replaceable, only maintenance hatch)",
+    "screen_size_in": 13.4,
+    "display_type": "IPS touchscreen, 16:10, no PWM, no HDR",
+    "resolution": "2560x1600",
+    "refresh_hz": 180,
+    "brightness_sdr_nits": 518,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.62,
+    "ports": "2x USB4 40Gbps (DP 2.1, PD 3.0), 1x USB-A 3.2 Gen2, HDMI 2.1, microSD, 3.5mm, ROG XG Mobile port",
+    "wireless": "Wi-Fi 7 (MediaTek MT7925), BT 5.4",
+    "webcam": "5MP front + IR face unlock, 13MP rear",
+    "speakers": "2-speaker stereo (downward, weak per NBC)",
+    "keyboard_notes": "Detachable magnetic keyboard cover (leather-like, doubles as screen protector); ~1.23 kg tablet alone, 1.62 kg with cover",
+    "pen_support": "USI stylus supported (not included)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 9.3,
+    "notes": "70Wh. NBC: WiFi websurfing 9h20, max-brightness websurfing 6h18, H.264 video 12h44, load only 0h51. Full recharge 99 min (60% in 32 min)."
+  },
+  "price": {
+    "cad": 3099.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20122746",
+    "confidence": "verified",
+    "notes": "BB regular $3,099.99, on sale $2,699.99 (sale ends 2026-12-04). NBC reviewed this config at €2,499 RRP.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20122746",
+        "cad": 2699.99,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20122/20122746.jpg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "86.8%",
+        "url": "https://www.notebookcheck.net/Asus-ROG-Flow-Z13-GZ302EA-Convertible-Review-AMD-s-Strix-Halo-GPU-is-neck-and-neck-with-the-RTX-4070-Laptop.963266.0.html",
+        "quote": "The Ryzen AI Max+ 395 offers enormous amounts of CPU performance in multi-core scenarios thanks to 16 Zen 5 cores... you will have to get the MacBook Pro 14 to get similar multi-core performance numbers in a similarly sized package."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": "86.8%",
+        "url": "https://www.notebookcheck.net/Asus-ROG-Flow-Z13-GZ302EA-Convertible-Review-AMD-s-Strix-Halo-GPU-is-neck-and-neck-with-the-RTX-4070-Laptop.963266.0.html",
+        "quote": "The integrated graphics card Radeon 8060S is by far the fastest x86 iGPU and is neck-and-neck with the GeForce RTX 4070 Laptop (with a TGP range between 65-75 Watts) in games."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": "86.8%",
+        "url": "https://www.notebookcheck.net/Asus-ROG-Flow-Z13-GZ302EA-Convertible-Review-AMD-s-Strix-Halo-GPU-is-neck-and-neck-with-the-RTX-4070-Laptop.963266.0.html",
+        "quote": "The cooling unit does a decent job, but you will hear the fans, especially in Turbo mode and we would recommend headphones, since the integrated speakers are not very good, either."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Radeon 8060S genuinely plays AAA titles at 1080p-1440p at RTX 4070-laptop speeds in a 1.2 kg tablet — nothing else x86 comes close",
+      "16-core Zen 5 multicore rivals the Ryzen 9 7945HX and Apple M4 Pro in a 13-inch detachable — huge for compiling and video export on the go",
+      "Up to 24GB allocatable VRAM from unified memory makes local LLM and Stable Diffusion work possible without a discrete GPU",
+      "Very good 180Hz IPS touchscreen with no PWM flicker, accurate factory color profiles (ΔE 1.5) and fast response times",
+      "Keyboard cover magnetically snaps on firmly and doubles as a screen protector; USB4, HDMI 2.1, microSD (250 MB/s) and Wi-Fi 7 all present"
+    ],
+    "complaints": [
+      "RAM is soldered and non-upgradeable — 32GB is a hard ceiling on this SKU and up to 24GB of it gets eaten by the iGPU",
+      "Integrated speakers are weak and thin; NBC recommends headphones, and Turbo-mode fan noise is clearly audible during gaming",
+      "Battery under load is brutal: ~51 minutes of max-brightness load and roughly 1.5-2h while gaming unplugged despite the 9h30 WiFi result",
+      "Only the M.2-2230 SSD is serviceable — no other maintenance options, and the small 2230 drive runs warmer/slower than 2280 parts",
+      "No HDR support, minimum brightness ~27 nits is too bright for dark rooms, and a slight grainy effect from the touchscreen layer on bright images"
+    ]
+  },
+  "design_philosophy": "ASUS's 'gaming tablet' bet: a detachable 13.4-inch Surface-style tablet packing full laptop-class silicon, here the flagship Strix Halo APU with no discrete GPU needed since the 8060S iGPU matches an RTX 4070 laptop part. The 32GB config is the volume SKU and the exact unit Notebookcheck reviewed; a XG Mobile external-GPU port keeps a future eGPU upgrade path open.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 5.5,
+    "screen_quality": 8,
+    "readability_dark": 6.5,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 8,
+    "productivity": 8.5,
+    "portability": 9,
+    "build_quality": 9,
+    "thermals_noise": 7.5,
+    "port_connectivity": 8,
+    "creative_work": 8,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 6.5,
+    "upgradability": 3,
+    "ai_ml": 7.5,
+    "pen_touch": 7,
+    "repairability_service": 4,
+    "durability": 7.5
+  },
+  "rating_notes": "Directly reviewed config: NBC tested the GZ302EA-RU073W = AI MAX+ 395 / 32GB / (512GB) at 86.8% ('good 87%'); CA retail SKU differs only in 1TB vs 512GB SSD (+0.5 storage-neutral). Gaming 8.0 because 8060S ≈ RTX 4070 laptop but lacks DLSS/frame-gen (FSR only). ai_ml 7.5: 50 TOPS NPU Copilot+ device + 24GB max VRAM but no CUDA. portability 9.0 for 1.23kg tablet / 1.62kg with keyboard / 14.9mm. Keyboard cover rated 6.5 (NBC: 'small improvements'). Image URL is Best Buy CA product CDN."
+}

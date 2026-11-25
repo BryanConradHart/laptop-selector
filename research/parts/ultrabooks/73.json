@@ -1,0 +1,116 @@
+{
+  "id": "sl8-15-x2e-16-512",
+  "line": "Microsoft Surface Laptop 8 (2026, Snapdragon X2)",
+  "config_name": "Surface Laptop 15\" — Snapdragon X2 Elite, 16GB LPDDR5x, 512GB SSD, 120Hz PixelSense touch",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X2 Elite (18-core Oryon v3)",
+    "cpu_cores": 18,
+    "gpu": "Qualcomm Adreno (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 2230 NVMe soldered",
+    "screen_size_in": 15,
+    "display_type": "PixelSense LCD touch, 3:2, 120Hz",
+    "resolution": "3120x2080",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.5,
+    "ports": "2x USB-C (DP/charge), 1x USB-A, Surface Connect, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1440p Quad HD + IR",
+    "speakers": "2-speaker Omnisonic",
+    "keyboard_notes": "backlit full-size w/ numpad-less layout, fingerprint power button",
+    "pen_support": "touch; MPP pen",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 13,
+    "notes": "~66Wh est. Bigger panel costs ~1h vs 13.8\"."
+  },
+  "price": {
+    "cad": 2499.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19852158",
+    "confidence": "verified",
+    "notes": "Best Buy CA SKU 19852158, reg $2,499.99, BF sale $2,099.99 (2026-11-24 API).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19852158",
+        "cad": 2099.99,
+        "est": false,
+        "name": "Microsoft Surface Laptop 15\" 120Hz Touchscreen Copilot+ PC Laptop - Snapdragon X2 Elite - 16GB LPDDR5x - 512GB SSD - Windows 11 Home - Black - English"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19852/19852158.jpg",
+  "professional": {
+    "avg_score": 7.8,
+    "reviews": [
+      {
+        "outlet": "Tom's Guide",
+        "score": "recommended",
+        "url": "https://www.tomsguide.com/computers/surface-devices/microsoft-surface-laptop-8-review",
+        "quote": "The new Microsoft Surface Laptop 8 is great — but it's hard to recommend to most people"
+      },
+      {
+        "outlet": "Windows Central",
+        "score": "recommended",
+        "url": "https://www.windowscentral.com/microsoft/surface-laptop-8-for-business-review",
+        "quote": "The privacy King: Surface Laptop 8 for business review—is the new stealth screen worth the $2,549 entry price?"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "15\" 3:2 3120x2080 120Hz is a document monster — effectively two side-by-side full pages",
+      "Only 1.5 kg for a 15-inch — far lighter than any 15\" x86 rival",
+      "X2 Elite keeps it silent and cool; battery still comfortably a full day",
+      "Bigger chassis means better thermals headroom and a roomier keyboard deck",
+      "BF $2,100 pricing undercuts 16\" premium ultrabooks with a better panel"
+    ],
+    "complaints": [
+      "16GB RAM cap on a 15\" productivity machine is genuinely limiting in 2026",
+      "Same sparse port set as the 13.8\" despite the larger body",
+      "ARM app-translation caveats for pro software",
+      "Glossy panel; no matte option at any tier",
+      "Regular $2,500 price hard to justify vs OLED competitors — mirrors 'hard to recommend' criticism"
+    ]
+  },
+  "design_philosophy": "The big-screen Surface Laptop: same sealed minimalist design stretched to 15 inches for people who live in documents and split-screen. X2 Elite carries the whole 15\" line in Canada — no X Plus tier at this size.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 8,
+    "screen_quality": 8.5,
+    "readability_dark": 7.5,
+    "readability_bright": 8.5,
+    "ecosystem": 7.5,
+    "gaming": 4,
+    "productivity": 9,
+    "portability": 8.5,
+    "build_quality": 9,
+    "thermals_noise": 9,
+    "port_connectivity": 6,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 8.5,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 8,
+    "pen_touch": 7,
+    "repairability_service": 3,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from SL8 anchor and 13.8\" X2 Elite entry: +1.0 screen_size, +0.5 productivity (bigger canvas), -0.5 battery and -1.0 portability for 15\"/1.5 kg. Price verified."
+}

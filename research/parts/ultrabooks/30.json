@@ -1,0 +1,115 @@
+{
+  "id": "ys7x-g11-x2e-32-1tb-oled-16",
+  "line": "Lenovo Yoga Slim 7x Gen 11 (14\" Snapdragon, 2026)",
+  "config_name": "Yoga Slim 7x Gen 11 — Snapdragon X2 Elite, 16GB LPDDR5X, 512GB SSD, 14\" 2.8K OLED 120Hz (entry)",
+  "tier": "Entry",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows (ARM)",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X2 Elite (Oryon 3, 18-core)",
+    "cpu_cores": 18,
+    "gpu": "Qualcomm Adreno (integrated, X2 series)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 PCIe Gen4 NVMe",
+    "screen_size_in": 14,
+    "display_type": "PureSight 2.8K OLED, 120Hz VRR, 16:10",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1100,
+    "weight_kg": 1.24,
+    "ports": "2x USB-C, 1x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "4-speaker",
+    "keyboard_notes": "Refined Yoga keyboard, backlit",
+    "pen_support": "none (non-touch)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 14,
+    "notes": "70Wh (VERIFIED). Best-efficiency config of the line."
+  },
+  "price": {
+    "cad": 1399,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7x-gen-11-14-inch-snapdragon/len101y0066",
+    "confidence": "verified",
+    "notes": "$1,399.99 CAD VERIFIED via ld+json (InStock) — the line's base listed price. Storage tier of the exact base SKU not fully disambiguated (512GB assumed; PDP copy advertises '16GB of memory'). Best sub-$1,500 OLED ultrabook in Canada today.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7x-gen-11-14-inch-snapdragon/len101y0066",
+        "cad": 1399,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7x-gen-11-14-inch-snapdragon/len101y0066"
+  },
+  "image_url": "https://p1-ofp.static.pub/ShareResource/optimized/pdp/yoga/yoga-slim-series/len101y0066/lenovo-yoga-slim-7x-gen-11-14-snapdragon-pdp-gallery-3.2a5808f6c7ad6deb.png",
+  "professional": {
+    "avg_score": 8.6,
+    "reviews": [
+      {
+        "outlet": "Jon Rettinger (via lenovo.com/ca)",
+        "score": "recommended",
+        "url": "https://www.lenovo.com/ca/en/yoga/",
+        "quote": "The Yoga Slim 7x isn't just an alternative in ways that matter day-to-day. It's actually better. Lighter, brighter screen with actual black instead of gray, double the refresh rate, more keyboard travel, touchscreen if you want it. Same performance unplugged."
+      },
+      {
+        "outlet": "Dave2D (via lenovo.com/ca)",
+        "score": "recommended",
+        "url": "https://www.lenovo.com/ca/en/yoga/",
+        "quote": "The new Lenovo Slim 7X, it's an awesome device this year. Super fast chip, crazy battery life."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "$1,399 gets a 2.8K 120Hz OLED + Snapdragon X2 Elite — unmatched spec sheet under $1,500 CAD",
+      "Two-day battery for light use (email/docs) on the 70Wh cell",
+      "1.24kg with a metal chassis — true ultraportable",
+      "Silent operation for everyday work",
+      "80-TOPS NPU covers Copilot+ features without a discrete GPU"
+    ],
+    "complaints": [
+      "16GB soldered is the real limit — heavy multitaskers should pay up for 32GB",
+      "512GB fills fast for media hoarders; no second slot",
+      "ARM translation still breaks some niche apps, games with anti-cheat, and old drivers",
+      "Modest port selection (no Thunderbolt/SD)",
+      "Adreno iGPU is the weakest link for any gaming"
+    ]
+  },
+  "design_philosophy": "The entry point to Lenovo's Snapdragon flagship: full X2 Elite silicon and the 2.8K OLED at the lowest price the line sells for, sacrificing RAM and storage to hit a sub-$1,500 CAD price that undercuts every x86 OLED ultrabook.",
+  "ratings": {
+    "battery": 9.5,
+    "screen_size": 7,
+    "screen_quality": 8.8,
+    "readability_dark": 9,
+    "readability_bright": 8,
+    "ecosystem": 7.5,
+    "gaming": 3.5,
+    "productivity": 8,
+    "portability": 9.3,
+    "build_quality": 8.8,
+    "thermals_noise": 9,
+    "port_connectivity": 6.5,
+    "creative_work": 5.8,
+    "keyboard_trackpad": 8,
+    "webcam_speakers": 6.5,
+    "upgradability": 2.5,
+    "ai_ml": 6.8,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from same-line X2 Elite anchor (Rettinger/Dave2D quotes VERIFIED via lenovo.com/ca carousel): 16GB/512GB entry → productivity −0.5 and creative_work −0.4 vs 32GB/1TB sibling (25.json). Price VERIFIED via ld+json."
+}

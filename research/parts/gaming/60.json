@@ -1,0 +1,128 @@
+{
+  "id": "raider18-a2xwig-5080-64-4tb",
+  "line": "MSI Raider 18 HX AI (2025, A2XWIG)",
+  "config_name": "Raider 18 HX AI A2XWIG-085CA — RTX 5080 16GB, Core Ultra 9 285HX, 64GB DDR5-6400, 4TB SSD, 18\" UHD+ Mini-LED 120Hz",
+  "tier": "Top",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-04",
+  "inferred": false,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 285HX (Arrow Lake-HX, 24-core: 8P+16E)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop 16GB GDDR7 (175W TGP)",
+    "gpu_type": "dedicated",
+    "ram_gb": 64,
+    "ram_type": "DDR5-6400 SODIMM (2 slots)",
+    "storage_gb": 4000,
+    "storage_type": "2x M.2 NVMe PCIe 5.0 (RAID-capable)",
+    "screen_size_in": 18,
+    "display_type": "Mini-LED IPS, matte, 16:10",
+    "resolution": "3840x2400",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": 1000,
+    "weight_kg": 3.6,
+    "ports": "2x Thunderbolt 4 (USB-C, PD), 3x USB-A 3.2 Gen2, HDMI 2.1, 2.5G LAN, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "2MP IR (Windows Hello)",
+    "speakers": "Stereo (Dynaudio, well reviewed)",
+    "keyboard_notes": "Per-key RGB chiclet, fingerprint reader; touchpad widely panned — 'bring a mouse'",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 4,
+    "real_world_hours": 2.2,
+    "notes": "99.9Wh. Htxt Africa: 'a little over two hours of use before a visit to a power port was needed.' Effectively a desktop replacement."
+  },
+  "price": {
+    "cad": 7399.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/msi-raider-18-hx-ai-gaming-laptop-with-18-uhd-mini-led-display-intel-core-ultra-9-285hx-64gb-memory-nvidia-geforce-rtx-5080-graphics-4tb-ssd-black/20341909",
+    "confidence": "verified",
+    "notes": "BBY sku 20341909: regular $8,499.99, sale $7,399.99 (verified 2026-11-24 via BBY search API).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/msi-raider-18-hx-ai-gaming-laptop-with-18-uhd-mini-led-display-intel-core-ultra-9-285hx-64gb-memory-nvidia-geforce-rtx-5080-graphics-4tb-ssd-black/20341909",
+        "cad": 7399.99,
+        "est": false,
+        "name": "Brand New - MSI Raider 18 HX AI A2XWIG-085CA, 18\" UHD+ Mini LED 120Hz Gaming Laptop, Intel Core Ultra 9-285HX, RTX 5080, 64GB DDR5, 4TB NVMe SSD, Per-Key RGB KB, Thunderbolt 5"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/203/20341/20341909.jpeg",
+  "professional": {
+    "avg_score": 8.5,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (aggregate)",
+        "score": "84.88%",
+        "url": "https://www.notebookcheck.net/MSI-Raider-18-HX-AI-A2XWIG.1062815.0.html",
+        "quote": "MSI Raider 18 HX AI A2XWIG Average Score: 84.88% - good, Average of 16 scores (from 24 reviews)"
+      },
+      {
+        "outlet": "PCWorld",
+        "score": "8.0/10",
+        "url": "https://www.pcworld.com/article/2683984/msi-raider-18-hx-ai-review.html",
+        "quote": "It has an Intel Core Ultra 9 285HX that sets new records in several benchmarks, and an Nvidia RTX 5080 GPU with performance close to RTX 4090... The Raider 18 is heavy, and the battery doesn't last long. I wasn't a fan of the keyboard or touchpad, either."
+      },
+      {
+        "outlet": "Laptop Mag",
+        "score": "9.0/10",
+        "url": "https://www.laptopmag.com/laptops/gaming-laptops-pcs/msi-raider-18-hx-ai-2025-review",
+        "quote": "The Raider has strong general performance, fluid gaming performance, a bright MiniLED display, a comfortable keyboard, powerful audio, and more ports than you're likely to need, even with a multi-monitor setup. It's just expensive."
+      },
+      {
+        "outlet": "Gizmodo",
+        "score": "8.0/10",
+        "url": "https://gizmodo.com/msi-raider-18-hx-review-distills-the-best-and-worst-of-gaming-laptops-2000700902",
+        "quote": "It's packing a 99.9Wh battery, which sounds good enough on paper. The Raider 18 HX is also plenty loud when it starts going... The cooling apparatus keeps the heat well away from the palm rest and your fingers."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "RTX 5080 at 175W plus the 24-core 285HX genuinely trades blows with last-gen RTX 4090 laptops — top-tier FPS at 1800p/4K with DLSS",
+      "UHD+ Mini-LED is bright, contrasty and matte — reviewers and owners both call it one of the best 18-inch gaming panels",
+      "64GB DDR5 and 4TB of PCIe 5.0 storage standard — no upgrade tax, and RAM is socketed SODIMM, not soldered",
+      "Port loadout is desktop-like: 2x TB4, 3x USB-A, HDMI, full-size LAN, and 'powerful audio' per Laptop Mag",
+      "Palm rests stay cool under load; heat is kept to the rear exhaust even while the fans scream"
+    ],
+    "complaints": [
+      "Battery is ~2 hours off the outlet even in light use — owners treat it as a desktop with a UPS",
+      "3.6kg laptop plus a giant 240W-class brick; 'portable' is a joke in this chassis",
+      "Fans are loud under gaming load — Gizmodo and Stuff both flag noise; users recommend headphones",
+      "Touchpad is mediocre and the keyboard divides opinion (PCWorld disliked both) — everyone expects a mouse",
+      "$8,500 regular price (even $7,400 sale) invites constant 'Gigabyte Aorus Master 16 or Razer Blade 16 for far less' comparisons"
+    ]
+  },
+  "design_philosophy": "MSI's no-compromise 18-inch desktop replacement: maximum-TGP GPU, workstation-class CPU, and the biggest screen/storage/RAM the chassis can hold, with portability explicitly sacrificed (NBC-era reviewers call the weight and 2h battery 'by design'). The $8.5k flagship config is the purest expression of that philosophy — flagship-minus-5090 GPU with an overkill 64GB/4TB loadout for creators who also game.",
+  "ratings": {
+    "battery": 2,
+    "screen_size": 10,
+    "screen_quality": 9,
+    "readability_dark": 8.5,
+    "readability_bright": 8.5,
+    "ecosystem": 9.5,
+    "gaming": 9.5,
+    "productivity": 9.5,
+    "portability": 2,
+    "build_quality": 8,
+    "thermals_noise": 6,
+    "port_connectivity": 9.5,
+    "creative_work": 9,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 7,
+    "upgradability": 7.5,
+    "ai_ml": 8.5,
+    "pen_touch": 0,
+    "repairability_service": 6,
+    "durability": 7
+  },
+  "rating_notes": "Ratings anchored on the A2XWIG reviews reviewed by PCWorld/Laptop Mag/Gizmodo (same RTX 5080 / Ultra 9 285HX / 64GB / Mini-LED tier as this CA SKU) — see SHARED-raider-18-hx-ai.md for pro-vs-user calibration. Battery 2.0 per Htxt's ~2h real-world; thermals_noise 6.0 (cool palm rests but loud fans, per Gizmodo/Stuff); keyboard_trackpad 6.5 because outlets split and users side with PCWorld's criticism; gaming 9.5 (5080 'close to RTX 4090' per PCWorld) not 10 because the 5090 tier exists; upgradability 7.5 (socketed DDR5, dual M.2 PCIe5) ; image_url is a best-guess BBY CDN pattern —   site has fallback."
+}

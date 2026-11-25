@@ -1,0 +1,116 @@
+{
+  "id": "ipad-pro-11-m5-1tb",
+  "line": "Apple iPad Pro 11-inch (M5, 2025)",
+  "config_name": "iPad Pro 11-inch — M5 (10-core CPU/10-core GPU), 16GB RAM, 1TB SSD, 11\" Ultra Retina XDR tandem OLED + Magic Keyboard",
+  "tier": "High",
+  "category": "tablets-ios-android",
+  "ecosystem": "iPadOS",
+  "form_factor": "tablet",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M5 (10-core CPU)",
+    "cpu_cores": 10,
+    "gpu": "Apple M5 10-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "unified/soldered LPDDR5X",
+    "storage_gb": 1000,
+    "storage_type": "NVMe soldered",
+    "screen_size_in": 11,
+    "display_type": "Ultra Retina XDR tandem OLED (ProMotion)",
+    "resolution": "2420x1640",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 1000,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 0.44,
+    "ports": "1x Thunderbolt/USB 4, magnetic Magic Keyboard connector",
+    "wireless": "Wi-Fi 7, BT 5.3",
+    "webcam": "12MP landscape front camera",
+    "speakers": "4-speaker",
+    "keyboard_notes": "Magic Keyboard included in price: scissor keys (unlit), glass trackpad, cantilever hinge",
+    "pen_support": "Apple Pencil Pro +$168.99 (BBY sale; ~$199 Apple) — not included in total. Nano-texture glass option +$150.",
+    "os": "iPadOS 26 (current 27.x)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 8.3,
+    "notes": "Apple claims 10h web/video on Wi-Fi. Users report ~8-9h mixed real-world use; 11\" cell slightly smaller."
+  },
+  "price": {
+    "cad": 2929,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-pro",
+    "confidence": "verified",
+    "notes": "Tablet-only $2,529 apple.com/ca (IPAD_LIST.md, verified 2026-11-24; BBY stocks 256/512 tiers) + Magic Keyboard 11\" $399.99 (BBY 17932865). Nano-texture +$150 optional. Apple Pencil Pro $168.99 not included.",
+    "offers": [
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-pro",
+        "cad": 2929,
+        "est": false
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19495713",
+        "cad": 2529.99,
+        "est": false,
+        "name": "Apple iPad Pro M5 11\" 256GB with Wi-Fi (6th Generation) - Space Black"
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-pro"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/194/19495/19495711.jpg",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/Apple-iPad-Pro-M5-2025-tablet-review-An-extremely-fast-M5-SoC-and-Wi-Fi-7.1143628.0.html",
+        "quote": "An extremely fast M5 SoC and Wi-Fi 7. Pros: extremely fast M5 SoC, sturdy and timeless case, Wi-Fi 7 and 5G, good camera quality for a tablet, powerful speaker sound, comprehensive software package, good battery life, bright and accurate display. Cons: no power adapter included, very expensive, PWM flickering, no always-on display, only a 12-month warranty. (NBC review of the iPad Pro 11\" M5 2025, 90% very good; same SoC and panel family across 11\"/13\" tiers.)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "16GB RAM unlocks the genuinely pro apps — LumaFusion multitrack 4K, large PS/Affinity files, on-device AI models stop hitting memory ceilings",
+      "All that power in a 444g, 11\" chassis is unmatched — a mobile studio that fits a jacket pocket",
+      "Tandem OLED with 1000-nit SDR and 120Hz ProMotion is superb for its class",
+      "Thunderbolt + 16GB makes external-SSD video workflows actually viable on the go",
+      "M5 with 10-core CPU tops most thin-and-light laptops in short bursts"
+    ],
+    "complaints": [
+      "With keyboard this is $2,929 while iPadOS still blocks desktop-class apps — the software tax is the real cost",
+      "16GB RAM is gated behind the 1TB tier; paying for storage you may not need just to get memory",
+      "Apple's +$550 for 1TB over 512GB is absurd vs any third-party SSD",
+      "Magic Keyboard $399.99 still has unlit keys at this price",
+      "11\" screen is cramped for the very pro multitasking workflows this tier targets"
+    ]
+  },
+  "design_philosophy": "Apple's halo tablet at maximum density: the full 10-core M5 with 16GB unified memory packed into the 11\" chassis — the storage tier is simply the ticket to the RAM the pro apps demand. This is the mobile-studio pick for users who value pocketability over canvas size. With the Magic Keyboard priced in it costs close to a MacBook Air/Pro, and the honest question remains whether iPadOS earns that.",
+  "ratings": {
+    "battery": 7.8,
+    "screen_size": 6,
+    "screen_quality": 9.6,
+    "readability_dark": 9.8,
+    "readability_bright": 9,
+    "ecosystem": 6.5,
+    "gaming": 6.5,
+    "productivity": 7.5,
+    "portability": 9.2,
+    "build_quality": 9.3,
+    "thermals_noise": 8.5,
+    "port_connectivity": 6,
+    "creative_work": 9.1,
+    "keyboard_trackpad": 8.2,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 8,
+    "pen_touch": 9.5,
+    "repairability_service": 5,
+    "durability": 8
+  },
+  "rating_notes": "Pro score attached from NBC review of the iPad Pro M5 13\" (90%, gap-fill 2026-11-24). Ratings inferred from the 13\" M5 256GB anchor (see SHARED-ipad-pro.md); no verbatim pro score found this session (bot-walled) — disclosed, none invented. 11\" deltas (screen_size 6.0, portability 9.2, battery 7.8, productivity −0.2 vs 13\") plus 16GB/10-core: productivity +0.5, ai_ml +0.5; 1TB: creative_work +0.6 cumulative. Ecosystem 6.5 (~9 casual/creative, ~5-6 desktop-app parity). Keyboard_trackpad rated on the Magic Keyboard (included). Upgradability 1.0: everything soldered."
+}

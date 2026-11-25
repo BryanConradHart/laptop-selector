@@ -1,0 +1,103 @@
+{
+  "id": "ipad-pro-13-m4-256-clearance",
+  "line": "Apple iPad Pro 13-inch (M4, 2024) — clearance",
+  "config_name": "iPad Pro 13-inch (M4 clearance) — M4 (9-core CPU/10-core GPU), 12GB RAM, 256GB SSD, 13\" Ultra Retina XDR tandem OLED + Magic Keyboard",
+  "tier": "Value",
+  "category": "tablets-ios-android",
+  "ecosystem": "iPadOS",
+  "form_factor": "tablet",
+  "release": "2024-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M4 (9-core CPU)",
+    "cpu_cores": 9,
+    "gpu": "Apple M4 10-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 12,
+    "ram_type": "unified/soldered LPDDR5X",
+    "storage_gb": 256,
+    "storage_type": "NVMe soldered",
+    "screen_size_in": 13,
+    "display_type": "Ultra Retina XDR tandem OLED (ProMotion)",
+    "resolution": "2420x1640",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 1000,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 0.58,
+    "ports": "1x Thunderbolt/USB 4, magnetic Magic Keyboard connector",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "12MP landscape front camera",
+    "speakers": "4-speaker",
+    "keyboard_notes": "Magic Keyboard included in price (same M4/M5-compatible keyboard): scissor keys (unlit), glass trackpad, cantilever hinge",
+    "pen_support": "Apple Pencil Pro +$168.99 (BBY sale; ~$199 Apple) — not included in total",
+    "os": "iPadOS 17 shipped; current iPadOS 27.x"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 8.5,
+    "notes": "Apple claims 10h web/video on Wi-Fi. Same cell as M5; users report ~8-9h mixed real-world use."
+  },
+  "price": {
+    "cad": 2339,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/17975229",
+    "confidence": "verified",
+    "notes": "BBY clearance sale $1,889.99 (reg $2,099.99; BBY 17975229, verified 2026-11-24) + Magic Keyboard 13\" $449.99 (BBY 17932868, M4/M5-compatible). Sale price used; clearance stock only. Apple Pencil Pro $168.99 not included.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/17975229",
+        "cad": 1889.99,
+        "est": false,
+        "name": "Apple iPad Pro 13-Inch (M4): Ultra Retina XDR Display, 256GB, Landscape 12MP Front Camera/12MP Back Camera, Wi-Fi 6E - Silver"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/179/17975/17975229.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "At $1,889.99 clearance it's the cheapest way into the tandem OLED 13\" Pro — same display and chassis as the M5 (r/ipad deal threads)",
+      "M4 is still faster than nearly every Windows tablet and most ultrabooks in daily use; the M5 gap only shows in GPU-heavy benchmarks",
+      "Same Magic Keyboard and Pencil Pro compatibility as M5 — accessories carry forward",
+      "Impossibly thin (~5.1mm) and light for a 13\"",
+      "4-speaker + landscape camera still current-gen"
+    ],
+    "complaints": [
+      "iPadOS is the bottleneck regardless of chip: no full desktop-class apps, file management friction",
+      "Wi-Fi 6E vs M5's Wi-Fi 7 and no on-device AI speed uplift — buyers report feeling the generational gap in Apple Intelligence tasks",
+      "Clearance units are last-of-stock; check warranty start date and remaining AppleCare eligibility",
+      "Magic Keyboard at $449.99 with unlit keys is still full accessory price on a discounted tablet",
+      "12GB RAM caps the heaviest pro apps, same as the M5 256GB tier"
+    ]
+  },
+  "design_philosophy": "The 2024 M4 Pro introduced the tandem OLED and this exact chassis — the M5 refresh kept the body and upgraded the engine. At $1,889.99 Best Buy clearance the M4 is today's notable value pick in the Pro line: identical display, keyboard, and pen ecosystem for $210 less than M5, with only chip-generation and Wi-Fi 7 differences. Clearance stock is finite, which is part of the deal.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 7.5,
+    "screen_quality": 9.6,
+    "readability_dark": 9.8,
+    "readability_bright": 9,
+    "ecosystem": 6.5,
+    "gaming": 6.2,
+    "productivity": 6.9,
+    "portability": 8.2,
+    "build_quality": 9.3,
+    "thermals_noise": 8.5,
+    "port_connectivity": 6,
+    "creative_work": 8.5,
+    "keyboard_trackpad": 8.2,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 7,
+    "pen_touch": 9.5,
+    "repairability_service": 5,
+    "durability": 8
+  },
+  "rating_notes": "Ratings inferred from the 13\" M5 256GB anchor (see SHARED-ipad-pro.md); no verbatim pro score found this session (bot-walled) — disclosed, none invented. M4 vs M5 deltas per SHARED note: −0.3 productivity, −0.3 creative_work, −0.5 ai_ml (weaker NPU/GPU, no Wi-Fi 7); battery/display/keyboard identical (same chassis and Magic Keyboard). Ecosystem 6.5 (~9 casual/creative, ~5-6 desktop-app parity). Battery 8.0 on ~8.5h real use. Upgradability 1.0: everything soldered."
+}

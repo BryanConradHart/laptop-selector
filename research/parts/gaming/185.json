@@ -1,0 +1,103 @@
+{
+  "id": "msi-katana-15-hx-5060-14650hx-32-1tb-qhd",
+  "line": "MSI Katana 15 HX (2025, B14VFK)",
+  "config_name": "Katana 15 HX — Core i7-14650HX, RTX 5060 8GB, 32GB DDR5, 1TB SSD, 15.6\" QHD 165Hz",
+  "tier": "Entry",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core i7-14650HX (Raptor Lake-HX refresh, 16-core: 8P+8E)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7 (MUX switch)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5 SODIMM (2 slots, user-upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe Gen4 (2 slots)",
+    "screen_size_in": 15.6,
+    "display_type": "IPS, anti-glare, 16:9",
+    "resolution": "2560x1440",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": 0,
+    "weight_kg": 2.3,
+    "ports": "1x USB-C 10Gbps (DP), 2x USB-A 3.2, USB-A 2.0, HDMI 2.1, Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "720p HD (no shutter)",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Full-size numpad, 4-zone RGB; compact budget layout",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 4,
+    "notes": "~73Wh cell; estimated, no pro battery test captured."
+  },
+  "price": {
+    "cad": 2637.87,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20012908",
+    "confidence": "verified",
+    "notes": "BBY sku 20012908, $2,637.87 sale / $3,537.87 reg, verified 2026-11-24. Marketplace seller PCStop, inflated anchor. 24GB tier 20012915 $2,355.89 omitted as near-dup; 48/64GB RAM-upgrade SKUs omitted (user could self-upgrade cheaper).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20012908",
+        "cad": 2637.87,
+        "est": false,
+        "name": "MSI Katana 15 HX Gaming Laptop, 15.6\" 165Hz WQHD IPS Display, 14th Intel i7-14650HX 16-Core, NVIDIA GeForce RTX 5060, 32GB DDR5 1TB SSD, RGB Backlit KB, HD Camera, Win11 Home"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20012/20012908.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "32GB from the factory at ~$2,640 — rare in the budget tier; good for heavy multitasking and VMs",
+      "QHD 165Hz panel beats FHD panels on most budget rivals",
+      "16-core i7-14650HX strong for the price",
+      "Two SO-DIMM + two M.2 slots: upgrades remain cheap even after purchase",
+      "RTX 5060 with DLSS 4 handles QHD gaming at medium-high settings"
+    ],
+    "complaints": [
+      "Plastic chassis with deck flex — clear step down from Vector",
+      "720p webcam, no privacy shutter, weak speakers",
+      "Audible fan under gaming; middling deck temps",
+      "Poor battery (~3-4h light) from the power-hungry 14th-gen HX",
+      "MSI Center bloat; marketplace anchor pricing inflates the apparent discount"
+    ]
+  },
+  "design_philosophy": "The Katana is MSI's budget gaming line: carry-over 14th-gen HX CPUs and a plastic chassis paired with current RTX 50 silicon at the lowest prices in the category. This 32GB variant targets buyers who want multitasking headroom without paying step-up-tier prices.",
+  "ratings": {
+    "battery": 4,
+    "screen_size": 7,
+    "screen_quality": 5.5,
+    "readability_dark": 5,
+    "readability_bright": 5,
+    "ecosystem": 9.5,
+    "gaming": 6,
+    "productivity": 7.5,
+    "portability": 5,
+    "build_quality": 5,
+    "thermals_noise": 5.5,
+    "port_connectivity": 6,
+    "creative_work": 5,
+    "keyboard_trackpad": 5.5,
+    "webcam_speakers": 3.5,
+    "upgradability": 8,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 5.5
+  },
+  "rating_notes": "No numeric pro score found (see SHARED-msi-katana-vector.md). Inferred from 184.json (same chassis/GPU): +0.5 productivity, +0.5 ai_ml for 32GB vs 16GB."
+}

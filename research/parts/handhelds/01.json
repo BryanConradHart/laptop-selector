@@ -1,0 +1,128 @@
+{
+  "id": "steam-deck-oled-512",
+  "line": "Valve Steam Deck OLED (2023)",
+  "config_name": "Steam Deck OLED — Custom AMD 'Sephiroth' Zen 2 8-core / 8 RDNA2 CUs, 16GB LPDDR5-6400, 512GB NVMe, 7.4\" 1280x800 90Hz HDR OLED",
+  "tier": "Mid",
+  "category": "handheld-pcs",
+  "ecosystem": "SteamOS",
+  "form_factor": "handheld",
+  "release": "2023-11",
+  "inferred": false,
+  "specs": {
+    "cpu": "Custom AMD 'Sephiroth' APU, Zen 2 8-core (4C+4C) 2.4-3.5GHz, 6nm",
+    "cpu_cores": 8,
+    "gpu": "Radeon 8 CUs RDNA 2 1.6GHz (1.6 TFLOPS)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5-6400 soldered (4x32-bit)",
+    "storage_gb": 512,
+    "storage_type": "M.2 2230 NVMe Gen3 (user-replaceable)",
+    "screen_size_in": 7.4,
+    "display_type": "HDR OLED, 10-bit, P3 wide gamut, touch",
+    "resolution": "1280x800",
+    "refresh_hz": 90,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": 1000,
+    "weight_kg": 0.64,
+    "ports": "1x USB-C 3.1 Gen1 (DP alt-mode, PD), microSD UHS-I, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3 (dedicated antenna)",
+    "webcam": "none",
+    "speakers": "2 stereo speakers, enhanced spatial audio",
+    "keyboard_notes": "no keyboard; on-screen keyboard in SteamOS/Desktop mode",
+    "pen_support": "touch only, no pen",
+    "os": "SteamOS 3 (Arch Linux + KDE Plasma desktop mode)"
+  },
+  "battery": {
+    "claimed_hours": 12,
+    "real_world_hours": 6,
+    "notes": "50Wh. Valve claims 3-12h. Engadget measured Hades 4h23m, Elden Ring maxed 2h20m; light indie/emu use 6-8h. 20-80% charge in 45min."
+  },
+  "price": {
+    "cad": 1349,
+    "currency": "CAD",
+    "store": "store.steampowered.com/steamdeck",
+    "store_url": "https://www.steamdeck.com/en/buy",
+    "confidence": "verified",
+    "notes": "Verified from steamdeck.com/en 2026-11-24; reflects Valve's 2025-26 price increases.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19371372",
+        "cad": 1409.99,
+        "est": false,
+        "name": "Steam Deck OLED 7\" 90Hz HDR Touchscreen Handheld Gaming PC (AMD Zen 2/16GB RAM/512GB SSD/SteamOS)"
+      },
+      {
+        "store": "store.steampowered.com/steamdeck",
+        "url": "https://www.steamdeck.com/en/buy",
+        "cad": 1349,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.steamdeck.com/en/buy"
+  },
+  "image_url": "https://cdn.akamai.steamstatic.com/steamdeck/images/oled/social_media_image.jpg",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Tom's Guide",
+        "score": "4.5/5",
+        "url": "https://www.tomsguide.com/reviews/steam-deck-oled",
+        "quote": "The Steam Deck OLED impresses thanks to its vibrant display, lighter design, faster Wi-Fi and improved cooling... this latest iteration demonstrates that Valve can improve on perfection. The Steam Deck OLED has set a new standard for competitors to follow."
+      },
+      {
+        "outlet": "Engadget",
+        "score": "recommended",
+        "url": "https://www.engadget.com/steam-deck-oled-review-its-just-better-180038030.html",
+        "quote": "This isn't the Steam Deck 2 some are waiting for, it's just a welcome improvement on an already good device."
+      },
+      {
+        "outlet": "Engadget (2026 re-check)",
+        "score": "recommended",
+        "url": "https://www.engadget.com/2248094/is-steam-deck-still-worth-it/",
+        "quote": "Though the Xbox Ally and Legion Go (S and 2) lines offer larger batteries than the Steam Deck OLED, in real-world applications, Valve's handheld often comes out on top."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "OLED HDR at 90Hz is 'night and day' vs the LCD even at the same 1280x800 — pure blacks make night-time gaming dramatically better",
+      "Battery is genuinely 30-50% better than LCD and 20-80% charge in 45 minutes makes couch top-ups painless",
+      "SteamOS sleep/resume, quick-access menu and game verification labels make it feel like a console, not a Windows handheld",
+      "iFixit 10/10 repairability — Valve sells its own stick modules, SSD, battery and shell parts; standard M.2 2230 SSD",
+      "Noticeably cooler and quieter than the LCD under load; larger fan is 'not any louder' per Engadget"
+    ],
+    "complaints": [
+      "Same 2021-era Zen 2/RDNA2 APU — UE5 and new AAA games need 20-30fps caps and still stutter; no performance gain over 2022 LCD",
+      "2025-26 CAD price increases (now C$1,349) hurt value vs faster Xbox Ally X / Legion Go 2 at similar money",
+      "Still huge and heavy (640g, 11.7in wide) — 'a Wii U, not a Vita'; uncomfortable for small hands in long sessions",
+      "SteamOS cannot run anti-cheat multiplayer titles (Fortnite, CoD: Warzone), pushing some users to dual-boot Windows",
+      "microSD slot is slow UHS-I (~90MB/s) so expanded library games load noticeably slower than internal SSD"
+    ]
+  },
+  "design_philosophy": "Valve's bet that open PC gaming can be packaged as a console: a mid-cycle OLED refresh (die-shrunk APU, better screen/battery/thermals) deliberately keeping the 2022 chassis, controls, and performance target so the whole Steam library stays the platform. This 512GB OLED is the volume sweet spot of the current lineup.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 4,
+    "screen_quality": 9.3,
+    "readability_dark": 9.5,
+    "readability_bright": 7.5,
+    "ecosystem": 7.5,
+    "gaming": 6,
+    "productivity": 3,
+    "portability": 7,
+    "build_quality": 8.5,
+    "thermals_noise": 8.5,
+    "port_connectivity": 3.5,
+    "creative_work": 1.5,
+    "keyboard_trackpad": 1,
+    "webcam_speakers": 3.5,
+    "upgradability": 9,
+    "ai_ml": 1,
+    "pen_touch": 4,
+    "repairability_service": 9.5,
+    "durability": 7
+  },
+  "rating_notes": "Anchor config reviewed by Tom's Guide (4.5/5) and Engadget (recommended); RTINGS review URL could not be verified (404) so no RTINGS score is cited. Gaming 6.0 = strong for 800p 30-60fps Steam library but aging APU per user consensus. Ecosystem 7.5: huge Steam compatibility but anti-cheat multiplayer gap. keyboard_trackpad 1.0 (no physical keyboard). webcam 0 — speakers only. Image URL best-guess from Steam CDN; site has fallback."
+}

@@ -1,0 +1,110 @@
+{
+  "id": "obu14-a9-16-1tb",
+  "line": "HP OmniBook Ultra 14 (2025, Ryzen AI)",
+  "config_name": "OmniBook Ultra 14 — AMD Ryzen AI 9 365, 16GB LPDDR5x, 1TB SSD, 14\" touch",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 9 365 (Strix Point, 10-core: 4Zen5+6Zen5c)",
+    "cpu_cores": 10,
+    "gpu": "Radeon 880M integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe",
+    "screen_size_in": 14,
+    "display_type": "IPS touch, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.44,
+    "ports": "2x USB-C (40Gbps), 2x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "5MP IR + IR",
+    "speakers": "quad-speaker by Poly Studio",
+    "keyboard_notes": "backlit, fingerprint power button",
+    "pen_support": "touch",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 19,
+    "real_world_hours": 11,
+    "notes": "~64Wh. Strix Point is thirstier than Lunar Lake; ~11h light mixed use typical."
+  },
+  "price": {
+    "cad": 1199.97,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/18469687",
+    "confidence": "verified",
+    "notes": "Best Buy CA SKU 18469687 at $1,199.97 (2026-11-24 API) — launch-gen model at deep clearance; notable value pick today.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/18469687",
+        "cad": 1199.97,
+        "est": false,
+        "name": "HP OmniBook Ultra 14\" Touchscreen Laptop - AMD Ryzen AI 9 365 - 16GB LPDDR5x - 1TB SSD - Windows 11 Home - Meteor Silver"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/184/18469/18469687.jpg",
+  "professional": {
+    "avg_score": 8.4,
+    "reviews": [
+      {
+        "outlet": "PCMag",
+        "score": "recommended",
+        "url": "https://www.pcmag.com/reviews/hp-omnibook-ultra-14",
+        "quote": "I Tested HP's OmniBook Ultra 14, a Gorgeous Ultraportable With Potent Processing Power"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Ryzen AI 9 365 + 1TB for $1,200 is absurd value — the whole reason this clearance SKU sells out",
+      "Radeon 880M actually plays esports titles and older AAA at 1080p, unlike iGPU siblings",
+      "50 TOPS XDNA NPU qualifies for Copilot+ locally",
+      "Strong multicore for compiling — beats same-price Intel U/V parts",
+      "Premium aluminium build and quad Poly speakers from the flagship line at budget price"
+    ],
+    "complaints": [
+      "60Hz 1200p panel feels dated next to the 3K 120Hz OLED tiers",
+      "Battery a clear step down from Lunar Lake and Snapdragon tiers (~11h vs 14h+)",
+      "16GB soldered RAM",
+      "Older launch-gen chassis revision — 5MP cam vs 9MP on current units",
+      "Clearance stock: limited units, colour options gone"
+    ]
+  },
+  "design_philosophy": "The original Strix Point launch config of the OmniBook Ultra line, now the clearance value pick: flagship build and a genuinely capable Radeon iGPU at half the flagship price, at the cost of the older 60Hz panel.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 7,
+    "screen_quality": 6,
+    "readability_dark": 7,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 5,
+    "productivity": 8,
+    "portability": 8.5,
+    "build_quality": 8.5,
+    "thermals_noise": 7.5,
+    "port_connectivity": 8,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 8,
+    "webcam_speakers": 8,
+    "upgradability": 2,
+    "ai_ml": 6,
+    "pen_touch": 6,
+    "repairability_service": 4,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from PCMag OmniBook Ultra 14 anchor. 880M gets gaming 5.0 (dataset: B390 ~5). 60Hz IPS panel → screen_quality 6.0. Notable value pick per rule 10 (previous gen at deep discount, price verified)."
+}

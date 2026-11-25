@@ -1,0 +1,104 @@
+{
+  "id": "lg-gram-16-oled-u7155h",
+  "line": "LG gram 16 OLED (2024, prev-gen clearance)",
+  "config_name": "LG gram 16 OLED — Core Ultra 7 155H, Arc iGPU, 16GB LPDDR5X, 512GB, 16\" OLED 120Hz HDR",
+  "tier": "Value",
+  "category": "ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2024",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 155H (Meteor Lake)",
+    "cpu_cores": 16,
+    "gpu": "Intel Arc integrated (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 16,
+    "display_type": "OLED, 120Hz, HDR",
+    "resolution": "2560x1600",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 600,
+    "weight_kg": 1.19,
+    "ports": "2x TB4/USB-C, USB-A, HDMI, microSD, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "FHD IR with Windows Hello",
+    "speakers": "stereo, downward-firing",
+    "keyboard_notes": "backlit",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 18,
+    "real_world_hours": 8,
+    "notes": "Meteor Lake 155H is the least efficient gram generation; estimated 7-9h real-world. OLED helps vs LCD at low content."
+  },
+  "price": {
+    "cad": 1250,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/17729460",
+    "confidence": "verified",
+    "notes": "$1,249.97 flat clearance (BBY-verified 2026-11-24). Notable value pick: OLED 120Hz 16\" gram at this price is exceptional. SKU 17729460.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/17729460",
+        "cad": 1249.97,
+        "est": false,
+        "name": "LG Gram 16\" OLED 120Hz HDR Laptop - Intel Core Ultra 7 155H - 16GB LPDDR5X - 512GB SSD - Obsidian Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/177/17729/17729460.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "No verified pro review retrieved this pass (bot-walls; see SHARED-lg-gram.md). NBC reviewed the 2024 gram 16 OLED — gap-fill target."
+  },
+  "user_sentiment": {
+    "praises": [
+      "OLED 120 Hz panel with true blacks at clearance pricing — widely called the best display dollar in the gram line",
+      "Still ~1.19 kg: a 16-inch OLED ultrabook lighter than most 14-inch laptops",
+      "Meteor Lake 155H is a genuine 16-core part for mixed productivity",
+      "Full port set (HDMI, USB-A, microSD, dual TB4) despite the thin chassis",
+      "HDR media playback on OLED is excellent for streaming"
+    ],
+    "complaints": [
+      "Meteor Lake battery is the weakest of recent grams — users report ~7-8h, well under LG claims",
+      "16GB soldered RAM with no upgrade path",
+      "OLED glossy panel reflects heavily in bright rooms",
+      "Lid flex and thin-speaker compromises same as every gram",
+      "2024 panel: no Copilot+ NPU certification and Wi-Fi 6E only, so it ages faster than 2025 models"
+    ]
+  },
+  "design_philosophy": "The 2024 gram 16 OLED pairs the line's magnesium-nano-carbon featherweight chassis with its best display technology — a 120 Hz OLED in a 1.19 kg 16-inch shell. At $1,250 clearance it is the standout value pick of the whole 2026 gram retail shelf, trading last-gen Meteor Lake efficiency and 16GB RAM for a screen that outclasses current mid-tier grams.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 8,
+    "screen_quality": 9,
+    "readability_dark": 8.5,
+    "readability_bright": 5.5,
+    "ecosystem": 9,
+    "gaming": 4,
+    "productivity": 7.5,
+    "portability": 9.5,
+    "build_quality": 6.5,
+    "thermals_noise": 6.5,
+    "port_connectivity": 8,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 5.5,
+    "upgradability": 3,
+    "ai_ml": 4,
+    "pen_touch": 0,
+    "repairability_service": 3.5,
+    "durability": 6
+  },
+  "rating_notes": "Synthesized per SHARED-lg-gram.md; no verified pro anchor (disclosed). OLED panel → screen_quality 9, readability_dark high (self-lit), readability_bright down (glossy). Meteor Lake → battery −2 vs Arrow Lake grams, ai_ml low (no Copilot+ cert). Non-touch: pen_touch 0. Image URL best-guess BBY CDN pattern."
+}

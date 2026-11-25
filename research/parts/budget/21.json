@@ -1,0 +1,109 @@
+{
+  "id": "vivobook-s16-snapdragonx-8-256",
+  "line": "ASUS Vivobook S16 Copilot+ (Snapdragon X, 2026)",
+  "config_name": "Vivobook S16 16\" Copilot+ — Snapdragon X (8-core, 45 TOPS NPU), 8GB LPDDR5X, 256GB SSD, FHD+ Matte Grey",
+  "tier": "Mid",
+  "category": "budget",
+  "ecosystem": "Windows (ARM)",
+  "form_factor": "clamshell",
+  "release": "2025-09",
+  "inferred": true,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X (8-core Oryon, 2.97 GHz — X1-class, 45 TOPS NPU)",
+    "cpu_cores": 8,
+    "gpu": "Qualcomm Adreno integrated GPU",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 256,
+    "storage_type": "NVMe M.2",
+    "screen_size_in": 16,
+    "display_type": "FHD+ 1920x1200 IPS-class, 60Hz",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.6,
+    "ports": "2x USB-C 3.2 Gen2 10Gbps (DP + PD), 2x USB-A 3.2 Gen1, micro-HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 6E (2x2), BT 5.3",
+    "webcam": "FHD IR camera with privacy shutter (Windows Hello)",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Bilingual CA chiclet with numpad, no backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home (ARM64)"
+  },
+  "battery": {
+    "claimed_hours": 15,
+    "real_world_hours": 11,
+    "notes": "~50 Wh (4185 mAh 3-cell) + Arm efficiency: ~10-12h real light use — best in this budget family by a wide margin."
+  },
+  "price": {
+    "cad": 999.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19994920",
+    "confidence": "verified",
+    "notes": "BF sale $799.95 — cheapest Copilot+ PC in the dataset.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19994920",
+        "cad": 799.95,
+        "est": false,
+        "name": "ASUS Vivobook S16 16\" Copilot+ PC Laptop - Snapdragon X - 8GB LPDDR5X - 256GB SSD - Windows 11 Home - Matte Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19994/19994920.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Battery life is in a different league from every x86 laptop at this price — a full workday of browsing, 10+ hours",
+      "Completely silent under everyday load; no fan whine ever",
+      "1.6 kg for a 16-inch chassis with a numpad is genuinely light",
+      "Copilot+ 45 TOPS NPU and Windows Hello IR face login at $799.95 on sale",
+      "Both USB-C ports do power delivery and DisplayPort — real docking on a budget"
+    ],
+    "complaints": [
+      "8GB soldered LPDDR5X is the one spec that hurts: Arm Windows with 8GB hits its ceiling fast",
+      "Arm app-compat surprises: some printers' drivers, niche plugins, and anti-cheat games simply don't run",
+      "micro-HDMI port needs a dongle for any standard HDMI cable",
+      "256GB storage is small and the panel is a dull ~300-nit IPS-class",
+      "Adreno GPU runs games poorly and inconsistently through x86 translation"
+    ]
+  },
+  "standouts": [
+    "Best battery and best efficiency-per-dollar in the entire budget class (Copilot+ from $799.95)",
+    "Silent operation with a 16\" FHD+ screen at 1.6 kg — ultrabook portability at budget price"
+  ],
+  "dealbreakers": [
+    "8GB soldered: buyers who need headroom or run legacy x86-only software should skip ARM entirely"
+  ],
+  "design_philosophy": "ASUS's price-floor for Qualcomm's Arm Copilot+ platform: the cheapest Snapdragon X chip, trimmed to 8GB/256GB, in the lightweight S16 chassis. The pitch is next-gen features (45 TOPS NPU, multi-day-feel battery, silent fanless-ish operation) at the price of last-gen x86 boxes — and the honest asterisk is 8GB RAM, which constrains exactly the heavy multitaskers who'd notice translation issues anyway. Kept in budget class as the borderline cheapest Copilot+ SKU.",
+  "ratings": {
+    "battery": 8.8,
+    "screen_size": 7.6,
+    "screen_quality": 4,
+    "readability_dark": 4.5,
+    "readability_bright": 4,
+    "ecosystem": 6.5,
+    "gaming": 2,
+    "productivity": 5.5,
+    "portability": 7.2,
+    "build_quality": 5,
+    "thermals_noise": 9,
+    "port_connectivity": 6.5,
+    "creative_work": 1.8,
+    "keyboard_trackpad": 5.3,
+    "webcam_speakers": 5.5,
+    "upgradability": 2.5,
+    "ai_ml": 4.5,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 4.2
+  },
+  "rating_notes": "No pro review found for this CA SKU (see SHARED-vivobook.md). Ratings anchored on the Snapdragon X X1-class platform calibration shared with the IdeaPad Slim 3x entry (battery/ai_ml/ecosystem pattern) with S16-chassis deltas: ecosystem 6.5 for Arm translation caveats, ai_ml 4.5 for 45 TOPS NPU, productivity capped 5.5 by 8GB RAM. BBY spec omits the exact Snapdragon SKU; 8-core/2.97GHz/30MB matches X1-class. Image URL best-guess BBY CDN pattern."
+}

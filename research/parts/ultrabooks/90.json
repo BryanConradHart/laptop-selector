@@ -1,0 +1,108 @@
+{
+  "id": "zba16-x1-16-512-oled-value",
+  "line": "ASUS Zenbook A16 (Snapdragon X X1-26100 value tier)",
+  "config_name": "Zenbook A16 — Snapdragon X X1-26100, 16GB LPDDR5X, 512GB SSD, 16\" OLED, 30h claimed",
+  "tier": "Base",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-09",
+  "inferred": true,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X X1-26100 (8-core Oryon)",
+    "cpu_cores": 8,
+    "gpu": "Qualcomm Adreno integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe",
+    "screen_size_in": 16,
+    "display_type": "OLED 16:10",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 700,
+    "weight_kg": 1.2,
+    "ports": "USB-C (USB4), USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 6E/7, BT 5.3",
+    "webcam": "1080p FHD + IR",
+    "speakers": "quad-speaker",
+    "keyboard_notes": "Backlit, Ceraluminum deck",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 30,
+    "real_world_hours": 13,
+    "notes": "~70Wh + X1 efficiency. Expect 11-14h light use (UBR A16 X2 figures minus headroom; X1 is slower but similarly efficient at light loads)."
+  },
+  "price": {
+    "cad": 1399.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-a16-16-laptop-snapdragon-x-26-100-16gb-lpddr5x-512gb-ssd-windows-11-30h-battery-life-iceland-grey/19870605",
+    "confidence": "verified",
+    "notes": "BBY direct SKU 19870605, reg $1,849.99 sale $1,399.99 (2026-11-24). Standout value: 16-inch OLED ~1.2 kg ARM laptop under $1,400. Only 3 BBY reviews (3.0/5) — thin sample.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19870605",
+        "cad": 1399.99,
+        "est": false,
+        "name": "ASUS Zenbook A16 16\" Laptop - Snapdragon X 26 100 - 16GB LPDDR5X - 512GB SSD - Windows 11 - 30h Battery Life - Iceland Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19870/19870605.jpg",
+  "professional": {
+    "avg_score": 8,
+    "reviews": [
+      {
+        "outlet": "Ultrabookreview",
+        "score": "recommended",
+        "url": "https://www.ultrabookreview.com/74371-asus-zenbook-a16-a14/",
+        "quote": "the Zenbook A16 and A14 are ultra-light laptops built on Qualcomm Snapdragon hardware with OLED displays"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "$1,399 for a 16-inch OLED ultralight is the cheapest big-screen OLED deal at BBY CA right now",
+      "Extremely light (~1.2 kg) for a 16-inch",
+      "Multi-day standby and silent light-use operation",
+      "Ceraluminum build feels premium for the price"
+    ],
+    "complaints": [
+      "X1-26100 is entry-bin Snapdragon — noticeably slower than the X2 A16 it shares a name with",
+      "Windows-on-ARM app caveats",
+      "Very few CA user reviews to validate long-term quality (3 reviews, 3.0/5)",
+      "60Hz on some A16 panel variants — check SKU before buying"
+    ]
+  },
+  "design_philosophy": "The entry spec of ASUS's 16-inch ARM ultralight line: same lightweight OLED chassis as the X2 Elite Extreme flagship at roughly half the price, using last-gen X1 silicon. It's the budget path to big-screen ARM portability.",
+  "ratings": {
+    "battery": 9,
+    "screen_size": 8.5,
+    "screen_quality": 8.5,
+    "readability_dark": 8.5,
+    "readability_bright": 7,
+    "ecosystem": 7.5,
+    "gaming": 3,
+    "productivity": 6.5,
+    "portability": 9,
+    "build_quality": 8,
+    "thermals_noise": 9,
+    "port_connectivity": 7,
+    "creative_work": 5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 7,
+    "upgradability": 3.5,
+    "ai_ml": 6.5,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from Ultrabookreview A16 X2 Elite Extreme anchor (entry 89): −2 productivity, −1.5 gaming, −2 ai_ml for the X1-26100 bin; +1 battery at light loads. UBR quote is from the A16/A14 overview page (paraphrased descriptor), flagged for parent."
+}

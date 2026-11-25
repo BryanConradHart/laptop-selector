@@ -1,0 +1,110 @@
+{
+  "id": "dell-pro-max-16-rtxpro2000-32-1tb-120hz",
+  "line": "Dell Pro Max 16 (MC16250, 2025)",
+  "config_name": "Dell Pro Max 16 — Intel Core Ultra 7 265, NVIDIA RTX PRO 2000 Blackwell, 32GB, 1TB SSD, 16\" 120Hz",
+  "tier": "High",
+  "category": "creator",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-07",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 265 (Arrow Lake)",
+    "cpu_cores": 20,
+    "gpu": "NVIDIA RTX PRO 2000 Blackwell (ISV-certified)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe",
+    "screen_size_in": 16,
+    "display_type": "IPS anti-glare 120Hz, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.9,
+    "ports": "2x TB4/USB-C, 2x USB-A, HDMI 2.1, RJ-45, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "8MP + IR",
+    "speakers": "2-speaker, Dolby Audio",
+    "keyboard_notes": "Backlit keyboard with numeric keypad",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 13,
+    "real_world_hours": 6.5,
+    "notes": "Est.; discrete Blackwell GPU shaves ~1h vs Arc Pro config. No verified pro battery test found (NBC bot-walled)."
+  },
+  "price": {
+    "cad": 5879.97,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19680730",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $8,461.99 / sale $5,879.97 (SKU 19680730). Regular price is a heavy marketplace-style anchor.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19680730",
+        "cad": 5879.97,
+        "est": false,
+        "name": "Dell Pro Max 16\" 120Hz Laptop - Intel Core Ultra 7 265 - 32GB LPDDR5X - 1TB SSD - NVIDIA RTX PRO 2000 - Windows 11 Pro - Black"
+      }
+    ],
+    "official_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/dellpromax16laptopmc16250"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/196/19680/19680730.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "RTX PRO 2000 Blackwell brings certified SolidWorks/CAD/DaVinci acceleration into the value MC chassis — the performance sweet spot of the Pro Max 16 range",
+      "120Hz panel makes viewport orbiting and general desktop use feel dramatically smoother than the 60Hz base",
+      "Blackwell CUDA + pro drivers cover both work (ISV apps) and after-hours gaming competently",
+      "Deep sale ($8,461.99 to $5,879.97) undercuts ThinkPad P16 and ZBook Power equivalents with same GPU tier",
+      "Full MC-tier utility retained: RJ-45, numeric keypad, Pro Docking single-cable support, vPro"
+    ],
+    "complaints": [
+      "$8,461.99 regular price is pure anchor theater — the SKU is only ever worth the ~$5,880 sale number",
+      "120Hz but still the modest WUXGA 300-nit panel; resolution and color lag the refresh rate",
+      "Discrete GPU fans spin up noticeably under CAD/render load in the MC cooling design",
+      "Ultra 7 265 (non-HX) is a step below the 265HX found in the Plus tier — CPU-bounded renders trail thicker workstations",
+      "32GB fixed at this price point; RAM upgrades needed sooner than workstation buyers expect"
+    ]
+  },
+  "standouts": [
+    "RTX PRO 2000 Blackwell at ~$5,880 street — undercuts ThinkPad P16 / ZBook Power at the same GPU tier",
+    "120Hz panel + certified CUDA GPU: the CAD-starter sweet spot of the Pro Max 16 range"
+  ],
+  "dealbreakers": [
+    "Modest WUXGA 300-nit panel despite the 120Hz refresh — resolution and color lag the GPU"
+  ],
+  "design_philosophy": "This is the performance trim of the Pro Max 16 MC workhorse line: put a certified RTX PRO 2000 Blackwell and a 120Hz panel into the serviceable mainstream workstation chassis, and sell it well below the Plus/Premium tiers. It fits the line's philosophy of fleet-grade practicality — docking, RJ-45, manageability — with the GPU muscle that makes it a genuine CAD/machine-learning starter rather than an office machine with a badge.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 8,
+    "screen_quality": 6.3,
+    "readability_dark": 5.5,
+    "readability_bright": 5.5,
+    "ecosystem": 9,
+    "gaming": 5,
+    "productivity": 8.5,
+    "portability": 6,
+    "build_quality": 7.3,
+    "thermals_noise": 5.5,
+    "port_connectivity": 8.5,
+    "creative_work": 7,
+    "keyboard_trackpad": 7.8,
+    "webcam_speakers": 6.5,
+    "upgradability": 7,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 8.5,
+    "durability": 7.5
+  },
+  "rating_notes": "Ratings inferred from the MC16250 line baseline (see entry 43 / SHARED-dell-promax.md): +1.5 gaming / +1.2 creative_work / +2 ai_ml for RTX PRO 2000 Blackwell per SHARED-thinkpad-p tier guidance (PRO 2000: gaming ~5, ai_ml ~6), +0.3 screen_quality and -1 battery vs 60Hz Arc config for 120Hz + discrete GPU. No verified pro review found (NBC bot-walled); Dell CA line rating 4.3/464 grounds sentiment; complaints synthesized from Precision-owner themes — disclosed, not quoted."
+}

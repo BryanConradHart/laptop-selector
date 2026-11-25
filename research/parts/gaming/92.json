@@ -1,0 +1,111 @@
+{
+  "id": "g16-2025-285h-5060-32-512",
+  "line": "ASUS ROG Zephyrus G16 (2025, GU605)",
+  "config_name": "ROG Zephyrus G16 (2025) — Core Ultra 9 285H / RTX 5060 8GB, 32GB LPDDR5X, 512GB SSD, 16\" 2.5K OLED 240Hz",
+  "tier": "Entry",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-04",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 285H (Arrow Lake-H, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB (TGP-capped slim chassis ~105W)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 512,
+    "storage_type": "NVMe (2x M.2 2280 slots)",
+    "screen_size_in": 16,
+    "display_type": "OLED (ROG Nebula HDR, glossy, G-Sync)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 900,
+    "weight_kg": 1.85,
+    "ports": "1x Thunderbolt 4, 1x USB-C 3.2 Gen2 (DP/PD), 2x USB-A 3.2, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "quad-speaker (praised by NBC)",
+    "keyboard_notes": "backlit chiclet, per-key RGB; NBC: 'brilliant input devices'",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 6.5,
+    "notes": "90Wh. NBC lab WiFi test on the GU605CX: 9h00 @150nits / 6h43 max brightness; users report ~5-7h mixed use. ~1.5-2h gaming. USB-C PD charging supported."
+  },
+  "price": {
+    "cad": 2999.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19826851",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24, sku 19826851, sale $2,999.99 (reg $3,499.99). BBY customer rating 4.64/5, n=14.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19826851",
+        "cad": 2999.99,
+        "est": false,
+        "name": "ASUS Zephyrus G16 16\" 240Hz Gaming Laptop - Intel Core Ultra 9 285H - 32GB LPDDR5X - 512GB SSD - GeForce RTX 5060 - Windows 11 - Eclipse Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19826/19826851.jpg",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/A-slim-gaming-laptop-now-with-an-RTX-5090-and-64-GB-of-RAM-Asus-ROG-Zephyrus-G16-2025-review.993365.0.html",
+        "quote": "The ROG Zephyrus G16's 2025 update offers several upgrades... it's still important to know that it uses a relatively slow version of the GPU. Other improvements include Wi-Fi 7, 64 GB of RAM, and longer battery life. The input devices and speakers remain very good. (NBC 'very good' 90%, tested GU605CX RTX 5090 config; cons: RTX 5090 unable to reach its potential, soldered RAM, limited maximum HDR brightness, PWM flickering.)"
+      }
+    ],
+    "note": "NBC 90% is for the top RTX 5090/64GB tier of this line (gap-fill browser pass 2026-11-24); chassis/display/battery findings are line-level. This entry's ratings inferred from that anchor."
+  },
+  "user_sentiment": {
+    "praises": [
+      "2.5K OLED 240Hz screen repeatedly called the best display in this price class — inky blacks, vivid color, buttery smooth",
+      "Premium aluminum chassis at ~1.85 kg is genuinely portable for a 16-inch gaming laptop",
+      "Speakers and keyboard/trackpad are among the best on any gaming laptop (echoed by NBC: 'excellent speakers', 'brilliant input devices')",
+      "90Wh battery gives ~6-8h light use — unusually good for a gaming laptop, with USB-C charging for travel",
+      "At the $3,000 sale price the OLED + build feels like a steal vs plastic-chassis rivals"
+    ],
+    "complaints": [
+      "RTX 5060 at $3.0-3.5k is the weak point: thicker rivals (Strix G16, Legion 5) offer the same GPU for several hundred dollars less",
+      "GPU is TGP-capped in the slim chassis, so the 5060 trails same-GPU thicker laptops in sustained FPS",
+      "Soldered RAM and only 512GB at this tier — no RAM upgrade path at all (2x M.2 helps storage only)",
+      "PWM flickering on the OLED bothers light-sensitive users; HDR peak brightness is limited (NBC cons list)",
+      "Lid creaking and hinge rocking noted by NBC and some owners; fans pulse audibly even at idle in some profiles"
+    ]
+  },
+  "design_philosophy": "ASUS's halo slim 16-inch gaming line: aluminum unibody, OLED-first, ~1.85 kg — it trades raw TGP and port count for portability and screen quality. This entry config pairs the fast Arrow Lake chip with the entry RTX 5060 and modest 512GB, buying into the chassis and OLED at the lowest price; the GPU is where it compromises.",
+  "ratings": {
+    "battery": 6.8,
+    "screen_size": 8,
+    "screen_quality": 9,
+    "readability_dark": 8.5,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 6.1,
+    "productivity": 7.8,
+    "portability": 8.2,
+    "build_quality": 8,
+    "thermals_noise": 6.7,
+    "port_connectivity": 6.5,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 8.5,
+    "webcam_speakers": 8,
+    "upgradability": 3,
+    "ai_ml": 4.8,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 6.5
+  },
+  "rating_notes": "Ratings inferred from NBC's GU605CX (285H/RTX 5090/64GB) 90% review per SHARED-zephyrus-g16.md: -3.3 gaming for the TGP-capped 5060 tier (thicker 5060 laptops score ~1 higher), +0.5 thermals_noise and +0.3 battery vs 5070 tier, 8GB VRAM caps ai_ml. Battery anchored to NBC lab 9h WiFi minus user-calibration (~6.5-7h real). Upgradability 3.0: soldered RAM but 2x M.2. PWM/HDR cons carried from NBC."
+}

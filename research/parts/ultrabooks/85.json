@@ -1,0 +1,109 @@
+{
+  "id": "zbs16-ux5606sa-a7-16-512-oled",
+  "line": "ASUS Zenbook S16 OLED (2025/26, AMD Ryzen AI 300)",
+  "config_name": "Zenbook S16 — Ryzen AI 7 445, 16GB LPDDR5X, 512GB SSD, 16\" OLED touch",
+  "tier": "Base",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 7 445 (Krackan Point, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "AMD Radeon 860M iGPU integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe",
+    "screen_size_in": 16,
+    "display_type": "OLED touch, 16:10",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 600,
+    "weight_kg": 1.5,
+    "ports": "2x USB-C 4, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "1080p FHD + IR",
+    "speakers": "4-speaker Harman Kardon",
+    "keyboard_notes": "Backlit chiclet, large glass touchpad",
+    "pen_support": "touch",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 18,
+    "real_world_hours": 10,
+    "notes": "63Wh (UX5606 chassis). Expect ~9-11h light use on the 16-inch OLED."
+  },
+  "price": {
+    "cad": 1999.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-s16-16-touchscreen-ai-pc-laptop-scandinavian-white-amd-ryzen-ai-7-445-16gb-ram-512gb-ssd-win11/19911636",
+    "confidence": "verified",
+    "notes": "BBY direct SKU 19911636, reg $2,599.99 sale $1,999.99 (2026-11-24). 4.56/5 from 145 BBY reviews.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-s16-16-touchscreen-ai-pc-laptop-scandinavian-white-amd-ryzen-ai-7-445-16gb-ram-512gb-ssd-win11/19911636",
+        "cad": 1999.99,
+        "est": false,
+        "name": "ASUS Zenbook S16 16\" Touchscreen AI PC Laptop - Scandinavian White (AMD Ryzen AI 7 445/16GB RAM/512GB SSD/Win11)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19911/19911636.jpg",
+  "professional": {
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "Ultrabookreview",
+        "score": "recommended",
+        "url": "https://www.ultrabookreview.com/68996-asus-zenbook-s16-review/",
+        "quote": "a thin and light 16-inch laptop with a premium design, an OLED display, and AMD Ryzen AI hardware"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "16-inch OLED at under 1.5 kg — big screen without the usual 2 kg penalty",
+      "Strong BBY user rating (4.56/5 across 145 reviews)",
+      "Ceraluminum lid and slim profile look far more expensive than the sale price",
+      "Radeon 860M handles light gaming and video editing surprisingly well",
+      "Touchscreen OLED at this price is rare in 16-inch class"
+    ],
+    "complaints": [
+      "63Wh battery is small for 16 inches — mid-pack runtime",
+      "16GB soldered RAM ceiling on this tier",
+      "Fans audible under sustained loads",
+      "Older 2025 chassis (pre-2026 S16 refresh) still mixed in retail stock"
+    ]
+  },
+  "design_philosophy": "ASUS's big-screen thin-and-light: 16-inch OLED in a ~1.5 kg Ceraluminum chassis aimed at users who want desktop real estate at ultrabook weight. This launch-gen AMD tier is now the value entry of the S16 family at deep Best Buy discount.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 8.5,
+    "screen_quality": 8.5,
+    "readability_dark": 8.5,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 4.5,
+    "productivity": 7.5,
+    "portability": 7,
+    "build_quality": 8.5,
+    "thermals_noise": 7,
+    "port_connectivity": 7,
+    "creative_work": 6,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 7,
+    "upgradability": 4,
+    "ai_ml": 5.5,
+    "pen_touch": 6.5,
+    "repairability_service": 4.5,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from Ultrabookreview Zenbook S16 (2025) review + sibling deltas; 16-inch OLED +1.5 screen_size vs the 14-inch anchors, −1.5 portability. BBY 4.56/5 (145 reviews) supports user-sentiment claims. UBR quote is from the S16 review index page (paraphrased descriptor), flagged for parent."
+}

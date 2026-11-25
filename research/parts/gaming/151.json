@@ -1,0 +1,115 @@
+{
+  "id": "gigabyte-gaming-a16-ga6h-13620h-5050-24-1tb",
+  "line": "Gigabyte Gaming A16 (GA6H, 2025)",
+  "config_name": "Gigabyte Gaming A16 — Core i7-13620H / RTX 5050, 24GB RAM, 1TB SSD",
+  "tier": "Entry",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-09",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core i7-13620H (10-core: 6P+4E, Raptor Lake-H)",
+    "cpu_cores": 10,
+    "gpu": "NVIDIA GeForce RTX 5050 Laptop 8GB GDDR7 (~65-85W TGP)",
+    "gpu_type": "dedicated",
+    "ram_gb": 24,
+    "ram_type": "DDR5 SO-DIMM (2 slots, upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (2 slots, one free)",
+    "screen_size_in": 16,
+    "display_type": "Matte IPS (retailer lists WUXGA; panel supplier varies)",
+    "resolution": "1920x1200",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.26,
+    "ports": "1x USB-C (PD, no Thunderbolt/USB4), 2x USB-A 3.0, 1x USB 2.0, HDMI, gigabit Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.2",
+    "webcam": "FHD 1080p",
+    "speakers": "2x 2W stereo",
+    "keyboard_notes": "Chiclet, backlit, 180-degree hinge",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 7,
+    "notes": "76Wh; lower-TGP 5050 slightly extends runtime vs 5070 tier (~6-7h light use)."
+  },
+  "price": {
+    "cad": 2050.22,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/p/20340722",
+    "confidence": "verified",
+    "notes": "BBY API-verified 2026-11-24 (Black Friday window), SKU 20340722, reg $2,950.22. Marketplace seller — flag fulfillment/return-policy risk.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/p/20340722",
+        "cad": 2050.22,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/203/20340/20340722.png",
+  "professional": {
+    "avg_score": 80,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "80%",
+        "url": "https://www.notebookcheck.net/An-affordable-RTX-5070-laptop-Gigabyte-Gaming-A16-review.1072350.0.html",
+        "quote": "Aside from the 8 GB issue, the GeForce RTX 5070 also achieved decent results, although sometimes you have to resort to DLSS or frame generation at higher details in its native QHD+ resolution."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest current-gen Blackwell gaming laptop at BBY CA — RTX 5050 under $2,100 on sale",
+      "Same upgradeable chassis as the reviewed tier: 2x SO-DIMM, 2x M.2 (NBC)",
+      "Consistent sustained CPU/GPU performance (NBC pro on the platform)",
+      "180-degree hinge and decent battery life for a gaming laptop (NBC)",
+      "8GB GDDR7 VRAM matches the pricier 5070 tier"
+    ],
+    "complaints": [
+      "RTX 5050 is the weakest Blackwell part — a big gaming step down from the 5060/5070 tiers for little savings at full price",
+      "Retailer lists a WUXGA (1920x1200) panel on this tier — dimmer/lower-res than the NBC-tested WQXGA",
+      "Very loud fan under load (NBC platform con)",
+      "Screen bleeding and plastic chassis feel (NBC cons)",
+      "No Thunderbolt/USB4; marketplace seller adds return-policy risk"
+    ]
+  },
+  "design_philosophy": "The entry tier of Gigabyte's value-first Gaming A16 line: same plastic-but-solid 16-inch chassis and upgradeable interior as the reviewed model, with the money saved on the GPU (RTX 5050) and a lower-resolution WUXGA panel. It exists to undercut every other current-gen gaming laptop at Canadian big-box retail.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 7.5,
+    "screen_quality": 5.5,
+    "readability_dark": 5.5,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 5,
+    "productivity": 6.5,
+    "portability": 6.5,
+    "build_quality": 6,
+    "thermals_noise": 6,
+    "port_connectivity": 6,
+    "creative_work": 5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 6,
+    "upgradability": 8.5,
+    "ai_ml": 4.5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 6
+  },
+  "rating_notes": "Ratings inferred from NBC's Gaming A16 GA6H review (80%, i7-13620H/RTX 5070/WQXGA) with deltas: RTX 5050 vs 5070 -> gaming -2.0, creative_work -1.0, ai_ml -1.0; WUXGA 1200p panel per retailer -> screen_quality -1.0; lower GPU load -> battery +0.5, thermals +0.5. Panel specs (WUXGA) are retailer-stated, not review-verified. BBY per-SKU reviews unavailable — sentiment review-grounded synthesis.",
+  "standouts": [
+    "Cheapest current-gen RTX gaming laptop at BBY CA ($2,050 sale)"
+  ],
+  "dealbreakers": [
+    "Weakest GPU in the line — the $70-more 5060 tier is far better for gaming"
+  ]
+}

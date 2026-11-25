@@ -1,0 +1,117 @@
+{
+  "id": "pred-helios18-275hx-5090-64-4tb",
+  "line": "Acer Predator Helios 18 AI (2025, PH18-73)",
+  "config_name": "Predator Helios 18 — Ultra 9 275HX / RTX 5090 24GB, 64GB DDR5, 4TB SSD, 18\" WQXGA 120Hz",
+  "tier": "Flagship",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5090 Laptop 24GB GDDR7 (Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "DDR5 SODIMM, 4 slots (upgradeable)",
+    "storage_gb": 4000,
+    "storage_type": "NVMe M.2 (3 SSD slots)",
+    "screen_size_in": 18,
+    "display_type": "IPS/mini-LED per SKU listing — BBY lists 120Hz panel for this tier",
+    "resolution": "2560x1600",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 3.495,
+    "ports": "4x USB-A, 2x USB-C (TB5/DP), HDMI, RJ-45 2.5G/5G, SD reader, 3.5mm",
+    "wireless": "Wi-Fi 7 (Killer BE1750x), BT 5.4",
+    "webcam": "FHD 1080p",
+    "speakers": "6-speaker",
+    "keyboard_notes": "Chiclet per-key RGB",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 4,
+    "notes": "99 Wh; 5090 tier draws more under load — shortest battery of the Helios 18 family."
+  },
+  "price": {
+    "cad": 6499.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca (marketplace)",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20196209",
+    "confidence": "verified",
+    "notes": "BBY CA verified 2026-11-24: reg $6,999, sale $6,499.99. Marketplace seller — fulfillment/return-policy risk. Odd spec: this top GPU tier ships with a 120Hz panel (per BBY listing) while cheaper tiers get 240-250Hz.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20196209",
+        "cad": 6499.99,
+        "est": false,
+        "name": "Acer Predator Helios 18\" 120Hz (Intel Core Ultra 9-275HX/64GB RAM/4.0TB SSD/RTX5090/Win11) - Brand New"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20196/20196209.jpeg",
+  "professional": {
+    "avg_score": 8.9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (sibling 5080 config)",
+        "score": "89%",
+        "url": "https://www.notebookcheck.net/Acer-Predator-Helios-18-AI-review-Finally-a-quieter-gaming-laptop-but-at-what-cost.1054468.0.html",
+        "quote": "The system's excellent upgrade options—4 RAM slots and 3 SSD slots—along with a high-quality mini LED panel and fast Wi-Fi 7, remain clear highlights."
+      },
+      {
+        "outlet": "TechRadar (tested 5090 config)",
+        "score": "no numeric score found",
+        "url": "https://www.techradar.com/computing/gaming-laptops/acer-predator-helios-18-ai-review",
+        "quote": "The Acer Predator Helios 18 AI might be better characterized as a state-of-the-art concept rather than an actual consumer product: a showcase for what's possible in today's gaming laptops rather than a realistic purchase."
+      }
+    ],
+    "note": "TechRadar tested a 5090-equipped Helios 18 AI (4K/192GB variant) — quote applies to this GPU tier; no numeric score rendered in fetched page. Ratings anchored on NBC's 89% 5080 review per SHARED file."
+  },
+  "user_sentiment": {
+    "praises": [
+      "RTX 5090 with 24GB VRAM — the only Predator under $7k with the top Blackwell GPU at 64GB system RAM",
+      "Serious local-AI machine: 24GB VRAM runs 30B-class models at usable context with CUDA",
+      "Same superb Helios 18 chassis: 4 RAM/3 SSD slots, TB5, Wi-Fi 7, 6-speaker",
+      "$6,500 sale is well under US MSRP-class pricing for 5090/64/4TB configurations",
+      "120Hz panel is less glossy/aggressive than fast panels and fine at 4K-class rendering"
+    ],
+    "complaints": [
+      "120Hz panel on the most expensive tier is an odd mismatch — cheaper tiers run 240-250Hz",
+      "NBC found the 18\" chassis limits GPU uplift: Performance mode runs below class average, Turbo is loud",
+      "3.5 kg + 400W brick; TechRadar: \"barely portable\"",
+      "NBC: SSD throttles under prolonged load, lid hinge closes too easily, 5GHz Wi-Fi slow",
+      "Marketplace seller at $6.5k — buyer assumes return-policy risk at flagship money"
+    ]
+  },
+  "design_philosophy": "The halo spec of the Helios 18 line: maximum GPU and memory behind Acer's big chassis, aimed at buyers who treat a laptop as a mobile workstation/desktop hybrid. The 120Hz panel choice signals its priority — raw compute and VRAM over esports refresh — even if TechRadar's verdict (a concept showcase more than a purchase) applies most at exactly this price.",
+  "ratings": {
+    "battery": 4,
+    "screen_size": 9,
+    "screen_quality": 7.5,
+    "readability_dark": 7,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 9.5,
+    "productivity": 9,
+    "portability": 2.5,
+    "build_quality": 8,
+    "thermals_noise": 6,
+    "port_connectivity": 9,
+    "creative_work": 8,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 7,
+    "upgradability": 9,
+    "ai_ml": 9,
+    "pen_touch": 0,
+    "repairability_service": 7.5,
+    "durability": 7
+  },
+  "rating_notes": "Inferred from NBC 89% 5080 anchor per SHARED-predator.md: gaming +0.5 for 5090 (kept modest — NBC found the 18\" chassis/power limits blunt top-GPU uplift), ai_ml +1.5 for 24GB VRAM, productivity +0.5 for 64GB, battery -0.5 for higher GPU draw, screen_quality/refresh down for the 120Hz panel this tier ships with (disclosed). Marketplace caveat in price.notes."
+}

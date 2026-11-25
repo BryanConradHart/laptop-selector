@@ -1,0 +1,109 @@
+{
+  "id": "yp7i-g11-u9-64-2tb-oled-5060",
+  "line": "Lenovo Yoga Pro 7i Aura Edition Gen 11 (15\" Intel, 2026)",
+  "config_name": "Yoga Pro 7i Aura Edition Gen 11 — Core Ultra 9 386H, RTX 5060 8GB, 64GB LPDDR5X, 2TB SSD, 15\" 2.8K OLED touch 120Hz",
+  "tier": "High",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 386H (Panther Lake, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7",
+    "gpu_type": "dedicated",
+    "ram_gb": 64,
+    "ram_type": "LPDDR5X dual channel soldered",
+    "storage_gb": 2000,
+    "storage_type": "M.2 PCIe Gen4 NVMe",
+    "screen_size_in": 15,
+    "display_type": "OLED touchscreen, 1100 nits peak HDR / 500 nits SDR, 16:10",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1100,
+    "weight_kg": 1.55,
+    "ports": "2x Thunderbolt 4, 1x USB-A, HDMI, SD reader, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "4-speaker array",
+    "keyboard_notes": "Yoga creator keyboard, backlit",
+    "pen_support": "touchscreen (pen input supported)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 13,
+    "real_world_hours": 8.5,
+    "notes": "84Wh (VERIFIED). Top CPU/GPU tier shaves light-use runtime slightly."
+  },
+  "price": {
+    "cad": 3619,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7i-gen-11-aura-edition-15-inch-intel/len101y0068",
+    "confidence": "verified",
+    "notes": "$3,619.99 CAD from ld+json on lenovo.com/ca PDP (VERIFIED, InStock) — the price attached to the top listed config of this line; treated as this max config. Lenovo runs eCoupons that can discount heavily.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7i-gen-11-aura-edition-15-inch-intel/len101y0068",
+        "cad": 3619,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7i-gen-11-aura-edition-15-inch-intel/len101y0068"
+  },
+  "image_url": "https://p4-ofp.static.pub/ShareResource/optimized/pdp/yoga/yoga-pro-series/len101y0068/lenovo-yoga-pro-7i-gen-11-aura-edition-15-intel-hero.png",
+  "professional": {
+    "avg_score": 8.4,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.6/10 (sibling line)",
+        "url": "https://www.cnet.com/tech/computing/",
+        "quote": "Centered around a gorgeous 16-inch OLED display, this Yoga laptop provides the performance and build that graphics pros demand."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "64GB + RTX 5060 in a 1.55kg 15-inch chassis is close to a mobile workstation without the weight",
+      "Panther Lake Ultra 9 386H sustains boosts well thanks to the 15-inch cooling headroom",
+      "2TB Gen4 SSD + SD reader suits full-time photographers",
+      "Touch OLED + pen works well for Lightroom retouching on the couch",
+      "84Wh battery still clears a full workday of light use"
+    ],
+    "complaints": [
+      "$3,619 list price before eCoupons — approaches gaming-laptop money for a 15-inch creator machine",
+      "RTX 5060 is power-limited in this thin chassis; a Legion does more for less raw performance/$",
+      "Soldered RAM/storage ceiling; nothing user-serviceable",
+      "Glossy touch OLED reflects overhead light",
+      "Tinny speakers relative to price (pattern across Yoga line per CNET)"
+    ]
+  },
+  "design_philosophy": "The top of the 15-inch Pro 7i line: every option Lenovo offers — Ultra 9, RTX 5060, 64GB, 2TB — for creators who want Pro 9i-class internals in the more portable 15-inch Aura Edition body.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 8,
+    "screen_quality": 8.8,
+    "readability_dark": 8.8,
+    "readability_bright": 7.8,
+    "ecosystem": 9,
+    "gaming": 6.5,
+    "productivity": 9,
+    "portability": 7.2,
+    "build_quality": 8.8,
+    "thermals_noise": 7.2,
+    "port_connectivity": 8,
+    "creative_work": 8.8,
+    "keyboard_trackpad": 7.2,
+    "webcam_speakers": 6,
+    "upgradability": 3,
+    "ai_ml": 7.2,
+    "pen_touch": 6.5,
+    "repairability_service": 5,
+    "durability": 7.5
+  },
+  "rating_notes": "Same anchor as sibling 23.json (Pro 9i CNET review, cross-config inference): +GPU/CPU/RAM tiers → gaming +0.5, productivity +0.5, ai_ml +0.7, creative_work +0.6; battery −0.3 for heavier silicon. Price VERIFIED via ld+json."
+}

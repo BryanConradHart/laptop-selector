@@ -1,0 +1,110 @@
+{
+  "id": "msi-vector-16-hx-ai-5070ti-255hx-16-1tb-fhd144",
+  "line": "MSI Vector 16 HX AI (2025, A2XWHG)",
+  "config_name": "Vector 16 HX AI — Core Ultra 7 255HX, RTX 5070 Ti 12GB, 16GB DDR5, 1TB SSD, 16\" FHD+ 144Hz",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": false,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 255HX (Arrow Lake-HX, 20-core: 8P+12E, 80W PL1 sustained)",
+    "cpu_cores": 20,
+    "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop 12GB GDDR7 (Thunderbolt 5 platform, MUX + Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 16,
+    "ram_type": "DDR5-5600 SODIMM (2 slots, user-upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe Gen4 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "IPS, anti-glare, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 144,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": 0,
+    "weight_kg": 2.7,
+    "ports": "2x Thunderbolt 5 (USB-C), 3x USB-A, HDMI 2.1, 2.5G Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p with privacy shutter",
+    "speakers": "2-speaker",
+    "keyboard_notes": "24-zone RGB backlit, per-key-look layout, numpad; unconventional MSI layout",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 4.5,
+    "notes": "90 Wh cell (NBC). Full NBC battery section not captured; 4-5h light use estimated for Arrow Lake-HX + 5070 Ti class — estimated."
+  },
+  "price": {
+    "cad": 2499.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20074106",
+    "confidence": "verified",
+    "notes": "BBY sku 20074106, $2,499.99 sale / $2,699.99 reg, verified 2026-11-24, direct-sold MSI. Closest CA config to the NBC-tested A2XWHG(074) (tested unit had 512GB SSD + WQXGA 240Hz panel; CA tier has 1TB FHD+ 144Hz).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20074106",
+        "cad": 2499.99,
+        "est": false,
+        "name": "MSI Vector 16 HX AI 16\" 144Hz Gaming Laptop - Intel Core Ultra7-255HX - 16GB RAM - 1TB SSD - GeForce RTX 5070TI - Cosmo Gray"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20074/20074106.jpg",
+  "professional": {
+    "avg_score": 8.4,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "84%",
+        "url": "https://www.notebookcheck.net/MSI-Vector-16-HX-AI-review-A-feature-rich-gaming-laptop-powered-by-RTX-5070-Ti.1039895.0.html",
+        "quote": "At first glance, MSI scores highly with the Vector 16 HX AI. ... What we found most frustrating, however, was the suboptimal fan control. In AI mode, the Vector 16 remains clearly audible even when idle. Taken as a whole, this 16-inch machine still earns a solid overall rating, though it falls just short of a 'Very Good'."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "RTX 5070 Ti + 255HX at ~$2,500 CAD is the cheapest 5070 Ti tier in Canada — standout price/perf (r/MSILaptops: \"I have zero complaints on mine. So far has been an absolute unit\")",
+      "Two Thunderbolt 5 ports + 2.5G Ethernet — docking/connectivity well above price class (NBC: \"standout features is the abundant connectivity\")",
+      "Sturdy chassis with two M.2 and two SO-DIMM slots — easy RAM/storage upgrades (NBC pros)",
+      "Consistent CPU and GPU performance: 255HX holds its 80W PL1 sustained (NBC)",
+      "1080p webcam with physical privacy shutter; 90Wh battery for the class (NBC pros)"
+    ],
+    "complaints": [
+      "Fan is clearly audible even at idle in AI mode — suboptimal fan control out of the box (NBC + Reddit owners agree)",
+      "Large, heavy power brick \"more appropriate for an RTX 5080 or 5090\" (NBC)",
+      "Unconventional keyboard layout takes getting used to (NBC)",
+      "Limited display opening angle and bulky rear section (NBC)",
+      "Awkward maintenance access and MSI Center bloat preinstalled (NBC + MSI-line user theme)"
+    ]
+  },
+  "design_philosophy": "The Vector line is MSI's performance-first flagship-below-Raider: last-gen-class silicon and understated Cosmo Grey styling traded for the highest GPU wattage and port count per dollar. This tier pairs the Arrow Lake-HX 255HX with a full-power RTX 5070 Ti at the cheapest Canadian 5070 Ti price, with the FHD+ 144Hz panel as the cost concession.",
+  "ratings": {
+    "battery": 5,
+    "screen_size": 8,
+    "screen_quality": 6,
+    "readability_dark": 6,
+    "readability_bright": 5.5,
+    "ecosystem": 9.5,
+    "gaming": 8.5,
+    "productivity": 8,
+    "portability": 4,
+    "build_quality": 7.5,
+    "thermals_noise": 6,
+    "port_connectivity": 9,
+    "creative_work": 7,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 6,
+    "upgradability": 8.5,
+    "ai_ml": 7,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 7
+  },
+  "rating_notes": "Anchor config class for the line (NBC 84%, tested A2XWHG 255HX/5070 Ti). FHD+ 144Hz panel is dimmer/less sharp than the NBC-tested WQXGA 240Hz near-full-DCI-P3 panel: screen_quality 6.0 vs ~7.5 on the QHD+ tier (per SHARED-msi-katana-vector.md). Battery real-world estimated (NBC battery data not captured). Owners rate the line slightly better than NBC's 84%."
+}

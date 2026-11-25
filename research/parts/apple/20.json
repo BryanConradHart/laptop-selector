@@ -1,0 +1,115 @@
+{
+  "id": "mbp16-m5pro-24-2tb",
+  "line": "Apple MacBook Pro 16-inch (2026, M5 Pro)",
+  "config_name": "MacBook Pro 16-inch — M5 Pro 18-core CPU / 20-core GPU, 24GB RAM, 2TB SSD",
+  "tier": "High",
+  "category": "apple",
+  "ecosystem": "macOS",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M5 Pro (18-core: 5 super + 13 performance)",
+    "cpu_cores": 18,
+    "gpu": "Apple M5 Pro 20-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 24,
+    "ram_type": "unified/soldered",
+    "storage_gb": 2000,
+    "storage_type": "NVMe soldered (PCIe 5.0)",
+    "screen_size_in": 16.2,
+    "display_type": "Mini-LED IPS (Liquid Retina XDR)",
+    "resolution": "3456x2234",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 1000,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 2.14,
+    "ports": "3x TB5/USB-C, HDMI, SDXC, MagSafe 3, 3.5mm",
+    "wireless": "Wi-Fi 7 (Apple N1), BT 6",
+    "webcam": "12MP Center Stage",
+    "speakers": "6-speaker",
+    "keyboard_notes": "Magic Keyboard, Touch ID, Force Touch trackpad",
+    "pen_support": "none",
+    "os": "macOS Tahoe 26"
+  },
+  "battery": {
+    "claimed_hours": 24,
+    "real_world_hours": 13.5,
+    "notes": "100Wh; 140W adapter. Storage tier does not materially change runtime."
+  },
+  "price": {
+    "cad": 4949,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/16-inch",
+    "confidence": "verified",
+    "notes": "Verified on apple.com/ca buy page; 1→2TB is +$750 (see research/parts/apple/NOTES.md).",
+    "offers": [
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/16-inch",
+        "cad": 4949,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/16-inch"
+  },
+  "image_url": "https://www.apple.com/v/macbook-pro/specs/e/images/specs/16-inch/macbook_pro_16_inch__cqvg4x5ohjv6_large.jpg",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "92.3% Editor's Choice",
+        "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-16-2026-Review-M5-Pro-makes-one-of-the-best-multimedia-laptops-even-better.1245523.0.html",
+        "quote": "Apple also includes Wi-Fi 7 as well as much faster PCIe 5.0 SSDs."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.2/10",
+        "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-16-m5-2026",
+        "quote": "premium workstation laptop designed for creative and professional work"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "2TB of PCIe 5.0 flash keeps full 8K/RAW libraries local at fast speeds (NBC SSD benchmarks)",
+      "M5 Pro runs at full sustained power in this chassis — no throttling (NBC)",
+      "Thunderbolt 5 for docks and external arrays (NBC)",
+      "Best laptop display and speakers Apple makes, matte option available (NBC)",
+      "Very quiet even during long exports (NBC)"
+    ],
+    "complaints": [
+      "+$750 CAD per terabyte — memory and SSD upgrades are more expensive than ever (NBC and Tom's Hardware)",
+      "Prices are still high, especially when you add upgrades (NBC con)",
+      "Still no SD Express support in the card reader (NBC con)",
+      "Battery runtime slightly below the M4 Pro generation (NBC)",
+      "Soldered RAM/SSD: capacity must be bought up front, and 2.14 kg is a commute tax"
+    ]
+  },
+  "design_philosophy": "The capacity tier of the sensible 16-inch: the same full-power M5 Pro with double the soldered storage for creators who live in Resolve, Lightroom, and Xcode. It's the desk-first workstation build before you start paying for Max-tier graphics.",
+  "ratings": {
+    "battery": 9,
+    "screen_size": 8.5,
+    "screen_quality": 9.3,
+    "readability_dark": 9,
+    "readability_bright": 8.5,
+    "ecosystem": 9.5,
+    "gaming": 4.2,
+    "productivity": 9.4,
+    "portability": 6.5,
+    "build_quality": 9.5,
+    "thermals_noise": 9.2,
+    "port_connectivity": 7,
+    "creative_work": 9,
+    "keyboard_trackpad": 9.2,
+    "webcam_speakers": 8.5,
+    "upgradability": 1,
+    "ai_ml": 7.2,
+    "pen_touch": 0,
+    "repairability_service": 4,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings inferred from NBC's directly tested 16-inch M5 Pro 1TB config (92.3%): +0.2 creative_work for the 2TB working-library capacity. Sentiment synthesized from pro reviews — Reddit API blocked (403)."
+}

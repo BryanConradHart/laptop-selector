@@ -1,0 +1,116 @@
+{
+  "id": "fw16-diy-ai7-32-1tb-shell",
+  "line": "Framework Laptop 16 (2025, AMD Ryzen AI 300 Series, DIY Edition)",
+  "config_name": "Laptop 16 DIY — Ryzen AI 7 350, 32GB DDR5 (2x16GB), 1TB NVMe, Expansion Bay shell (no dGPU)",
+  "tier": "Mid",
+  "category": "ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "specs": {
+    "cpu": "AMD Ryzen AI 7 350 (8-core/16-thread Zen 5/5c, up to 5.0GHz)",
+    "cpu_cores": 8,
+    "gpu": "Radeon 860M integrated (RDNA 3.5); Expansion Bay empty (dGPU module optional later)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600 2x SO-DIMM (user-upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "2x M.2 2280 NVMe slots (user-replaceable)",
+    "screen_size_in": 16,
+    "display_type": "IPS matte 16:10, 165Hz",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.1,
+    "ports": "6x user-swappable Expansion Card slots (USB-C/USB-A/HDMI/DP/Ethernet/microSD/storage; cards sold separately) + Expansion Bay (shell fitted), 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + hardware privacy switches",
+    "speakers": "6-speaker system with subwoofer (upgradeable module)",
+    "keyboard_notes": "Full-size backlit with numpad option; replaceable assembly",
+    "pen_support": "none",
+    "os": "None (DIY — bring your own; Windows or Linux)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 8,
+    "notes": "85Wh. Users report ~7-9h light use without dGPU; 165Hz panel costs some runtime."
+  },
+  "price": {
+    "cad": 3228,
+    "currency": "CAD",
+    "store": "frame.work/ca",
+    "store_url": "https://frame.work/ca/en/products/laptop16-diy-amd-ai300/configuration/new",
+    "confidence": "estimated",
+    "notes": "Configurator component sum (2026-11-24): AI 7 350 base $2,178 + 32GB +$750 (assumed same as FW13) + 1TB +$300. Excludes 6 expansion cards + OS. Sold via pre-order batches (most sold out; Batch 9 ships Dec) — fulfillment delay is a real caveat.",
+    "offers": [
+      {
+        "store": "frame.work/ca",
+        "url": "https://frame.work/ca/en/products/laptop16-diy-amd-ai300/configuration/new",
+        "cad": 3228,
+        "est": true
+      }
+    ],
+    "official_url": "https://frame.work/ca/en/products/laptop16-diy-amd-ai300/configuration/new"
+  },
+  "image_url": "https://static.frame.work/iw2jmu0d8unt7pl98kqjst48o7h6",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "iFixit",
+        "score": "10/10 repairability (Framework platform)",
+        "url": "https://www.ifixit.com/Teardown/Framework+Laptop+13+Teardown",
+        "quote": "first laptop ever to earn a 10/10 repairability score"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Only mainstream laptop where the GPU is a swappable module — buy the shell now, add a dGPU years later",
+      "Expansion Bay shell keeps it thin and light; configurator calls it \"The default thin and light end cap for the Expansion Bay interface that includes system cooling\"",
+      "Six expansion-card slots — more port variety than any 16-inch ultrabook",
+      "Socketed RAM, dual M.2 slots, and every module sold as a documented self-service spare",
+      "165Hz matte 16-inch panel is smooth and glare-free; big speakers for the class"
+    ],
+    "complaints": [
+      "Pre-order batch system: nearly all batches sold out, shipping slips to December/Q1 — top FW16 complaint",
+      "2.1kg and thick bezels make it the least portable 16-inch ultrabook",
+      "Six expansion cards (~$15-36 each) are required for a complete machine but cost extra",
+      "Without the dGPU module, gaming is just an iGPU in a big chassis",
+      "No numeric pro review coverage of the AI 300 FW16 tier found this pass"
+    ]
+  },
+  "design_philosophy": "Framework Laptop 16 extends the modular platform to the desktop-replacement class: a hot-upgradeable Expansion Bay for swappable dGPU modules, six user-chosen ports, and full self-service internals. The shell (no-dGPU) config is the price- and weight-conscious entry — the bay means discrete graphics is a future purchase, not a today tax.",
+  "standouts": [
+    "Expansion Bay means discrete GPU is a future slide-in purchase, not a today tax",
+    "6 expansion-card slots + dual M.2 + socketed RAM: most modular 16-inch on the market"
+  ],
+  "dealbreakers": [
+    "Pre-order batch system — most batches sold out, shipping December/Q1"
+  ],
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 8.5,
+    "screen_quality": 7,
+    "readability_dark": 7,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 8,
+    "portability": 5.5,
+    "build_quality": 7.5,
+    "thermals_noise": 7.5,
+    "port_connectivity": 9,
+    "creative_work": 6,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 6,
+    "upgradability": 10,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 10,
+    "durability": 7.5
+  },
+  "rating_notes": "See SHARED-framework.md. No pro review with numeric score found for FW16 AI 300 (honest null). Ratings inferred from FW13 AI 300 anchor per SHARED calibration: +2.5 screen_size, −3 portability (2.1kg), −0.5 battery, +0.5 port_connectivity (6 slots), +1 webcam_speakers (6-speaker + sub). dGPU upgrade path noted but not banked into gaming (shell config = iGPU).",
+  "inferred": true
+}

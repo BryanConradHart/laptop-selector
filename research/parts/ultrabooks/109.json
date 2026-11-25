@@ -1,0 +1,104 @@
+{
+  "id": "gb4-156-core7-150u-16-512",
+  "line": "Samsung Galaxy Book4 15.6 (prev-gen clearance)",
+  "config_name": "Galaxy Book4 15.6 — Intel Core 7 150U (Raptor Lake), Iris Xe, 16GB, 512GB, 15.6\" FHD IPS",
+  "tier": "Entry",
+  "category": "ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2024",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 7 150U (Raptor Lake refresh)",
+    "cpu_cores": 10,
+    "gpu": "Intel Iris Xe (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5 soldered",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 15.6,
+    "display_type": "IPS non-touch",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.6,
+    "ports": "USB-C, 2x USB-A, HDMI, microSD, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "FHD",
+    "speakers": "stereo",
+    "keyboard_notes": "backlit, numeric keypad",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 13,
+    "real_world_hours": 8.5,
+    "notes": "Raptor Lake U is the least efficient chip in this lineup; ~8-9h light use."
+  },
+  "price": {
+    "cad": 1199,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/18904449",
+    "confidence": "verified",
+    "notes": "Reg $1,729 / clearance $1,199 (BBY-verified 2026-11-24). Notable prev-gen value pick at this price. SKU 18904449.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/18904449",
+        "cad": 1199,
+        "est": false,
+        "name": "Samsung Galaxy Book 4 15.6\" FHD Intel Core 7 150U 16GB 512GB Windows 11 Silver"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/189/18904/18904449.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "Book4 15.6 150U SKU not individually reviewed by major outlets; NBC/RTINGS bot-walled this pass (see SHARED-galaxy-book.md). Honest null."
+  },
+  "user_sentiment": {
+    "praises": [
+      "$1,199 clearance for a 15.6\" 16GB/512GB name-brand laptop — strong budget-office value at BBY",
+      "Core 7 150U (10-core) handles everyday multitasking fine and stays quiet",
+      "Numeric keypad and big screen for spreadsheets at an entry price",
+      "Slim ~1.6 kg chassis for a 15.6-incher, decent build for the price",
+      "Galaxy Quick Share / phone link features retained from the premium lines"
+    ],
+    "complaints": [
+      "2024 Raptor Lake platform — no NPU, not Copilot+, aging quickly",
+      "Dim 300-nit FHD 16:9 IPS panel, 60 Hz, non-touch",
+      "Iris Xe struggles with anything beyond casual games",
+      "Samsung bloatware heavier on the budget SKUs",
+      "Coil-whine reports on the bundled charger across the Book4 line"
+    ]
+  },
+  "design_philosophy": "The Book4 15.6 is the outgoing mainstream tier — Raptor Lake U silicon, a big boring FHD screen, and everything a home office needs without a single premium flourish. At $1,199 clearance it becomes exactly what Samsung's 15.6 line has always been for: an unexciting, comfortable, big-keyboard value machine, and the notable prev-gen pick of the CA Galaxy Book range.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 8,
+    "screen_quality": 4,
+    "readability_dark": 4.5,
+    "readability_bright": 4,
+    "ecosystem": 8.5,
+    "gaming": 2,
+    "productivity": 6,
+    "portability": 6.5,
+    "build_quality": 6.5,
+    "thermals_noise": 8,
+    "port_connectivity": 7,
+    "creative_work": 3,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 5,
+    "upgradability": 2.5,
+    "ai_ml": 1.5,
+    "pen_touch": 0,
+    "repairability_service": 3.5,
+    "durability": 5
+  },
+  "rating_notes": "Synthesized per SHARED-galaxy-book.md (honest null on pro coverage). vs Book5 15.6: older Raptor Lake = −1 battery, ai_ml 1.5 (no NPU), similar everything else; clearance price is its whole story. Image URL best-guess BBY CDN pattern."
+}

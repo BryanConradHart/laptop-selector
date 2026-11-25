@@ -1,0 +1,122 @@
+{
+  "id": "gigabyte-aero-x16-ryzen-ai-7-350-5070-32-1tb",
+  "line": "Gigabyte AERO X16 (1WH, 2025)",
+  "config_name": "Gigabyte AERO X16 — Ryzen AI 7 350 / RTX 5070, 32GB RAM, 1TB SSD",
+  "tier": "Mid",
+  "category": "creator",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-04",
+  "inferred": false,
+  "specs": {
+    "cpu": "AMD Ryzen AI 7 350 (8-core: 4 Zen 5 + 4 Zen 5c, Krackan Point)",
+    "cpu_cores": 8,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7 (85W + 15W Dynamic Boost, MUX switch)",
+    "gpu_type": "dedicated",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600 (2 SO-DIMM slots, max 64GB)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 2280 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "Matte IPS (AUO MNG007DA5-1), no PWM",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 350,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.95,
+    "ports": "1x USB4 40Gbps (PD), 2x USB-A 3.0, 1x USB 2.0, HDMI, gigabit Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 6E (Realtek RTL8852CE), BT 5.2",
+    "webcam": "1080p (weak per NBC)",
+    "speakers": "Stereo",
+    "keyboard_notes": "Comfortable chiclet keyboard (NBC: 'highly comfortable'), backlit",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 7.5,
+    "notes": "76Wh + efficient Zen 5 Krackan Point; NBC found the package efficient — ~7-8h light use est."
+  },
+  "price": {
+    "cad": 2884.66,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/p/20256721",
+    "confidence": "verified",
+    "notes": "BBY API-verified 2026-11-24 (Black Friday window), SKU 20256721, reg $3,784.66 / sale $2,884.66. Marketplace seller — third-party fulfillment/return risk, inflated 'reg' anchor. Matches NBC's tested configuration exactly (Ryzen AI 7 350 / RTX 5070 / 32GB / 1TB).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/p/20256721",
+        "cad": 2884.66,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20256/20256721.jpeg",
+  "professional": {
+    "avg_score": 84,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "84%",
+        "url": "https://www.notebookcheck.net/Gigabyte-Aero-X16-Review-Sleek-AMD-Zen-5-gaming-machine-with-Nvidia-RTX-5070-Laptop-and-upgradeable-RAM.1022304.0.html",
+        "quote": "Together with the AMD processor, this results in an efficient package and many games can also be played smoothly in QHD resolution."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": "84%",
+        "url": "https://www.notebookcheck.net/Gigabyte-Aero-X16-Review-Sleek-AMD-Zen-5-gaming-machine-with-Nvidia-RTX-5070-Laptop-and-upgradeable-RAM.1022304.0.html",
+        "quote": "The matte IPS display with a 165 Hz refresh rate cannot match up to the brilliance of OLEDs, but the overall picture quality is subjectively good with decent measured values. The display is also suitable for image editing in the sRGB color space without any problems."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Sturdy slim housing and a 'highly comfortable keyboard' (NBC pros)",
+      "Expandable RAM to 64GB + two M.2-2280 SSD slots — rare creator-laptop serviceability (NBC pro)",
+      "Efficient Zen 5 package with Copilot+ 50-TOPS NPU; good battery for a GPU laptop",
+      "Matte 165Hz IPS with no PWM flicker, fine for sRGB photo work (NBC)",
+      "USB4 port + MUX switch; ~$2,885 sale undercuts most Ryzen AI + 5070 machines"
+    ],
+    "complaints": [
+      "RTX 5070 barely beats last-gen RTX 4070 and 8GB VRAM 'becomes increasingly problematic' in demanding titles (NBC)",
+      "Loud fans during gaming (NBC con)",
+      "Weak 1080p webcam (NBC con)",
+      "No Wi-Fi 7, no PCIe Gen5, and a 'lame USB 2.0 port' survives on the deck (NBC)",
+      "Plastic chassis attracts fingerprints; port distribution along the front edges is awkward (NBC)"
+    ]
+  },
+  "design_philosophy": "The AERO X16 is Gigabyte's creator-styled sibling of the Gaming line: a slim 19.9mm all-round chassis in Lunar White/Space Grey with a Copilot+ Ryzen AI Zen 5 platform, a matte flicker-free 165Hz IPS that NBC found suitable for sRGB image editing, and unusually serviceable internals (RAM to 64GB, dual M.2). It trades gamer flash for creator portability and efficiency. This 32GB/1TB tier is exactly the configuration Notebookcheck reviewed at 84%.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 7.5,
+    "screen_quality": 7,
+    "readability_dark": 7,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 7,
+    "productivity": 8,
+    "portability": 7.5,
+    "build_quality": 6.5,
+    "thermals_noise": 5.5,
+    "port_connectivity": 6.5,
+    "creative_work": 7.5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 4.5,
+    "ai_ml": 6.5,
+    "pen_touch": 0,
+    "upgradability": 8.5,
+    "repairability_service": 8,
+    "durability": 6
+  },
+  "rating_notes": "Directly reviewed config (NBC 84%, exact spec match). No PWM + matte -> readability_dark 7.0; comfortable keyboard (NBC) -> keyboard_trackpad 7.5; weak 1080p webcam -> webcam_speakers 4.5; NPU 50 TOPS + CUDA -> ai_ml 6.5; sRGB-capable display + MUX + 8GB VRAM caps creative_work at 7.5. Marketplace listing (SKU 20256721) flagged in price.notes. BBY per-SKU customer reviews unavailable — sentiment is NBC-review-grounded synthesis.",
+  "standouts": [
+    "Exact NBC-reviewed 84% config at $2,885 sale",
+    "Copilot+ NPU + USB4 + upgradeable RAM/dual M.2 in a 1.95kg creator-styled chassis"
+  ],
+  "dealbreakers": [
+    "8GB VRAM on the RTX 5070 limits demanding creative/gaming workloads"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "nitro-v-15-r5-7535hs-8-rtx3050",
+  "line": "Acer Nitro V 15 (ANV15-41, entry gaming)",
+  "config_name": "Acer Nitro V 15.6\" 165Hz — Ryzen 5 7535HS, 8GB DDR5, 512GB SSD, RTX 3050 4GB, FHD IPS",
+  "tier": "Entry",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2024-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 5 7535HS (6-core/12-thread Zen 3, 3.3-4.55 GHz)",
+    "cpu_cores": 6,
+    "gpu": "NVIDIA GeForce RTX 3050 4GB (laptop, ~75W)",
+    "gpu_type": "dedicated",
+    "ram_gb": 8,
+    "ram_type": "DDR5 SO-DIMM",
+    "storage_gb": 512,
+    "storage_type": "NVMe M.2",
+    "screen_size_in": 15.6,
+    "display_type": "FHD IPS, 165 Hz (class-typical ~300 nits, ~62% sRGB)",
+    "resolution": "1920x1080",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 2.1,
+    "ports": "1x USB-C USB4 40Gbps (PD + DP), 3x USB-A 3.2 Gen1, HDMI 2.1, RJ-45 Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 6 (2x2), BT 5.1",
+    "webcam": "720p HD with blue-glass lens",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Bilingual CA chiclet with numpad, backlit",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 7.5,
+    "real_world_hours": 3.5,
+    "notes": "55 Wh 4-cell; dGPU laptop — ~3-4h light use, ~1.5h under load."
+  },
+  "price": {
+    "cad": 1399.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19274603",
+    "confidence": "verified",
+    "notes": "BF sale $1,099.95 — the cheapest dedicated-GPU gaming laptop in the dataset at sale.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19274603",
+        "cad": 1099.95,
+        "est": false,
+        "name": "Acer Nitro V 15.6\" 165Hz Gaming Laptop - AMD Ryzen 5 7535HS - 8GB DDR5 - 512GB SSD - RTX 3050 - Windows 11 - Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19274/19274603.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "At $1,099.95 sale it is the cheapest way into a real RTX GPU with a 165Hz IPS panel in Canada",
+      "USB4 40Gbps port with power delivery and HDMI 2.1 + RJ-45 Ethernet — port set of a $1,800 machine",
+      "Ryzen 5 7535HS is a proper 6C/12T gaming CPU and stays cool thanks to the dual-fan Nitro cooling",
+      "165Hz IPS panel is smooth and bright enough for its class",
+      "Backlit keyboard and 2x SO-DIMM + M.2 slots make it genuinely serviceable"
+    ],
+    "complaints": [
+      "8GB single-stick DDR5 cripples the RTX 3050 — single-channel memory costs 15-20% FPS out of the box",
+      "RTX 3050's 4GB VRAM chokes on 2025/2026 AAA titles at high settings; medium settings are the reality",
+      "Battery life is short (~3-4h) — normal for entry gaming but a shock coming from a thin-and-light",
+      "Plasticky chassis with a noticeable wobble; build is a step below LOQ/Legion",
+      "720p webcam and average speakers; fan curve is aggressive once gaming"
+    ]
+  },
+  "standouts": [
+    "Cheapest dedicated-GPU gaming entry in the dataset at sale ($1,099.95) with an unusually rich port set (USB4, HDMI 2.1, RJ-45)"
+  ],
+  "dealbreakers": [
+    "8GB single-channel RAM out of the box — budget the $25 second stick immediately or the RTX 3050 underperforms badly"
+  ],
+  "design_philosophy": "Acer's door into gaming: last-generation AMD CPU plus the oldest GPU still worth selling (RTX 3050), wrapped in the genuinely good Nitro V cooling and an over-spec port list (USB4, HDMI 2.1, Ethernet) that punches above the price. The single cost cut that actually matters is 8GB single-channel RAM — an intentional, fixable tax. Category-listed as budget because its sale price lands in the budget cart, but it is entry gaming, not an office laptop.",
+  "ratings": {
+    "battery": 3.5,
+    "screen_size": 7,
+    "screen_quality": 4.5,
+    "readability_dark": 4.5,
+    "readability_bright": 4.2,
+    "ecosystem": 9,
+    "gaming": 4.8,
+    "productivity": 5.8,
+    "portability": 3.8,
+    "build_quality": 5,
+    "thermals_noise": 6.5,
+    "port_connectivity": 7.5,
+    "creative_work": 3.5,
+    "keyboard_trackpad": 5.5,
+    "webcam_speakers": 4.2,
+    "upgradability": 6.5,
+    "ai_ml": 2.5,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4.5
+  },
+  "rating_notes": "No numeric pro score retrievable for the CA ANV15 SKU (bot-walls; see SHARED-budget-misc.md — family reputation ~7/10 equivalents). Platform-anchored: RTX 3050 4GB at FHD → gaming 4.8 with DLSS (4GB VRAM caps it; 8GB RAM single-channel shaves real FPS), CUDA/VRAM gives ai_ml 2.5. Battery 3.5 per entry-gaming norm (55 Wh + dGPU). Verified no duplicate of this config in research/parts/gaming/. Image URL best-guess BBY CDN pattern."
+}

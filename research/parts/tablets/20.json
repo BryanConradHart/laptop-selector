@@ -1,0 +1,116 @@
+{
+  "id": "ipad-air-13-m4-128",
+  "line": "Apple iPad Air 13-inch (M4, 2026)",
+  "config_name": "iPad Air 13-inch — M4 8-core CPU / 9-core GPU, 12GB RAM, 128GB SSD, 13\" Liquid Retina + Magic Keyboard",
+  "tier": "Entry",
+  "category": "tablets-ios-android",
+  "ecosystem": "iPadOS",
+  "form_factor": "tablet",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M4 (8-core: 3P+5E)",
+    "cpu_cores": 8,
+    "gpu": "Apple M4 9-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 12,
+    "ram_type": "unified/soldered LPDDR5X",
+    "storage_gb": 128,
+    "storage_type": "NVMe soldered",
+    "screen_size_in": 13,
+    "display_type": "Liquid Retina IPS LCD (fully laminated, anti-reflective, no ProMotion)",
+    "resolution": "2732x2048",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.616,
+    "ports": "1x USB-C (USB 3 10Gb/s, DisplayPort), magnetic Magic Keyboard connector, Smart Connector",
+    "wireless": "Wi-Fi 7 (2x2 MIMO), BT 6, Thread",
+    "webcam": "12MP landscape Center Stage front",
+    "speakers": "Landscape stereo (2-speaker)",
+    "keyboard_notes": "Magic Keyboard for iPad Air 13\" included in price: scissor keys with full function row (unlit), glass trackpad, cantilever hinge",
+    "pen_support": "Apple Pencil Pro +$168.99 (BBY sale; ~$199 Apple) — not included in total; Pencil USB-C +$99; hover supported",
+    "os": "iPadOS (Apple Intelligence supported)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 8.3,
+    "notes": "36.59Wh cell. Apple claims 10h web/video Wi-Fi (9h cellular); users report ~8-8.5h mixed real-world use."
+  },
+  "price": {
+    "cad": 1699,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/13-inch-display-128gb-space-grey-wifi",
+    "confidence": "verified",
+    "notes": "Tablet-only $1,299.00 (apple.com/ca, verified 2026-11-24) + Magic Keyboard Air 13\" $399.99 (BBY 19204078). Cellular variant +$200 ($1,499 tablet). Pencil Pro not included.",
+    "offers": [
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/13-inch-display-128gb-space-grey-wifi",
+        "cad": 1699,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/13-inch-display-128gb-space-grey-wifi"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19788/19788312.jpg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87%",
+        "url": "https://www.notebookcheck.net/The-fiercest-competitor-for-the-iPad-Pro-is-home-made-Apple-iPad-Air-13-M4-2026-tablet-review.1279201.0.html",
+        "quote": "The fiercest competitor for the iPad Pro is home-made. Pros: brute top performance, WiFi very fast, high-quality unibody chassis, USB-C with 10 GBit/s, two external displays possible, good color accuracy (PWM-free), well-balanced speakers, high recycled content. Cons: slow 60 Hz display, battery charging takes time, SoC throttles under sustained load. (NBC review of the iPad Air 13\" M4 2026; 11\" shares SoC and chassis design.)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest way into the 13\" M4 Air — same chip, 12GB RAM and chassis as every pricier tier (r/ipad)",
+      "13\" at 616g/6.1mm: the biggest usable canvas per gram of anything Apple sells",
+      "Air Magic Keyboard function row + glass trackpad make it a genuine laptop substitute for docs/email",
+      "Fanless silence with M4 burst performance that outruns most $1,700 ultrabooks in short tasks",
+      "Wi-Fi 7 and 6K@60 external display support future-proof the connection story"
+    ],
+    "complaints": [
+      "128GB is tight on a $1,300 tablet — users report it filling with one season of downloads plus a few pro apps",
+      "60Hz panel: no ProMotion at this price is the line's most repeated complaint",
+      "LCD blacks look grey in dark rooms vs any OLED",
+      "$399.99 Magic Keyboard has unlit keys",
+      "iPadOS desktop-app parity gap (no Xcode/full Excel macros) regardless of chip"
+    ]
+  },
+  "design_philosophy": "The Air line sells near-Pro hardware at a deliberate-cut price: M4-class speed, Pro chassis language, full accessory ecosystem — paid for with a 60Hz laminated LCD and USB-C 10Gb/s. This entry tier is the line's price-anchor: identical silicon to the top configs, with storage as the only sacrifice.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 7.5,
+    "screen_quality": 7.6,
+    "readability_dark": 6,
+    "readability_bright": 7.5,
+    "ecosystem": 6.5,
+    "gaming": 4.5,
+    "productivity": 6.8,
+    "portability": 8.4,
+    "build_quality": 9,
+    "thermals_noise": 9,
+    "port_connectivity": 5.5,
+    "creative_work": 7.3,
+    "keyboard_trackpad": 8,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 6.8,
+    "pen_touch": 9.3,
+    "repairability_service": 5,
+    "durability": 8
+  },
+  "rating_notes": "Pro score attached from NBC review of the iPad Air 13\" M4 2026 (87%, gap-fill 2026-11-24). Ratings inferred from the 13\" M4 256GB line anchor (SHARED-ipad-air.md): identical silicon/display; creative_work −0.3 for 128GB scratch/headroom friction. No verbatim pro score found (bot-walls) — disclosed, none invented. Ecosystem 6.5 per tablets-file rule. Battery on ~8.3h real use. Upgradability 1.0: soldered everything; 128GB makes external USB-C SSD storage a near-requirement for media users. Image URL is BBY CDN best guess (closest-SKU image).",
+  "standouts": [
+    "Lowest-cost 13\" M4 Air bundle with keyboard included",
+    "Same 12GB RAM and M4 as all pricier tiers — no performance tax at the entry tier"
+  ],
+  "dealbreakers": [
+    "128GB is uncomfortable for anyone shooting 4K video or installing several pro apps"
+  ]
+}

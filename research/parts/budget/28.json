@@ -1,0 +1,108 @@
+{
+  "id": "loq-essential-i5-12450hx-8-rtx3050",
+  "line": "Lenovo LOQ Essential 15 (entry gaming)",
+  "config_name": "Lenovo LOQ Essential 15.6\" 144Hz — Core i5-12450HX, 8GB RAM, 512GB SSD, RTX 3050 6GB, Luna Grey",
+  "tier": "Entry",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core i5-12450HX (8-core: 4P+4E, Alder Lake-HX, up to 4.4 GHz)",
+    "cpu_cores": 8,
+    "gpu": "NVIDIA GeForce RTX 3050 6GB (laptop)",
+    "gpu_type": "dedicated",
+    "ram_gb": 8,
+    "ram_type": "DDR4/DDR5 SO-DIMM (per chassis)",
+    "storage_gb": 512,
+    "storage_type": "NVMe M.2",
+    "screen_size_in": 15.6,
+    "display_type": "FHD 144Hz (panel type unstated; class-typical IPS ~300 nits)",
+    "resolution": "1920x1080",
+    "refresh_hz": 144,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.89,
+    "ports": "1x USB-C (DP + PD), 2x USB-A, HDMI 2.1, RJ-45 Ethernet, 3.5mm (LOQ Essential layout)",
+    "wireless": "Wi-Fi 6 (2x2)",
+    "webcam": "720p HD",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Bilingual CA chiclet with numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 3.5,
+    "notes": "~60 Wh class on LOQ Essential; HX CPU + dGPU → ~3-4h light use."
+  },
+  "price": {
+    "cad": 1499,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20106103",
+    "confidence": "verified",
+    "notes": "BF sale $1,248.00. Regular $1,499 is above the budget sweet spot; sale is the number to judge.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20106103",
+        "cad": 1248,
+        "est": false,
+        "name": "Lenovo LOQ Essential 15.6\" FHD Intel i5-12450HX GeForce RTX 3050 6 GB Laptop 8GB 512GB Windows 11 Home Laptop Luna Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20106/20106103.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "RTX 3050 with 6GB VRAM (not the 4GB variant) — noticeably more texture headroom than the cheapest gaming SKUs",
+      "Lenovo's LOQ build and keyboard feel a cut above the plasticky Acer Nitro V",
+      "i5-12450HX 8-core handles streaming-plus-gaming and general multitasking well",
+      "144Hz panel plus Ethernet port: proper gaming basics covered",
+      "Lenovo Vantage and Lenovo's Canadian warranty/support are better than the budget-class average"
+    ],
+    "complaints": [
+      "$1,499 regular for an RTX 3050 machine is steep — the sale $1,248 is the only honest price",
+      "8GB RAM out of the box limits both gaming FPS and everyday multitasking; an upgrade is mandatory",
+      "Alder Lake-HX (2022) is two generations old in a 2026 sale listing",
+      "Battery is short (~3-4h) and the chassis runs warm under load",
+      "720p webcam and no USB4 — connectivity lags the Nitro V at the same money"
+    ]
+  },
+  "standouts": [
+    "6GB RTX 3050 (not 4GB) plus Lenovo's better chassis/keyboard and support — the quality pick of the entry-gaming pair"
+  ],
+  "dealbreakers": [
+    "8GB RAM + two-year-old HX CPU at $1,499 regular: only the $1,248 sale makes it competitive with the Nitro V RTX 5050"
+  ],
+  "design_philosophy": "Lenovo's cost-reduced LOQ: keep the well-liked LOQ chassis, keyboard, and software stack, but fill it with older-generation parts — a 2022 Alder Lake-HX CPU and the 6GB refresh of the RTX 3050. The bet is brand trust and build feel over spec freshness. Category-listed as budget at its sale price, but it is entry gaming; at regular price the Nitro V RTX 5050 is the better machine.",
+  "ratings": {
+    "battery": 3.5,
+    "screen_size": 7,
+    "screen_quality": 4.4,
+    "readability_dark": 4.4,
+    "readability_bright": 4.1,
+    "ecosystem": 9,
+    "gaming": 5,
+    "productivity": 5.9,
+    "portability": 4,
+    "build_quality": 5.4,
+    "thermals_noise": 6.2,
+    "port_connectivity": 6.5,
+    "creative_work": 3.4,
+    "keyboard_trackpad": 6,
+    "webcam_speakers": 4.2,
+    "upgradability": 6.5,
+    "ai_ml": 2.6,
+    "pen_touch": 0,
+    "repairability_service": 6.2,
+    "durability": 4.8
+  },
+  "rating_notes": "No pro review found for this CA SKU (see SHARED-budget-misc.md); BBY spec field is nearly empty, so CPU/GPU/RAM come from the verified product name and LOQ Essential platform documentation. Anchored on the Nitro V RTX 3050 anchor (27.json): +0.2 gaming (6GB vs 4GB VRAM), +0.1 CPU-neutral, build/keyboard/service +0.4/+0.5/+0.7 for the Lenovo chassis and support reputation; port_connectivity lower (no USB4). Panel unstated — treated as class-typical IPS 144Hz per LOQ Essential line. Verified no duplicate LOQ entry in research/parts/gaming/. Image URL best-guess BBY CDN pattern."
+}

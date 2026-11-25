@@ -1,0 +1,109 @@
+{
+  "id": "ipad-pro-13-m5-2tb",
+  "line": "Apple iPad Pro 13-inch (M5, 2025)",
+  "config_name": "iPad Pro 13-inch — M5 (10-core CPU/10-core GPU), 16GB RAM, 2TB SSD, 13\" Ultra Retina XDR tandem OLED + Magic Keyboard",
+  "tier": "Top",
+  "category": "tablets-ios-android",
+  "ecosystem": "iPadOS",
+  "form_factor": "tablet",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M5 (10-core CPU)",
+    "cpu_cores": 10,
+    "gpu": "Apple M5 10-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "unified/soldered LPDDR5X",
+    "storage_gb": 2000,
+    "storage_type": "NVMe soldered",
+    "screen_size_in": 13,
+    "display_type": "Ultra Retina XDR tandem OLED (ProMotion)",
+    "resolution": "2420x1640",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 1000,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 0.58,
+    "ports": "1x Thunderbolt/USB 4, magnetic Magic Keyboard connector",
+    "wireless": "Wi-Fi 7, BT 5.3",
+    "webcam": "12MP landscape front camera",
+    "speakers": "4-speaker",
+    "keyboard_notes": "Magic Keyboard included in price: scissor keys (unlit), glass trackpad, cantilever hinge",
+    "pen_support": "Apple Pencil Pro +$168.99 (BBY sale; ~$199 Apple) — not included in total. Nano-texture glass option +$150.",
+    "os": "iPadOS 26 (current 27.x)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 8.5,
+    "notes": "Apple claims 10h web/video on Wi-Fi. Users report ~8-9h mixed real-world use."
+  },
+  "price": {
+    "cad": 4078,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-pro",
+    "confidence": "verified",
+    "notes": "Tablet-only $3,629 apple.com/ca (IPAD_LIST.md, verified 2026-11-24; BBY stocks 256/512/1TB tiers) + Magic Keyboard 13\" $449.99 (BBY 17932868). Nano-texture +$150 optional. Apple Pencil Pro $168.99 not included.",
+    "offers": [
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-pro",
+        "cad": 4078,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-pro"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/194/19495/19495708.jpg",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/Apple-iPad-Pro-M5-2025-tablet-review-An-extremely-fast-M5-SoC-and-Wi-Fi-7.1143628.0.html",
+        "quote": "An extremely fast M5 SoC and Wi-Fi 7. Pros: extremely fast M5 SoC, sturdy and timeless case, Wi-Fi 7 and 5G, good camera quality for a tablet, powerful speaker sound, comprehensive software package, good battery life, bright and accurate display. Cons: no power adapter included, very expensive, PWM flickering, no always-on display, only a 12-month warranty. (NBC review of the iPad Pro 11\" M5 2025, 90% very good; same SoC and panel family across 11\"/13\" tiers.)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "2TB means the whole working library travels — multi-terabyte ProRes shoots and full Lightroom catalogs live on-device permanently",
+      "16GB RAM unlocks LumaFusion multitrack 4K, huge PS/Affinity files, and on-device AI models without memory ceilings",
+      "Tandem OLED is the best display on any tablet — true blacks at 1000-nit SDR with 120Hz ProMotion",
+      "Thunderbolt + huge internal scratch disk makes external-drive-free field workflows viable on the biggest canvas",
+      "M5 with 10-core CPU tops most thin-and-light laptops in short bursts"
+    ],
+    "complaints": [
+      "$4,078 with keyboard — firmly MacBook Pro territory while iPadOS still blocks desktop-class apps; the value curve breaks here",
+      "Apple's +$700 for 2TB over 1TB is many times the market price of the flash",
+      "16GB RAM is gated behind the 1TB tier; storage is the toll, not the point",
+      "Magic Keyboard at $449.99 still has unlit keys at this price",
+      "Stage Manager external-monitor support still janky; single USB-C port and no headphone jack"
+    ]
+  },
+  "design_philosophy": "The maximum iPad Apple sells: 2TB of soldered NVMe, 16GB unified memory, and the full 10-core M5 behind the best 13\" tablet display ever shipped, aimed at professionals who keep entire productions on-device. Every performance factor matches the 1TB tier — this entry buys pure storage headroom at Apple's steepest per-gigabyte pricing. With the Magic Keyboard priced in it costs more than most real laptops, the question this config tests most sharply.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 7.5,
+    "screen_quality": 9.6,
+    "readability_dark": 9.8,
+    "readability_bright": 9,
+    "ecosystem": 6.5,
+    "gaming": 6.5,
+    "productivity": 7.7,
+    "portability": 8.2,
+    "build_quality": 9.3,
+    "thermals_noise": 8.5,
+    "port_connectivity": 6,
+    "creative_work": 9.6,
+    "keyboard_trackpad": 8.2,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 8,
+    "pen_touch": 9.5,
+    "repairability_service": 5,
+    "durability": 8
+  },
+  "rating_notes": "Pro score attached from NBC review of the iPad Pro M5 13\" (90%, gap-fill 2026-11-24). Ratings inferred from the 13\" M5 256GB anchor (see SHARED-ipad-pro.md); no verbatim pro score found this session (bot-walled) — disclosed, none invented. 16GB/10-core: productivity +0.5, ai_ml +0.5; 2TB storage: creative_work 9.6 (max headroom on the biggest canvas) — storage changes no other performance factor. Ecosystem 6.5 (~9 casual/creative, ~5-6 desktop-app parity). Battery 8.0 on ~8.5h real use. Keyboard_trackpad rated on the Magic Keyboard (included). Upgradability 1.0: everything soldered."
+}

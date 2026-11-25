@@ -1,0 +1,112 @@
+{
+  "id": "spx360-14-u7-155h-32-2tb",
+  "line": "HP Spectre x360 14 (2024, Meteor Lake) — discontinued, CA clearance",
+  "config_name": "Spectre x360 14 — Core Ultra 7 155H, 32GB LPDDR5x, 2TB SSD, 2.8K OLED touch",
+  "tier": "High (clearance)",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2024-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 155H (Meteor Lake)",
+    "cpu_cores": 16,
+    "gpu": "Intel Arc integrated (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 2000,
+    "storage_type": "NVMe",
+    "screen_size_in": 14,
+    "display_type": "2.8K OLED touch",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 600,
+    "weight_kg": 1.44,
+    "ports": "2x Thunderbolt 4, 1x USB-A, microSD, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.3",
+    "webcam": "5MP IR + shutter",
+    "speakers": "2-speaker B&O",
+    "keyboard_notes": "Backlit, Copilot key",
+    "pen_support": "HP Rechargeable Pen (MPP 2.0)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 16,
+    "real_world_hours": 9,
+    "notes": "Meteor Lake H in a thin convertible; 2.8K OLED drain. Estimate; 68Wh pack."
+  },
+  "price": {
+    "cad": 2399.97,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/hp-spectre-x360-14-touchscreen-2-in-1-laptop-intel-core-ultra-7-155h-32gb-lpddr5x-2tb-ssd-windows-11-home-nightfall-black/17725756",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 17725756 at $2,399.97, no discount — clearance leftover of the discontinued Spectre line; poor value vs OmniBook X Flip OLED at $2,179.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/hp-spectre-x360-14-touchscreen-2-in-1-laptop-intel-core-ultra-7-155h-32gb-lpddr5x-2tb-ssd-windows-11-home-nightfall-black/17725756",
+        "cad": 2399.97,
+        "est": false,
+        "name": "HP Spectre x360 14\" Touchscreen 2-in-1 Laptop - Intel Core Ultra 7 155H - 32GB LPDDR5x - 2TB SSD - Windows 11 Home - Nightfall Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/177/17725/17725756.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Gorgeous 2.8K OLED 120Hz touch — the best panel HP ever put in this chassis",
+      "Gem-cut aluminum build with the tightest hinge of any HP convertible",
+      "Thunderbolt 4 x2 + microSD slot: better media/dock story than the OmniBook successors",
+      "5MP webcam with physical shutter is still class-leading for calls",
+      "32GB/2TB spec at full tilt — maxed-out configuration of the line"
+    ],
+    "complaints": [
+      "BBY clearance unit rated 2.0/5 by 3 buyers (small sample) — battery degradation and returns cited on leftover stock",
+      "Meteor Lake H runs warm and fan-assertive in this thin convertible",
+      "Battery life mediocre (~9h) vs the 11h+ OmniBook X Flip successors",
+      "No discount at $2,399.97 when the newer OLED OmniBook sells for $2,179",
+      "Line is discontinued: future spare parts/warranty support will thin out"
+    ]
+  },
+  "design_philosophy": "The final Spectre x360 14 was HP's flagship convertible before the OmniBook rebrand: jewel-like gem-cut aluminum, a 120Hz 2.8K OLED, and the best port/pen/webcam package HP has shipped in a 14-inch 2-in-1. This maxed 32GB/2TB leftover is a legacy buy — superb hardware, but clearance pricing and mixed late-stock experiences blunt the appeal.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 6,
+    "screen_quality": 9.5,
+    "readability_dark": 9,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 4,
+    "productivity": 8,
+    "portability": 8,
+    "build_quality": 9,
+    "thermals_noise": 6,
+    "port_connectivity": 7.5,
+    "creative_work": 7.5,
+    "keyboard_trackpad": 8,
+    "webcam_speakers": 8.5,
+    "upgradability": 2,
+    "ai_ml": 5.5,
+    "pen_touch": 8,
+    "repairability_service": 3.5,
+    "durability": 6
+  },
+  "rating_notes": "Ratings inferred from the widely-reviewed 2024 Spectre x360 14 line (OLED 120Hz, 68Wh, ~1.44 kg) with the max RAM/storage tier; Meteor Lake H deltas (-battery, +heat) applied vs successors. No numeric pro score re-fetched this session (NBC/PCMag bot-walls — see SHARED-hp-convertibles.md); BBY user sample tiny (2.0★/3). Included as discontinued-legacy entry per task instruction to check Spectre availability.",
+  "standouts": [
+    "Best panel + build in the whole HP convertible family",
+    "microSD + 2x TB4 + pen included",
+    "32GB/2TB maxed spec"
+  ],
+  "dealbreakers": [
+    "Discontinued line at full clearance price",
+    "Mediocre battery vs successors"
+  ]
+}

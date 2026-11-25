@@ -1,0 +1,108 @@
+{
+  "id": "aspire-lite-15-r5-40-8-512",
+  "line": "Acer Aspire Lite 15.6 (AL15-41)",
+  "config_name": "Aspire Lite 15.6\" — Ryzen 5 40, 8GB LPDDR5, 512GB SSD, FHD IPS",
+  "tier": "Entry",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 5 40 (4-core/4-thread Zen 2 Mendocino)",
+    "cpu_cores": 4,
+    "gpu": "AMD Radeon 610M (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "LPDDR5 soldered",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 15.6,
+    "display_type": "IPS anti-glare",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.45,
+    "ports": "1x USB-C 3.2 Gen2x2 20Gbps (DP, 65W PD), 2x USB-A 3.2 Gen1 (1 power-off charging), HDMI 1.4, 3.5mm",
+    "wireless": "Wi-Fi 6, BT 5.x",
+    "webcam": "720p HD",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Chiclet with numeric keypad, bilingual CA",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 11,
+    "real_world_hours": 7,
+    "notes": "~45 Wh with the ultra-low-draw 4-core Zen 2 part: ~6.5-7.5h light use."
+  },
+  "price": {
+    "cad": 899.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19889761",
+    "confidence": "verified",
+    "notes": "No sale; $899.99 flat.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19889761",
+        "cad": 899.99,
+        "est": false,
+        "name": "Acer Aspire Lite 15.6\" Laptop, - AMD R5 40 - 8GB LPDDR5 - 512GB SSD - Windows 11 - Silver"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19889/19889761.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Lightest 15.6\" in the family at 1.45 kg — easy to carry daily",
+      "Battery clears ~7h of browsing/streaming thanks to the efficient 4-core chip",
+      "IPS FHD panel beats TN competition at the same money",
+      "Runs cool and near-silent for everyday tasks",
+      "USB-C does 65W charging and DP video, so one cable handles dock and power"
+    ],
+    "complaints": [
+      "Ryzen 5 40 is 4 cores/4 threads — multitasking headroom is thin, and 8GB makes it worse",
+      "8GB LPDDR5 soldered: no upgrade path on a machine people buy for 3-4 years of use",
+      "Only one USB-A 3.2 port plus charging-only peripherals squeeze the port budget",
+      "Dull 45%-gamut panel, 720p webcam, no keyboard backlight — entry specs throughout",
+      "Radeon 610M is effectively not a gaming GPU; even light games stutter"
+    ]
+  },
+  "standouts": [
+    "Lightest entry in both families (1.45 kg) with genuinely long battery for the class"
+  ],
+  "dealbreakers": [
+    "4-core CPU + 8GB soldered together cap this at single-task light use"
+  ],
+  "design_philosophy": "The smaller-sibling Lite: the same low-power Mendocino platform as the Go 15 Ryzen model but in the thinner, lighter Lite shell with 8GB soldered. Acer's bet is that budget buyers value weight and battery over CPU cores — accurate for browsing-and-streaming users, wrong for anyone who multitasks.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 7,
+    "screen_quality": 4,
+    "readability_dark": 5,
+    "readability_bright": 4.5,
+    "ecosystem": 9,
+    "gaming": 1.5,
+    "productivity": 4,
+    "portability": 7,
+    "build_quality": 4,
+    "thermals_noise": 7.5,
+    "port_connectivity": 5.8,
+    "creative_work": 2,
+    "keyboard_trackpad": 5.2,
+    "webcam_speakers": 3.8,
+    "upgradability": 4,
+    "ai_ml": 1,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4
+  },
+  "rating_notes": "No pro review found (see SHARED-aspire-go.md). Inferred from Aspire Go 15 Ryzen 5 40 sibling (same CPU): −0.5 productivity for 8GB vs 16GB, +1.5 portability (1.45 vs 1.73 kg verified), same battery class (~45Wh). Battery hours class-estimated."
+}

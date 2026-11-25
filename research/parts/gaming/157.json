@@ -1,0 +1,116 @@
+{
+  "id": "gigabyte-aero-x16-ryzen-ai-7-350-5070-48-2tb",
+  "line": "Gigabyte AERO X16 (1WH, 2025)",
+  "config_name": "Gigabyte AERO X16 — Ryzen AI 7 350 / RTX 5070, 48GB RAM, 2TB SSD",
+  "tier": "Upper",
+  "category": "creator",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 7 350 (8-core: 4 Zen 5 + 4 Zen 5c, Krackan Point)",
+    "cpu_cores": 8,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7 (85W + 15W Dynamic Boost, MUX switch)",
+    "gpu_type": "dedicated",
+    "ram_gb": 48,
+    "ram_type": "DDR5-5600 (2 SO-DIMM slots, max 64GB)",
+    "storage_gb": 2000,
+    "storage_type": "NVMe M.2 2280 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "Matte IPS, no PWM",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 350,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.95,
+    "ports": "1x USB4 40Gbps (PD), 2x USB-A 3.0, 1x USB 2.0, HDMI, gigabit Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.2",
+    "webcam": "1080p (weak per NBC)",
+    "speakers": "Stereo",
+    "keyboard_notes": "Comfortable chiclet keyboard (NBC), backlit",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 7.5,
+    "notes": "76Wh; same efficient platform as reviewed tier."
+  },
+  "price": {
+    "cad": 3580.81,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/p/20256692",
+    "confidence": "verified",
+    "notes": "BBY API-verified 2026-11-24, SKU 20256692 reg $4,480.81 / sale $3,580.81. Marketplace seller — third-party fulfillment/return risk, inflated 'reg' anchor. A related 5070/16GB/1TB marketplace tier (SKU 20340683, $2,507.67) omitted as near-duplicate of the 32GB anchor tier.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/p/20256692",
+        "cad": 3580.81,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20256/20256692.jpeg",
+  "professional": {
+    "avg_score": 84,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "84%",
+        "url": "https://www.notebookcheck.net/Gigabyte-Aero-X16-Review-Sleek-AMD-Zen-5-gaming-machine-with-Nvidia-RTX-5070-Laptop-and-upgradeable-RAM.1022304.0.html",
+        "quote": "Upgrade options, on the other hand, are very good with expandable RAM and two SSD slots."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "48GB RAM out of the box for heavy editing/multitasking without opening the chassis",
+      "2TB standard storage — practical for video projects",
+      "Same NBC-reviewed 84% platform: efficient Zen 5 + RTX 5070 with MUX switch",
+      "Comfortable keyboard and matte flicker-free 165Hz IPS (NBC)",
+      "Still upgradeable to 64GB with two M.2 slots if needed"
+    ],
+    "complaints": [
+      "Marketplace seller with inflated 'regular' price anchor — the sale price is the real price",
+      "RAM premium is steep: +$1,081 sale vs the 32GB/1TB tier for RAM/storage you could add yourself",
+      "Same 8GB VRAM GPU bottleneck at this price point (NBC)",
+      "Weak webcam, no Wi-Fi 7, USB 2.0 port persists (NBC cons)",
+      "Loud fans during gaming (NBC con)"
+    ]
+  },
+  "design_philosophy": "The high-memory AERO X16 tier targets creators who need RAM and storage headroom (video editing, large photo libraries, local models) on the same slim creator-styled Zen 5 chassis NBC reviewed at 84%. In Canada it exists only as a marketplace set at a marked-up anchor — the RAM headroom is the whole premium.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 7.5,
+    "screen_quality": 7,
+    "readability_dark": 7,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 7,
+    "productivity": 8.5,
+    "portability": 7.5,
+    "build_quality": 6.5,
+    "thermals_noise": 5.5,
+    "port_connectivity": 6.5,
+    "creative_work": 8,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 4.5,
+    "ai_ml": 7,
+    "pen_touch": 0,
+    "upgradability": 8.5,
+    "repairability_service": 8,
+    "durability": 6
+  },
+  "rating_notes": "Ratings inferred from NBC's Aero X16 1WH review (84%, 32GB/1TB exact platform): +16GB RAM and +1TB storage -> productivity +0.5, creative_work +0.5, ai_ml +0.5 vs anchor tier. All other factors carried from the reviewed config.",
+  "standouts": [
+    "48GB/2TB creator headroom on the 84%-rated slim platform"
+  ],
+  "dealbreakers": [
+    "Marketplace markup: ~$1,080 over the 32GB tier for RAM/storage you can install yourself",
+    "Third-party fulfillment/return policy"
+  ]
+}

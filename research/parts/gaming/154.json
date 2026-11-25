@@ -1,0 +1,110 @@
+{
+  "id": "gigabyte-a16-pro-core7-240h-5080-32-1tb-dock",
+  "line": "Gigabyte A16 Pro (2025)",
+  "config_name": "Gigabyte A16 Pro — Core 7 240H / RTX 5080, 32GB RAM, 1TB SSD (+1TB drive dock bundle)",
+  "tier": "High",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-09",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 7 240H (Raptor Lake-H refresh, 10-core est.)",
+    "cpu_cores": 10,
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop 16GB GDDR7 (~100-120W TGP est.)",
+    "gpu_type": "dedicated",
+    "ram_gb": 32,
+    "ram_type": "DDR5 SO-DIMM (2 slots, upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (2 slots est.)",
+    "screen_size_in": 16,
+    "display_type": "Matte IPS",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 350,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.3,
+    "ports": "1x USB-C, 2x USB-A, HDMI, gigabit Ethernet, 3.5mm (Thunderbolt/USB4 not confirmed)",
+    "wireless": "Wi-Fi 6E est., BT 5.2",
+    "webcam": "FHD 1080p",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Chiclet, backlit",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 5.5,
+    "notes": "~76Wh est. (A16 chassis); highest-TGP GPU in the line trims runtime."
+  },
+  "price": {
+    "cad": 3779,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/p/20205609",
+    "confidence": "verified",
+    "notes": "BBY API-verified 2026-11-24, SKU 20205609 reg $5,549 / sale $3,779. Marketplace DOCK-BUNDLE SET (laptop + 1TB drive/dock) — set pricing, fulfillment/return-policy risk, inflated 'reg' anchor.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/p/20205609",
+        "cad": 3779,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20205/20205609.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "RTX 5080 with 16GB VRAM under $3,800 CAD — among the cheapest 5080 laptop prices in Canada",
+      "16GB GDDR7 makes it the AI/ML-capable tier of the Gigabyte line",
+      "Bundle includes an extra 1TB drive/dock (set value)",
+      "WQXGA 165Hz matte panel; upgradeable RAM + dual M.2 platform (reviewed sibling)",
+      "Deep Black Friday discount: $1,770 off the anchor price"
+    ],
+    "complaints": [
+      "No professional review of the A16 Pro exists — 5080 TGP in this chassis unverified (may be power-limited)",
+      "Marketplace dock-bundle with inflated 'regular' price anchor and third-party returns",
+      "Core 7 240H CPU is an older Raptor Lake refresh paired with a flagship-class GPU (bottleneck risk)",
+      "Plastic chassis quality below what a $5,549 anchor implies",
+      "Loud under load expected; single 165Hz IPS panel at this price vs OLED rivals"
+    ]
+  },
+  "design_philosophy": "The top GPU tier of Gigabyte's GPU-per-dollar strategy: an RTX 5080 stuffed into the affordable A16 chassis with a deliberately modest CPU, sold in Canada as a discounted marketplace dock-bundle set. It prioritizes raw GPU capability (gaming + local AI VRAM) over platform modernity or build materials.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 7.5,
+    "screen_quality": 6.5,
+    "readability_dark": 5.5,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 9,
+    "productivity": 7,
+    "portability": 6.5,
+    "build_quality": 6,
+    "thermals_noise": 5,
+    "port_connectivity": 6,
+    "creative_work": 8,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 6,
+    "upgradability": 8.5,
+    "ai_ml": 8,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 6
+  },
+  "rating_notes": "No pro numeric score found (honest null). Inferred from NBC Gaming A16 GA6H review (80%): RTX 5080 16GB vs 5070 8GB -> gaming +2.0 (capped — likely power-limited ~100W in this chassis, not the 150W+ flagship TGP), creative_work +2.0, ai_ml +2.5, battery -1.0, thermals -0.5. CPU treated as i7-13620H-class. TGP/ports estimated, disclosed.",
+  "standouts": [
+    "Cheapest RTX 5080 laptop price found at BBY CA ($3,779 sale)",
+    "16GB VRAM tier of the Gigabyte line for local AI work"
+  ],
+  "dealbreakers": [
+    "Older-gen Core 7 240H CPU paired with flagship GPU — possible CPU bottleneck at 1440p",
+    "Marketplace dock-bundle: third-party fulfillment, inflated anchor"
+  ]
+}

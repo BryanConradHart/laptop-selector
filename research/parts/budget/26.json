@@ -1,0 +1,108 @@
+{
+  "id": "dell-15-r7-7730u-16-120hz",
+  "line": "Dell 15 (3530-class, 2026)",
+  "config_name": "Dell 15.6\" 120Hz — Ryzen 7 7730U, 16GB DDR4, 512GB SSD, FHD 120Hz, Carbon Black",
+  "tier": "Mid",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 7 7730U (8-core/16-thread Zen 3, 2.0-4.5 GHz, 20 MB)",
+    "cpu_cores": 8,
+    "gpu": "AMD Radeon Graphics (Vega 8 integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "DDR4-3200 (1x16 GB SO-DIMM)",
+    "storage_gb": 512,
+    "storage_type": "NVMe M.2",
+    "screen_size_in": 15.6,
+    "display_type": "FHD 120Hz, anti-glare (panel type unstated; assume TN)",
+    "resolution": "1920x1080",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 250,
+    "weight_kg": 1.9,
+    "ports": "1x USB-A 3.2 Gen1, 1x USB-C 3.2 Gen1 (data only), 1x USB 2.0, HDMI 1.4, SD reader, 3.5mm",
+    "wireless": "Wi-Fi 5 (Realtek RTL8821CE 1x1), BT 5.0",
+    "webcam": "720p HD camera",
+    "speakers": "2x stereo (MaxxAudio Pro)",
+    "keyboard_notes": "Bilingual CA chiclet with numpad, no backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 5.5,
+    "notes": "41 Wh 3-cell; Zen 3 8-core on 41 Wh → ~5-6h light use."
+  },
+  "price": {
+    "cad": 1199.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19821568",
+    "confidence": "verified",
+    "notes": "$1,199.99 flat — the 120Hz panel is the differentiator; no sale as of research date.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19821568",
+        "cad": 1199.99,
+        "est": false,
+        "name": "Dell 15.6\" 120Hz Laptop - AMD Ryzen 7 7730U - 16GB DDR4 - 512GB SSD - Windows 11 Home - Carbon Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19821/19821568.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "120Hz panel makes Windows feel twice as smooth as every 60Hz rival at this price — scrolling and cursor motion are dramatically better",
+      "Ryzen 7 7730U 8C/16T is a genuine multicore performer for the money",
+      "SD card reader included — many competitors dropped it",
+      "Dell's chassis feels thicker and more rigid than the flimsy HP 15s / Vivobook shells",
+      "Single 16GB SO-DIMM leaves a second slot free for a cheap 32GB upgrade"
+    ],
+    "complaints": [
+      "Wi-Fi 5 (Realtek RTL8821CE 1x1, 802.11ac) in a $1,199 machine in 2026 is indefensible",
+      "1.9 kg and 18.9 mm — the heaviest and thickest of the budget 15.6\" group",
+      "USB-C is data-only; no power delivery or video",
+      "120Hz panel is still a TN-class ~250-nit panel: fast but washed out, and the refresh advantage vanishes on battery (Dell caps 60Hz)",
+      "No keyboard backlight, soft 720p webcam, and McAfee trial bloat"
+    ]
+  },
+  "standouts": [
+    "Only 120Hz panel in the budget class — smoothest motion on any sub-$1,300 office laptop"
+  ],
+  "dealbreakers": [
+    "Wi-Fi 5 1x1 in a $1,199 new machine is a genuine hardware embarrassment, not a nitpick"
+  ],
+  "design_philosophy": "Dell's budget 15 differentiates on exactly one spec nobody else at this price offers — a 120Hz panel — plus the strongest CPU tier, and pays for it everywhere invisible: an ancient Realtek Wi-Fi 5 1x1 card, a 1.9 kg thick chassis, a data-only USB-C, and no backlight. It is a machine built around a filter-panel checkbox, and the wireless card shows where the margin came from.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 7,
+    "screen_quality": 3.8,
+    "readability_dark": 4.2,
+    "readability_bright": 3.6,
+    "ecosystem": 9,
+    "gaming": 2.1,
+    "productivity": 6.6,
+    "portability": 4.8,
+    "build_quality": 5.2,
+    "thermals_noise": 6.5,
+    "port_connectivity": 5,
+    "creative_work": 2.1,
+    "keyboard_trackpad": 5.4,
+    "webcam_speakers": 4.2,
+    "upgradability": 6,
+    "ai_ml": 1.3,
+    "pen_touch": 0,
+    "repairability_service": 6,
+    "durability": 4.6
+  },
+  "rating_notes": "No pro review found (see SHARED-budget-misc.md). Platform-anchored on Ryzen 7 7730U (same calibration as HP 22.json and Aspire Go 10.json): productivity 6.6, gaming 2.1 (Vega 8 benefits slightly from 120Hz smoothness claim excluded). 120Hz nudges screen_quality +0.3 vs TN 60Hz twins; portability penalized for verified 1.9 kg/18.9 mm. Wi-Fi 5 verified from BBY spec (Realtek RTL8821CE). Battery verified 41 Wh. Image URL best-guess BBY CDN pattern."
+}

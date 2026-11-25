@@ -1,0 +1,110 @@
+{
+  "id": "obx14-u5-16-512-2k",
+  "line": "HP OmniBook X 14 (2026, Panther Lake)",
+  "config_name": "OmniBook X 14 — Core Ultra 5 325, 16GB LPDDR5x, 512GB SSD, 14\" 2K IPS",
+  "tier": "Base",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 5 325 (Panther Lake)",
+    "cpu_cores": 8,
+    "gpu": "Intel Graphics (integrated, Xe3)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe",
+    "screen_size_in": 14,
+    "display_type": "IPS, 16:10",
+    "resolution": "2240x1400",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.36,
+    "ports": "2x TB4/USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 6.0",
+    "webcam": "9MP IR",
+    "speakers": "2-speaker",
+    "keyboard_notes": "backlit, fingerprint power button",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 21,
+    "real_world_hours": 17,
+    "notes": "Notebookcheck measured ~17h Wi-Fi browsing on the reviewed Panther Lake OmniBook X 14 config."
+  },
+  "price": {
+    "cad": 1999,
+    "currency": "CAD",
+    "store": "bestbuy.ca (marketplace)",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20174277",
+    "confidence": "verified",
+    "notes": "Best Buy CA SKU 20174277 reg $1,990, frequently on sale ~$1,098 (2026-11-24 API). NBC's '$1,900' US complaint matches CA regular pricing.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20174277",
+        "cad": 1098,
+        "est": false,
+        "name": "HP OmniBook X 14\" 2K IPS Display Copilot Laptop Intel Core Ultra 5 325 16GB 512GB Windows 11 Home Atmospheric blue"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20174/20174277.png",
+  "professional": {
+    "avg_score": 8.2,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "recommended",
+        "url": "https://www.notebookcheck.net/HP-OmniBook-X-14-review.1128001.0.html",
+        "quote": "This Panther Lake productivity powerhouse lasts 17 hours, but HP wants $1,900"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "17-hour battery in Notebookcheck's Wi-Fi test — best runtime in the Canadian 14-inch premium class",
+      "2K (2240x1400) panel is a real step up from the 1200p budget tier",
+      "Panther Lake Ultra 5 is quick and cool for office/productivity work",
+      "Frequent Best Buy discounts to ~$1,100 make it the value king of premium 14-inchers",
+      "Good port mix for a thin machine: 2x TB4 + USB-A + HDMI"
+    ],
+    "complaints": [
+      "$1,990 regular price is steep for a 60Hz 300-nit IPS panel (NBC's exact complaint)",
+      "16GB soldered RAM floor",
+      "Modest 2-speaker audio vs OmniBook Ultra quad-speaker",
+      "iGPU only — no creative-class graphics headroom",
+      "Marketplace seller stock at Best Buy, not direct HP"
+    ]
+  },
+  "design_philosophy": "HP's mainstream-premium Panther Lake clamshell: understated aluminium everyday machine optimised for battery life and productivity rather than screen spectacle — the sensible sibling to the OLED OmniBook Ultra.",
+  "ratings": {
+    "battery": 9.5,
+    "screen_size": 7,
+    "screen_quality": 7,
+    "readability_dark": 7,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 8,
+    "portability": 9,
+    "build_quality": 8,
+    "thermals_noise": 8.5,
+    "port_connectivity": 7.5,
+    "creative_work": 4.5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 6.5,
+    "upgradability": 2,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 4,
+    "durability": 7.5
+  },
+  "rating_notes": "Ratings anchored on Notebookcheck's reviewed Panther Lake OmniBook X 14 (17h battery headline verified; full score page blocked). This Ultra 5 tier inferred vs reviewed higher tier: -0.5 productivity, panel deltas applied (2K IPS 60Hz = 7.0)."
+}

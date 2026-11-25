@@ -1,0 +1,115 @@
+{
+  "id": "xps14-u7-32-1tb-qhd",
+  "line": "Dell XPS 14 (2026, DA14260)",
+  "config_name": "XPS 14 — Core Ultra 7 358H, 32GB LPDDR5X, 1TB SSD, 14\" QHD+ 2.8K 120Hz touch",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 358H (Series 3 Panther Lake, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "Intel Arc Graphics (integrated Arc iGPU)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X soldered, up to 7467 MT/s",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2230 NVMe Gen4",
+    "screen_size_in": 14,
+    "display_type": "IPS touch, QHD+ (2880x1800), 120Hz",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.38,
+    "ports": "3x Thunderbolt 4 (USB-C) with DP 2.1 + PD, universal audio jack",
+    "wireless": "Wi-Fi 7 (Intel BE211 2x2), BT 6.0",
+    "webcam": "FHD webcam",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit keyboard, zero-lattice design, Gorilla Glass 3 palmrest",
+    "pen_support": "touch (no pen)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 25,
+    "real_world_hours": 11,
+    "notes": "70Wh. 16-core H-class CPU + higher-res touch panel costs ~1-1.5h vs the 2K LCD base per CNET line testing."
+  },
+  "price": {
+    "cad": 3680,
+    "currency": "CAD",
+    "store": "dell.ca",
+    "store_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps14da14260",
+    "confidence": "verified",
+    "notes": "VERIFIED dell.ca 2026-11-24: CAD $3,679.99 (est. value $4,679.99, $1,000 off).",
+    "offers": [
+      {
+        "store": "dell.ca",
+        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps14da14260",
+        "cad": 3680,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps14da14260"
+  },
+  "image_url": "https://i.dell.com/is/image/DellContent/content/dam/images/products/laptops-and-2-in-1s/xps/14-da14260-touch/dell-da14260t-laptop-c-15000ff100-gy-oled.psd?fmt=png-alpha",
+  "professional": {
+    "avg_score": 8.1,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.1/10",
+        "url": "https://www.cnet.com/tech/computing/dell-xps-14-2026-review/",
+        "quote": "It's great to see Dell bring back the XPS and do so with such style."
+      },
+      {
+        "outlet": "CNET",
+        "score": "8.1/10",
+        "url": "https://www.cnet.com/tech/computing/dell-xps-14-2026-review/",
+        "quote": "Matches MacBook Pro in price but not performance"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "16-core Ultra 7 358H + 32GB is the creator sweet spot — dell.ca owners cite smooth heavy workloads and video editing",
+      "2880x1800 120Hz touch panel fixes the base tier's soft 1200p",
+      "Still 1.38 kg despite the H-class chip — the 2026 chassis runs cool under load (owner summary: \"quiet, efficient cooling\")",
+      "Full Arc iGPU tier gives playable light gaming, unlike the 8-core base",
+      "32GB soldered from the factory means no early RAM regret"
+    ],
+    "complaints": [
+      "$3,680 approaches MacBook Pro territory where CNET says XPS 'matches in price but not performance'",
+      "Touch panel is glossy IPS — no OLED option on the 14 this year (OLED only on XPS 16)",
+      "Still no fingerprint reader, still USB-C-only ports",
+      "Dell's 'Estimated Value' anchoring ($4,679) inflates the apparent discount",
+      "Some units ship with the zero-lattice keyboard feel issues owners report across the line"
+    ]
+  },
+  "design_philosophy": "The performance tier of the relaunched XPS 14: Dell moves to the 16-core 358H with Arc-class iGPU and 32GB while keeping the 14.6-15.2 mm slab. It is the config for buyers who edit on the road but refuse a discrete-GPU brick.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 7,
+    "screen_quality": 7.5,
+    "readability_dark": 6.5,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 4.5,
+    "productivity": 8.5,
+    "portability": 9,
+    "build_quality": 9,
+    "thermals_noise": 7.5,
+    "port_connectivity": 6.5,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 2,
+    "ai_ml": 6.5,
+    "pen_touch": 6,
+    "repairability_service": 4,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from CNET XPS 14 (2026) 8.1 anchor: +CPU cores and Arc iGPU → productivity +1, gaming +1 (Arc tier ~4.5 per NOTES calibration), battery −0.5 for H-series + 2.8K touch, screen_quality +1 for QHD+ 120Hz touch, thermals −0.5 for the hotter 358H."
+}

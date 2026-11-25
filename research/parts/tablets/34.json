@@ -1,0 +1,111 @@
+{
+  "id": "tab-s11-ultra-12-256",
+  "line": "Samsung Galaxy Tab S11 Ultra (2025)",
+  "config_name": "Galaxy Tab S11 Ultra — Dimensity 9400+, 12GB RAM, 256GB, 14.6\" Dynamic AMOLED 2X 120Hz + Book Cover Keyboard Slim S11/S12 Ultra (price includes Slim cover; Pro Keyboard w/ trackpad option noted).",
+  "tier": "Upper",
+  "category": "tablets",
+  "ecosystem": "Android",
+  "form_factor": "tablet",
+  "release": "2025-09",
+  "inferred": true,
+  "specs": {
+    "cpu": "MediaTek Dimensity 9400+ (8-core: 1x3.63GHz Cortex-X925 + 3x3.3GHz X4 + 4x2.4GHz A720, 3nm)",
+    "cpu_cores": 8,
+    "gpu": "Arm Immortalis-G925 (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 12,
+    "ram_type": "soldered LPDDR5X",
+    "storage_gb": 256,
+    "storage_type": "UFS soldered + dedicated microSDXC slot (up to 2TB)",
+    "screen_size_in": 14.6,
+    "display_type": "Dynamic AMOLED 2X (glossy, anti-reflective coating)",
+    "resolution": "2960x1848",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 900,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 0.692,
+    "ports": "1x USB-C 3.2 Gen 1 (DisplayPort/DeX out), no 3.5mm jack",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "12MP ultrawide front (landscape)",
+    "speakers": "Quad AKG-tuned speakers (larger chambers than S11)",
+    "keyboard_notes": "Book Cover Keyboard Slim S11/S12 Ultra included in price ($299.99 reg cover): scissor keys + AI key, NO trackpad. Pro Keyboard with trackpad $499.99 reg/$299.99 sale (BBY 20142500) is the premium typing option",
+    "pen_support": "S Pen INCLUDED in box (Bluetooth air actions, 4096 pressure, IP68)",
+    "os": "Android 16 / One UI 8 at launch (Android 17 / One UI 9 current); 7 years OS+security updates"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 9.5,
+    "notes": "11600 mAh (~44.4Wh) cell, 45W USB-PD charging (charger not in box). No official video-hours claim; users report ~8-11h mixed real-world use on the 14.6\" panel."
+  },
+  "price": {
+    "cad": 2050,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19627589",
+    "confidence": "verified",
+    "notes": "Tablet $1,749.99 reg / $1,499.99 sale (BBY SKU 19627589) + Book Cover Keyboard Slim Ultra $299.99 reg / $179.99 sale (BBY 19433657) = $2,049.98 at regular prices. Cover-only price: Slim $299.99 reg/$179.99 sale; Pro Keyboard w/ trackpad $499.99/$299.99 (BBY 20142500) — pairing with Pro Keyboard totals ~$2,249.98 reg.     BBY sale combined total ~$1,679.98. 5G variant omitted.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19627589",
+        "cad": 1499,
+        "est": false,
+        "name": "Samsung Galaxy Tab S11 Ultra 14.6\" 256GB Android Tablet with D9400+ (DX4+) Processor - Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/196/19627/19627589.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "14.6\" AMOLED at 5.1mm thin — the biggest tablet screen you can still pick up with one hand-ish, and MacBook-sized when opened on a tray table",
+      "S Pen in the box — no extra $199 accessory tax like the iPad Pro; magnetically charges on the back edge",
+      "DeX on 14.6\" is the best desktop-mode screen Samsung makes: three or four free-form windows genuinely fit",
+      "Full Galaxy phone continuity: Quick Share, common clipboard, calls/texts on the tablet — Apple-continuity-grade within the family",
+      "microSDXC slot still present — a 2TB card beats Samsung's soldered storage upsell"
+    ],
+    "complaints": [
+      "The Slim cover priced in here has NO trackpad — the trackpad keyboard is the $499.99 Pro Keyboard, a real extra",
+      "Android tablet app optimization still lags the hardware: several popular apps are stretched phone UIs on 14.6\" 120Hz",
+      "No 3.5mm headphone jack; USB-C audio needs a dongle",
+      "4K@30 camera cap on a $2,000 flagship",
+      "At full regular price the Ultra + keyboard approaches MacBook Pro money while still running Android apps"
+    ]
+  },
+  "design_philosophy": "The Ultra is Samsung's 'biggest screen we can make thin' statement: a 14.6\" AMOLED thinner than most ultrabook lids, aimed squarely at people who want an iPad Pro 13 alternative without Apple's accessory pricing. DeX is the flagship experience here — the 14.6\" panel is where Android desktop mode finally looks like a desktop. This 12/256 tier is the entry point to that screen; the keyboard cover is priced in per this dataset's rule, exposing the trackpad gap that the Pro Keyboard exists to fill.",
+  "ratings": {
+    "battery": 8.2,
+    "screen_size": 8.2,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 8.2,
+    "ecosystem": 7,
+    "gaming": 6.6,
+    "productivity": 7.9,
+    "portability": 7.6,
+    "build_quality": 8.8,
+    "thermals_noise": 8,
+    "port_connectivity": 5.5,
+    "creative_work": 7.3,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 7.8,
+    "upgradability": 6.5,
+    "ai_ml": 6,
+    "pen_touch": 9.3,
+    "repairability_service": 6,
+    "durability": 7.5
+  },
+  "rating_notes": "Ratings inferred from the Tab S11 11\" 12/256 anchor per SHARED-tab-s11.md cross-config note: screen_size 5.8→8.2, portability 9.2→7.6 (692g but 5.1mm), battery +0.4 (11600 vs 8400 mAh), productivity +0.7 (DeX on 14.6\" real estate), creative_work +0.5, gaming −0.2 (higher res), keyboard_trackpad 6.5 = Slim cover w/o trackpad but better keys/size; with the $499.99 Pro Keyboard (trackpad) it would be ~7.0. No pro numeric score found 2026-11-24 (NBC 403, RTINGS/PCMag/Tom's 404/403; searches bot-walled) — avg_score null, none invented; disclosed synthesis in SHARED file. Ecosystem 7.0 = DeX + Galaxy-phone parity per SHARED calibration. Brightness figures are Samsung marketing approximations. User sentiment is disclosed synthesis, not verbatim quotes.",
+  "standouts": [
+    "Largest AMOLED tablet display in current retail, at 5.1mm thin",
+    "Best-in-class DeX desktop canvas — 14.6\" fits real multi-window work",
+    "S Pen + microSD included"
+  ],
+  "dealbreakers": [
+    "Trackpad only via the $499.99 Pro Keyboard — the priced-in Slim cover leaves you mouse-dependent"
+  ]
+}

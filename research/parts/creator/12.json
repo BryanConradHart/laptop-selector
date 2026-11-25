@@ -1,0 +1,110 @@
+{
+  "id": "proart-p16-spark-n1x-64-1tb",
+  "line": "ASUS ProArt P16 (H7606, 2025)",
+  "config_name": "ProArt P16 16â€³ 4K OLED Touch â€” NVIDIA RTX Spark N1X (Arm SoC + Blackwell RTX graphics, unified memory), 64GB, 1TB",
+  "tier": "High",
+  "category": "creator",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "NVIDIA RTX Spark N1X Arm SoC (Blackwell generation, unified memory)",
+    "cpu_cores": null,
+    "gpu": "NVIDIA Blackwell RTX graphics integrated in RTX Spark N1X (unified memory)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5x unified (CPU/GPU shared)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe (user-accessible)",
+    "screen_size_in": 16,
+    "display_type": "OLED glossy touch, 16:10",
+    "resolution": "3840x2400",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 550,
+    "brightness_hdr_nits": 1000,
+    "weight_kg": 2.18,
+    "ports": "2x USB4 (DP/PD), 2x USB-A, HDMI 2.1, SD Express reader, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "4-speaker Harman Kardon, Dolby Atmos",
+    "keyboard_notes": "Backlit chiclet, number pad",
+    "pen_support": "USI pen (optional)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 6.5,
+    "notes": "90Wh. No pro review verified; estimate from platform (HX 370 + 4K OLED class typically 6-8h light use)."
+  },
+  "price": {
+    "cad": 6799.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20257559",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24 (SKU 20257559): $6,799.99 regular, no sale. Spec'd from BBY listing text per instruction.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20257559",
+        "cad": 6799.99,
+        "est": false,
+        "name": "ASUS ProArt P16 Laptop (16\" 4K OLED Touchscreen Display / NVIDIA RTX Spark N1X / 64GB RAM / 1TB SSD / NVIDIA Blackwell RTX Graphics / Windows 11 Pro / H7607BA-DH94T-CA)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20257/20257559.png",
+  "professional": {
+    "avg_score": 8.8,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "88%",
+        "url": "https://www.notebookcheck.net/Asus-ProArt-P16-laptop-review-AMD-Zen-5-meets-RTX-4070-laptop-and-4K-OLED.871739.0.html",
+        "quote": "Very premium and compact aluminum case, color accurate 4K OLED, excellent speakers, wonderful input devices, 2x SSD slots, fast CPU and good system performance. Cons: RAM soldered with massive surcharge for 64 GB; 4K OLED only 60 Hz. (NBC review of predecessor H7606 RTX 4070 config; chassis/display/input findings carry over to 2025 RTX 50-series tiers.)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "NVIDIA first Arm PC platform: CUDA ecosystem on an Arm SoC with large unified memory for local models [synthesized]",
+      "64GB unified memory means GPU-visible memory far beyond any 12GB discrete laptop tier [synthesized]",
+      "Arm SoC efficiency promises better battery than the x86 HX 370 configs [synthesized]",
+      "Same factory-calibrated 4K OLED touch panel as the rest of the P16 line [synthesized]",
+      "USB4/HDMI/SD I/O retained from the standard P16 chassis [synthesized]"
+    ],
+    "complaints": [
+      "Windows-on-Arm app-translation caveats: some x86 drivers, anti-cheat, and niche pro plugins will not run [synthesized]",
+      "Brand-new platform (RTX Spark) with immature drivers at launch â€” expect rough edges [synthesized]",
+      "High price for unproven first-gen silicon [synthesized]",
+      "Unified memory bandwidth unknown vs discrete GDDR7 â€” GPU compute may trail a discrete 5070 Ti [synthesized]",
+      "Soldered/unified RAM â€” no upgrade path [synthesized]"
+    ]
+  },
+  "design_philosophy": "ASUS's creator-focused flagship: a thin-and-light 16-inch chassis with a factory-calibrated 4K OLED touchscreen, consumer GeForce graphics, and creator I/O (SD Express, USB4) instead of workstation pro-GPU pricing. This 5070 Ti build is the top consumer-GPU tier of the P16 line and the closest thing to its intended flagship creator config.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 8,
+    "screen_quality": 9.2,
+    "readability_dark": 8.8,
+    "readability_bright": 7,
+    "ecosystem": 7.5,
+    "gaming": 7.5,
+    "productivity": 8,
+    "portability": 5.8,
+    "build_quality": 8,
+    "thermals_noise": 6.5,
+    "port_connectivity": 8.2,
+    "creative_work": 9,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 7,
+    "upgradability": 4,
+    "ai_ml": 9.2,
+    "pen_touch": 6.5,
+    "repairability_service": 5.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Pro score attached from NBC review of the predecessor RTX 4070 config (88% very good, gap-fill 2026-11-24); 2025 RTX 50-series per-config review still pending. Spec'd from BBY listing text (SKU 20257559); RTX Spark N1X details otherwise unverified. Ratings inferred from P16 5070 Ti entry (10.json): +1 ai_ml (64GB unified vs 12GB VRAM), -1.5 ecosystem (Windows-on-Arm translation caveats, same class as Surface Laptop Ultra), -0.8 gaming (unverified GPU tier), +0.8 battery (Arm efficiency). No pro review found. CPU core count null (undocumented)."
+}

@@ -1,0 +1,121 @@
+{
+  "id": "x1c14-u7-32-512-oled",
+  "line": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition (2026, Panther Lake)",
+  "config_name": "ThinkPad X1 Carbon Gen 14 — Core Ultra 7 356H, 32GB LPDDR5, 512GB SSD, 14\" 2.8K 120Hz matte OLED",
+  "tier": "Base",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 356H (Panther Lake, 16-core: 4P+8E+4LPE)",
+    "cpu_cores": 16,
+    "gpu": "Intel Graphics (4 Xe cores) integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5-8533 soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 2280 NVMe Gen4 (Micron 2650)",
+    "screen_size_in": 14,
+    "display_type": "OLED 2.8K matte, 16:10",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1100,
+    "weight_kg": 1,
+    "ports": "2x TB4, 1x USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7 (Intel BE201), BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker downward firing",
+    "keyboard_notes": "ThinkPad keyboard 1.5mm travel, TrackPoint, haptic touchpad option",
+    "pen_support": "none (non-touch OLED)",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 15,
+    "real_world_hours": 9.5,
+    "notes": "58Wh. CNET: battery life shorter than Gen 13; ~9-10h light mixed use on OLED."
+  },
+  "price": {
+    "cad": 2999,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159",
+    "confidence": "estimated",
+    "notes": "CNET listed US$2,374 as-tested; Lenovo CA runs heavy e-coupons. CAD estimate from US price x ~1.3 with CA pricing often closer to parity during promos.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159",
+        "cad": 2999,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159"
+  },
+  "image_url": "https://p2-ofp.static.pub/ShareResource/optimized/pdp/thinkpad/thinkpad-x1-series/len101t0159/thinkpad-x1-carbon-gen-14-aura-edition-14-intel-hero.png",
+  "professional": {
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.3/10",
+        "url": "https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-14-review-flagship-ultraportable-repairable/",
+        "quote": "The X1 Carbon Gen 14 introduces Lenovo's Space Frame chassis that features a smaller motherboard and larger cooling fans, along with a modular design that makes it easier to access and then repair or replace individual components."
+      },
+      {
+        "outlet": "CNET",
+        "score": "8.3/10",
+        "url": "https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-14-review-flagship-ultraportable-repairable/",
+        "quote": "This year's model isn't any faster than last year's ThinkPad X1 Carbon Gen 13, and battery life is actually a few hours shorter."
+      },
+      {
+        "outlet": "Ultrabookreview",
+        "score": "recommended",
+        "url": "https://www.ultrabookreview.com/75917-lenovo-thinkpad-x1carbon-gen14-review/",
+        "quote": "the X1 Carbon is lighter than MacBooks, starting at 1 kilo for the OLED variant... the X1 Carbon is a more ergonomic chassis, with friendlier edges, a screen that opens flat to 180 degrees, and better IO"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Space Frame redesign means the SSD, battery and ports are genuinely swappable now — first X1 owners can actually keep the machine past warranty",
+      "Free OLED upgrade at Lenovo right now: matte 2.8K 120Hz panel with no visible PWM flicker at 120Hz",
+      "Still the lightest 14-inch business flagship at ~1.0 kg — disappears in a backpack",
+      "Best-in-class ThinkPad keyboard plus TrackPoint; haptic touchpad is a real improvement over Gen 13",
+      "Dual-fan cooling runs whisper-quiet in Balanced mode even with 40 Chrome tabs open"
+    ],
+    "complaints": [
+      "Battery is a regression vs Gen 13 — Lunar Lake model lasted noticeably longer in CNET's testing",
+      "No performance uplift over Gen 13; Core Ultra 300 series is roughly a wash with Lunar Lake in office work",
+      "Config pricing at checkout balloons fast; the 'sale' price assumes stacking eCoupon codes",
+      "Speakers are mediocre bottom-firing units — thin on calls compared to OmniBook/Dell quad-speaker rivals",
+      "Only 32GB max RAM and it is soldered — road warriors wanting 64GB are out of luck"
+    ]
+  },
+  "design_philosophy": "Lenovo's flagship business ultraportable: carbon-fiber/magnesium chassis, classic black ThinkPad DNA, maximum lightness with full portage. The Gen 14's Space Frame re-engineering prioritises repairability and cooling over raw speed, targeting corporate fleets and road warriors who keep machines 3-5 years.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 7,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 8,
+    "ecosystem": 9,
+    "gaming": 3,
+    "productivity": 9,
+    "portability": 10,
+    "build_quality": 9.5,
+    "thermals_noise": 8.5,
+    "port_connectivity": 8.5,
+    "creative_work": 5,
+    "keyboard_trackpad": 9.5,
+    "webcam_speakers": 6,
+    "upgradability": 6.5,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 9,
+    "durability": 9
+  },
+  "rating_notes": "Ratings anchored on CNET's reviewed Gen 14 config (OLED tier, US$2,374) plus Ultrabookreview's Gen 14 review; matte OLED gives readability_dark 9 (no bleed, low min brightness). 512GB base storage is the only delta vs reviewed config (storage downgrade −0.5 upgradability-neutral). Image URL from lenovo.com CA product page CDN."
+}

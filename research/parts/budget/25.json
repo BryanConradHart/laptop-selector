@@ -1,0 +1,108 @@
+{
+  "id": "hp-15-u7-255u-24-1tb",
+  "line": "HP Laptop 15 (15s/15q chassis, 2026)",
+  "config_name": "HP 15.6\" FHD — Core Ultra 7 255U, 24GB DDR5, 1TB SSD, Jet Black",
+  "tier": "High",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 255U (12-core: 2P+8E+2LP, Arrow Lake-U refresh, NPU, 12 MB)",
+    "cpu_cores": 12,
+    "gpu": "Intel Graphics (4Xe Xe-LPG integrated) + NPU (~13 TOPS)",
+    "gpu_type": "integrated",
+    "ram_gb": 24,
+    "ram_type": "DDR5-5600 (1x24 GB SO-DIMM)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2",
+    "screen_size_in": 15.6,
+    "display_type": "FHD, panel type unstated (assume TN), anti-glare",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 250,
+    "weight_kg": 1.66,
+    "ports": "1x USB-C 5Gbps (data only), 2x USB-A 5Gbps, HDMI 1.4b, 3.5mm, AC smart pin",
+    "wireless": "Wi-Fi 6, BT 5.4",
+    "webcam": "HP True Vision camera with facial recognition",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Bilingual CA chiclet with numpad, no backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 7.5,
+    "real_world_hours": 6,
+    "notes": "Arrow Lake-U refresh is efficient; ~5.5-6.5h light use on the ~41 Wh cell."
+  },
+  "price": {
+    "cad": 1299.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19633877",
+    "confidence": "verified",
+    "notes": "$1,299.95 flat — top of the budget class; the Ultra 5 125H config at $999.97 is the better buy for most.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19633877",
+        "cad": 1299.95,
+        "est": false,
+        "name": "HP Laptop 15.6\" FHD - Intel Core Ultra 7-255U - 24GB DDR5 - 1TB SSD - Intel Graphics 4Xe - Windows 11 Home - Jet black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/196/19633/19633877.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "24GB DDR5-5600 is the most RAM of any laptop in this budget class — heavy tab/VM/app multitasking just works",
+      "Latest-gen Arrow Lake-U refresh runs cool and quiet with strong single-thread speed",
+      "1TB SSD plus 24GB makes a genuinely long-lived office workhorse",
+      "NPU is Copilot-ready for on-device AI features",
+      "Facial-recognition webcam login works well"
+    ],
+    "complaints": [
+      "$1,299.95 for a chassis that has a backlit option elsewhere but not here, and a probably-TN panel",
+      "USB-C is data-only yet again on HP's top budget trim — no PD, no DP",
+      "Intel Graphics 4Xe is weaker for games than the cheaper Ultra 5 125H's Arc iGPU",
+      "No keyboard backlight at $1,299.95",
+      "Same plasticky 15s shell and bloatware (Adobe offers, McAfee, OMEN hub leftovers) as the $850 SKU"
+    ]
+  },
+  "standouts": [
+    "24GB DDR5 + 1TB: the highest RAM ceiling in the budget class for future-proof multitasking"
+  ],
+  "dealbreakers": [
+    "At $1,299.95 the data-only USB-C, likely-TN panel, and missing backlight are hard to accept — the $999.97 Ultra 5 125H config beats it in more ways than it loses"
+  ],
+  "design_philosophy": "The spec-sheet max of HP's budget 15: newest U-series silicon, an unusual 24GB single-DIMM, and 1TB — numbers that top every column — mounted in the same unchanged 15s plastic chassis with the same neutered USB-C and an unstated panel. It is the clearest example of this whole class's pattern: HP spends on what appears in the filter panel, not on what you touch and look at.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 7,
+    "screen_quality": 3.5,
+    "readability_dark": 4.2,
+    "readability_bright": 3.6,
+    "ecosystem": 9,
+    "gaming": 2.2,
+    "productivity": 6.9,
+    "portability": 6,
+    "build_quality": 4.6,
+    "thermals_noise": 7.2,
+    "port_connectivity": 5,
+    "creative_work": 2.2,
+    "keyboard_trackpad": 5.3,
+    "webcam_speakers": 4.6,
+    "upgradability": 6,
+    "ai_ml": 2.5,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4.2
+  },
+  "rating_notes": "No pro review found (see SHARED-budget-misc.md). Platform-anchored on Core Ultra 7 255U (Arrow Lake-U refresh): efficient → battery 6.0 (best of HP group), NPU ~13 TOPS → ai_ml 2.5, 4Xe iGPU weaker than Arc 125H → gaming 2.2. 24GB RAM pushes productivity to 6.9. Panel unstated → assumed TN per BUDGET_LIST rule. BBY weight field (2.3 kg) is a carton error; real ~1.66 kg. Image URL best-guess BBY CDN pattern."
+}

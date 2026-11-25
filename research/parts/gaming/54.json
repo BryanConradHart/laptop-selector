@@ -1,0 +1,116 @@
+{
+  "id": "omen-max16-5060-16-1tb-ips165",
+  "line": "HP OMEN Max 16 (2025, 16-ah0000)",
+  "config_name": "OMEN Max 16 — Core Ultra 7 255HX, RTX 5060 Laptop 8GB, 16GB DDR5-5600, 1TB SSD, 16\" WQXGA 165Hz IPS",
+  "tier": "Entry",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-04",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 255HX (Arrow Lake-HX, 20c/20t: 8P + 12E, up to 5.2 GHz)",
+    "cpu_cores": 20,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7 (Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 16,
+    "ram_type": "DDR5-5600, 2x SODIMM (user-upgradeable to 64GB)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe Gen4/Gen5 M.2 (2 slots, PCIe5 main)",
+    "screen_size_in": 16,
+    "display_type": "IPS, 16:10, matte",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.81,
+    "ports": "2x Thunderbolt 4, 2x USB-A 10Gbps, HDMI 2.1, 2.5G Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 7 (Intel BE200), BT 5.4",
+    "webcam": "1080p + IR face unlock",
+    "speakers": "2-speaker + subwoofer",
+    "keyboard_notes": "Per-key RGB, beveled keys",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 5,
+    "notes": "83Wh. NBC same chassis: WiFi 5h50 on the thirstier 275HX/5090; 255HX + 5060 should reach ~5h light use, ~4h mixed."
+  },
+  "price": {
+    "cad": 2399.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19320067",
+    "confidence": "verified",
+    "notes": "BB regular $2,399.95 verified 2026-11-24 (sku 19320067). BBY customer pool 4.14/5, n=63.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19320067",
+        "cad": 2399.95,
+        "est": false,
+        "name": "HP OMEN MAX 16 16\" 165Hz Gaming Laptop - Intel Core Ultra 7 255HX - 16GB DDR5 - 1TB SSD - GeForce RTX 5060 - Windows 11 Home - Shadow Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/193/19320/19320067.jpg",
+  "professional": {
+    "avg_score": 7.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "82%",
+        "url": "https://www.notebookcheck.net/HP-Omen-Max-16-laptop-review-Super-fast-but-a-little-bit-too-hot.999164.0.html",
+        "quote": "Lesser SKUs of this model start with the Core Ultra 7 255HX CPU and RTX 5070 Ti GPU with a 2K IPS display for $2500 USD."
+      },
+      {
+        "outlet": "Tom's Hardware",
+        "score": "3.5/5",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/hp-omen-max-16-review",
+        "quote": "The HP Omen Max 16 offers good performance, stunning visuals and layered sound, but it's a lot to lug around."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest ticket into the OMEN Max chassis: 20-core Arrow Lake-HX + RTX 5060 under $2,400 CAD (BBY pool 4.14/5, n=63)",
+      "'besides the battery and SSD, the RAM can also be upgraded or replaced in the future... several levels above many other laptops that have soldered RAM' — BBY owner picked this SKU specifically for that",
+      "'Powerful laptop... when it comes to technology, having something powerful and capable is always a plus' (BBY owner, bought primarily for non-gaming work)",
+      "Matte 165Hz WQXGA IPS: no glossy reflections, easy on the eyes in bright rooms (line-wide BBY feedback)",
+      "Same metal build, anti-dust fan system, TB4/2.5G-Ethernet port set as the $5,000 flagship"
+    ],
+    "complaints": [
+      "16GB RAM is the only 16GB tier in the line — upgrade soon; it caps multitasking and AI use until then",
+      "8GB VRAM RTX 5060: 1440p ultra in new AAA titles needs DLSS/frame-gen to hold 100+ FPS",
+      "Battery ~4h mixed despite the efficient parts (BBY line reports 3-3.5h on heavier tiers)",
+      "Still a 2.81 kg + 2 lb brick gaming laptop — 'a lot to lug around' (Tom's) regardless of tier",
+      "Entry panel has no HDR and typical IPS backlight bleed; OLED siblings are dramatically better for media (BBY OLED owners)"
+    ]
+  },
+  "design_philosophy": "The value door into HP's flagship 16-inch line: buyers get the identical Arrow Lake-HX chassis, upgradeable RAM/SSD bays and port set as the halo configs while spend is trimmed to the RTX 5060 and 16GB. It is the OMEN Max interpretation of 'pay for the chassis and CPU, upgrade later' — dual SODIMMs and a spare M.2 make the RAM shortfall a cheap fix.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 8,
+    "screen_quality": 6.5,
+    "readability_dark": 6,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 5.5,
+    "productivity": 7.5,
+    "portability": 3,
+    "build_quality": 7.5,
+    "thermals_noise": 6,
+    "port_connectivity": 7.5,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 9,
+    "ai_ml": 7,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from the NBC/Tom's reviewed 5090/275HX OLED config (see SHARED-omen-max16.md). Deltas: GPU 5090→5060 = gaming −4.5 (three tiers), ai_ml −2.5 (24→8GB VRAM), battery +1.5 total with CPU; CPU 275HX→255HX = productivity −0.5, thermals_noise +1.0, battery +0.5; RAM 32→16GB = productivity −1.0, ai_ml −0.5 (offset by upgrade headroom: upgradability +0.5, the cheapest tier gains most from the dual-SODIMM design); panel OLED→165Hz IPS = screen_quality −2.0, readability_dark −1.0, readability_bright +0.5, creative_work −1.5."
+}

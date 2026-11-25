@@ -1,0 +1,102 @@
+{
+  "id": "proart-pz14-ht7407-x2elite-oled-tablet",
+  "line": "ASUS ProArt PZ14 (HT7407, 2026 Copilot+ creator tablet)",
+  "config_name": "ProArt PZ14 14\" 3K 144Hz Lumina Pro OLED tablet — Snapdragon X2 Elite (18-core, 80 TOPS NPU), 16GB RAM, 512GB SSD (retail tier unverified; ASUS CA lists up to 32GB/1TB)",
+  "tier": "Mid",
+  "category": "creator",
+  "ecosystem": "Windows",
+  "form_factor": "tablet",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X2 Elite (18 cores)",
+    "cpu_cores": 18,
+    "gpu": "Qualcomm Adreno (integrated in X2 Elite)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x soldered (unverified tier — ASUS CA lists 'up to 32GB')",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe (unverified tier — ASUS CA lists 'up to 1TB')",
+    "screen_size_in": 14,
+    "display_type": "ASUS Lumina Pro OLED, 16:10 touchscreen, anti-reflection coating",
+    "resolution": "3K (2880x1800 per line spec, unverified)",
+    "refresh_hz": 144,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": 1000,
+    "weight_kg": 0.79,
+    "ports": "2x USB4 Type-C, 3.5mm (per line spec); detachable Bluetooth keyboard + stand cover",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR (unverified)",
+    "speakers": "4-speaker (unverified)",
+    "keyboard_notes": "Detachable Bluetooth keyboard/stand cover (sold with tablet per ASUS CA); rated per accessory per SCHEMA",
+    "pen_support": "MPP 2.6 stylus support (ASUS Pen compatible)",
+    "os": "Windows 11 Home (ASUS recommends 11 Pro for business)"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 13,
+    "notes": "No verified capacity or pro battery test. HT1406 predecessor was 70.91Wh; Snapdragon Arm + OLED class typically 12-15h light use. Estimate, disclosed."
+  },
+  "price": {
+    "cad": 2699,
+    "currency": "CAD",
+    "store": "asus.com/ca",
+    "store_url": "https://www.asus.com/ca-en/laptops/for-creators/proart/proart-pz14-ht7407/",
+    "confidence": "estimated",
+    "notes": "ESTIMATE — no Canadian retail price verifiable from this machine on 2026-11-24: BBY search API DNS-unreachable, bestbuy.ca page timed out, DDG bot-walled, Amazon.ca unconfirmed, ASUS CA 'where to buy' lists offers via JS only. ASUS CA confirms the PZ14 (HT7407) is an active Canadian product.",
+    "offers": [
+      {
+        "store": "asus.com/ca",
+        "url": "https://www.asus.com/ca-en/laptops/for-creators/proart/proart-pz14-ht7407/",
+        "cad": 2699,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.asus.com/ca-en/laptops/for-creators/proart/proart-pz14-ht7407/"
+  },
+  "image_url": "https://dlcdnwebimgs.asus.com/gain/3724e2c3-d1c7-45a9-9d87-43d2db53b2dc/w800/fwebp",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Snapdragon X-series efficiency gives genuinely all-day OLED battery life on Copilot+ tablets — a step-change over the x86 PZ14 HT1401 it replaces [synthesized from Snapdragon X Copilot+ tablet owner consensus]",
+      "Bright anti-reflection OLED touchscreen with 144Hz VRR is excellent for pen sketching and color-accurate review work [synthesized from ASUS Lumina Pro OLED owner themes]",
+      "Detachable keyboard plus built-in kickstand gives flexible tablet/laptop/stand modes that creators like for on-location work [synthesized]",
+      "MPP 2.6 pen support with a slim light tablet body is popular for note-taking and markup [synthesized]",
+      "Fanless/quiet Arm operation and instant-wake mobile-like experience praised by mobile creators [synthesized]"
+    ],
+    "complaints": [
+      "Windows-on-Arm app-translation gaps remain the top complaint: some creator plugins, drivers, anti-cheat games, and niche x86 software run poorly or not at all [synthesized from r/ASUS / Snapdragon X owner themes]",
+      "Detachable keyboard cover typing and trackpad feel worse than a real clamshell at this price [synthesized]",
+      "Kickstand ergonomics on soft surfaces and wobble in laptop mode are recurring complaints on kickstand tablets [synthesized]",
+      "Soldered RAM/SSD with steep capacity tiers; Adreno GPU is weak for 3D/render-heavy creator work [synthesized from platform facts]",
+      "ASUS Arm driver/firmware quirks (sleep drain, MyASUS bloat) reported across ASUS Copilot+ lines [synthesized]"
+    ]
+  },
+  "design_philosophy": "The ProArt PZ14 is ASUS's creator-flavored Windows tablet: a thin Snapdragon-powered detachable with a factory-grade Lumina Pro OLED, pen support, and a Bluetooth keyboard/stand cover — aiming at mobile illustrators, photographers, and note-heavy creators rather than raw workstation power. This entry represents the current Canadian PZ14 (HT7407, Snapdragon X2 Elite), which has replaced the 2025 HT1406 (X Elite) on ASUS Canada's store; RAM/storage tier sold in CA could not be verified, so the config is a disclosed estimate.",
+  "ratings": {
+    "battery": 9,
+    "screen_size": 7,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 8,
+    "ecosystem": 6,
+    "gaming": 3.5,
+    "productivity": 6.5,
+    "portability": 9.2,
+    "build_quality": 8,
+    "thermals_noise": 8,
+    "port_connectivity": 5,
+    "creative_work": 7,
+    "keyboard_trackpad": 6,
+    "webcam_speakers": 6.5,
+    "upgradability": 2,
+    "ai_ml": 6,
+    "pen_touch": 9,
+    "repairability_service": 4,
+    "durability": 7.5
+  },
+  "rating_notes": "HONEST NULLS: no verifiable pro review found (NBC bot-walled, DDG captcha, Bing returned no review hits) — professional null. Price and RAM/storage tier are estimates (see price.notes). Release month estimated (Snapdragon X2 Elite generation). Ratings synthesized from Snapdragon X/X2 Copilot+ OLED tablet priors (Surface Pro 11 / Zenbook A14 class per SCHEMA calibration): Arm+OLED battery ~9, ecosystem capped ~6 for x86 app-translation caveats, gaming ~3.5 (Adreno iGPU, anti-cheat gaps), portability ~9 (0.79kg tablet + keyboard), ports capped low (2x USB4 only), creative_work 7 (superb panel, weak GPU), ai_ml 6 (80 TOPS NPU, unified memory, no CUDA). IP52 + MIL-STD durability per ASUS CA listing. All sentiment synthesized and disclosed — see SHARED-proart-pz14.md."
+}

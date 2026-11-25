@@ -1,0 +1,128 @@
+{
+  "id": "dell14plus-2in1-amd-a7-350-16-1tb",
+  "line": "Dell 14 Plus 2-in-1 AMD (2025)",
+  "config_name": "Dell 14 Plus 2-in-1 — Ryzen AI 7 350, 16GB LPDDR5X, 1TB SSD, 14\" touch (Copilot+ PC)",
+  "tier": "Entry",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 7 350 (Zen 5/5c, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "Radeon 860M (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe",
+    "screen_size_in": 14,
+    "display_type": "Touch (2K-class)",
+    "resolution": "2240x1400",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.55,
+    "ports": "2x USB-C, 1x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 6E/7, BT 5.3+",
+    "webcam": "1080p",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit, shallow travel",
+    "pen_support": "Active pen (sold separately)",
+    "os": "Windows 11"
+  },
+  "battery": {
+    "claimed_hours": 15,
+    "real_world_hours": 7.5,
+    "notes": "Estimated; Zen 5 APU slightly thirstier than Lunar Lake at similar battery class."
+  },
+  "price": {
+    "cad": 1129.97,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19611553",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 19611553 Open Box reg $1,299.97 / sale $1,129.97; refurb Excellent 19504156 $1,074.97; refurb Good 20211214 $1,014.97. New stock cleared — notable value pick today.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19611553",
+        "cad": 1129.97,
+        "est": false
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19504156",
+        "cad": 1074.97,
+        "est": false
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20211214",
+        "cad": 1014.97,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20247/20247669.png",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "CNET (Dell 14 Premium clamshell, brand context)",
+        "score": "7.2/10",
+        "url": "https://www.cnet.com/tech/computing/",
+        "quote": "one of the hardiest and heaviest 14-inch laptops I've ever encountered"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "~$1,100 for a Ryzen AI 7 350 Copilot+ convertible with 1TB — strongest price/perf tier of Dell's 2-in-1 range",
+      "Radeon 860M is the best iGPU in this class — light gaming noticeably better than the Intel siblings",
+      "50-TOPS NPU exceeds Copilot+ requirement",
+      "Multi-core Zen 5 beats Lunar Lake for heavier multitasking",
+      "Refurb units at $1,014-1,074 with warranty are near-unbeatable"
+    ],
+    "complaints": [
+      "Clearance/open-box stock: condition varies, limited units",
+      "Dell 2025 consumer line keyboard and speaker compromises carry over",
+      "Battery a step behind Lunar Lake equivalents",
+      "No pro review found for this exact CA config (scores honest-null)",
+      "16GB soldered, no upgrade path"
+    ]
+  },
+  "design_philosophy": "The AMD twin of Dell's 14\" consumer convertible: same chassis family, Zen 5 + Radeon 860M instead of Lunar Lake, sold in Canada as clearance after the line's refresh. Today it is the value pick of Dell's whole 2-in-1 range.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 6,
+    "screen_quality": 6.5,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 4.5,
+    "productivity": 7.5,
+    "portability": 7,
+    "build_quality": 7,
+    "thermals_noise": 7,
+    "port_connectivity": 6,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 4.5,
+    "webcam_speakers": 5,
+    "upgradability": 2,
+    "ai_ml": 6,
+    "pen_touch": 7,
+    "repairability_service": 4.5,
+    "durability": 6
+  },
+  "rating_notes": "No direct pro review found (bot-walls; see SHARED-dell-2in1.md). Inferred from CNET 16 Plus 2-in-1 anchor + platform deltas per SHARED file: Ryzen AI 7 350 → gaming +1 (860M > Arc 140V class at this TDP), productivity +0.5 (8c Zen 5 multi-core), battery -0.5, ai_ml +0.5 (50 TOPS). Open-box pricing noted.",
+  "standouts": [
+    "~$1,100 Copilot+ convertible with best iGPU of the line",
+    "Refurbs from $1,014"
+  ],
+  "dealbreakers": [
+    "Clearance/open-box condition variance"
+  ]
+}

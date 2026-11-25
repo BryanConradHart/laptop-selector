@@ -1,0 +1,111 @@
+{
+  "id": "zbook-power-16-g11-a-rtx1000ada-32-512",
+  "line": "HP ZBook Power 16 G11 A (2025, AMD mobile workstation)",
+  "config_name": "ZBook Power 16 G11 A — Ryzen 7 PRO 8845HS, NVIDIA RTX 1000 Ada 6GB + Radeon 780M, 32GB DDR5, 512GB SSD, 16\" WUXGA 400-nit",
+  "tier": "Entry",
+  "category": "creator",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 7 PRO 8845HS (8-core/16-thread, 3.8-5.1 GHz)",
+    "cpu_cores": 8,
+    "gpu": "NVIDIA RTX 1000 Ada 6GB (discrete) + AMD Radeon 780M (integrated)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5 SODIMM (upgradeable)",
+    "storage_gb": 512,
+    "storage_type": "PCIe Gen4 NVMe M.2 SSD (user-replaceable, second M.2 bay free)",
+    "screen_size_in": 16,
+    "display_type": "IPS anti-glare, 100% sRGB",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.65,
+    "ports": "2x USB4 Type-C, 2x USB-A, HDMI 2.1, RJ45, 3.5mm (SD reader optional by CTO)",
+    "wireless": "Wi-Fi 6E (Realtek RTL8852CE 2x2), BT 5.3",
+    "webcam": "5MP IR with shutter",
+    "speakers": "2-speaker + dual tweeter (Bang & Olufsen tuned)",
+    "keyboard_notes": "Backlit spill-resistant keyboard, numeric keypad, PointStick optional",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 13,
+    "real_world_hours": 7.5,
+    "notes": "~83Wh battery; same platform as 1TB twin. Estimate from Ryzen 8845HS efficiency and ZBook Power G10 owner reports."
+  },
+  "price": {
+    "cad": 2299,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19819545",
+    "confidence": "verified",
+    "notes": "Sale $2,299 (reg $3,013), verified via BBY page config selector 2026-11-24. Includes 3-year HP warranty.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19819545",
+        "cad": 2299,
+        "est": false,
+        "name": "HP ZBook Power 16 G11 A 16\" Mobile Workstation Business Laptop - AMD Ryzen 7 PRO 8845HS - 32GB DDR5 - 512GB SSD - RTX 1000 Ada - Windows 11 Pro - Grey"
+      }
+    ],
+    "official_url": "https://www.hp.com/ca-en/shop/product.aspx?p=9X1Z2UT"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19819/19819545.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "ISV-certified RTX 1000 Ada drivers run SolidWorks and Inventor smoothly at this price — no gaming-laptop driver gamble",
+      "Both RAM slots and both M.2 bays are user-accessible under one bottom cover — 512GB is just a starting point, add a second drive cheaply",
+      "Ryzen 7 PRO 8845HS is cool and efficient — much quieter on office loads than Intel HX workstation competitors",
+      "2x USB4 + HDMI 2.1 + RJ45 drives triple-display docked setups without dongles",
+      "3-year HP warranty and HP Wolf Security included at a price below most non-workstation laptops"
+    ],
+    "complaints": [
+      "16\" WUXGA 1920x1200 60Hz panel is the weak point — 400 nits and coarse pixels for a workstation at this price",
+      "RTX 1000 Ada 6GB bottlenecks large CAD assemblies and any local LLM work; VRAM fills quickly",
+      "512GB fills fast once CAD project caches and Adobe suites are installed (second M.2 bay recommended)",
+      "Chassis is thick and heavy (~2.6kg + large brick) compared to ZBook Firefly or EliteBook",
+      "Sustained all-core loads throttle the CPU as the Power chassis has lower power limits than ZBook Studio"
+    ]
+  },
+  "design_philosophy": "ZBook Power is HP's accessible mobile workstation: EliteBook/PRO business platform plus ISV-certified Ada graphics in a serviceable 16\" chassis, trading thinness and a premium panel for price, docking breadth, and repairability. This is the floor configuration of the line — same certified GPU and PRO platform as the 1TB twin with half the SSD, and a free second M.2 bay makes storage a $50 self-service fix. At the verified $2,299 CA sale price it is the cheapest route into an ISV-certified workstation in Canadian retail.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 7.5,
+    "screen_quality": 5.5,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 4.5,
+    "productivity": 8,
+    "portability": 4,
+    "build_quality": 7.5,
+    "thermals_noise": 7,
+    "port_connectivity": 8.5,
+    "creative_work": 6,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 6.5,
+    "upgradability": 8.5,
+    "ai_ml": 5,
+    "pen_touch": 0,
+    "repairability_service": 8.5,
+    "durability": 8
+  },
+  "rating_notes": "Ratings inferred from the 1TB twin (40.json, SKU 20069469) — identical CPU/GPU/RAM/display, storage-only delta; 512GB noted in creative_work complaints rather than rating change since second M.2 bay is free. No professional review found (NBC bot-walled, RTINGS no coverage, 0 BBY reviews) — synthesized per SCHEMA budget rule; see SHARED-zbook-power.md. Image URL follows BBY multimedia CDN pattern; not directly confirmed for this SKU.",
+  "standouts": [
+    "Cheapest ISV-certified mobile workstation in CA retail at $2,299 sale",
+    "Free second M.2 bay makes the 512GB tier a trivial upgrade"
+  ],
+  "dealbreakers": [
+    "6GB VRAM caps serious 3D/AI workloads",
+    "Dim 1200p 60Hz panel for a creator-targeted machine"
+  ]
+}

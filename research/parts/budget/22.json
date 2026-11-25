@@ -1,0 +1,106 @@
+{
+  "id": "hp-15-r7-7730u-16-512",
+  "line": "HP Laptop 15 (15s/15q chassis, 2026)",
+  "config_name": "HP 15.6\" FHD — Ryzen 7 7730U, 16GB DDR4, 512GB SSD, IPS 300-nit, Natural Silver",
+  "tier": "Mid",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 7 7730U (8-core/16-thread Zen 3, up to 4.5 GHz)",
+    "cpu_cores": 8,
+    "gpu": "AMD Radeon Graphics (Vega 8 integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "DDR4-3200 (SO-DIMM)",
+    "storage_gb": 512,
+    "storage_type": "NVMe M.2",
+    "screen_size_in": 15.6,
+    "display_type": "FHD IPS, micro-edge, anti-glare, 300 nits, 45% NTSC, FreeSync",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.66,
+    "ports": "1x USB-C 5Gbps (data only), 2x USB-A 5Gbps, HDMI 1.4b, SD reader, 3.5mm, AC smart pin",
+    "wireless": "Wi-Fi 6, BT 5.4",
+    "webcam": "HP True Vision 720p HD with dual-array mics",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Bilingual CA chiclet with numpad, backlit; fingerprint + facial recognition",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 5.5,
+    "notes": "41 Wh Li-ion polymer; Zen 3 8-core under load drains fast — ~5-6h light use, HP's 10h claim is optimistic."
+  },
+  "price": {
+    "cad": 849.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19779215",
+    "confidence": "verified",
+    "notes": "$849.99 flat — regular price already aggressive for an 8-core/16GB/IPS machine.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19779215",
+        "cad": 849.99,
+        "est": false,
+        "name": "HP Laptop 15.6\" FHD - AMD Ryzen 7 7730U - 16GB DDR4 - 512GB SSD - AMD Radeon Graphics - Windows 11 Home - Natural Silver"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19779/19779215.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Ryzen 7 7730U (8C/16T) is the strongest multicore CPU per dollar on the HP shelf — light video editing is actually possible",
+      "IPS 300-nit panel with FreeSync is clearly better than the TN units HP ships on other 15.6\" SKUs",
+      "Backlit keyboard plus fingerprint AND face login at $849 — features usually reserved for $1,100+ machines",
+      "16GB DDR4 in SO-DIMM slots, upgradeable; SSD and battery are standard-service parts",
+      "Clean, minimal design that looks a class above its price"
+    ],
+    "complaints": [
+      "USB-C is data-only — no power delivery, no monitor output, which is HP's recurring budget sin",
+      "41 Wh battery: Zen 3 under load gives up ~5h, well short of the claimed 10h",
+      "45% NTSC colour is still washed out for photo work despite the IPS label",
+      "720p webcam is soft; HP bundles McAfee and OMEN-garbage bloatware on a non-gaming laptop",
+      "Thin plastic lid and a hinge that lets the screen rock while typing"
+    ]
+  },
+  "standouts": [
+    "Best CPU multicore-per-dollar in the HP group: 8C/16T Zen 3 + 16GB + IPS + backlit kbd under $900"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "HP's value play: take the last-generation 8-core Zen 3 platform — still a multicore monster for office work — and wrap it in the plain 15.6\" chassis with the nicer IPS panel and a backlit keyboard to justify shelf prominence. The cost cuts hide in the 41 Wh battery, the neutered USB-C, and the 45% NTSC panel. For raw compute-per-dollar it is the smartest of the four HP 15 configs.",
+  "ratings": {
+    "battery": 5.6,
+    "screen_size": 7,
+    "screen_quality": 4.5,
+    "readability_dark": 4.5,
+    "readability_bright": 4.2,
+    "ecosystem": 9,
+    "gaming": 2,
+    "productivity": 6.6,
+    "portability": 6,
+    "build_quality": 4.6,
+    "thermals_noise": 6.5,
+    "port_connectivity": 5.2,
+    "creative_work": 2.2,
+    "keyboard_trackpad": 5.8,
+    "webcam_speakers": 4.5,
+    "upgradability": 5.5,
+    "ai_ml": 1.3,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4.2
+  },
+  "rating_notes": "No pro review found for this CA SKU (see SHARED-budget-misc.md). Platform-anchored on Ryzen 7 7730U (same calibration as the Aspire Go 15 7730U anchor, 10.json): productivity 6.6, gaming 2.0, warm under load. Verified IPS 300-nit/45% NTSC panel lifts screen_quality above TN-class siblings. BBY weight field (5.05 kg) is a shipping-carton error; real chassis ~1.66 kg per HP spec. Image URL best-guess BBY CDN pattern."
+}

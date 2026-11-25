@@ -1,0 +1,118 @@
+{
+  "id": "legion5-151-ips-wuxga-255hx-5050-16-1tb",
+  "line": "Lenovo Legion 5i 15.1 (Gen 10, 2025, IPS WUXGA)",
+  "config_name": "Legion 5i 15.1 — Core Ultra 7 255HX / RTX 5050 8GB, 16GB DDR5, 1TB SSD, 15.1\" WUXGA IPS 165Hz",
+  "tier": "Entry",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 255HX (Arrow Lake-HX, 20c/20t)",
+    "cpu_cores": 20,
+    "gpu": "NVIDIA GeForce RTX 5050 Laptop 8GB GDDR7 (full ~115W Legion TGP, MUX)",
+    "gpu_type": "discrete",
+    "ram_gb": 16,
+    "ram_type": "DDR5 (2x SODIMM, upgradeable to 64GB)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (2 slots: 2280 + 2242)",
+    "screen_size_in": 15.1,
+    "display_type": "IPS anti-glare (WUXGA, 165 Hz)",
+    "resolution": "1920x1200",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.14,
+    "ports": "2x USB-C (DP, PD), 3x USB-A, HDMI 2.1, RJ45 GbE, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "5MP with electronic shutter",
+    "speakers": "Stereo",
+    "keyboard_notes": "Chiclet w/ numpad, 1.6mm travel, 24-zone backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 7,
+    "notes": "80 Wh. Inferred from NBC-tested Legion 5 Gen 10 chassis (AMD 9.5h WiFi @150nits); Arrow Lake-HX 255HX more efficient than Raptor-HX. ~1h under load."
+  },
+  "price": {
+    "cad": 2199.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19253367",
+    "confidence": "verified",
+    "notes": "BBY API-verified 2026-11-24 (LEGION_LIST.md).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19253367",
+        "cad": 2199.95,
+        "est": false,
+        "name": "Lenovo Legion 5i 15.1\" 165Hz Gaming Laptop - Intel Core Ultra 7 255HX - 16GB DDR5 - 1TB SSD - RTX 5050 - Windows 11 Home - Eclipse Black"
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/legion-laptops/legion-5-series/"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19253/19253367.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87% (closest-tested chassis: Legion 5 15 Gen 10)",
+        "url": "https://www.notebookcheck.net/The-best-mainstream-gamer-in-2025-Lenovo-Legion-5-15-Laptop-Review.1047975.0.html",
+        "quote": "Lenovo's Legion 5 15 is a very good mainstream gamer, which does not reveal any major issues in our review. The chassis is functional with sufficient ports, a very comfortable keyboard, as well as very good maintenance options."
+      }
+    ],
+    "note": "No pro review found for this exact IPS/RTX 5050 config (honest disclosure per SHARED-legion5-ips.md); quoted review is the same Gen 10 chassis with OLED + RTX 5060. Ratings inferred, disclosed."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest way into the Legion 5 Gen 10 chassis: same full-size cooling, MUX-switch GPU and comfortable 1.6mm-travel numpad keyboard as the $3,600 tiers",
+      "IPS panel has zero PWM flicker (NBC lists PWM as a con of the OLED sibling) — the pick for flicker-sensitive users",
+      "Anti-glare matte panel handles office and outdoor light far better than the glossy OLED tiers",
+      "Best-in-class maintenance for the price: 2x SODIMM to 64GB, 2x M.2 slots, screwed battery, official Lenovo maintenance manual",
+      "20-core Arrow Lake-HX CPU is a productivity outlier at this price; Wi-Fi 7 + 5MP webcam with hardware eShutter"
+    ],
+    "complaints": [
+      "Entry WUXGA IPS panel is the line's weak point — Lenovo spec-sheets list 300-nit/45% NTSC variants for this tier, so colors and brightness are visibly dull vs the 500-nit WQXGA panels",
+      "RTX 5050 is the weakest Blackwell part: fine at 1080p/1200p but you'll lean on DLSS in new AAA titles",
+      "16GB RAM at checkout — plan an upgrade immediately (2x SODIMM slots make it cheap though)",
+      "No card reader; speakers 'could be better' (NBC cons for the chassis)",
+      "Fans clearly audible in Performance mode gaming (~44-50 dB(A) measured on the chassis); Legion Gen-10 owner threads report warranty friction and occasional fan-bearing grind on the platform"
+    ]
+  },
+  "standouts": [
+    "Full Legion 5 Gen 10 chassis (MUX GPU, great keyboard, easy upgrades) at the line's lowest price",
+    "Flicker-free matte IPS panel — a real readability_dark/readability_bright advantage over the OLED tiers"
+  ],
+  "dealbreakers": [
+    "Entry-tier display: likely 300-nit/45% NTSC WUXGA panel — the weakest screen in the whole Legion 5 lineup"
+  ],
+  "design_philosophy": "Lenovo's mainstream Legion 5 line sells one excellent chassis at many price points; this is the floor of that ladder — full TGP GPU and full maintenance access with the cost cut found in the panel and the smallest Blackwell GPU. It fits buyers who want Legion thermals and upgradability on a budget and will tolerate a basic IPS display.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 6.5,
+    "screen_quality": 4.3,
+    "readability_dark": 6.5,
+    "readability_bright": 5.5,
+    "ecosystem": 9,
+    "gaming": 5,
+    "productivity": 8.3,
+    "portability": 7,
+    "build_quality": 7.8,
+    "thermals_noise": 6.2,
+    "port_connectivity": 7,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 8.3,
+    "webcam_speakers": 6.3,
+    "upgradability": 8.5,
+    "ai_ml": 5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 6.8
+  },
+  "rating_notes": "All ratings inferred from the NBC-reviewed Legion 5 Gen 10 chassis (87%, OLED tiers, SHARED-legion5-oled.md) with IPS panel deltas from SHARED-legion5-ips.md: WUXGA IPS (300-nit/45%NTSC likely per Lenovo spec-sheet variants) -> screen_quality 4.3, readability_bright down, readability_dark up vs OLED (no PWM); RTX 5050 -> gaming 5.0; 255HX Arrow Lake-HX -> battery 7.0 (vs 5.5 for Raptor-HX tiers). Panel variant per-SKU unverified - disclosed. Image URL follows standard BBY CDN pattern, not individually verified."
+}

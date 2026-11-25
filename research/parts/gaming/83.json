@@ -1,0 +1,123 @@
+{
+  "id": "legion-pro5-275hx-5070ti-64-2tb",
+  "line": "Lenovo Legion Pro 5 16 (Gen 10, 2025)",
+  "config_name": "Legion Pro 5 16\" WQXGA 240Hz OLED — Core Ultra 9 275HX / RTX 5070 Ti 12GB, 64GB DDR5, 2TB SSD (+1TB dock set)",
+  "tier": "High",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (24-core: 8P+16E, Arrow Lake-HX)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop 12GB GDDR7 (up to 140W TGP)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "DDR5-5600 (2x SODIMM, upgradeable)",
+    "storage_gb": 2000,
+    "storage_type": "NVMe PCIe Gen4 (dual M.2 slots)",
+    "screen_size_in": 16,
+    "display_type": "OLED, glossy (WQXGA tier assumed OLED per tested config)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 900,
+    "weight_kg": 2.42,
+    "ports": "1x USB4 40Gbps/TB (DP+PD), 2x USB-A 3.2 Gen2, 2x USB-A 3.2 Gen1, HDMI 2.1, 1GbE RJ45, 3.5mm",
+    "wireless": "Wi-Fi 6E/7, BT 5.2+",
+    "webcam": "5MP",
+    "speakers": "stereo (2x)",
+    "keyboard_notes": "TrueStrike 24-zone RGB backlit, numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 4,
+    "notes": "80Wh; 'battery life is typical for the class' (Back2Gaming). ~5h light browsing, ~1-1.5h gaming."
+  },
+  "price": {
+    "cad": 5549,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20105506",
+    "confidence": "verified",
+    "notes": "Regular $7,929; sale $5549 VERIFIED via BBY API 2026-11-24 (sku 20105506).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20105506",
+        "cad": 5549,
+        "est": false,
+        "name": "Lenovo Legion Pro 5 16\" WQXGA 240Hz Gaming Laptop, Intel Ultra 9 275HX, GeForce RTX 5070 Ti, 64GB DDR5, 2TB SSD+1TB Dock Set, 24-Zone RGB Backlit Keyboard, Win 11, Eclipse Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20105/20105506.jpeg",
+  "professional": {
+    "avg_score": 8.68,
+    "reviews": [
+      {
+        "outlet": "Ultrabook Review",
+        "score": "85%",
+        "url": "https://www.ultrabookreview.com/73868-lenovo-legion-pro-5i-gen10-review/",
+        "quote": "It's built well and clean looking, offers solid ergonomics, decent inputs, and a beautiful OLED display that you won't normally find in this segment."
+      },
+      {
+        "outlet": "Back2Gaming",
+        "score": "87%",
+        "url": "https://www.back2gaming.com/review/lenovo-legion-pro-5i-2025/",
+        "quote": "strong raster performance from the RTX 5070 Ti Laptop GPU, excellent motion clarity from the 240Hz 2560×1600 OLED, and a cooling design that sustains clocks without resorting to gimmicks."
+      },
+      {
+        "outlet": "91mobiles",
+        "score": "87%",
+        "url": "https://www.91mobiles.com/reviews/lenovo-legion-pro-5i-gen-10-review/",
+        "quote": "it focuses on nailing the fundamentals: strong performance, a fantastic display, sturdy build quality, and a keyboard that's genuinely comfortable to use."
+      }
+    ],
+    "note": "Pro scores are for the tested Ultra 9 275HX / RTX 5070 Ti / 32GB config (NBC collection 86.8%); this tier's ratings inferred per SHARED-legion-pro5.md deltas."
+  },
+  "user_sentiment": {
+    "praises": [
+      "OLED 240Hz panel at a sub-$4,500 sale price is the segment standout — inky blacks and motion clarity rare at this tier",
+      "RTX 5070 Ti at up to 140W TGP handles WQXGA max settings; Ultrabook Review notes the GPU is \"properly tamed in this chassis\"",
+      "Dual SODIMM + dual M.2 (Gen5-capable) — easy user upgrades to 64GB/4TB+, unlike soldered-RAM rivals",
+      "TrueStrike keyboard widely called genuinely comfortable for long gaming/work sessions",
+      "PD charging + Thunderbolt/USB4 make it usable for office duty despite the gaming skin"
+    ],
+    "complaints": [
+      "Some Gen 10 Legion 50-series units hit nvlddmkm TDR black-screen crashes during gaming (platform-wide Legion reports); a few needed RMA",
+      "Keyboard deck gets hot and fans audible in Performance mode under sustained load",
+      "Battery is weak — roughly 4h light use, ~1h gaming; the laptop is a desk machine",
+      "Speakers are modest and there are no rear ports; everything clusters on sides/back-low",
+      "Regular $7,069 CAD is inflated — only the deep Lenovo/BBY sale cadence makes the line competitive; some OLED units reported red/subpixel bleed"
+    ]
+  },
+  "design_philosophy": "Lenovo's 'mainstream affordable Legion Pro' bet: take the Pro 7 chassis language, keep the strong 140W-class GPU cooling and comfortable TrueStrike keyboard, and differentiate with an OLED panel rarely seen at this tier — while trimming premium extras (rear I/O, big speaker arrays). This 275HX/5070 Ti/32GB/2TB tier is the sweet-spot config the professional reviewers tested and recommend: standouts = OLED 240Hz + upgradeable RAM/storage; dealbreakers for some = battery life and sale-price-dependent value.",
+  "ratings": {
+    "battery": 4,
+    "screen_size": 7.5,
+    "screen_quality": 8.8,
+    "readability_dark": 8.5,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 8.7,
+    "productivity": 9,
+    "portability": 3.5,
+    "build_quality": 8.3,
+    "thermals_noise": 6.5,
+    "port_connectivity": 7.5,
+    "creative_work": 7.8,
+    "keyboard_trackpad": 8,
+    "webcam_speakers": 5.5,
+    "upgradability": 8,
+    "ai_ml": 7.5,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Inferred from anchor 80 per SHARED-legion-pro5.md: +0.5 productivity / +0.5 ai_ml for 64GB. RAM is user-installable anyway — pay-gap vs 32GB tier rarely worth it."
+}

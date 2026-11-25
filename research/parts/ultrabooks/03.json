@@ -1,0 +1,115 @@
+{
+  "id": "x1c14-u7-32-512-ips",
+  "line": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition (2026, Panther Lake)",
+  "config_name": "ThinkPad X1 Carbon Gen 14 — Core Ultra 7 356H, 32GB LPDDR5, 512GB SSD, 14\" WUXGA IPS 500-nit",
+  "tier": "Base",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 356H (Panther Lake, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "Intel Graphics (4 Xe cores) integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5-8533 soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 2280 NVMe Gen4",
+    "screen_size_in": 14,
+    "display_type": "IPS WUXGA anti-glare",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 0,
+    "weight_kg": 0.98,
+    "ports": "2x TB4, 1x USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7 (Intel BE201), BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker downward firing",
+    "keyboard_notes": "ThinkPad keyboard 1.5mm travel, TrackPoint",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 16,
+    "real_world_hours": 11,
+    "notes": "58Wh; IPS panel runs ~1.5h longer than OLED per Ultrabookreview IPS-vs-OLED note."
+  },
+  "price": {
+    "cad": 2649,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159",
+    "confidence": "estimated",
+    "notes": "IPS tier ~CAD350 below OLED; Lenovo CA.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159",
+        "cad": 2649,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159"
+  },
+  "image_url": "https://p2-ofp.static.pub/ShareResource/optimized/pdp/thinkpad/thinkpad-x1-series/len101t0159/thinkpad-x1-carbon-gen-14-aura-edition-14-intel-hero.png",
+  "professional": {
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.3/10",
+        "url": "https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-14-review-flagship-ultraportable-repairable/",
+        "quote": "Still incredibly compact and light... Battery life is shorter than last year's."
+      },
+      {
+        "outlet": "Ultrabookreview",
+        "score": "recommended",
+        "url": "https://www.ultrabookreview.com/77001-lenovo-thinkpad-x1carbon-macbook-yoga-zenbook/",
+        "quote": "Choosing between the IPS and OLED panels will go on to make a notable difference in runtimes as well."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "500-nit matte IPS is flicker-free and great for all-day spreadsheet work",
+      "IPS adds real battery runtime over the OLED tier — best pick for long-haul flights",
+      "~980 g: the lightest config of the line",
+      "Full ThinkPad port set including HDMI and USB-A, no dongles for office docks",
+      "Space Frame repairability: SSD and battery are user-replaceable"
+    ],
+    "complaints": [
+      "1920x1200 on a $2,600 laptop feels under-specified next to every rival's 2.8K OLED",
+      "60Hz only — scrolling text less smooth than 120Hz OLED tier",
+      "IPS contrast is ordinary; blacks grey in dark rooms",
+      "Battery still trails last year's Gen 13 despite the efficient panel",
+      "Speakers remain weak; most owners use headsets"
+    ]
+  },
+  "design_philosophy": "The fleet-friendly X1 Carbon tier: matte IPS for flicker-sensitive users and maximum runtime, same Space Frame repairable chassis and 980 g weight as the OLED models.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 7,
+    "screen_quality": 6.5,
+    "readability_dark": 7,
+    "readability_bright": 8.5,
+    "ecosystem": 9,
+    "gaming": 3,
+    "productivity": 8.5,
+    "portability": 10,
+    "build_quality": 9.5,
+    "thermals_noise": 8.5,
+    "port_connectivity": 8.5,
+    "creative_work": 4,
+    "keyboard_trackpad": 9.5,
+    "webcam_speakers": 6,
+    "upgradability": 6.5,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 9,
+    "durability": 9
+  },
+  "rating_notes": "Inferred from CNET/Ultrabookreview Gen 14 OLED review: IPS panel −2.5 screen_quality (1200p/60Hz vs 2.8K 120Hz OLED), +0.5 battery (Ultrabookreview notes IPS runs notably longer), −0.5 productivity (lower res desktop). Image from lenovo.com CA CDN."
+}

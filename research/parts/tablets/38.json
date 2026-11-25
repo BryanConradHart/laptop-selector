@@ -1,0 +1,119 @@
+{
+  "id": "tab-s10ultra-12-1tb",
+  "line": "Samsung Galaxy Tab S10 Ultra (2024)",
+  "config_name": "Galaxy Tab S10 Ultra — Dimensity 9300+, 12GB RAM, 1TB, 14.6\" Dynamic AMOLED 2X + Slim Keyboard Cover (priced in)",
+  "tier": "Flagship",
+  "category": "tablets-ios-android",
+  "ecosystem": "Android",
+  "form_factor": "tablet",
+  "release": "2024-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "MediaTek Dimensity 9300+ (8-core: 4x3.4GHz Cortex-X4 + 4x2.0GHz A720)",
+    "cpu_cores": 8,
+    "gpu": "Immortalis-G720 MC12 (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 12,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 1000,
+    "storage_type": "UFS 4.0 soldered + microSD (up to 1.5TB)",
+    "screen_size_in": 14.6,
+    "display_type": "Dynamic AMOLED 2X (glossy, anti-reflective)",
+    "resolution": "2960x1848",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 930,
+    "brightness_hdr_nits": 930,
+    "weight_kg": 0.718,
+    "ports": "1x USB-C 3.2 (DP out, DeX), pogo pins for keyboard cover — no 3.5mm, no HDMI",
+    "wireless": "Wi-Fi 6E (some units Exynos-modem variance), BT 5.3",
+    "webcam": "12MP ultra-wide front (landscape) + 13MP/6MP rear",
+    "speakers": "Quad AKG (larger drivers than S10+)",
+    "keyboard_notes": "Slim Keyboard Cover for S10 Ultra/S9 Ultra (BBY 18469772) included in price: larger footprint, scissor keys, NO trackpad (trackpad only on the pricier Book Cover Keyboard); pogo-pin powered",
+    "pen_support": "S Pen INCLUDED in box (Bluetooth air actions, IP68)",
+    "os": "Android 14 (One UI 6.1) at launch; 7 years OS + security updates promised; Samsung DeX desktop mode"
+  },
+  "battery": {
+    "claimed_hours": 12,
+    "real_world_hours": 10.5,
+    "notes": "11,200mAh. Lab Wi-Fi-web ~13-14h; users report ~10-11h mixed real use on the big panel. 45W charging."
+  },
+  "price": {
+    "cad": 2286,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/18390514",
+    "confidence": "verified",
+    "notes": "Tab S10 Ultra 1TB $2,148.97 (BBY SKU 18390514) + Slim Keyboard S10 Ultra/S9 Ultra $136.97 (BBY 18469772) = $2,285.94 cover-in price. Cover-only price: $136.97. Only the 1TB tier is stocked new — 256/512GB are open-box/refurb only per BBY (see ANDROID_LIST.md).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/18390514",
+        "cad": 2148.97,
+        "est": false,
+        "name": "Samsung Galaxy Tab S10 Ultra 14.6-inch 1TB, Wi-Fi, 12GB RAM with S Pen - Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/183/18390/18390514.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "no numeric score retrieved",
+        "url": "https://www.notebookcheck.net/ (Tab S10 Ultra review exists but exact article URL unresolvable — guessed numeric IDs redirect; bot-walled 2026-11-24)",
+        "quote": ""
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "The 14.6\" AMOLED is the biggest and one of the best tablet displays ever made — DeX on it genuinely replaces a small laptop monitor (r/tabletcomputers)",
+      "1TB + microSD: a full video-editing and media archive in a 718g slate",
+      "S Pen in the box; on a canvas this size the air actions and sketching get real daily use",
+      "Galaxy phone parity + Second Screen: users pair it as a wireless portable monitor for their PC",
+      "Quad speakers on the Ultra are the loudest, most balanced tablet speakers short of an iPad Pro"
+    ],
+    "complaints": [
+      "At $2,300 with keyboard it is laptop money for an OS where half the apps won't window in DeX",
+      "Slim Ultra cover has no trackpad — buy the premium Book Cover Keyboard or carry a mouse",
+      "Too big for one-handed/couch use; many owners say the S10+ was the smarter size",
+      "Same Dimensity 9300+ as the S10+ — the flagship tax buys glass, not silicon",
+      "Only the 1TB tier is stocked new at CA retail now; cheaper tiers are open-box/refurb roulette"
+    ]
+  },
+  "design_philosophy": "The maximalist tablet: Samsung's statement that a tablet can BE the big-screen machine rather than a companion. Same silicon as the S10+ — the Ultra tax buys the spectacular 14.6\" panel, bigger speakers, and this 1TB capacity tier, making it the DeX-as-laptop-replacement flagship even though Android's app gap is most visible at this price.",
+  "ratings": {
+    "battery": 8.8,
+    "screen_size": 9,
+    "screen_quality": 9.4,
+    "readability_dark": 6.5,
+    "readability_bright": 8.5,
+    "ecosystem": 7,
+    "gaming": 6.5,
+    "productivity": 7.1,
+    "portability": 6.5,
+    "build_quality": 9,
+    "thermals_noise": 8.5,
+    "port_connectivity": 4,
+    "creative_work": 7,
+    "keyboard_trackpad": 6,
+    "webcam_speakers": 8.5,
+    "upgradability": 4,
+    "ai_ml": 5.5,
+    "pen_touch": 9.5,
+    "repairability_service": 5.5,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings inferred from the NBC-reviewed S10+ anchor per SHARED-tab-s10.md cross-config deltas: screen_size 9.0 (14.6\"), portability −1.5 (718g), battery +0.5 (11.2Ah cell), productivity +0.3 (DeX real estate), keyboard_trackpad +0.5 (larger Ultra cover), creative_work +0.5 (1TB headroom + largest canvas). No verbatim pro score retrievable (bot-walls, disclosed). Image URL is BBY CDN SKU guess.",
+  "standouts": [
+    "Largest premium tablet display in class — DeX on 14.6\" is the closest Android gets to a desktop",
+    "1TB + microSD: no other flagship tablet ships this much local storage new",
+    "Best tablet speakers short of iPad Pro, with S Pen included"
+  ],
+  "dealbreakers": [
+    "$2,286 with keyboard is MacBook Pro money for a platform with a real desktop-app gap",
+    "Priced-in Slim cover has no trackpad"
+  ]
+}

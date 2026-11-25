@@ -1,0 +1,115 @@
+{
+  "id": "legion15-153-ips-r7-250-5060-32-1tb",
+  "line": "Lenovo Legion 15 (15.3\", 2026 rebrand, IPS)",
+  "config_name": "Legion 15 — Ryzen 7 250 / RTX 5060 8GB, 32GB DDR5, 1TB SSD, 15.3\" WQXGA IPS 165Hz",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-02",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 7 250 (Zen 5 mobile, 8c/16t)",
+    "cpu_cores": 8,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7 (~115W Legion TGP, MUX)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5 (2x SODIMM, upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (2 slots)",
+    "screen_size_in": 15.3,
+    "display_type": "IPS anti-glare (WQXGA, 165 Hz)",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.1,
+    "ports": "USB-C w/ USB4 (AMD model), 3x USB-A, HDMI, RJ45 GbE, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "5MP with electronic shutter",
+    "speakers": "Stereo",
+    "keyboard_notes": "Chiclet w/ numpad, 1.6mm travel, backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 8.5,
+    "notes": "~80 Wh class. NBC measured ~9.5h WiFi @150nits on the AMD Legion 5 Gen 10 chassis; Ryzen 7 250 similar class."
+  },
+  "price": {
+    "cad": 3099,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20015034",
+    "confidence": "verified",
+    "notes": "Regular $4,429 / sale $3,099, BBY API-verified 2026-11-24 (LEGION_LIST.md).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20015034",
+        "cad": 3099,
+        "est": false,
+        "name": "Lenovo Legion 15.3\" WQXGA 165Hz Gaming Laptop,AMD Ryzen 7 250,32GB DDR5,1TB SSD+1TB Docking Station,NVIDIA GeForce RTX 5060 8GB GDDR7,1-Zone RGB Backlit,Win 11 Pro,Eclipse Black"
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/legion-laptops/legion-5-series/"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20015/20015034.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87% (closest-tested chassis: AMD Legion 5 15AHP G10)",
+        "url": "https://www.notebookcheck.net/The-best-mainstream-gamer-in-2025-Lenovo-Legion-5-15-Laptop-Review.1047975.0.html",
+        "quote": "The chassis is functional with sufficient ports, a very comfortable keyboard, as well as very good maintenance options."
+      }
+    ],
+    "note": "No pro review found for the 2026 'Legion 15' rebrand (new product, honest disclosure per SHARED-legion5-ips.md); ratings inferred from the NBC AMD Legion 5 Gen 10 chassis review (87%)."
+  },
+  "user_sentiment": {
+    "praises": [
+      "32GB RAM standard on the AMD 5060 tier — the no-upgrade-needed version of the 2026 Legion 15 value play",
+      "AMD Ryzen 7 250 efficiency gives it the best battery of the non-OLED 15\" Legion range (NBC chassis anchor ~9.5h WiFi)",
+      "15.3\" WQXGA 165Hz matte IPS: flicker-free, ~500-nit class, good outdoor readability vs glossy OLED",
+      "USB4 retained on AMD models (Intel 5i siblings lack it per NBC); Wi-Fi 7 + 5MP eShutter webcam",
+      "Dual SODIMM to 64GB, dual M.2, screwed battery — best serviceability in the segment"
+    ],
+    "complaints": [
+      "$400 sale premium over the 16GB twin is worse value than buying 16GB + a DIY RAM kit",
+      "RTX 5060 caps native-ultra AAA gaming at 1600p; DLSS becomes routine",
+      "IPS contrast/HDR well below OLED siblings; no card reader; speakers mediocre",
+      "New 2026 rebrand: little long-term reliability data (Legion platform has had nvlddmkm TDR and fan-bearing reports)",
+      "Lenovo warranty/LENOVEO friction is a recurring theme in Legion owner threads"
+    ]
+  },
+  "standouts": [
+    "32GB + AMD efficiency + USB4 at $3,099 sale — the do-everything 15\" Legion without OLED trade-offs"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "The 32GB tier of the 2026 Legion 15: Lenovo's bet that mainstream buyers want a big matte high-refresh panel, generous RAM, and AMD efficiency in one serviceable chassis. It forgoes OLED's drama for reliability, brightness, and price headroom — the sensible default of the rebranded line.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 6.7,
+    "screen_quality": 6.3,
+    "readability_dark": 6.8,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 6.4,
+    "productivity": 8.3,
+    "portability": 7,
+    "build_quality": 7.8,
+    "thermals_noise": 6.5,
+    "port_connectivity": 7.3,
+    "creative_work": 6,
+    "keyboard_trackpad": 8.3,
+    "webcam_speakers": 6.3,
+    "upgradability": 8.5,
+    "ai_ml": 5.2,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 6.8
+  },
+  "rating_notes": "Ratings inferred from NBC AMD Legion 5 15AHP G10 (87%) per SHARED-legion5-oled.md + IPS deltas per SHARED-legion5-ips.md. Identical to 177.json except 32GB RAM: +0.5 productivity / +0.3 ai_ml. New 2026 product with no dedicated pro review — disclosed. Image URL follows standard BBY CDN pattern, not individually verified."
+}

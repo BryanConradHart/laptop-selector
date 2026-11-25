@@ -1,0 +1,109 @@
+{
+  "id": "zb14-sdx-16-256-oled",
+  "line": "ASUS Zenbook 14 (Snapdragon X, Copilot+)",
+  "config_name": "Zenbook 14 — Snapdragon X (X1-26100), 16GB LPDDR5X, 256GB SSD, 14\" OLED, 30h claimed",
+  "tier": "Base",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X (X1-26100, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "Qualcomm Adreno integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 256,
+    "storage_type": "M.2 NVMe",
+    "screen_size_in": 14,
+    "display_type": "OLED 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 600,
+    "weight_kg": 1.26,
+    "ports": "2x USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "1080p FHD + IR",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit chiclet",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 30,
+    "real_world_hours": 14,
+    "notes": "BBY lists 30h claim. Snapdragon X1 efficiency: expect 13-15h light mixed use."
+  },
+  "price": {
+    "cad": 1199.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-14-14-copilot-pc-laptop-snapdragon-x-16gb-lpddr5x-256gb-ssd-windows-11-30h-battery-life-arctic-blue/19994917",
+    "confidence": "verified",
+    "notes": "BBY direct SKU 19994917, reg $1,499.99 sale $1,199.99 (2026-11-24). 8GB/256GB twin SKU 19994916 at $999.99 (see entry 91).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-14-14-copilot-pc-laptop-snapdragon-x-16gb-lpddr5x-256gb-ssd-windows-11-30h-battery-life-arctic-blue/19994917",
+        "cad": 1199.99,
+        "est": false,
+        "name": "ASUS Zenbook 14 14\" Copilot+ PC Laptop - Snapdragon X - 16GB LPDDR5X - 256GB SSD - Windows 11 - 30h Battery Life - Arctic Blue"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19994/19994917.jpg",
+  "professional": {
+    "avg_score": 7.5,
+    "reviews": [
+      {
+        "outlet": "Ultrabookreview",
+        "score": "recommended",
+        "url": "https://www.ultrabookreview.com/77189-asus-zenbook-14-ux3480aa-review/",
+        "quote": "Asus offers it with Intel, AMD or Qualcomm specs, all tucked inside the same chassis with similar perks and features."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Sub-$1,200 for a 14-inch OLED Copilot+ PC is standout BF pricing",
+      "Excellent standby and cool, fanless-feeling light use",
+      "30h claimed battery; light users report two workdays off the charger",
+      "NPU enables full Copilot+ feature set",
+      "Silent operation for office work"
+    ],
+    "complaints": [
+      "Windows-on-ARM app-translation quirks remain (some apps/games/drivers don't run)",
+      "Only 256GB storage on this tier",
+      "X1-class Snapdragon is slow in heavily multithreaded x86-compiled tasks",
+      "Occasional PWM flicker reports on the OLED at low brightness"
+    ]
+  },
+  "design_philosophy": "ASUS's cheapest route into a 14-inch OLED Copilot+ ultrabook: last-gen Snapdragon X1 silicon in the mainstream Zenbook 14 chassis, sold at aggressive Best Buy Canada promo pricing. Targets battery-life-first students and browser/office users willing to accept ARM caveats.",
+  "ratings": {
+    "battery": 9,
+    "screen_size": 7,
+    "screen_quality": 7.5,
+    "readability_dark": 8,
+    "readability_bright": 6,
+    "ecosystem": 7.5,
+    "gaming": 3,
+    "productivity": 6.5,
+    "portability": 8,
+    "build_quality": 7,
+    "thermals_noise": 9,
+    "port_connectivity": 7,
+    "creative_work": 4,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 5.5,
+    "upgradability": 4,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 6.5
+  },
+  "rating_notes": "Ratings inferred from Ultrabookreview's Zenbook 14 chassis reviews (UX3480 AMD/Intel) + general Snapdragon X1 platform data; ARM ecosystem 7.5 per dataset calibration. Spec sheet details (exact ports, weight) estimated from UX3407QA-series lineage; price BBY-verified."
+}

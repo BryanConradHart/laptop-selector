@@ -1,0 +1,122 @@
+{
+  "id": "mbp14-m5pro-15c-24-2tb",
+  "line": "Apple MacBook Pro 14-inch (2026, M5 Pro)",
+  "config_name": "MacBook Pro 14-inch — M5 Pro 15-core CPU / 16-core GPU, 24GB RAM, 2TB SSD",
+  "tier": "High",
+  "category": "apple",
+  "ecosystem": "macOS",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M5 Pro (15-core: 5 super + 10 performance)",
+    "cpu_cores": 15,
+    "gpu": "Apple M5 Pro 16-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 24,
+    "ram_type": "unified/soldered",
+    "storage_gb": 2000,
+    "storage_type": "NVMe soldered (PCIe 5.0)",
+    "screen_size_in": 14.2,
+    "display_type": "Mini-LED IPS (Liquid Retina XDR)",
+    "resolution": "3024x1964",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 1000,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 1.6,
+    "ports": "3x TB5/USB-C, HDMI, SDXC, MagSafe 3, 3.5mm",
+    "wireless": "Wi-Fi 7 (Apple N1), BT 6",
+    "webcam": "12MP Center Stage",
+    "speakers": "6-speaker",
+    "keyboard_notes": "Magic Keyboard, Touch ID, Force Touch trackpad",
+    "pen_support": "none",
+    "os": "macOS Tahoe 26"
+  },
+  "battery": {
+    "claimed_hours": 22,
+    "real_world_hours": 12.5,
+    "notes": "Up to 22h video / 14h web claimed; 72.4Wh. Storage tier does not materially change runtime."
+  },
+  "price": {
+    "cad": 4249,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch",
+    "confidence": "verified",
+    "notes": "Verified on apple.com/ca buy page; 1→2TB is +$750 (see research/parts/apple/NOTES.md).",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19791122",
+        "cad": 4249.99,
+        "est": false,
+        "name": "Apple MacBook Pro 14.2\" (2026) - Silver (Apple M5 Pro / 16-Core GPU / 24GB RAM / 2TB SSD) - French"
+      },
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch",
+        "cad": 4249,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch"
+  },
+  "image_url": "https://www.apple.com/v/macbook-pro/specs/e/images/specs/14-inch/macbook_pro_14_inch__fjlrd633eki2_large.jpg",
+  "professional": {
+    "avg_score": 8.8,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "92.3%",
+        "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-16-2026-Review-M5-Pro-makes-one-of-the-best-multimedia-laptops-even-better.1245523.0.html",
+        "quote": "Apple also includes Wi-Fi 7 as well as much faster PCIe 5.0 SSDs (same chip tested in the 16-inch chassis)"
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.4/10",
+        "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-14-m5-2025",
+        "quote": "exceptional build quality... all-aluminum unibody (same chassis, M5 model tested)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "2TB of PCIe 5.0 storage holds full 4K/8K shoot catalogs on-device at SSD speeds (NBC benchmarks)",
+      "M5 Pro's ~20% CPU / 30-50% GPU gain over M4 Pro shows up in every export benchmark (NBC)",
+      "Thunderbolt 5 for fast docks and external RAID (NBC)",
+      "Mini-LED XDR 120Hz panel remains best-in-class (NBC)",
+      "Very quiet in most scenarios even under sustained exports (NBC)"
+    ],
+    "complaints": [
+      "+$750 CAD for the second terabyte — storage upgrades are more expensive than ever (NBC and Tom's Hardware)",
+      "Prices are still high, especially when you add upgrades (NBC con)",
+      "Still no SD Express support in the card reader (NBC con)",
+      "RAM and SSD soldered — you must buy capacity up front",
+      "Same 5-year-old chassis; a redesign is overdue (NBC and Tom's Hardware)"
+    ]
+  },
+  "design_philosophy": "Apple sells capacity, not slots: this tier bundles the M5 Pro's multicore muscle with double the soldered flash for creators who keep working libraries local. It is the 'travel-light with your whole project on board' configuration.",
+  "ratings": {
+    "battery": 8.8,
+    "screen_size": 7,
+    "screen_quality": 9.3,
+    "readability_dark": 9,
+    "readability_bright": 8.5,
+    "ecosystem": 9.5,
+    "gaming": 3.8,
+    "productivity": 9.1,
+    "portability": 8.1,
+    "build_quality": 9.3,
+    "thermals_noise": 8.2,
+    "port_connectivity": 7,
+    "creative_work": 8.4,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 6.8,
+    "pen_touch": 0,
+    "repairability_service": 4,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings inferred from NBC's 92.3% M5 Pro review (16-inch chassis) as with the 1TB sibling; +0.2 creative_work for the 2TB working-library capacity. Sentiment synthesized from pro reviews — Reddit API blocked (403)."
+}

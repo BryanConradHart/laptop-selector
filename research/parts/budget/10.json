@@ -1,0 +1,107 @@
+{
+  "id": "aspire-go-15-r7-7730u-16-1tb",
+  "line": "Acer Aspire Go 15.6 (AG15-44)",
+  "config_name": "Aspire Go 15.6\" — Ryzen 7 7730U, 16GB DDR4, 1TB SSD, FHD IPS",
+  "tier": "Mid",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2024-11",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 7 7730U (8-core/16-thread Zen 3)",
+    "cpu_cores": 8,
+    "gpu": "AMD Radeon Vega 8 (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "DDR4 SO-DIMM (upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe",
+    "screen_size_in": 15.6,
+    "display_type": "IPS anti-glare",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.73,
+    "ports": "2x USB-C 3.2 Gen2 (DP, 65W PD), 2x USB-A 3.2 Gen1, HDMI 1.4, 3.5mm",
+    "wireless": "Wi-Fi 6, BT 5.x",
+    "webcam": "720p HD",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Chiclet with numeric keypad, bilingual CA",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 5.2,
+    "notes": "51.6 Wh verified. Zen 3 8-core runs warm in this thin shell: ~5-5.5h real, less under load."
+  },
+  "price": {
+    "cad": 1099.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19889764",
+    "confidence": "verified",
+    "notes": "BF sale $799.95.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19889764",
+        "cad": 799.95,
+        "est": false,
+        "name": "Acer Aspire Go 15.6\" Laptop - Silver (AMD R7 7730/16GB RAM/1TB SSD/Windows 11)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19889/19889764.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Ryzen 7 7730U 8C/16T + 16GB is a genuinely capable multicore combo for $799.95 sale",
+      "1TB SSD standard — double the storage of every Intel twin at this price",
+      "Two full USB-C Gen2 ports both do DP video and 65W charging; easy dual-monitor setup",
+      "DDR4 SO-DIMM slots accept up to 32GB — real upgrade path",
+      "Vega 8 plays older and esports titles at 1080p low/medium, best gaming of the Aspire line"
+    ],
+    "complaints": [
+      "Fan is audible under almost any sustained load and the underside gets warm",
+      "Heaviest chassis of both families at 1.73 kg — you feel it in a backpack",
+      "Dull ~45% NTSC IPS panel with backlight glow in dark scenes",
+      "720p webcam, no IR, no keyboard backlight — camera/typing specs match the cheapest SKUs",
+      "Older Zen 3 platform: no NPU, so no Copilot+ features despite the Ryzen branding"
+    ]
+  },
+  "standouts": [
+    "Best multicore + 1TB storage combo of the Aspire family at sale price",
+    "Dual USB-C Gen2 ports (DP + PD on both) is a port-spec unusual at $799.95"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "The AMD flagship of the Aspire Go 15: last-generation-but-capable Zen 3 silicon with 16GB/1TB in the pragmatic Aspire chassis — Acer's 'specs over polish' budget formula. Cooling, weight, and panel are where this config pays for the 8 cores and terabyte.",
+  "ratings": {
+    "battery": 5,
+    "screen_size": 7,
+    "screen_quality": 4,
+    "readability_dark": 5,
+    "readability_bright": 4.5,
+    "ecosystem": 9,
+    "gaming": 2.3,
+    "productivity": 6.3,
+    "portability": 5.5,
+    "build_quality": 4.3,
+    "thermals_noise": 5,
+    "port_connectivity": 6.5,
+    "creative_work": 3,
+    "keyboard_trackpad": 5.3,
+    "webcam_speakers": 3.8,
+    "upgradability": 6,
+    "ai_ml": 1.5,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4.3
+  },
+  "rating_notes": "No pro review found for AG15 (see SHARED-aspire-go.md). Platform-anchored: 7730U known warm → thermals 5.0 and −0.5 battery vs cooler U chips despite 51.6Wh verified; +0.3 gaming for Vega 8 vs Iris-Xe-class on DDR4. 1.73 kg verified. Panel gamut/brightness are class estimates."
+}

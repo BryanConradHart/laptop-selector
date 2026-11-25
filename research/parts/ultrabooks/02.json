@@ -1,0 +1,115 @@
+{
+  "id": "x1c14-u7-32-1tb-oled",
+  "line": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition (2026, Panther Lake)",
+  "config_name": "ThinkPad X1 Carbon Gen 14 — Core Ultra 7 356H, 32GB LPDDR5, 1TB SSD, 14\" 2.8K 120Hz matte OLED",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 356H (Panther Lake, 16-core: 4P+8E+4LPE)",
+    "cpu_cores": 16,
+    "gpu": "Intel Graphics (4 Xe cores) integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5-8533 soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2280 NVMe Gen4",
+    "screen_size_in": 14,
+    "display_type": "OLED 2.8K matte, 16:10",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1100,
+    "weight_kg": 1,
+    "ports": "2x TB4, 1x USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7 (Intel BE201), BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker downward firing",
+    "keyboard_notes": "ThinkPad keyboard 1.5mm travel, TrackPoint, haptic touchpad",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 15,
+    "real_world_hours": 9.5,
+    "notes": "58Wh; OLED panel, ~9-10h light use."
+  },
+  "price": {
+    "cad": 3349,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159",
+    "confidence": "estimated",
+    "notes": "+~CAD350 over 512GB tier; Lenovo CA configurator pricing.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159",
+        "cad": 3349,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159"
+  },
+  "image_url": "https://p2-ofp.static.pub/ShareResource/optimized/pdp/thinkpad/thinkpad-x1-series/len101t0159/thinkpad-x1-carbon-gen-14-aura-edition-14-intel-hero.png",
+  "professional": {
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.3/10",
+        "url": "https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-14-review-flagship-ultraportable-repairable/",
+        "quote": "The reason to pick up the X1 Carbon Gen 14 is the increased repairability rather than anything resembling an increase in performance."
+      },
+      {
+        "outlet": "Ultrabookreview",
+        "score": "recommended",
+        "url": "https://www.ultrabookreview.com/75917-lenovo-thinkpad-x1carbon-gen14-review/",
+        "quote": "The X1 Carbon and the T14s are the superior options with the more advanced dual-fan cooling. They run very quietly as well, all things considered."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Space Frame redesign means SSD, battery and ports are swappable — first X1 owners can keep the machine past warranty",
+      "Matte 2.8K 120Hz OLED is the best 14-inch panel on any business laptop; no visible flicker",
+      "Still ~1.0 kg — lightest in class by a wide margin",
+      "TrackPoint + haptic touchpad combo; ThinkPad keyboard remains best-in-class",
+      "Dual-fan cooling stays silent on Balanced for office/code workloads"
+    ],
+    "complaints": [
+      "Battery regression vs Gen 13 — several hours shorter in pro testing",
+      "No CPU performance uplift over Lunar Lake Gen 13",
+      "Lenovo's perpetual eCoupon pricing makes the real price hard to pin down",
+      "Bottom-firing speakers thin on conference calls",
+      "32GB soldered RAM ceiling; no 64GB option"
+    ]
+  },
+  "design_philosophy": "Lenovo's flagship business ultraportable: carbon-fiber/magnesium chassis, classic ThinkPad DNA, maximum lightness with full portage. Gen 14's Space Frame prioritises repairability and cooling for corporate fleets kept 3-5 years.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 7,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 8,
+    "ecosystem": 9,
+    "gaming": 3,
+    "productivity": 9,
+    "portability": 10,
+    "build_quality": 9.5,
+    "thermals_noise": 8.5,
+    "port_connectivity": 8.5,
+    "creative_work": 5,
+    "keyboard_trackpad": 9.5,
+    "webcam_speakers": 6,
+    "upgradability": 6.5,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 9,
+    "durability": 9
+  },
+  "rating_notes": "Same reviewed config as 01 with 1TB instead of 512GB (CNET reviewed the OLED Gen 14); storage delta does not move ratings. Image from lenovo.com CA CDN."
+}

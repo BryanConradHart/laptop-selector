@@ -1,0 +1,118 @@
+{
+  "id": "g14-2026-u9-5070ti-32-1tb",
+  "line": "ASUS ROG Zephyrus G14 (2026, GU405)",
+  "config_name": "ROG Zephyrus G14 (2026) — Intel Core Ultra 9 386H / RTX 5070 Ti 12GB, 32GB LPDDR5X, 1TB SSD, 14\" 3K OLED 120Hz",
+  "tier": "High",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 386H (Arrow Lake-H)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop 12GB (~95-105W TGP, thin-chassis capped)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe (1x M.2)",
+    "screen_size_in": 14,
+    "display_type": "OLED (ROG Nebula HDR, glossy)",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 900,
+    "weight_kg": 1.5,
+    "ports": "2x Thunderbolt/USB4 (DP/PD), 2x USB-A 3.2, HDMI 2.1, microSD, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "quad-speaker",
+    "keyboard_notes": "backlit chiclet",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 5.5,
+    "notes": "~73Wh class. Arrow Lake-H + 5070 Ti draws more than the 2025 anchor; -0.5h inferred per SHARED-zephyrus-g14.md. ~1.25h gaming."
+  },
+  "price": {
+    "cad": 4799,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/rog-zephyrus-g14-2026-gaming-laptop-14-120hz-oled-display-intel-core-ultra-9-nvidia-geforce-rtx-5070-ti-32gb-ram-1tb-ssd-wi-fi-7-gu405ar-ds96-ca/19839366",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24, sku 19839366, regularPrice $4,799; ON SALE $4,299 at time of check. GU405AR-DS96-CA.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19839366",
+        "cad": 4299,
+        "est": false,
+        "name": "ROG Zephyrus G14 (2026) Gaming Laptop (14” 120Hz OLED Display / Intel Core Ultra 9 / NVIDIA GeForce RTX 5070 Ti / 32GB RAM / 1TB SSD / Wi-Fi 7 / GU405AR-DS96-CA)"
+      },
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/rog-zephyrus-g14-2026-gaming-laptop-14-120hz-oled-display-intel-core-ultra-9-nvidia-geforce-rtx-5070-ti-32gb-ram-1tb-ssd-wi-fi-7-gu405ar-ds96-ca/19839366",
+        "cad": 4299,
+        "est": false,
+        "name": "ROG Zephyrus G14 (2026) Gaming Laptop (14” 120Hz OLED Display / Intel Core Ultra 9 / NVIDIA GeForce RTX 5070 Ti / 32GB RAM / 1TB SSD / Wi-Fi 7 / GU405AR-DS96-CA)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19839/19839366.png",
+  "professional": {
+    "avg_score": 8.9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "89%",
+        "url": "https://www.notebookcheck.net/14-inches-with-the-GeForce-RTX-5080-Laptop-Asus-ROG-Zephyrus-G14-2025-review.1014019.0.html",
+        "quote": "With the RTX 5070 Ti and RTX 5080 options the new ROG Zephyrus G14 is currently pretty unrivaled. Very high-quality and compact aluminum case, brilliant OLED display at 120 Hz with G-Sync, excellent speakers, great input devices. Cons: soldered-on RAM, PWM flickering, limited maximum HDR brightness, loud fans. (NBC review of the GA403WW RTX 5080 config, \"top rated\" award.)"
+      }
+    ],
+    "note": "No pro review of the 2026 GU405 retrieved (hard-stop, disclosed). Anchored on the 2025 GA403 line via SHARED-zephyrus-g14.md."
+  },
+  "user_sentiment": {
+    "praises": [
+      "RTX 5070 Ti 12GB in a ~1.5kg 14\" chassis: the strongest thin-and-light gaming option at Best Buy CA, DLSS4 frame-gen shines at 3K",
+      "12GB VRAM is meaningfully better for AI/local-LLC work than the 8GB 5060/5070 tiers",
+      "Same class-leading 3K OLED 120Hz panel and premium aluminum build as the rest of the G14 line",
+      "Current on sale $500 off ($4,299) — best G14 spec-per-dollar moment of the line",
+      "Still USB-C chargeable and travel-sized despite the top-tier GPU"
+    ],
+    "complaints": [
+      "At $4,799 regular this is thin-and-light-tax pricing; thicker laptops (Strix/Legion) give a 5080 for similar money",
+      "5070 Ti in a 1.5kg chassis is heavily TGP-capped and thermally throttled under sustained AAA loads; expect hot deck + loud Turbo fan",
+      "Soldered RAM (32GB only), single M.2 — zero upgrade headroom at flagship price",
+      "2026 GU405 is brand-new: no long-term reliability track record yet, and BBY listing has zero reviews today",
+      "Battery drains fastest of the G14 line under load (biggest GPU + Arrow Lake-H on 73Wh)"
+    ]
+  },
+  "design_philosophy": "The 2026 GU405 pushes ASUS's halo 14\" into true enthusiast territory: an Intel Arrow Lake Ultra 9 paired with a 12GB RTX 5070 Ti in the same aluminum OLED ultrabook-weight chassis. It embodies the line's bet that gamers will trade raw TGP and upgradability for portability and screen quality — accepting that the GPU runs below its rated watts to keep 1.5kg. This is the performance flagship of the CA G14 range.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 5.5,
+    "screen_quality": 9.2,
+    "readability_dark": 9,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 9,
+    "productivity": 8.3,
+    "portability": 9,
+    "build_quality": 8.5,
+    "thermals_noise": 5,
+    "port_connectivity": 7.5,
+    "creative_work": 7.8,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 7,
+    "upgradability": 2.5,
+    "ai_ml": 7,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Pro score attached from NBC review of the GA403 RTX 5080 config (89% very good, gap-fill 2026-11-24); lower GPU tiers share chassis/display/thermals findings. Inferred from anchor entry 76 (2025 GA403 RTX 5060, BBY 4.48/5 n=495) per SHARED-zephyrus-g14.md deltas: 5060 -> 5070 Ti = gaming +2.2 (TGP cap keeps it below a thick-chassis 5070 Ti ~9.5), ai_ml +0.8 for 12GB VRAM, battery -0.5, thermals_noise -0.5; Arrow Lake-H vs HX 370 = productivity +0.3, battery -0.3 (combined -0.5 vs anchor shown). Sale price $4,299 noted; ratings ignore price (no value factor). Sentiment synthesized from line-wide user themes + spec logic — GU405 has no BBY reviews yet (disclosed)."
+}

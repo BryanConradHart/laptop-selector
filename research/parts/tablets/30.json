@@ -1,0 +1,131 @@
+{
+  "id": "ipad-mini-a17pro-128",
+  "line": "Apple iPad mini (A17 Pro, 7th Gen, 2024)",
+  "config_name": "iPad mini — A17 Pro, 8GB RAM, 128GB, 8.3\" Liquid Retina (no official keyboard; Bluetooth-keyboard-optional)",
+  "tier": "Entry",
+  "category": "tablets-ios-android",
+  "ecosystem": "iPadOS",
+  "form_factor": "tablet",
+  "release": "2024-10",
+  "inferred": false,
+  "specs": {
+    "cpu": "Apple A17 Pro (6-core: 2P+4E)",
+    "cpu_cores": 6,
+    "gpu": "Apple A17 Pro 5-core GPU with hardware ray tracing (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "unified/soldered LPDDR5 (BBY listing-confirmed)",
+    "storage_gb": 128,
+    "storage_type": "NVMe soldered",
+    "screen_size_in": 8.3,
+    "display_type": "Liquid Retina IPS LCD (fully laminated, anti-reflective, no ProMotion)",
+    "resolution": "2266x1488",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.293,
+    "ports": "1x USB-C (USB 3 10Gb/s, DisplayPort) — no Smart Connector",
+    "wireless": "Wi-Fi 6E (2x2), BT 5.3",
+    "webcam": "12MP landscape Ultra Wide front",
+    "speakers": "Landscape stereo (2-speaker)",
+    "keyboard_notes": "NO official Apple keyboard exists for the mini (no Smart Connector). Typing = on-screen or an optional Bluetooth keyboard (~$125 Magic-style case kbd, BBY 19709624 sale) — not priced in",
+    "pen_support": "Apple Pencil Pro +$168.99 (BBY sale) or Pencil USB-C ~$119 — not included; hover supported",
+    "os": "iPadOS (Apple Intelligence supported)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 7,
+    "notes": "19.3Wh cell. Apple claims 10h web/video Wi-Fi; small cell + bright LCD means users report ~6-8h mixed real-world use."
+  },
+  "price": {
+    "cad": 750,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/18902683",
+    "confidence": "verified",
+    "notes": "NO keyboard priced in: Apple makes no keyboard for the mini (no Smart Connector) — pairing is Bluetooth-keyboard-optional (~$125 case keyboard, BBY 19709624; Smart Folio stand/cover $99.99). Tablet $749.99 clearance sale at BBY (reg $949.99, SKU 18902683, verified 2026-11-24); grey finish 18588355 $849.97. Discontinued at apple.com/ca (replaced by A20 Pro mini) — BBY is the remaining new-stock retailer. Cellular variants omitted.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20245980",
+        "cad": 949.99,
+        "est": false,
+        "name": "Apple iPad Mini (A17 Pro): Apple Intelligence, 8.3-inch Liquid Retina Display, 128GB, Wi-Fi 6E, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life - Space Gray"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/18885038",
+        "cad": 749.99,
+        "est": false,
+        "name": "Apple iPad Mini (A17 Pro): Apple Intelligence, 8.3-inch Liquid Retina Display, 128GB, Wi-Fi 6E, Touch ID, All-Day Battery Life - Purple"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/18885039",
+        "cad": 749.99,
+        "est": false,
+        "name": "Apple iPad Mini (A17 Pro): Apple Intelligence, 8.3-inch Liquid Retina Display, 128GB, Wi-Fi 6E, Touch ID, All-Day Battery Life - Starlight"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/189/18902/18902683.jpeg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87%",
+        "url": "https://www.notebookcheck.net/Apple-iPad-mini-7-2024-review-This-compact-tablet-continues-to-be-nearly-unrivaled.930558.0.html",
+        "quote": "This compact tablet continues to be nearly unrivaled. Pros: fast SoC, optional lots of memory, Pencil and 5G possible, PWM-free display, compact. Cons: stale display-to-surface ratio, refresh rate only 60 Hz, no high-res audio via Bluetooth, only 12 months warranty."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "293g one-handed tablet that reads books, comics, and PDFs better than anything bigger — the form factor has no real rival (r/ipad)",
+      "A17 Pro with hardware ray tracing runs AAA console ports (Resident Evil Village, Death Stranding) on a pocket tablet",
+      "Fully laminated 8.3\" display — pen and touch feel flush, unlike the non-laminated base iPad",
+      "8GB RAM + Apple Intelligence means it is fully current on AI features despite the clearance price",
+      "USB 3 10Gb/s USB-C drives external SSDs and mirrors to monitors — pro-grade I/O in the smallest iPad"
+    ],
+    "complaints": [
+      "No official keyboard of any kind — no Smart Connector, so laptop-style typing needs a third-party Bluetooth case that crowds the 8.3\" screen",
+      "8.3\" is cramped for Stage Manager / split-screen two-app work — the productivity pitch is thin",
+      "60Hz 500-nit LCD at mini pricing; no OLED or ProMotion anywhere in the mini line",
+      "Touch ID in the top button is awkward one-handed; no Face ID",
+      "128GB fills fast once you install a couple of ray-traced AAA games (15GB+ each)"
+    ]
+  },
+  "design_philosophy": "The only serious small tablet: Apple's bet that a 293g, fully-laminated, desktop-class-silicon slate beats 'bigger is better' for reading, travel, gaming, and one-handed use. The 2024 A17 Pro generation added Apple Intelligence and console-grade GPU to that formula; the deliberate omission is any keyboard path — the mini is a content and gaming tablet, not a laptop substitute.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 4.2,
+    "screen_quality": 7.3,
+    "readability_dark": 5.8,
+    "readability_bright": 7,
+    "ecosystem": 6.5,
+    "gaming": 6.3,
+    "productivity": 4.5,
+    "portability": 10,
+    "build_quality": 9,
+    "thermals_noise": 8.5,
+    "port_connectivity": 4,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 4,
+    "webcam_speakers": 7,
+    "upgradability": 1,
+    "ai_ml": 6,
+    "pen_touch": 8.8,
+    "repairability_service": 5,
+    "durability": 8
+  },
+  "rating_notes": "Pro score attached from NBC review of this exact model (gap-fill 2026-11-24). LINE ANCHOR (128GB Wi-Fi = BBY clearance hero SKU). No verbatim pro score found: NBC reviewed the mini 7 but notebookcheck.net (numeric-ID URLs) and search engines were bot-walled this session — disclosed per budget rule, none invented. Disclosed launch-consensus synthesis (see SHARED-ipad-mini.md): best small tablet ever, fastest sub-9\" anything; gripes = price creep, 60Hz LCD, no keyboard path. keyboard_trackpad 4.0 reflects NO official keyboard (on-screen typing + optional $125 BT case kbd), per task instruction. portability 10.0 = 293g, lightest tablet Apple makes. gaming 6.3 = hw ray tracing + 8GB but 5-core GPU and 8.3\" screen. Image URL is BBY CDN closest-SKU guess (18902683).",
+  "standouts": [
+    "Ray-traced AAA gaming in a 293g one-hand form factor — nothing else on the market does this",
+    "$749.99 BBY clearance with Apple Intelligence makes it the cheapest current-AI iPad"
+  ],
+  "dealbreakers": [
+    "Zero official keyboard path — if typing matters at all, buy an iPad Air instead"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "zb14-ux3480aa-u7-16-512-oled2k",
+  "line": "ASUS Zenbook 14 OLED (2026, UX3480AA, Intel Panther Lake)",
+  "config_name": "Zenbook 14 OLED — Core Ultra 7 355 (Panther Lake), 16GB, 512GB SSD, 14\" 2K 60Hz glossy OLED",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-09",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 355 (Panther Lake)",
+    "cpu_cores": 8,
+    "gpu": "Intel integrated graphics (Panther Lake Xe3)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 2280 NVMe (single slot)",
+    "screen_size_in": 14,
+    "display_type": "OLED 16:10 glossy, 100% DCI-P3",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": 500,
+    "weight_kg": 1.2,
+    "ports": "USB-C (TB4), USB-C 3.2, USB-A 3.2, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p FHD + IR",
+    "speakers": "2-speaker",
+    "keyboard_notes": "White backlit, 1.7mm travel, oversized glass touchpad",
+    "pen_support": "none (non-touch)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 13,
+    "notes": "70Wh. UBR: 'one of the quietest, coolest-running, and most efficient Windows ultrabooks we've tested in a long while'."
+  },
+  "price": {
+    "cad": 2099,
+    "currency": "CAD",
+    "store": "asus.com/en-ca",
+    "store_url": "https://www.asus.com/en/ca/Laptops/For-Home/Zenbook/Zenbook-14-UX3480AA/",
+    "confidence": "estimated",
+    "notes": "UBR reviewed price 1399 EUR (~US$1,500); AMD sibling sells CA$1,999 at BBY, Intel runs ~EUR100 higher. Intel UX3480AA CA retail not directly verified.",
+    "offers": [
+      {
+        "store": "asus.com/en-ca",
+        "url": "https://www.asus.com/en/ca/Laptops/For-Home/Zenbook/Zenbook-14-UX3480AA/",
+        "cad": 2099,
+        "est": true
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19616623",
+        "cad": 1716.3,
+        "est": false,
+        "name": "ASUS Zenbook 14 14\" OLED Laptop - AMD Ryzen AI 7 445 - 16GB LPDDR5X - 512GB SSD - Windows 11 Home - Jade Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19826/19826848.jpg",
+  "professional": {
+    "avg_score": 8,
+    "reviews": [
+      {
+        "outlet": "Ultrabookreview",
+        "score": "4/5",
+        "url": "https://www.ultrabookreview.com/77189-asus-zenbook-14-ux3480aa-review/",
+        "quote": "It's also one of the quietest, coolest-running, and most efficient Windows ultrabooks we've tested in a long while in this Intel Panther Lake variant."
+      },
+      {
+        "outlet": "Ultrabookreview",
+        "score": "4/5",
+        "url": "https://www.ultrabookreview.com/77189-asus-zenbook-14-ux3480aa-review/",
+        "quote": "this series is no longer as competitively priced as previous-gen Zenbooks were in their day, and I would recommend straying away from the 2K OLED display as much as possible"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Panther Lake efficiency gives best-in-class battery for a Windows x86 14-incher",
+      "Effectively silent under normal loads; fans rarely spin",
+      "Ceraluminum chassis feels tougher and cleaner than the UX3405 it replaces",
+      "Full port set (TB4 + USB-A + HDMI) without dongles",
+      "Crisp OLED for media consumption"
+    ],
+    "complaints": [
+      "Dim 2K OLED with PWM flicker at all brightness levels — reviewer explicitly advises avoiding this panel",
+      "Ultra 7 355 variant is 'only a mid-performer' per UBR; Ultra 9 386H is the one to get",
+      "Hinge no longer opens flat (180° lost)",
+      "Price premium over the AMD sibling isn't obviously justified at identical panel/RAM",
+      "16GB soldered RAM on this tier"
+    ]
+  },
+  "design_philosophy": "The 2026 UX3480 unifies ASUS's Zenbook design language (Ceraluminum, A14-like aesthetics) across Intel/AMD/Qualcomm variants in one chassis. The Intel Panther Lake variant is the most efficient and refined of the three, aimed at battery-first road warriors — but the shared entry 2K OLED panel is the line's weak point.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 7,
+    "screen_quality": 7,
+    "readability_dark": 8,
+    "readability_bright": 5,
+    "ecosystem": 9,
+    "gaming": 4.5,
+    "productivity": 8,
+    "portability": 8.5,
+    "build_quality": 8,
+    "thermals_noise": 9,
+    "port_connectivity": 7.5,
+    "creative_work": 5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 4.5,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 7
+  },
+  "rating_notes": "Ratings anchored on Ultrabookreview's UX3480AA review (Core Ultra 7 355, 4/5) — this is the as-reviewed config tier; +0.5 battery/thermals_noise vs AMD sibling 80 for Panther Lake efficiency edge per UBR. Dim PWM OLED caps readability_bright 5, screen_quality 7. Image is the AMD-sibling BBY photo (same chassis)."
+}

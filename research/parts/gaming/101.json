@@ -1,0 +1,117 @@
+{
+  "id": "legion5-g10-151-oled-i9-5070-16-1tb",
+  "line": "Lenovo Legion 5 15 Gen 10 (2025, 15.1\" 15IRX10 OLED)",
+  "config_name": "Legion 5 15.1 Gen 10 — Core i9-14900HX / RTX 5070 8GB (115W), 16GB DDR5, 1TB SSD, 15.1\" WQXGA OLED 165Hz",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core i9-14900HX (Raptor Lake-HX refresh, 24c/32t)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7 (115 W TGP incl. 95 W Dynamic Boost, MUX, no Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 16,
+    "ram_type": "DDR5 (2x SODIMM, upgradeable to 64GB)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (2 slots: 2280 + 2242)",
+    "screen_size_in": 15.1,
+    "display_type": "OLED glossy (LEN151WQXGA, HDR, 165 Hz)",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 495,
+    "brightness_hdr_nits": 1067,
+    "weight_kg": 1.9,
+    "ports": "2x USB-C 3.2 Gen2 (DP, PD 3.0; no USB4 on Intel model), 3x USB-A 3.2, HDMI 2.1, RJ45 GbE, 3.5mm",
+    "wireless": "Wi-Fi 7 (MediaTek MT7925), BT 5.4",
+    "webcam": "5MP with electronic shutter",
+    "speakers": "Stereo",
+    "keyboard_notes": "Chiclet w/ numpad, 1.6mm travel, 24-zone backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 6.5,
+    "notes": "80 Wh. NBC: AMD model 9.5h WiFi @150nits; Intel Raptor-HX 'draws significantly more power... noticeably shorter battery life' — est. ~6.5h WiFi for i9 tier. ~1h under load; full charge 95 min (80% in 52)."
+  },
+  "price": {
+    "cad": 3579,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19811108",
+    "confidence": "verified",
+    "notes": "Regular $5,119 / sale $3,579, BBY API-verified 2026-11-24 (LEGION_LIST.md).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19811108",
+        "cad": 3579,
+        "est": false,
+        "name": "Lenovo Legion 5 15.1\" WQXGA 165Hz Gaming Laptop - Intel Core i9-14900HX - 16GB DDR5 - 1TB SSD - RTX 5070 - Windows 11 Pro - Black"
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/legion-laptops/legion-5-series/lenovo-legion-5-gen-10-15-inch-intel"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19811/19811108.jpeg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87%",
+        "url": "https://www.notebookcheck.net/Lenovo-Legion-5-15IRX10-gaming-laptop-review-Brilliant-OLED-and-RTX-5070-for-EUR1-499-approx-1-742.1147338.0.html",
+        "quote": "The Lenovo Legion 5 15, featuring the Intel Core i7-13650HX and GeForce RTX 5070, once again delivers an outstanding all-around package and stands as one of the most affordable RTX 5070 gaming laptops at €1,499. Its gaming performance is on par with the more expensive Legion 5 Pro 16."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": "87%",
+        "url": "https://www.notebookcheck.net/The-best-mainstream-gamer-in-2025-Lenovo-Legion-5-15-Laptop-Review.1047975.0.html",
+        "quote": "The new OLED panel provides excellent image quality and is very bright in HDR mode. In combination with fast response time as well as the 165 Hz refresh rate, games simply look stunning."
+      }
+    ],
+    "note": "NBC reviewed the Intel 15IRX10 line with i7-13650HX/RTX 5070 (87%) and the AMD 15AHP G10/RTX 5060 (87%). This i9-14900HX tier is the same reviewed Intel chassis with the faster CPU; ratings inferred, disclosed. RTINGS/Tom's have no numeric score for this line — not cited."
+  },
+  "user_sentiment": {
+    "praises": [
+      "15.1\" 2560x1600 OLED at 165 Hz with 0.9 deltaE factory accuracy and 99.9% P3 — a flagship-grade panel in the mainstream tier (NBC measured 495 nits SDR, 1067 nits HDR)",
+      "RTX 5070 runs at full 115 W TGP with MUX switch — NBC: gaming 'on par with the more expensive Legion 5 Pro 16'",
+      "Best-in-class maintenance: 2x SODIMM (to 64GB), 2x M.2 slots, screwed battery, replaceable Wi-Fi, official Lenovo maintenance manual",
+      "Light 1.94 kg / 21.5 mm for the class (OLED version is ~200 g lighter than the IPS variant) with a very comfortable 1.6 mm-travel keyboard + numpad",
+      "Wi-Fi 7 with excellent measured throughput (1820 MBit/s transmit) and 5MP webcam with hardware eShutter"
+    ],
+    "complaints": [
+      "16GB RAM at a $3,579+ price — first upgrade you'll want (NBC tested 32GB)",
+      "Intel HX chips 'draw significantly more power than the Ryzen 7 260 but don't deliver much additional performance' (NBC) — battery noticeably shorter than AMD tiers",
+      "Fans clearly audible at 50.1 dB(A) in Performance mode while gaming (NBC; rivals often worse)",
+      "No USB4/Thunderbolt on Intel models and no card reader on any config (NBC cons list)",
+      "Glossy-only OLED reflects windows/lights outdoors; PWM flickering listed as a con; Legion Gen-10 owner threads report warranty friction and occasional fan-bearing noise on the platform"
+    ]
+  },
+  "design_philosophy": "The Legion 5 Gen 10 is Lenovo's mainstream performance-first gamer: full 115 W TGP Blackwell GPUs, an optional gorgeous 15.1\" OLED, and easy user maintenance in a restrained black chassis without lighting gimmicks. This Intel i9 tier is the CPU-maxxed variant of the line — more multicore than the AMD anchor at the cost of battery life, with the same OLED + RTX 5070 core experience.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 6.5,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 7.6,
+    "productivity": 8.5,
+    "portability": 7.5,
+    "build_quality": 7.8,
+    "thermals_noise": 5.8,
+    "port_connectivity": 6.8,
+    "creative_work": 7.5,
+    "keyboard_trackpad": 8.3,
+    "webcam_speakers": 6.3,
+    "upgradability": 8.5,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 6.8
+  },
+  "rating_notes": "Ratings inferred from the NBC-reviewed 15IRX10 i7-13650HX/RTX 5070 config (87%) + AMD 15AHP sibling (87%) per SHARED-legion5-oled.md: +0.5 productivity for 24-core i9-14900HX vs the tested 14-core, −1.5 battery vs AMD anchor (NBC: Intel draws much more power for little gain), −0.5 productivity / −0.3 ai_ml for 16GB vs tested 32GB. port_connectivity lowered vs AMD for missing USB4 (NBC). Image URL follows the standard BBY CDN pattern but was not individually verified (BBY CDN unreachable from this worker)."
+}

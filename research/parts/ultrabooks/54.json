@@ -1,0 +1,116 @@
+{
+  "id": "dell14prem-u7-16-512-clearance",
+  "line": "Dell 14 Premium (2025, DA14250) — clearance",
+  "config_name": "Dell 14 Premium — Core Ultra 7 255H, 16GB LPDDR5X, 512GB SSD, 14.5\" FHD+ 120Hz (clearance value pick)",
+  "tier": "Value",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-07",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 255H (Arrow Lake-H, 16-core, up to 5.1 GHz)",
+    "cpu_cores": 16,
+    "gpu": "Intel Arc 140T integrated (RTX 5050/5060 options on higher trims)",
+    "gpu_type": "integrated (dGPU options on higher trims)",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered, up to 7467 MT/s",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe SSD",
+    "screen_size_in": 14.5,
+    "display_type": "IPS non-touch (2.5K 120Hz and 4K OLED touch on higher trims)",
+    "resolution": "1920x1200",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.72,
+    "ports": "3x Thunderbolt 4, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "8MP + IR",
+    "speakers": "quad-speaker",
+    "keyboard_notes": "Zero-lattice backlit keyboard, haptic touchpad",
+    "pen_support": "none on base trim",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 21,
+    "real_world_hours": 8,
+    "notes": "69.5Wh. CNET flagged 'Unimpressive battery life' — real-world ~7-9h mixed; the main clearance trade-off."
+  },
+  "price": {
+    "cad": 1700,
+    "currency": "CAD",
+    "store": "bestbuy.ca / remaining dell.ca stock",
+    "store_url": "https://www.dell.com/en-ca/shop/laptop-computers/scr/laptop",
+    "confidence": "estimated",
+    "notes": "Dell.ca has discontinued the DA14250 (page redirects; XPS FAQ confirms 'Dell Premium name will be retired'). Remaining CA stock at Best Buy/retail clearance. CNET tested US$1,450-2,050 range; CAD estimate ~$1,700 clearance vs ~$2,600 original. VERIFY before relying on this entry.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19391056",
+        "cad": 1690.68,
+        "est": false,
+        "name": "Dell Pro 14 Copilot+ PC Premium Laptop - Intel Core Ultra 7 266V - 16GB LPDDR5X - 512GB SSD - Windows 11 Pro - Magnesium"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell-premium/da16250/media-gallery/laptop-dell-da16250t-sl-gallery-1.psd?fmt=png-alpha",
+  "professional": {
+    "avg_score": 7.2,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "7.2/10",
+        "url": "https://www.cnet.com/tech/computing/dell-14-premium-review/",
+        "quote": "one of the hardiest and heaviest 14-inch laptops I've ever encountered"
+      },
+      {
+        "outlet": "CNET",
+        "score": "7.2/10",
+        "url": "https://www.cnet.com/tech/computing/dell-14-premium-review/",
+        "quote": "Shockingly heavy"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Quad-speaker array and haptic touchpad are genuinely class-leading — features the 2026 XPS 14 dropped",
+      "Arrow Lake-H 16-core with Arc 140T iGPU outperforms same-price 2026 ultrabooks in sustained multicore",
+      "8MP IR camera with excellent Windows Hello face sign-in (the 2026 XPS line has no fingerprint/strong IR story)",
+      "Clearance pricing makes premium CNC-aluminum build accessible under $2,000",
+      "dGPU trims (RTX 5050/5060) exist in clearance stock for creator work"
+    ],
+    "complaints": [
+      "~3.8 lb / 1.72 kg — 'Shockingly heavy' for a 14-inch (CNET)",
+      "'Unimpressive battery life' (CNET) — a full 3-4h behind the 2026 XPS 14 it was replaced by",
+      "Superseded platform: no longer sold or restocked by Dell CA, so warranty stock depth varies by retailer",
+      "Soldered RAM; 16GB base trim limits the value at full original price",
+      "Throttles under sustained load — CNET noted the chassis can't hold full boost"
+    ]
+  },
+  "design_philosophy": "The 'Dell Premium' rebrand generation (2025) that lasted one year before Dell restored the XPS name: maximalist spec-sheet (dGPU options, quad speakers, haptic pad) over weight and efficiency. As clearance stock it is today's value door into Dell's premium clamshell family, per Dell's own XPS FAQ pointing Premium buyers to remaining stock.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 7,
+    "screen_quality": 7,
+    "readability_dark": 6.5,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 4.5,
+    "productivity": 8,
+    "portability": 6.5,
+    "build_quality": 9,
+    "thermals_noise": 6.5,
+    "port_connectivity": 6.5,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 8,
+    "upgradability": 2,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 7.5
+  },
+  "rating_notes": "Direct CNET anchor (Dell 14 Premium 2025, 7.2/10, US$1,450-2,050; NOTES-verified quotes). Base FHD+ trim assumed; webcam_speakers 8.0 for CNET-praised quad speakers + 8MP IR cam; battery 6.0 per CNET 'Unimpressive battery life'; portability 6.5 per 'Shockingly heavy' ~1.72 kg. Price estimated — clearance stock, dell.ca discontinued."
+}

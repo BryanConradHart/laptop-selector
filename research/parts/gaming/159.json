@@ -1,0 +1,116 @@
+{
+  "id": "gigabyte-aero-x16-ryzen-ai-7-350-5060-16-32gb",
+  "line": "Gigabyte AERO X16 (1WH, 2025)",
+  "config_name": "Gigabyte AERO X16 — Ryzen AI 7 350 / RTX 5060, 16GB/1TB ($2,099) or 32GB/1TB ($2,499) RAM tiers",
+  "tier": "Entry",
+  "category": "creator",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-08",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 7 350 (8-core: 4 Zen 5 + 4 Zen 5c, Krackan Point, 50-TOPS NPU)",
+    "cpu_cores": 8,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7",
+    "gpu_type": "dedicated",
+    "ram_gb": 16,
+    "ram_type": "DDR5-5600 (2 SO-DIMM slots, max 64GB)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 2280 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "Matte IPS, no PWM",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 350,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.95,
+    "ports": "1x USB4 40Gbps (PD), 2x USB-A 3.0, 1x USB 2.0, HDMI, gigabit Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.2",
+    "webcam": "1080p (weak per NBC)",
+    "speakers": "Stereo",
+    "keyboard_notes": "Comfortable chiclet keyboard (NBC), backlit",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 8,
+    "notes": "76Wh + efficient Zen 5 + lower-TGP 5060; ~7.5-8h light use est."
+  },
+  "price": {
+    "cad": 2099,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/p/19801006",
+    "confidence": "verified",
+    "notes": "BBY API-verified 2026-11-24. Two BBY-direct 5060 tiers consolidated: SKU 19801006 (16GB/1TB, reg $2,999 / sale $2,099) and SKU 19801007 (32GB/1TB, reg $3,569 / sale $2,499).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/p/19801006",
+        "cad": 2099,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19801/19801006.png",
+  "professional": {
+    "avg_score": 84,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "84%",
+        "url": "https://www.notebookcheck.net/Gigabyte-Aero-X16-Review-Sleek-AMD-Zen-5-gaming-machine-with-Nvidia-RTX-5070-Laptop-and-upgradeable-RAM.1022304.0.html",
+        "quote": "Together with the AMD processor, this results in an efficient package and many games can also be played smoothly in QHD resolution."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest entry into the NBC-reviewed 84% creator chassis: Copilot+ Zen 5 + RTX 5060 at $2,099 sale",
+      "RAM upgradeable to 64GB and two M.2 slots even on the base tier (NBC pro)",
+      "Efficient platform gives the best battery life of the Gigabyte lineup",
+      "Matte flicker-free 165Hz WQXGA IPS, fine for sRGB editing (NBC)",
+      "USB4 + MUX switch at a budget creator price"
+    ],
+    "complaints": [
+      "16GB base RAM is tight for creator workloads (though upgradeable)",
+      "RTX 5060 is the weak Blackwell part for a creator-marketed machine",
+      "Weak 1080p webcam, no Wi-Fi 7, USB 2.0 port (NBC cons)",
+      "Loud fans during gaming (NBC con)",
+      "Retailer SKU ambiguity: same SKU family listed with both 5060 and 5070 GPU tiers — verify config before buying"
+    ]
+  },
+  "design_philosophy": "The entry tiers of the creator-styled AERO X16: the same slim 19.9mm Zen 5 chassis NBC reviewed at 84%, paired with the lower RTX 5060 GPU to hit sub-$2,100 creator pricing. The serviceable interior (RAM to 64GB, dual M.2) means the base tier can grow with the user — the philosophy is upgrade-over-upfront.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 7.5,
+    "screen_quality": 7,
+    "readability_dark": 7,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 5.5,
+    "productivity": 7,
+    "portability": 7.5,
+    "build_quality": 6.5,
+    "thermals_noise": 6,
+    "port_connectivity": 6.5,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 4.5,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "upgradability": 8.5,
+    "repairability_service": 8,
+    "durability": 6
+  },
+  "rating_notes": "Ratings inferred from NBC's Aero X16 1WH review (84%, RTX 5070/32GB): RTX 5060 vs 5070 -> gaming -1.5, creative_work -1.0; 16GB base RAM -> productivity -1.0, ai_ml -0.5 (the 32GB twin at $2,499 restores those to anchor values); lower GPU load -> battery +0.5, thermals +0.5. Consolidated entry per schema rule 1 (RAM variants listed in config_name).",
+  "standouts": [
+    "Cheapest AERO X16: the 84%-rated creator platform at $2,099 sale",
+    "Fully upgradeable RAM/storage even at the entry tier"
+  ],
+  "dealbreakers": [
+    "16GB RAM and RTX 5060 undercut the creator pitch out of the box"
+  ]
+}

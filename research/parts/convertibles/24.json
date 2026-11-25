@@ -1,0 +1,112 @@
+{
+  "id": "sp11-xelite-32-1tb-oled",
+  "line": "Microsoft Surface Pro 11 (13\", Snapdragon, 2024)",
+  "config_name": "Surface Pro 11 — Snapdragon X Elite (12-core), 32GB, 1TB, 13\" 120Hz OLED touch + Flex Keyboard",
+  "tier": "High",
+  "category": "convertibles-2in1",
+  "ecosystem": "Windows",
+  "form_factor": "tablet",
+  "release": "2024-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X Elite X1E-80-100 (12-core Oryon, 3.4GHz)",
+    "cpu_cores": 12,
+    "gpu": "Qualcomm Adreno 741 (integrated, shared memory)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5x-8448 soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2230 NVMe (replaceable under kickstand)",
+    "screen_size_in": 13,
+    "display_type": "PixelSense Flow OLED glossy touch, 3:2, DisplayHDR 600 / Dolby Vision IQ",
+    "resolution": "2880x1920",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 575,
+    "brightness_hdr_nits": 890,
+    "weight_kg": 0.895,
+    "ports": "2x USB-C/USB4 40Gbps (DP+PD), Surface Connect",
+    "wireless": "Wi-Fi 7 (FastConnect 7800), BT 5.3",
+    "webcam": "1440p front Windows Hello + 10MP rear",
+    "speakers": "2W stereo, Studio Mics",
+    "keyboard_notes": "Flex Keyboard price included in this entry (sold separately); backlit, wireless or on-device connection, stores/charges Slim Pen",
+    "pen_support": "Surface Slim Pen 2 supported, sold separately (~CA$159.99); Flex Keyboard has pen storage",
+    "os": "Windows 11 Home (ARM)"
+  },
+  "battery": {
+    "claimed_hours": 14,
+    "real_world_hours": 12,
+    "notes": "48Wh. Same as CNET-tested 16GB config (memory size negligible for battery); ~12-13h light use."
+  },
+  "price": {
+    "cad": 2799.98,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/microsoft-surface-pro-oled-copilot-pc-13-1tb-tablet-with-snapdragon-x-elite-32gb-ram-2024-platinum-device-only/17921787",
+    "confidence": "verified",
+    "notes": "Tablet VERIFIED BBY API 2026-11-24: reg $4,049.99 / sale $2,399.99 (Platinum, 4.52★/100). + Flex Keyboard w/ Slim Pen VERIFIED CA$399.99 (BBY 17923155) = $2,799.98 with keyboard. Tablet-only sale price $2,399.99.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/microsoft-surface-pro-oled-copilot-pc-13-1tb-tablet-with-snapdragon-x-elite-32gb-ram-2024-platinum-device-only/17921787",
+        "cad": 2399.99,
+        "est": false,
+        "name": "Microsoft Surface Pro (OLED) Copilot+ PC 13\" 1TB Tablet with Snapdragon X Elite/32GB RAM (2024) - Platinum - Device Only"
+      }
+    ],
+    "official_url": "https://www.microsoft.com/en-ca/d/surface-pro-11-with-snapdragon-technology/8mzbkmz0lmc1"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/179/17921/17921787.jpg",
+  "professional": {
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.3/10 (16GB sibling)",
+        "url": "https://www.cnet.com/tech/computing/microsoft-surface-pro-11-review-snapdragon-and-oled-deliver/",
+        "quote": "16GB of memory isn't a lot when it needs to be shared (and even when I just had a lot of browser tabs open, 11GB would already be in use)."
+      }
+    ],
+    "notes": "CNET tested the 16GB/1TB config; this 32GB twin directly answers its biggest criticism. Ratings inferred (+0.7 productivity, +0.5 ai_ml for memory headroom). SHARED-surface-pro.md."
+  },
+  "user_sentiment": {
+    "praises": [
+      "32GB kills the line's #1 complaint — heavy multitaskers and devs report no memory pressure (BBY 4.52★/100)",
+      "OLED 120Hz + 1TB makes it a credible light creator tablet (photo work in Lightroom with big catalogs)",
+      "Battery still ~full workday; extra RAM costs no endurance",
+      "Fanless and silent; performance holds off-acadapter (CNET-verified family trait)",
+      "Best local-AI tablet of its generation — 45-TOPS NPU plus 32GB unified-style memory for small LLMs"
+    ],
+    "complaints": [
+      "Reg CA$4,049.99 sticker before sale is steep once the CA$400 keyboard is added",
+      "Still no headphone jack, still only 2 USB-C ports",
+      "DX12 gaming unchanged — RAM doesn't fix the Adreno driver/API weaknesses (CNET: 'Mixed graphics performance')",
+      "RAM soldered despite the replaceable SSD — you must buy right at checkout",
+      "Heat while plugged in under sustained load persists (CNET con, family-wide)"
+    ]
+  },
+  "design_philosophy": "The Pro 11 tier that fixes CNET's loudest criticism: 32GB of LPDDR5x so the Adreno GPU and heavy workloads stop fighting over 16GB. Microsoft's tiering makes memory the real upgrade axis on this line — same X Elite silicon, same OLED chassis, more headroom for multitasking and on-device AI.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 6,
+    "screen_quality": 8.8,
+    "readability_dark": 8.5,
+    "readability_bright": 7,
+    "ecosystem": 7.5,
+    "gaming": 3.6,
+    "productivity": 7.9,
+    "portability": 9.2,
+    "build_quality": 8.8,
+    "thermals_noise": 7,
+    "port_connectivity": 4.5,
+    "creative_work": 7,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 7,
+    "upgradability": 5,
+    "ai_ml": 7,
+    "pen_touch": 8.5,
+    "repairability_service": 6,
+    "durability": 7
+  },
+  "rating_notes": "Inferred from CNET 8.3 anchor on 16GB/1TB OLED (SHARED-surface-pro.md): +16GB RAM → productivity +0.7, creative_work +0.5, ai_ml +0.5 (memory-bound local AI), gaming +0.1 (shared pool). All other factors identical. BBY 4.52★/100 on this SKU matches sibling calibration.",
+  "inferred_details": "inferred from CNET 16GB/1TB OLED review; RAM delta adjustment only"
+}

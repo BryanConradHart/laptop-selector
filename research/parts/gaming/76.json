@@ -1,0 +1,118 @@
+{
+  "id": "g14-2025-hx370-5060-32-1tb",
+  "line": "ASUS ROG Zephyrus G14 (2025, GA403)",
+  "config_name": "ROG Zephyrus G14 (2025) — Ryzen AI 9 HX 370 / RTX 5060 8GB, 32GB LPDDR5X, 1TB SSD, 14\" 3K OLED 120Hz",
+  "tier": "Base (volume)",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-04",
+  "inferred": false,
+  "specs": {
+    "cpu": "AMD Ryzen AI 9 HX 370 (12-core: 4 Zen5 + 8 Zen5c)",
+    "cpu_cores": 12,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB (~95-105W TGP, thin-chassis capped)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe (1x M.2 2280)",
+    "screen_size_in": 14,
+    "display_type": "OLED (ROG Nebula HDR, glossy)",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 900,
+    "weight_kg": 1.46,
+    "ports": "2x USB4 40Gbps (DP/PD), 2x USB-A 3.2, HDMI 2.1, microSD, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "quad-speaker (2 tweeters + 2 woofers)",
+    "keyboard_notes": "backlit chiclet, per-key RGB on some SKUs",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 6,
+    "notes": "73Wh. ASUS video-playback claim; real-world light use ~5-7h on OLED (user-calibrated per SHARED-zephyrus-g14.md), ~1.5h gaming. USB-C charging 65W-240W."
+  },
+  "price": {
+    "cad": 3599.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-rog-zephyrus-g14-14-120hz-gaming-laptop-ryzen-ai-9-hx-370-32gb-lpddr5x-1tb-ssd-geforce-rtx-5060-windows-11-home-eclipse-grey/19697004",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24, sku 19697004, regularPrice (no sale). BBY customer rating 4.48/5, n=495.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19697004",
+        "cad": 3599.99,
+        "est": false,
+        "name": "ASUS ROG Zephyrus G14 14\" 120Hz Gaming Laptop - Ryzen AI 9 HX 370 - 32GB LPDDR5X - 1TB SSD - GeForce RTX 5060 - Windows 11 Home - Eclipse Grey"
+      },
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-rog-zephyrus-g14-14-120hz-gaming-laptop-ryzen-ai-9-hx-370-32gb-lpddr5x-1tb-ssd-geforce-rtx-5060-windows-11-home-eclipse-grey/19697004",
+        "cad": 3599.99,
+        "est": false,
+        "name": "ASUS ROG Zephyrus G14 14\" 120Hz Gaming Laptop - Ryzen AI 9 HX 370 - 32GB LPDDR5X - 1TB SSD - GeForce RTX 5060 - Windows 11 Home - Eclipse Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/196/19697/19697004.jpg",
+  "professional": {
+    "avg_score": 8.9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "89%",
+        "url": "https://www.notebookcheck.net/14-inches-with-the-GeForce-RTX-5080-Laptop-Asus-ROG-Zephyrus-G14-2025-review.1014019.0.html",
+        "quote": "With the RTX 5070 Ti and RTX 5080 options the new ROG Zephyrus G14 is currently pretty unrivaled. Very high-quality and compact aluminum case, brilliant OLED display at 120 Hz with G-Sync, excellent speakers, great input devices. Cons: soldered-on RAM, PWM flickering, limited maximum HDR brightness, loud fans. (NBC review of the GA403WW RTX 5080 config, \"top rated\" award.)"
+      }
+    ],
+    "note": "No pro score retrieved 2026-11-24 (researcher hard-stop; NBC/RTINGS/PCMag bot-walled or slug unresolved). Notebookcheck has a GA403 2025 test report — flagged for browser gap-fill pass. Ratings are line-level inferred anchors, disclosed in rating_notes."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Best-in-class performance for a 1.46kg 14\" laptop — 'amazing' and 'Best in class' are recurring Best Buy review titles",
+      "Genuinely portable premium aluminum chassis that still games properly; praised as a work+play and engineering-school daily driver ('Great product; Use it for Engineering School')",
+      "3K OLED 120Hz Nebula HDR screen: inky blacks, vivid color, smooth — the standout feature vs plastic rivals",
+      "Quiet and comfortable in Balanced/Performance modes for everyday and light gaming; USB-C charging makes travel easy",
+      "Ryzen AI 9 HX 370 handles multitasking/compile workloads well for the size; 50 TOPS NPU future-proofs Copilot+ features"
+    ],
+    "complaints": [
+      "Price: 'Good machine, bad price.' — $3,600 for an RTX 5060 draws constant comparison to cheaper thicker laptops (Legion/Strix) with same GPU",
+      "Runs hot under sustained gaming in a 1.5kg chassis — 'needs a cooling pad for gaming'; Turbo mode fans are loud and high-pitched",
+      "RTX 5060 is TGP-capped (~95-105W) so it trails same-GPU thicker laptops; 3K OLED gaming needs DLSS/low settings",
+      "Soldered RAM, single M.2 — no upgrade path at all beyond storage",
+      "Long-term reliability gripes ('Review after 1 year of use' at 3/5): QC outliers, dead pixels, and Reddit-documented battery-swelling cases on the 2025 GA403"
+    ]
+  },
+  "design_philosophy": "ASUS's halo thin-and-light gaming flagship: an aluminum CNC-styled chassis at ultrabook weight that gives up raw TGP and ports to win on portability and the OLED screen. The 2025 GA403 dropped the old anime-lid gimmick for a subdued premium look, targeting users who want one machine for class/work by day and gaming by night. This base-volume config pairs the fastest Ryzen AI 300 chip with the entry RTX 5060 — CPU-rich, GPU-modest, priced at the thin-and-light premium.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 5.5,
+    "screen_quality": 9.2,
+    "readability_dark": 9,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 7,
+    "productivity": 8,
+    "portability": 9.2,
+    "build_quality": 8.5,
+    "thermals_noise": 5.5,
+    "port_connectivity": 7.5,
+    "creative_work": 7.5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 7,
+    "upgradability": 2.5,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Pro score attached from NBC review of the GA403 RTX 5080 config (89% very good, gap-fill 2026-11-24); lower GPU tiers share chassis/display/thermals findings. Anchor config of the line (BBY 4.48/5, n=495). No pro review retrieved (hard-stop; disclosed) — ratings line-level inferred from chassis/GPU class and user pool, per SHARED-zephyrus-g14.md: battery 6.0 (73Wh OLED real-world), gaming 7.0 (5060 at ~95-105W TGP, ~1 below thicker 5060 laptops), thermals_noise 5.5 (thin chassis), upgradability 2.5 (soldered RAM, 1x M.2), screen_size 5.5 per calibration (14\"). microSD not SD — creative_work capped vs Legion."
+}

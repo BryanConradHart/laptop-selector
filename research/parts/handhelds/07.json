@@ -1,0 +1,128 @@
+{
+  "id": "rog-flow-z13-2025-395-32gb-1tb",
+  "line": "ASUS ROG Flow Z13 (2025, GZ302) gaming tablet",
+  "config_name": "ROG Flow Z13 (2025) — Ryzen AI Max+ 395 (16C/32T) / Radeon 8060S iGPU, 32GB LPDDR5x-8000 unified, 1TB SSD, 13.4\" QHD+ 180Hz touch (GZ302EA-XS96)",
+  "tier": "Mid",
+  "category": "handheld-pcs",
+  "ecosystem": "Windows",
+  "form_factor": "tablet",
+  "release": "2025-02",
+  "inferred": false,
+  "specs": {
+    "cpu": "AMD Ryzen AI Max+ 395 'Strix Halo' (16-core Zen 5, 32 threads, up to 5.1GHz, 80MB cache)",
+    "cpu_cores": 16,
+    "gpu": "AMD Radeon 8060S integrated (40 CU RDNA 3.5, shares unified memory)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5x-8000 quad-channel unified, soldered (up to 24GB allocable as VRAM)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2230 PCIe Gen4 NVMe (user-replaceable)",
+    "screen_size_in": 13.4,
+    "display_type": "ROG Nebula IPS, glossy touch, 100% DCI-P3, Dolby Vision, Adaptive-Sync, Gorilla Glass 5, flicker-free (no PWM)",
+    "resolution": "2560x1600",
+    "refresh_hz": 180,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.6,
+    "ports": "2x USB-C USB4 (DP1.4 + PD), 1x USB-A, HDMI 2.1, microSD, 3.5mm combo",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1440p front with Windows Hello face recognition + rear 4K camera",
+    "speakers": "2 stereo speakers + dual smart amps (described as weak by Notebookcheck)",
+    "keyboard_notes": "detachable ROG keyboard cover with folding stand; larger keycaps and much bigger touchpad than 2023 model; RTINGS calls the feel 'mushy' on an incline",
+    "pen_support": "ASUS Pen 2.0 (MPP 2.6) supported, sold separately; 10-point touch",
+    "os": "Windows 11 Home (Copilot+ PC, 50 TOPS NPU)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 5.5,
+    "notes": "70Wh. Notebookcheck measured 9h20 Wi-Fi browsing @150 nits/60Hz and 7h30 @180Hz; 6h18/5h43 at max brightness; H.264 video 12h44; only 0h51 under max load at max brightness. Owners report roughly half the 60Hz figure in mixed real use with 180Hz and GPU boost enabled (see SHARED-flow-z13.md calibration)."
+  },
+  "price": {
+    "cad": 2699.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-rog-flow-z13-13-4-touchscreen-gaming-laptop-amd-ryzen-ai-max-395-32gb-ram-1tb-ssd-amd-radeon-8060s-off-black/20122746",
+    "confidence": "verified",
+    "notes": "Verified on bestbuy.ca 2026-11-24: $2,699.99 with 'SAVE $400' badge, 'Selling Fast', Sold and shipped by Best Buy, model GZ302EA-XS96, web code 20122746, BBY rating 4.7/5 (67 reviews). Open-box units from $2,304.99. EU launch RRP was 2,499 EUR for this spec.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-rog-flow-z13-13-4-touchscreen-gaming-laptop-amd-ryzen-ai-max-395-32gb-ram-1tb-ssd-amd-radeon-8060s-off-black/20122746",
+        "cad": 2699.99,
+        "est": false,
+        "name": "ASUS ROG Flow Z13 13.4\" Touchscreen Gaming Laptop - AMD Ryzen AI MAX+ 395 - 32GB RAM - 1TB SSD - AMD Radeon 8060S - Off Black"
+      }
+    ],
+    "official_url": "https://www.asus.com/en/ca/laptops/for-gaming/rog/rog-flow-z13-2025/"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20122/20122746.jpg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "86.8%",
+        "url": "https://www.notebookcheck.net/Asus-ROG-Flow-Z13-GZ302EA-Convertible-Review-AMD-s-Strix-Halo-GPU-is-neck-and-neck-with-the-RTX-4070-Laptop.963266.0.html",
+        "quote": "The Ryzen AI Max+ 395 offers enormous amounts of CPU performance in multi-core scenarios thanks to 16 Zen 5 cores, which rivals the Ryzen 9 7945HX3D. This is impressive for a 13-inch device... The integrated graphics card Radeon 8060S is by far the fastest x86 iGPU and is neck-and-neck with the GeForce RTX 4070 Laptop (with a TGP range between 65-75 Watts) in games."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": null,
+        "url": "https://www.rtings.com/laptop/reviews/asus/rog-flow-z13-gz302-2025",
+        "quote": "Its performance is impressive for a tablet with integrated graphics, but it falls short compared to gaming laptops with discrete graphics cards. This is a unique device that's difficult to position in the broader market, as there are no other gaming-focused tablet PCs from other brands."
+      },
+      {
+        "outlet": "Ars Technica",
+        "score": null,
+        "url": "https://arstechnica.com/gadgets/2025/02/review-asus-rog-flow-z13-tablet-takes-the-asterisk-off-integrated-gpus/",
+        "quote": "The AMD Ryzen AI Max+ 395 \"Strix Halo\" inside the Z13, with the latest Ryzen 8060S GPU built into it, is not just capable—it's a step up from most of the gaming laptops out there."
+      },
+      {
+        "outlet": "PCMag",
+        "score": null,
+        "url": "https://www.pcmag.com/reviews/asus-rog-flow-z13-2025",
+        "quote": "The calling card of the new Flow Z13 is the processor: AMD's Ryzen AI Max, which reinvents the tablet's capabilities without adding a separate graphics chip."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Strix Halo CPU punch in a 1.6kg 13-inch tablet — r/FlowZ13: 'It's compact, very powerful, battery life is decent, and it should accelerate common architecture apps like Creo and Revit'",
+      "The 8060S iGPU genuinely plays modern AAA at 1080p/1440p with FSR — owners call it 'truly an all in one that performs at a high level. It's awesome.'",
+      "Noise levels lower than expected for the power: 'Burst performance is really good and noise levels are low due to good thermal design' (r/FlowZ13 experiences thread)",
+      "180Hz flicker-free 100% DCI-P3 touchscreen with pen support — RTINGS notes the panel is 'entirely flicker-free' unlike OLED rivals, and touch/pen make it far more versatile than a clamshell",
+      "Real ports without dongles (dual USB4, HDMI 2.1, USB-A, microSD) plus a user-replaceable M.2 2230 SSD — the one thing that IS upgradeable"
+    ],
+    "complaints": [
+      "Battery under load is poor: 0h51 max-brightness/max-load on Notebookcheck's 70Wh cell, and owners report roughly half the 9h20 light-use figure once 180Hz and GPU boost are on",
+      "Fan behaviour: recurring r/FlowZ13 threads ('New Z13 owner, crazy fan noise and power draw', 'the fan is almost always [on]') about spin-up on light loads; NBC measured 45.4 dB(A) under load",
+      "Coil whine reports (r/FlowZ13 'High Pitch noise - something to worry about?', Level1Techs 'Asus Flow Z13 - Coil Whine?')",
+      "32GB soldered unified memory is not upgradeable and up to 24GB gets carved out for VRAM, so heavy CPU+GPU multitasking gets tight; NBC lists 'RAM not upgradeable' and 'hardly any maintenance options' (repairability sub-score 40%)",
+      "Keyboard cover typing feels 'mushy' on an incline and the tablet is 'rather unstable when using it on a lap' (RTINGS); weak speakers also called out by NBC; no built-in kickstand — the cover is the only stand"
+    ]
+  },
+  "design_philosophy": "ASUS's bet that a gaming tablet can replace both a gaming laptop and a Surface Pro: the 2025 GZ302 drops the discrete NVIDIA GPU of the 2023 model entirely and bets on AMD's Strix Halo APU, whose 16 Zen 5 cores and 40-CU RDNA 3.5 graphics share one unified LPDDR5x pool. This 32GB/1TB SKU is the volume CA config at Best Buy — enough unified memory to hand ~24GB to the GPU for modern titles while keeping the CPU side comfortable. The trade is a fixed memory ceiling (no upgrade path) and a 14.9mm fan-cooled chassis that must dissipate its full package power behind the display.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 5.5,
+    "screen_quality": 8.3,
+    "readability_dark": 7.5,
+    "readability_bright": 6.5,
+    "ecosystem": 8.5,
+    "gaming": 7,
+    "productivity": 8,
+    "portability": 7.5,
+    "build_quality": 8.5,
+    "thermals_noise": 6.5,
+    "port_connectivity": 8,
+    "creative_work": 7,
+    "keyboard_trackpad": 5.5,
+    "webcam_speakers": 6.5,
+    "upgradability": 4,
+    "ai_ml": 7.5,
+    "pen_touch": 8.5,
+    "repairability_service": 4.5,
+    "durability": 7
+  },
+  "rating_notes": "Anchor config = the exact 32GB class unit Notebookcheck tested (GZ302EA-RU073W, 32GB/512GB; CA SKU is 1TB) and closest CA match to RTINGS' tested 64GB unit. avg_score 8.7 = Notebookcheck 86.8% normalised to a 10-scale; RTINGS, Ars and PCMag gave verbal-only verdicts and their numeric scores could not be retrieved (RTINGS values are membership-locked) — honest nulls, not invented. Battery rated a tier below NBC's 86% Battery sub-score per SHARED-flow-z13.md calibration (real mixed use ≈ half the 60Hz lab figure). thermals_noise penalised for user-reported fan spin-up on light loads and coil whine beyond what NBC's 83% Noise score implies. keyboard_trackpad rated on the bundled keyboard cover per schema tablet rule (NBC Keyboard 81%/Pointing 93%, RTINGS 'mushy'). ai_ml 7.5: 50 TOPS NPU Copilot+ plus up to 24GB allocable VRAM for local LLMs, but no CUDA. webcam_speakers penalised by NBC's 'weak speakers' con despite good 1440p + 4K cameras. Image URL is a best-guess Best Buy CDN pattern; site has a fallback."
+}

@@ -1,0 +1,110 @@
+{
+  "id": "yoga7i2-16-u7-355-16-512-dock",
+  "line": "Lenovo Yoga 7i 2-in-1 16 (Gen 11, 2026)",
+  "config_name": "Yoga 7i 2-in-1 16\" — Core Ultra 7 355 (Panther Lake), 16GB LPDDR5x, 512GB SSD + 1TB docking-station SSD, 16\" 2K LCD touch",
+  "tier": "Mid",
+  "category": "convertibles-2in1",
+  "ecosystem": "Windows",
+  "form_factor": "convertible",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 355 (Panther Lake)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc integrated (Panther Lake iGPU)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 1536,
+    "storage_type": "M.2 NVMe 512GB + bundled 1TB dock SSD",
+    "screen_size_in": 16,
+    "display_type": "LCD (2K) touch, 16:10",
+    "resolution": "2560x1600",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.85,
+    "ports": "2x USB-C (TB/DP/PD), 2x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p",
+    "speakers": "2-speaker + tweeters",
+    "keyboard_notes": "Backlit chiclet, fingerprint reader",
+    "pen_support": "MPP 2.0 active pen (sold separately)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 11,
+    "notes": "~70-80Wh; bigger 16\" panel shaves ~0.5h vs 14\" Panther Lake tier."
+  },
+  "price": {
+    "cad": 1729,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20091372",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: reg $3,049 / sale $1,729 (marketplace bundle; 1TB-SSD twin 20091371 $1,879 sale). 0 reviews (new listing).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20091372",
+        "cad": 1729,
+        "est": false,
+        "name": "Lenovo Yoga 7i 2-in-1 16\" 2K LCD Touchscreen Laptop, Intel Core Ultra 7 355, 16GB LPDDR5X RAM, 512GB SSD+1TB Docking Station, Backlit, Fingerprint, Copilot+ PC, Win 11, Luna Grey"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20091371",
+        "cad": 1879,
+        "est": false,
+        "name": "Lenovo Yoga 7i 2-in-1 16\" 2K LCD Touchscreen Laptop, Intel Core Ultra 7 355, 16GB LPDDR5X RAM, 1TB SSD+1TB Docking Station, Backlit, Fingerprint, Copilot+ PC, Win 11, Luna Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20091/20091372.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "No numeric pro score found (see SHARED-yoga7i-2in1.md). Ratings inferred from 14\" Panther Lake sibling 19767706 + line calibration."
+  },
+  "user_sentiment": {
+    "praises": [
+      "16\" 2K canvas with the same efficient Panther Lake silicon — great desk/lap hybrid for split-screen work",
+      "Deep sale discount ($3,049 → $1,729) makes the big-screen tier competitive with 14\" rivals",
+      "Copilot+ NPU, Wi-Fi 7, and bundled 1TB dock drive cover storage needs",
+      "Quiet under light loads, cool chassis in everyday use"
+    ],
+    "complaints": [
+      "16\" convertible is heavy (~1.85 kg) and awkward as an actual tablet",
+      "LCD panel — no OLED option at this bundle price; contrast lags the 14\" OLED siblings",
+      "Marketplace bundle: no in-store support/return to counter",
+      "16GB soldered RAM ceiling",
+      "Dock 'station' is a bare SSD enclosure, not a hub"
+    ]
+  },
+  "design_philosophy": "The big-screen variant of the mainstream Yoga convertible: a 16\" 2K touch canvas on the same Panther Lake platform, aimed at buyers who want maximum screen per dollar and accept the weight penalty. The marketplace dock bundle pushes effective storage to 1.5TB at a steep sale discount.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 8,
+    "screen_quality": 6.8,
+    "readability_dark": 6,
+    "readability_bright": 6.2,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7.5,
+    "portability": 6,
+    "build_quality": 7.3,
+    "thermals_noise": 7.5,
+    "port_connectivity": 7,
+    "creative_work": 6,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 5.8,
+    "upgradability": 3,
+    "ai_ml": 5.5,
+    "pen_touch": 6,
+    "repairability_service": 5,
+    "durability": 6.5
+  },
+  "rating_notes": "Ratings inferred from 14\" Panther Lake sibling (SHARED-yoga7i-2in1.md): 16\" delta per line calibration → screen_size +1.5, portability −1.5, battery −0.2, speakers +0.3. LCD (BBY name explicit) → screen_quality 6.8 vs OLED 8.6. Bundle storage + Pro-adjacent productivity +0.3. No pro score found — bot-walls disclosed."
+}

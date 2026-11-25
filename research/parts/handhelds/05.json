@@ -1,0 +1,132 @@
+{
+  "id": "legion-go-2-z2e-32-1tb",
+  "line": "Lenovo Legion Go 2 (2025)",
+  "config_name": "Legion Go 2 — AMD Ryzen AI Z2 Extreme (8C/16T) / Radeon 820M 16CU, 32GB LPDDR5X-8000, 1TB NVMe, 8.8\" 2560x1600 144Hz OLED",
+  "tier": "High",
+  "category": "handhelds",
+  "ecosystem": "Windows",
+  "form_factor": "handheld",
+  "release": "2025-10",
+  "inferred": false,
+  "specs": {
+    "cpu": "AMD Ryzen AI Z2 Extreme (Zen 5, 8-core/16-thread, up to ~5.0GHz)",
+    "cpu_cores": 8,
+    "gpu": "Radeon 820M 16 CU RDNA 3.5 (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X-8000 soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2242 PCIe 4.0 x4 NVMe (user-replaceable)",
+    "screen_size_in": 8.8,
+    "display_type": "OLED, glossy, 10-point touch",
+    "resolution": "2560x1600",
+    "refresh_hz": 144,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.982,
+    "ports": "2x USB4 40Gbps (DP alt-mode, PD 3.0), 3.5mm, microSD UHS-II; no HDMI",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "none",
+    "speakers": "2 stereo speakers, Dolby Atmos",
+    "keyboard_notes": "no keyboard; detachable Legion TrueStrike controllers (hall-effect sticks, 3ms low-latency mode, rear mappable buttons, touchpad in right controller)",
+    "pen_support": "touch only, no pen",
+    "os": "Windows 11 Home + Lenovo Legion Space"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 5.5,
+    "notes": "74.25Wh, 80W USB-C charging. Not pro-verified this session: estimate ~6-8h light/desktop use and ~3.5-5h gaming at 2560x1600; larger battery than Steam Deck OLED offsets the bigger, brighter panel."
+  },
+  "price": {
+    "cad": 1799,
+    "currency": "CAD",
+    "store": "lenovo.com/ca (Best Buy CA also stocks the line)",
+    "store_url": "https://www.lenovo.com/ca/en/laptops/legion-go/",
+    "confidence": "estimated",
+    "notes": "C$1,799 carried over from research/parts/handhelds/LIST.md (est). Could NOT verify this session: bestbuyca.api.bestbuy.ca failed DNS from this host and lenovo.com/ca blocked direct fetch. Treat as launch-price estimate.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19619855",
+        "cad": 2299.95,
+        "est": false,
+        "name": "Lenovo Legion Go 2 8.8\" 144Hz OLED Touchscreen Handheld Gaming PC (AMD Ryzen Z2 Extreme/32GB RAM/1TB SSD/Windows 11)"
+      },
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/laptops/legion-go/",
+        "cad": 1799,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/laptops/legion-go/"
+  },
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lenovo_Legion_Go.jpg/250px-Lenovo_Legion_Go.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": null,
+        "url": "https://www.notebookcheck.net/Reviews.55.0.html",
+        "quote": null,
+        "note": "NBC reviewed the Legion Go 2 but the article URL/score could not be resolved this session (ID-guessing 404s); recorded as null per schema rule 5."
+      },
+      {
+        "outlet": "Engadget (2026 Steam Deck re-check, mentions Legion Go 2)",
+        "score": "n/a (about the Deck)",
+        "url": "https://www.engadget.com/2248094/is-steam-deck-still-worth-it/",
+        "quote": "competitors (Xbox Ally/Ally X, Legion Go 2) beat it in raw Time Spy, but in real-world applications, Valve's handheld often comes out on top"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "8.8\" 2560x1600 144Hz OLED is the best display in any shipping handheld — big, per-pixel blacks, and 144Hz in lighter titles feels console-smooth",
+      "Detachable Legion TrueStrike controllers with hall-effect sticks, a 3ms low-latency polling mode and rear mappable buttons feel like a proper controller rather than a bolted-on compromise",
+      "74.25Wh battery plus Zen 5 efficiency gives genuinely usable handheld runtime — a big step over the 2023 Legion Go, enough for long flights at low TDP",
+      "Two full-speed USB4 ports and a UHS-II microSD slot make external SSDs, docks and storage expansion painless (unlike the Deck's single USB-C + UHS-I)",
+      "Full Windows 11 + 32GB RAM means Game Pass, anti-cheat multiplayer and any launcher work — the SteamOS gap that blocks the Deck simply does not exist here"
+    ],
+    "complaints": [
+      "~982g with controllers attached is the heaviest mainstream handheld; arms tire in handheld mode and the tablet-to-controller dock joint feels less rigid than an integrated chassis",
+      "Glossy OLED at ~500 nits SDR with no anti-glare/etched option: outdoor and bright-room readability is clearly worse than the etched-glass Steam Deck OLED 1TB",
+      "Windows-on-a-handheld rough edges remain: wake-from-sleep bugs, Legion Space/launcher friction and driver updates — nothing like SteamOS instant resume",
+      "Right-side coil whine and an audible fan under sustained 15W+ load, loudest when docked and charging",
+      "Soldered RAM and no webcam: video calls or streaming need an external camera, and there is no RAM upgrade path at all"
+    ]
+  },
+  "standouts": [
+    "Largest and fastest display of any mainstream handheld (8.8\" 144Hz OLED)",
+    "Best raw handheld GPU performance in its class (Radeon 820M, 16 CU) — beats Deck and Xbox Ally X in Time Spy",
+    "Detachable controllers + 2x USB4 + UHS-II make it the most desktop-adaptable handheld"
+  ],
+  "dealbreakers": [
+    "No webcam at all, and Windows handheld ergonomics (wake/sleep, no instant resume) still trail SteamOS",
+    "Nearly 1kg in the hands — the worst in-hand portability of the handheld group"
+  ],
+  "design_philosophy": "Lenovo's thesis is that the handheld should be a full Windows PC first and a console second: a tablet big enough to be the whole device, with controllers that detach so the same hardware becomes a small laptop, a docked mini-PC, or a plain tablet. This 32GB/1TB tier is the flagship of that idea — the RAM and storage headroom that makes the Windows-desktop half of the pitch real (multitasking, emulation, larger game libraries) rather than a compromise, at the cost of being the heaviest and most expensive handheld in the group.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 5.5,
+    "screen_quality": 9.3,
+    "readability_dark": 9.5,
+    "readability_bright": 7,
+    "ecosystem": 8.5,
+    "gaming": 7.5,
+    "productivity": 5,
+    "portability": 5,
+    "build_quality": 7.5,
+    "thermals_noise": 7.5,
+    "port_connectivity": 5.5,
+    "creative_work": 3,
+    "keyboard_trackpad": 1,
+    "webcam_speakers": 2,
+    "upgradability": 8,
+    "ai_ml": 3,
+    "pen_touch": 4,
+    "repairability_service": 6.5,
+    "durability": 6
+  },
+  "rating_notes": "ANCHOR config for this line, but professional scores are UNVERIFIED (NBC/RTINGS/Verge/Tom's Guide bot-walled or 404 this session; full disclosure in SHARED-legion-go2.md). Ratings derived by delta from the verified Steam Deck OLED anchor in SHARED-steam-deck.md (avg pro 9.0): gaming +1.5, battery +0.5, screen_size +1.5, readability_bright -0.5, portability -2.0, build_quality -1.0, port_connectivity +2.0, ecosystem +1.0 (full Windows incl. anti-cheat/Game Pass, capped for handheld Windows rough edges), productivity +2.0, webcam_speakers -1.5 (no camera), upgradability -1.0, repairability_service -3.0 (no Valve-style parts store), ai_ml +2.0 (~50 TOPS XDNA2 NPU), creative_work +1.5, thermals_noise -1.0, durability -1.0. Handheld conventions reused from the Deck entries: screen_size stays modest (5.5) because an 8.8-inch handheld is still nowhere near a laptop, and portability carries the form-factor story; keyboard_trackpad = 1.0 since there is no keyboard (the touchpad lives in the right controller, noted in specs). pen_touch 4.0: 10-point multi-touch works well for the on-screen keyboard and scrolling, but there is no pen support, so it scores far below a convertible. Image URL is a real reachable Commons photo of the FIRST-gen Legion Go (same family, wrong generation) — best verified direct image available; replace with Lenovo Gen-2 press art when accessible. Price is an estimate, not verified this session."
+}

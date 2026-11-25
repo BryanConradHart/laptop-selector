@@ -1,0 +1,109 @@
+{
+  "id": "ideapad-slim3-156-athlon10-8-128",
+  "line": "Lenovo IdeaPad Slim 3 15.6\" (Athlon, 2025)",
+  "config_name": "IdeaPad Slim 3 15.6\" — Athlon Silver 10, 8GB LPDDR5, 128GB SSD, FHD",
+  "tier": "Entry",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Athlon Silver 10 (2-core, Zen 2 Mendocino-class)",
+    "cpu_cores": 2,
+    "gpu": "AMD Radeon 610M (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "LPDDR5-5500 soldered",
+    "storage_gb": 128,
+    "storage_type": "NVMe (assumed) / UFS possible",
+    "screen_size_in": 15.6,
+    "display_type": "LCD LED backlight anti-glare (panel type unstated — likely TN)",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 220,
+    "weight_kg": 1.62,
+    "ports": "2x USB-A 3.2 Gen1, 1x USB-C 3.2 Gen1 (DP1.2), HDMI 1.4, 3.5mm",
+    "wireless": "Wi-Fi 6, BT 5.x",
+    "webcam": "720p",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Chiclet, bilingual CA",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 6,
+    "notes": "~32Wh (4156 mAh) but a 2-core SoC sips power; ~5.5-6.5h light web use despite the small pack."
+  },
+  "price": {
+    "cad": 699.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19784198",
+    "confidence": "verified",
+    "notes": "No sale; $699.99 flat.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19784198",
+        "cad": 699.99,
+        "est": false,
+        "name": "Lenovo IdeaPad Slim 3 15.6\" Laptop, Business Student - AMD Athlon Silver 10 - 8GB LPDDR5 - 128GB SSD - Windows 11 Home - Abyss Blue"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19784/19784198.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Battery lasts longer than its tiny 32Wh pack suggests because the 2-core chip draws so little",
+      "Fine as a dedicated email/documents/Zoom machine for a kid or grandparent",
+      "Wi-Fi 6 and USB-C present — connectivity is not ancient like sub-$500 machines",
+      "Silent most of the time; fan only whispers under any real load",
+      "Light 15.6\" chassis at 1.62 kg for a big-screen cheap laptop"
+    ],
+    "complaints": [
+      "2-core Athlon makes Windows 11 feel laboured: app launches, Windows Update, and multi-tab browsing all stutter",
+      "128GB SSD is nearly full after Windows + OneDrive + Office; buyers upgrade the drive on day one",
+      "Panel is the dullest in the family — dim, washed, almost certainly TN",
+      "8GB soldered LPDDR5 with no upgrade path on a machine people keep 4+ years",
+      "Noticeably slower than the $500-sale Core 5 320 SKU despite costing $700 — wrong trade of money"
+    ]
+  },
+  "standouts": [
+    "Genuinely long battery for the class (~6h) from only 32Wh, thanks to the low-power 2-core SoC"
+  ],
+  "dealbreakers": [
+    "2 cores + 128GB in 2026: this is the slowest config in the dataset and the storage is effectively pre-filled",
+    "Poor buy at $699.99 when the Core 5 320 SKU sells for $499-599"
+  ],
+  "design_philosophy": "The absolute floor of Lenovo's branded budget range: a 2-core Mendocino-class Athlon, 8GB soldered, and a 128GB drive in the 15.6\" Slim 3 shell, priced for the 'cheapest name-brand laptop on the shelf' job. Lenovo spends the saved money on nothing visible — this config exists to occupy the entry price point.",
+  "ratings": {
+    "battery": 5.8,
+    "screen_size": 7,
+    "screen_quality": 3,
+    "readability_dark": 4.5,
+    "readability_bright": 3.5,
+    "ecosystem": 9,
+    "gaming": 1,
+    "productivity": 3,
+    "portability": 6.3,
+    "build_quality": 4.3,
+    "thermals_noise": 7,
+    "port_connectivity": 5.3,
+    "creative_work": 1.5,
+    "keyboard_trackpad": 5,
+    "webcam_speakers": 4,
+    "upgradability": 3,
+    "ai_ml": 1,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 4.3
+  },
+  "rating_notes": "No pro review exists for this SKU (Athlon budget tier is ignored by outlets; see SHARED-ideapad-slim3.md). Inferred from Core 5 320 sibling: −2.0 productivity (2-core vs 6-core), −0.5 battery credit for the ultra-low-draw SoC despite 32Wh, screen_quality −1.0 for likely-TN unstated panel, gaming −0.5 (610M is barely usable). Brightness and panel type are class estimates."
+}

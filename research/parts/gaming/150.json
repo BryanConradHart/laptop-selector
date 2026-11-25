@@ -1,0 +1,122 @@
+{
+  "id": "gigabyte-gaming-a16-ga6h-13620h-5070-32-1tb",
+  "line": "Gigabyte Gaming A16 (GA6H, 2025)",
+  "config_name": "Gigabyte Gaming A16 — Core i7-13620H / RTX 5070, 32GB RAM, 1TB SSD",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": false,
+  "specs": {
+    "cpu": "Intel Core i7-13620H (10-core: 6P+4E, Raptor Lake-H)",
+    "cpu_cores": 10,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7 (85W TGP)",
+    "gpu_type": "dedicated",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600 SO-DIMM (2 slots, upgradeable to 64GB)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (2 slots, one free)",
+    "screen_size_in": 16,
+    "display_type": "Matte IPS (BOE NE160QDM-NYJ)",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 350,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.26,
+    "ports": "1x USB-C (PD, no Thunderbolt/USB4), 2x USB-A 3.0, 1x USB 2.0, HDMI, DisplayPort, gigabit Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 6E (AX211), BT 5.2",
+    "webcam": "FHD 1080p",
+    "speakers": "2x 2W stereo",
+    "keyboard_notes": "Chiclet, backlit, 180-degree hinge",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 6.5,
+    "notes": "76Wh; NBC rated battery life 'decent' — ~6-7h light use est., ~1.5-2h gaming."
+  },
+  "price": {
+    "cad": 2499,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/p/20116534",
+    "confidence": "verified",
+    "notes": "BBY API-verified 2026-11-24 (Black Friday window), SKU 20116534, reg $3,569. Retailer lists panel as '165Hz WUXGA' — NBC-tested GA6H 5070 tier is WQXGA 2560x1600; retailer label ambiguity disclosed.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/p/20116534",
+        "cad": 2499,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20116/20116534.png",
+  "professional": {
+    "avg_score": 80,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "80%",
+        "url": "https://www.notebookcheck.net/An-affordable-RTX-5070-laptop-Gigabyte-Gaming-A16-review.1072350.0.html",
+        "quote": "The Gaming A16 earned a good overall score of 80%. On the positive side, the consistent CPU and GPU performance are worth pointing out."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": "80%",
+        "url": "https://www.notebookcheck.net/An-affordable-RTX-5070-laptop-Gigabyte-Gaming-A16-review.1072350.0.html",
+        "quote": "Aside from the 8 GB issue, the GeForce RTX 5070 also achieved decent results, although sometimes you have to resort to DLSS or frame generation at higher details in its native QHD+ resolution."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Consistent CPU & GPU performance under sustained load — no dramatic throttling (NBC pro)",
+      "Two SO-DIMM and two M.2 slots: genuinely upgradeable RAM and storage for a budget gaming laptop (NBC pro)",
+      "180-degree hinge opening angle, unusual and handy for a gaming laptop (NBC)",
+      "Decent battery life and good sound for the class (NBC pros)",
+      "RTX 5070 at ~$2,500 CAD sale is one of the cheapest 5070 laptop prices in Canada"
+    ],
+    "complaints": [
+      "Very loud fan under gaming load (NBC con: 'pretty loud under load')",
+      "Visible screen bleeding at panel edges (NBC con)",
+      "Built-in 1TB SSD throttles during extended use; NBC flagged weak SSD cooling",
+      "Plastic chassis feels 'mediocre' to the touch despite decent rigidity (NBC)",
+      "No Thunderbolt/USB4, and a legacy USB 2.0 port remains; 8GB VRAM limits the 5070 in new titles"
+    ]
+  },
+  "design_philosophy": "The Gaming A16 is Gigabyte's value-first 16-inch gaming line: an older-generation Raptor Lake CPU paired with current Blackwell GPUs in a plain plastic chassis, spending the money on GPU tier rather than materials or displays. Its practical soul is the service-friendly interior (2x SO-DIMM, 2x M.2) and a 180-degree hinge. This 5070 tier is the sweet spot of the line and the exact configuration Notebookcheck reviewed at 80%.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 7.5,
+    "screen_quality": 6.5,
+    "readability_dark": 5.5,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 7,
+    "productivity": 7,
+    "portability": 6.5,
+    "build_quality": 6,
+    "thermals_noise": 5.5,
+    "port_connectivity": 6,
+    "creative_work": 6,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 6,
+    "upgradability": 8.5,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 6
+  },
+  "rating_notes": "Directly reviewed config (NBC 80%, i7-13620H + RTX 5070 GA6H); only RAM differs (NBC tested 16GB, BBY sells 32GB — productivity +0.5 applied). Ratings grounded in NBC measurement detail: screen bleed -> readability_dark 5.5; loud load -> thermals_noise 5.5; SO-DIMM/M.2 slots -> upgradability 8.5. BBY per-SKU customer reviews unavailable (new listing, ~0 ratings) — sentiment is review-grounded synthesis, not verbatim user quotes.",
+  "standouts": [
+    "One of the cheapest RTX 5070 laptop prices in Canada (sale $2,499)",
+    "Upgradeable RAM (to 64GB) and dual M.2 at a budget price"
+  ],
+  "dealbreakers": [
+    "No Thunderbolt/USB4 — no single-cable docking"
+  ]
+}

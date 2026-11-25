@@ -1,0 +1,117 @@
+{
+  "id": "pred-helios-neo18ai-275hx-5070ti-64-4tb",
+  "line": "Acer Predator Helios Neo 18 AI (2025, PHN18-72)",
+  "config_name": "Predator Helios Neo 18 AI — Ultra 9 275HX / RTX 5070 Ti 12GB, 64GB DDR5, 4TB SSD, 18\" WQXGA IPS 240Hz (+ bundled 1TB drive/dock set, max tier)",
+  "tier": "Flagship",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop 12GB GDDR7 (Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "DDR5 SODIMM (upgradeable)",
+    "storage_gb": 4000,
+    "storage_type": "NVMe M.2 (upgradeable, multiple slots)",
+    "screen_size_in": 18,
+    "display_type": "IPS matte, non-touch",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 350,
+    "brightness_hdr_nits": null,
+    "weight_kg": 3.49,
+    "ports": "3x USB-A, 2x USB-C (incl. USB4/TB4), HDMI, RJ-45, 3.5mm",
+    "wireless": "Wi-Fi 6E/7, BT 5.3",
+    "webcam": "FHD 1080p",
+    "speakers": "Stereo",
+    "keyboard_notes": "Chiclet, RGB backlight, numeric keypad",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 4.3,
+    "notes": "99 Wh; 18\" HX desktop replacement."
+  },
+  "price": {
+    "cad": 6099,
+    "currency": "CAD",
+    "store": "bestbuy.ca (marketplace bundle)",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20282991",
+    "confidence": "verified",
+    "notes": "BBY CA verified 2026-11-24: reg $8,729, sale $6,099 — max tier of the dock-bundle set family. Marketplace DOCK-BUNDLE SET (laptop + 1TB drive/dock) — bundle inflates listed reg price. Marketplace fulfillment/return risk.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20282991",
+        "cad": 6099,
+        "est": false,
+        "name": "Acer Predator Neo 18 AI 18\" 240Hz Gaming Laptop,Intel Core Ultra 9 275HX,GeForce RTX 5070 Ti,64GB RAM,4TB SSD+1TB Dock Set,4-Zone Backlit Keyboard,Win 11,Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20282/20282991.jpeg",
+  "professional": {
+    "avg_score": 7.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (model-page aggregate, sibling PHN16-73)",
+        "score": "76%",
+        "url": "https://www.notebookcheck.net/Acer-Predator-Helios-Neo-16-AI-PHN16-73.1171432.0.html",
+        "quote": "Aggregated scoring places it at around 76% overall, indicating a solid but not flawless package."
+      },
+      {
+        "outlet": "Tom's Guide (sibling Neo 16 AI, same 5070 Ti/275HX)",
+        "score": "no numeric score found",
+        "url": "https://www.tomsguide.com/computing/gaming-laptops/acer-predator-helios-neo-16-ai-review",
+        "quote": "An ineffective cooling system, slow SSD hampered by bloatware, bulky design, and short battery life make the Neo 16 AI a hard sell."
+      }
+    ],
+    "note": "No dedicated pro review of the PHN18-72 Neo 18 AI; anchored from NBC-reviewed PHN16-73 (same CPU/GPU). Honest null for this exact config."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Absolute max of the Neo 18 line: 64GB + 4TB + 5070 Ti + 24-core CPU for $6,099 sale undercuts full-Helios equivalents by $1k+",
+      "4TB means full game library + creative projects without juggling drives",
+      "Workstation-class RAM/CPU combo in a gaming chassis — VMs, compiles, local LLMs all fit",
+      "Still fully user-serviceable: SODIMMs, multiple M.2 slots, standard parts",
+      "Bundle adds a 1TB drive/dock on top of the deepest discount of the family"
+    ],
+    "complaints": [
+      "Storage/RAM premium at this tier is poor value vs DIY upgrades in the 32GB SKU",
+      "GPU stays the 12GB 5070 Ti — at $6k buyers eye the Helios 16/18 with 5080/5090 instead",
+      "3.5 kg + brick; portability is a fiction",
+      "Matte IPS panel is the one tier-invariant weak point at flagship pricing",
+      "Acer bloatware/PredatorSense friction; short battery (line-wide)"
+    ]
+  },
+  "design_philosophy": "The top of the Neo 18 AI ladder — Acer's argument that memory and storage should not be luxury options. Everything the Neo platform can hold is populated here; the display and GPU tier remain the deliberate cost ceilings that separate Neo from full Helios.",
+  "ratings": {
+    "battery": 4.3,
+    "screen_size": 9,
+    "screen_quality": 6,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 8.3,
+    "productivity": 8.7,
+    "portability": 2.5,
+    "build_quality": 7,
+    "thermals_noise": 6,
+    "port_connectivity": 8,
+    "creative_work": 7,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 5,
+    "upgradability": 7.5,
+    "ai_ml": 6.7,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Inferred from NBC 76% PHN16-73 anchor + 18\" deltas per SHARED-predator.md; 64GB/4TB tier: +0.7 productivity, +0.5 ai_ml vs 32GB twins, +0.2 creative_work vs 2TB twin. Dock-bundle caveat in price.notes. No dedicated pro review — honest null."
+}

@@ -1,0 +1,115 @@
+{
+  "id": "dellplus14-2in1-u5-226v-16-512-openbox",
+  "line": "Dell Plus 14 2-in-1 (prev-gen, 2025)",
+  "config_name": "Dell Plus 14 2-in-1 Copilot+ PC — Core Ultra 5 226V, 16GB LPDDR5X, 512GB SSD, 14\" touch (open-box)",
+  "tier": "Entry",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2025-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 5 226V (Lunar Lake, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "Intel Graphics (Lunar Lake, integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X on-package",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 14,
+    "display_type": "Touch",
+    "resolution": "2240x1400",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.5,
+    "ports": "2x Thunderbolt 4 / USB-C, 1x USB-A, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit, shallow travel",
+    "pen_support": "Active pen (sold separately)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 18,
+    "real_world_hours": 8,
+    "notes": "Lunar Lake Ultra 5 is the most efficient SKU in the family; ~8h mixed estimated."
+  },
+  "price": {
+    "cad": 1109.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19428141",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 19428141 Open Box reg $1,299.95 / sale $1,109.95; refurb Fair 20284613 $944.95. Notable sub-$1,200 Copilot+ convertible today.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19428141",
+        "cad": 1109.95,
+        "est": false
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20284613",
+        "cad": 944.95,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/194/19428/19428141.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "$1,110 open-box for a Lunar Lake Copilot+ 14\" touch convertible — excellent battery-per-dollar",
+      "Ultra 5 226V is the most power-efficient chip of the family",
+      "16GB LPDDR5X standard, quiet fanless-quiet light loads",
+      "Thunderbolt 4 despite the budget price",
+      "Refurb twins down to $945"
+    ],
+    "complaints": [
+      "Open-box/Fair condition varies; check grade before buying",
+      "Weakest iGPU of the family — no gaming to speak of",
+      "Dell 2025 consumer-line keyboard feel complaints apply",
+      "512GB soldered-class storage only",
+      "Prev-gen chip: superseded by the 256V refresh at BBY"
+    ]
+  },
+  "design_philosophy": "The launch-gen spec of Dell's rebranded entry-mid convertible, now cleared at open-box prices: Lunar Lake efficiency and Copilot+ credentials at a budget price point the Premium line cannot touch.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 6,
+    "screen_quality": 6,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 3,
+    "productivity": 6.5,
+    "portability": 7,
+    "build_quality": 7,
+    "thermals_noise": 7.5,
+    "port_connectivity": 6,
+    "creative_work": 4.5,
+    "keyboard_trackpad": 4.5,
+    "webcam_speakers": 5,
+    "upgradability": 2,
+    "ai_ml": 5.5,
+    "pen_touch": 7,
+    "repairability_service": 4.5,
+    "durability": 6
+  },
+  "rating_notes": "Inferred from CNET DB06250 anchor per SHARED-dell-2in1.md: Ultra 5 226V → productivity -0.5, gaming -0.5 (no Arc 140V), battery +0.5 (most efficient SKU). Open-box condition caveat. No direct pro review found.",
+  "standouts": [
+    "Sub-$1,200 Copilot+ convertible (open-box)"
+  ],
+  "dealbreakers": [
+    "Open-box condition variance",
+    "Weakest iGPU of family"
+  ]
+}

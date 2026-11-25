@@ -1,0 +1,122 @@
+{
+  "id": "mbp14-m5pro-15c-24-1tb",
+  "line": "Apple MacBook Pro 14-inch (2026, M5 Pro)",
+  "config_name": "MacBook Pro 14-inch — M5 Pro 15-core CPU / 16-core GPU, 24GB RAM, 1TB SSD",
+  "tier": "Mid",
+  "category": "apple",
+  "ecosystem": "macOS",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M5 Pro (15-core: 5 super + 10 performance)",
+    "cpu_cores": 15,
+    "gpu": "Apple M5 Pro 16-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 24,
+    "ram_type": "unified/soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe soldered (PCIe 5.0)",
+    "screen_size_in": 14.2,
+    "display_type": "Mini-LED IPS (Liquid Retina XDR)",
+    "resolution": "3024x1964",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 1000,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 1.6,
+    "ports": "3x TB5/USB-C, HDMI, SDXC, MagSafe 3, 3.5mm",
+    "wireless": "Wi-Fi 7 (Apple N1), BT 6",
+    "webcam": "12MP Center Stage",
+    "speakers": "6-speaker",
+    "keyboard_notes": "Magic Keyboard, Touch ID, Force Touch trackpad",
+    "pen_support": "none",
+    "os": "macOS Tahoe 26"
+  },
+  "battery": {
+    "claimed_hours": 22,
+    "real_world_hours": 12.5,
+    "notes": "Up to 22h video / 14h web claimed; 72.4Wh. NBC found the M5 Pro 16-inch's runtime a bit shorter than M4 Pro's."
+  },
+  "price": {
+    "cad": 3499,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch",
+    "confidence": "verified",
+    "notes": "Verified on apple.com/ca buy page (see research/parts/apple/NOTES.md).",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19791115",
+        "cad": 3489.99,
+        "est": false,
+        "name": "Apple MacBook Pro 14.2\" (2026) - Space Black (Apple M5 Pro / 24GB RAM / 1TB SSD) - English"
+      },
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch",
+        "cad": 3499,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch"
+  },
+  "image_url": "https://www.apple.com/v/macbook-pro/specs/e/images/specs/14-inch/macbook_pro_14_inch__fjlrd633eki2_large.jpg",
+  "professional": {
+    "avg_score": 8.8,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "92.3%",
+        "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-16-2026-Review-M5-Pro-makes-one-of-the-best-multimedia-laptops-even-better.1245523.0.html",
+        "quote": "The new Apple M5 Pro SoC is a perfect fit... it can utilize the full performance of the chip without throttling. We see noticeable performance advantages over the previous M4 Pro chip (~20 % CPU, 30-50 % GPU) (same chip tested in the 16-inch chassis)"
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.4/10",
+        "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-14-m5-2025",
+        "quote": "exceptional battery life... lasts well over a full day; exceptional build quality... all-aluminum unibody (same chassis, M5 model tested)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "M5 Pro delivers ~20% CPU and 30-50% GPU gains over M4 Pro — big jump for video exporters (NBC benchmarks)",
+      "Thunderbolt 5 (vs TB4 on the M6 tier) for fast docking and external storage (NBC)",
+      "PCIe 5.0 SSDs are much faster than the previous generation (NBC)",
+      "Mini-LED XDR 120Hz panel with optional matte remains best-in-class (NBC)",
+      "Stays very quiet in most scenarios even with the hotter Pro chip (NBC)"
+    ],
+    "complaints": [
+      "Prices are still high, especially when you add upgrades (NBC con)",
+      "Still no SD Express support in the card reader (NBC con)",
+      "Wi-Fi 7 module only supports 160 MHz, capping transfer rates around 2 Gbps (NBC)",
+      "RAM and SSD soldered; 24GB base but +$300 per tier to 48/64GB",
+      "Same 5-year-old chassis; a redesign is overdue (NBC and Tom's Hardware)"
+    ]
+  },
+  "design_philosophy": "The M5 Pro tier is the classic MacBook Pro sweet spot: a higher-core-count chip with Thunderbolt 5 and a wider GPU bus in the same compact pro chassis. This 15-core/16-core GPU build targets editors and developers who want real multicore throughput at 1.6 kg.",
+  "ratings": {
+    "battery": 8.8,
+    "screen_size": 7,
+    "screen_quality": 9.3,
+    "readability_dark": 9,
+    "readability_bright": 8.5,
+    "ecosystem": 9.5,
+    "gaming": 3.8,
+    "productivity": 9.1,
+    "portability": 8.1,
+    "build_quality": 9.3,
+    "thermals_noise": 8.2,
+    "port_connectivity": 7,
+    "creative_work": 8.2,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 6.8,
+    "pen_touch": 0,
+    "repairability_service": 4,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings inferred from NBC's 92.3% review of the M5 Pro in the 16-inch chassis (no 14-inch M5 Pro review found): −0.5 thermals_noise and −0.5 battery for the smaller chassis/72.4Wh vs 100Wh; TB5 ports raise port_connectivity +1 vs M6 tier. Chassis anchored by RTINGS 8.4 / NBC 90.9% on the 2025 14-inch. Sentiment synthesized from pro reviews — Reddit API blocked (403)."
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ideapad-slim3-153-r7170-touch",
+  "line": "Lenovo IdeaPad Slim 3 15.3\" touch (2025)",
+  "config_name": "IdeaPad Slim 3 15.3\" touch — Ryzen 7 170, 16GB DDR5, 512GB SSD, WUXGA IPS touch",
+  "tier": "Mid",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 7 170 (8-core Zen 3, Barcelo-R refresh)",
+    "cpu_cores": 8,
+    "gpu": "AMD Radeon Vega 8 (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "DDR5 4800",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 15.3,
+    "display_type": "IPS LCD anti-glare touch",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.59,
+    "ports": "2x USB-A 3.2 Gen1, 1x USB-C 3.2 Gen1 (PD3.0, DP1.2), HDMI 1.4, 3.5mm",
+    "wireless": "Wi-Fi 6, BT 5.3",
+    "webcam": "720p",
+    "speakers": "2x stereo down-firing",
+    "keyboard_notes": "Chiclet, bilingual CA, no numpad",
+    "pen_support": "none (touch only)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 4.5,
+    "notes": "~34Wh (4422 mAh) small pack with a hot 8-core Zen 3 chip: ~4-5h real web use, worse under load."
+  },
+  "price": {
+    "cad": 799.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19784196",
+    "confidence": "verified",
+    "notes": "No sale; $799.95 flat — strong spec-per-dollar at that price.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19784196",
+        "cad": 799.95,
+        "est": false,
+        "name": "Lenovo IdeaPad Slim 3 15.3\" Touchscreen Laptop - AMD Ryzen 7 170 - 16GB DDR5 - 512GB SSD - Windows 11 Home - Luna Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19784/19784196.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Ryzen 7 170 (8C/16T) + 16GB DDR5 is the strongest multicore combo in the whole IdeaPad budget line",
+      "Touchscreen at $799.95 is almost unheard of at this size and price",
+      "Noticeably snappy in day-to-day use; 7-zip and compile jobs beat the Intel 3i twins",
+      "1.59 kg with touch layer — lighter than most non-touch 15\" budget laptops",
+      "Vega 8 iGPU runs older/esports titles at 720p-1080p low acceptably"
+    ],
+    "complaints": [
+      "Small ~34Wh battery is the family's worst pairing: an 8-core Zen 3 chip on a 34Wh pack gives ~4h",
+      "Fan ramps up loudly on almost any sustained load; benchmark runs are noisy",
+      "720p webcam undersells how good the rest of the spec is",
+      "Touch layer adds glare and reflections versus the matte non-touch 3i panels",
+      "Chassis flex is the same all-plastic Slim 3 story; touch pressing makes lid flex obvious"
+    ]
+  },
+  "standouts": [
+    "Best CPU + RAM + touch combo per dollar in the family — $799.95 buys 8 cores, 16GB and a touchscreen",
+    "Only touch option among the seven IdeaPad configs"
+  ],
+  "dealbreakers": [
+    "34Wh battery with this chip means realistically commuting with a charger"
+  ],
+  "design_philosophy": "The AMD counterweight in Lenovo's budget line: a Zen 3 8-core and 16GB DDR5 in the same thin 15.3\" Slim 3 shell, with a touchscreen thrown in to differentiate at retail. The compromise is Lenovo's smallest battery in the family, so mobility is claimed more than delivered.",
+  "ratings": {
+    "battery": 4,
+    "screen_size": 6.8,
+    "screen_quality": 4,
+    "readability_dark": 5,
+    "readability_bright": 4,
+    "ecosystem": 9,
+    "gaming": 2.2,
+    "productivity": 6.2,
+    "portability": 6.4,
+    "build_quality": 4.3,
+    "thermals_noise": 4.8,
+    "port_connectivity": 5.3,
+    "creative_work": 3,
+    "keyboard_trackpad": 5.2,
+    "webcam_speakers": 4,
+    "upgradability": 3,
+    "ai_ml": 1.5,
+    "pen_touch": 4.5,
+    "repairability_service": 5,
+    "durability": 4.3
+  },
+  "rating_notes": "No pro review found (see SHARED-ideapad-slim3.md). Inferred from Core 5 320 sibling: +1.2 productivity (8C/16T + 16GB vs 6C/8GB), +0.7 gaming (Vega 8 vs UHD), −1.5 battery (34Wh with a 15W+ chip), thermals −1.7 for known Barcelo heat in thin shells. pen_touch 4.5 = finger touch only, no pen. Panel IPS per BBY spec, 45% NTSC assumed."
+}

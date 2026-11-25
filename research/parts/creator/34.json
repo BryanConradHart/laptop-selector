@@ -1,0 +1,103 @@
+{
+  "id": "tp-p16-g3-pro3000-64-1tb",
+  "line": "Lenovo ThinkPad P16 Gen 3 (2025)",
+  "config_name": "ThinkPad P16 Gen 3 16\" — Intel Core Ultra 7 255HX, NVIDIA RTX PRO 3000 Blackwell, 64GB DDR5, 1TB SSD",
+  "tier": "High",
+  "category": "creator-workstation",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 255HX (Arrow Lake-HX, 20-core: 8P+12E)",
+    "cpu_cores": 20,
+    "gpu": "NVIDIA RTX PRO 3000 Blackwell (ISV-certified)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "DDR5-5600 (2x SODIMM, upgradeable to 192GB)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2280 NVMe Gen4 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "IPS anti-glare, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.7,
+    "ports": "2x TB4/USB-C, 2x USB-A, HDMI 2.1, SDXC, RJ45, 3.5mm, smart card",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker, Dolby Audio",
+    "keyboard_notes": "ThinkPad keyboard + TrackPoint, spill-resistant, optional numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 5.5,
+    "notes": "90Wh. Estimated ~5.5h light use (lower GPU tier than PRO 5000 config). No verified pro battery test found."
+  },
+  "price": {
+    "cad": 7628.29,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19463426",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: $7,628.29, no active sale (SKU 19463426; free briefcase bundle). 2TB/3TB twins ($7,896.21/$7,528.04) omitted — same specs.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19463426",
+        "cad": 7628.29,
+        "est": false,
+        "name": "Lenovo ThinkPad P16 Gen 3 Mobile Workstation Business Laptop - Intel Core Ultra 7 255HX - 64GB DDR5 - 1TB NVMe SSD - RTX Pro 3000 - Win 11 Pro - Black - Free Briefcase"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/194/19463/19463426.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "RTX PRO 3000 is the sweet-spot certified tier for professional CAD/CAE without the PRO 5000 price",
+      "64GB DDR5 standard and user-upgradeable to 192GB — big-model multitasking headroom",
+      "Ultra 7 255HX still a 20-core HX chip; nearly indistinguishable from 285HX in most pro apps",
+      "Full P16 serviceability and port set (RJ45, SDXC, dual TB4, HDMI 2.1)",
+      "Sold and shipped by Best Buy with Canadian warranty rather than overseas marketplace"
+    ],
+    "complaints": [
+      "No discount — full $7,628 while the PRO 5000 tier is $3,000 off on other SKUs",
+      "Base WUXGA 60Hz IPS panel at this price",
+      "Heavy 2.7 kg desktop-replacement chassis",
+      "Loud fans under sustained load",
+      "No verified pro review of this exact GPU tier — ratings are spec-inferred"
+    ]
+  },
+  "design_philosophy": "The mid-high tier of the P16 Gen 3 desktop-replacement line: a mid-tier ISV-certified RTX PRO Blackwell GPU paired with 64GB RAM for working engineers who need certified drivers and RAM capacity more than peak GPU throughput. Same fully serviceable chassis as the flagship.",
+  "ratings": {
+    "battery": 5,
+    "screen_size": 8,
+    "screen_quality": 6.3,
+    "readability_dark": 5.8,
+    "readability_bright": 6.5,
+    "ecosystem": 9.2,
+    "gaming": 6,
+    "productivity": 9.1,
+    "portability": 2.8,
+    "build_quality": 8.8,
+    "thermals_noise": 6.8,
+    "port_connectivity": 9,
+    "creative_work": 8.6,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 6.8,
+    "upgradability": 9,
+    "ai_ml": 7,
+    "pen_touch": 0,
+    "repairability_service": 8.5,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings inferred from PRO 5000 sibling entries 32/33 (SHARED-thinkpad-p.md, no verified pro anchor): PRO 3000 → ai_ml 7.0, gaming 6.0, creative_work −0.6 per SHARED GPU-tier guidance; +0.5 battery for lower GPU power; −0.2 productivity for 255HX vs 285HX. Sentiment synthesized from P-series owner themes, disclosed."
+}

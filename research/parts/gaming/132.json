@@ -1,0 +1,117 @@
+{
+  "id": "pred-helios16ai-275hx-5090-64-4tb",
+  "line": "Acer Predator Helios 16 AI (2025, PH16-72)",
+  "config_name": "Predator Helios 16 AI — Ultra 9 275HX / RTX 5090 24GB, 64GB DDR5, 4TB SSD, 16\" WQXGA 240Hz (max 16 tier)",
+  "tier": "Flagship",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5090 Laptop 24GB GDDR7 (Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "DDR5 SODIMM (upgradeable)",
+    "storage_gb": 4000,
+    "storage_type": "NVMe M.2 (upgradeable)",
+    "screen_size_in": 16,
+    "display_type": "IPS/mini-LED per SKU listing, matte, 240Hz",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.7,
+    "ports": "3x USB-A, 2x USB-C (TB4/TB5 + DP), HDMI, RJ-45, SD reader, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "FHD 1080p",
+    "speakers": "Stereo/quad per SKU",
+    "keyboard_notes": "Chiclet per-key RGB",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 4,
+    "notes": "90 Wh with a 5090 — light use ~4h, less under load."
+  },
+  "price": {
+    "cad": 7399,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19816839",
+    "confidence": "verified",
+    "notes": "BBY CA verified 2026-11-24: reg $10,569, sale $7,399 (30% off, Black Friday window). BBY-direct SKU 19816839. Highest-priced Predator in the CA lineup.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19816839",
+        "cad": 7399,
+        "est": false,
+        "name": "Acer Predator Helios 16 AI 16\" 240Hz Gaming Laptop - Intel Core Ultra 9-275HX - 64GB DDR5 - 4TB SSD - RTX 5090 - Win 11 - Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19816/19816839.jpeg",
+  "professional": {
+    "avg_score": 8.9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (sibling Helios 18 AI PH18-73)",
+        "score": "89%",
+        "url": "https://www.notebookcheck.net/Acer-Predator-Helios-18-AI-review-Finally-a-quieter-gaming-laptop-but-at-what-cost.1054468.0.html",
+        "quote": "The system's excellent upgrade options—4 RAM slots and 3 SSD slots—along with a high-quality mini LED panel and fast Wi-Fi 7, remain clear highlights."
+      },
+      {
+        "outlet": "TechRadar (sibling Helios 18 AI, 5090 config)",
+        "score": "no numeric score found",
+        "url": "https://www.techradar.com/computing/gaming-laptops/acer-predator-helios-18-ai-review",
+        "quote": "The Acer Predator Helios 18 AI might be better characterized as a state-of-the-art concept rather than an actual consumer product ... You'll need some seriously deep pockets, though."
+      }
+    ],
+    "note": "No dedicated pro review of the PH16-72 5090 in this RAM/storage tier found — honest null. Ratings anchored on NBC's 89% Helios 18 AI with 16\" deltas per SHARED-predator.md."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Maximum-portable Predator: 5090 24GB + 64GB + 4TB in 2.7 kg — a workstation that fits a backpack",
+      "64GB system RAM + 24GB VRAM covers serious local LLM, 3D, and video workloads without compromise",
+      "240Hz 16\" panel matches the 5090's output for high-refresh 1440p gaming",
+      "30% off ($10,569 → $7,399) is the deepest discount on any 5090-class machine at BBY CA",
+      "SODIMM/M.2 upgradeable with TB-class ports and Wi-Fi 7"
+    ],
+    "complaints": [
+      "$7,399 is the most expensive Predator sold in Canada — the 5080 tiers hit ~80% of it for $3k less",
+      "16\" chassis throttles the 5090 below its 18\" sibling under sustained load",
+      "Hot and loud in Turbo; the cooling stack is the platform's limit",
+      "Battery is the weakest point of the whole line — 5090 on 90 Wh",
+      "Acer bloatware/PredatorSense friction; sales-driven pricing makes the reg anchor meaningless"
+    ]
+  },
+  "design_philosophy": "The absolute ceiling of Acer's 16-inch gaming line: every option maxed behind the compact Helios chassis. It exists for the buyer who refuses both the 18-inch weight and any spec compromise — flagship GPU, workstation memory, and library-sized storage in one 2.7 kg machine, at a price that reflects all three.",
+  "ratings": {
+    "battery": 4,
+    "screen_size": 7.5,
+    "screen_quality": 8,
+    "readability_dark": 7,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 9.2,
+    "productivity": 9,
+    "portability": 4,
+    "build_quality": 8,
+    "thermals_noise": 5.5,
+    "port_connectivity": 8.5,
+    "creative_work": 8,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 6,
+    "upgradability": 8.5,
+    "ai_ml": 9.2,
+    "pen_touch": 0,
+    "repairability_service": 7.5,
+    "durability": 7
+  },
+  "rating_notes": "Inferred from NBC 89% Helios 18 AI anchor per SHARED-predator.md with same 16\" deltas as 131.json (screen_size -1.5, portability +1.5, gaming -0.3 vs 18\" 5090, thermals -1.0, battery -0.5), plus 64GB/4TB uplift: +0.5 productivity, +0.2 ai_ml, +0.5 creative_work vs 32GB/2TB twin. No dedicated pro review — honest null."
+}

@@ -1,0 +1,110 @@
+{
+  "id": "envyx360-156-u5-125u-16-1tb",
+  "line": "HP Envy x360 15.6 (2024, Core Ultra 5 125U) — leftover stock",
+  "config_name": "Envy x360 15.6 — Core Ultra 5 125U, 16GB LPDDR5, 1TB SSD, FHD touch",
+  "tier": "Entry",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2024-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 5 125U (Meteor Lake-U)",
+    "cpu_cores": 12,
+    "gpu": "Intel Graphics (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5 soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe",
+    "screen_size_in": 15.6,
+    "display_type": "FHD IPS touch",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 250,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.95,
+    "ports": "2x USB-C, 2x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "720p-5MP IR (varies)",
+    "speakers": "2-speaker B&O",
+    "keyboard_notes": "Backlit, numeric pad",
+    "pen_support": "HP pen (MPP)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 14,
+    "real_world_hours": 7.5,
+    "notes": "68Wh-class; Meteor Lake-U middling. Estimate."
+  },
+  "price": {
+    "cad": 899.97,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/hp-envy-x360-15-6-touchscreen-2-in-1-laptop-intel-core-ultra-5-125u-16gb-lpddr5-1tb-ssd-windows-11-home-mineral-silver/17744996",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 17744996 $899.97 (4.03★/29). Leftover; only notable as a sub-$900 big-touch-screen deal.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/hp-envy-x360-15-6-touchscreen-2-in-1-laptop-intel-core-ultra-5-125u-16gb-lpddr5-1tb-ssd-windows-11-home-mineral-silver/17744996",
+        "cad": 899.97,
+        "est": false,
+        "name": "HP Envy x360 15.6\" Touchscreen 2-in-1 Laptop - Intel Core Ultra 5 125U - 16GB LPDDR5 - 1TB SSD - Windows 11 Home - Mineral Silver"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/177/17744/17744996.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Under $900 for a 15.6\" touch convertible with 1TB — cheap big-screen family machine",
+      "4/5 average from 29 Best Buy buyers",
+      "Quiet under normal loads; fine for browsing and Office",
+      "Full port set incl. HDMI and numeric keypad",
+      "Solid aluminum-look deck for the price"
+    ],
+    "complaints": [
+      "125U is a weak low-power chip; sluggish under heavy multitasking",
+      "Dim 250-nit FHD panel with poor viewing angles",
+      "Noticeable chassis flex and hinge wobble on the 15.6\" deck",
+      "Mediocre battery (~7.5h) and mediocre 720p-class webcam on early units",
+      "Leftover stock: limited units and warranty clock started earlier"
+    ]
+  },
+  "design_philosophy": "The budget tail of the Envy x360 family: an older Meteor Lake-U 15.6\" convertible cleared under $900, trading panel quality and CPU punch for screen size and touch at the lowest price in the family.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 7.5,
+    "screen_quality": 4.5,
+    "readability_dark": 4,
+    "readability_bright": 4,
+    "ecosystem": 9,
+    "gaming": 2,
+    "productivity": 5.5,
+    "portability": 5.5,
+    "build_quality": 5.5,
+    "thermals_noise": 7.5,
+    "port_connectivity": 7.5,
+    "creative_work": 4,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 5,
+    "upgradability": 2.5,
+    "ai_ml": 3.5,
+    "pen_touch": 6,
+    "repairability_service": 4.5,
+    "durability": 5
+  },
+  "rating_notes": "Leftover value entry. Ratings synthesized from Meteor Lake-U platform knowledge and BBY 4.03★/29; no pro review of this exact CA config (bot-walls, SHARED-hp-convertibles.md).",
+  "standouts": [
+    "Sub-$900 15.6\" touch + 1TB"
+  ],
+  "dealbreakers": [
+    "Dim FHD panel",
+    "Weak 125U CPU"
+  ]
+}

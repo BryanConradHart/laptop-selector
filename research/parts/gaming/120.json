@@ -1,0 +1,117 @@
+{
+  "id": "pred-helios-neo16-275hx-5060-16-1tb",
+  "line": "Acer Predator Helios Neo 16 AI (2025, PHN16-73)",
+  "config_name": "Predator Helios Neo 16 AI — Ultra 9 275HX / RTX 5060 8GB, 16GB DDR5, 1TB SSD, 16\" WQXGA IPS 180Hz",
+  "tier": "Entry",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7 (Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 16,
+    "ram_type": "DDR5 SODIMM (upgradeable, 2 slots)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (upgradeable)",
+    "screen_size_in": 16,
+    "display_type": "IPS matte, non-touch",
+    "resolution": "2560x1600",
+    "refresh_hz": 180,
+    "brightness_sdr_nits": 350,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.7,
+    "ports": "3x USB-A 3.2 Gen2, 1x USB4 40Gbps (TB4, PD), 1x USB-C, HDMI, 3.5mm, microSD",
+    "wireless": "Wi-Fi 6E/7 (Killer), BT 5.3-5.4",
+    "webcam": "2MP 1080p",
+    "speakers": "Stereo",
+    "keyboard_notes": "Chiclet, RGB backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 4.5,
+    "notes": "90 Wh. Tom's Guide rated battery life a clear con on the reviewed 5070 Ti config; slightly better with the lower-power 5060."
+  },
+  "price": {
+    "cad": 2999.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19274602",
+    "confidence": "verified",
+    "notes": "BBY CA verified 2026-11-24 (no active discount). BBY-direct SKU 19274602.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19274602",
+        "cad": 2999.99,
+        "est": false,
+        "name": "Acer Predator Helios Neo 16\" 180Hz Gaming Laptop - Intel Core Ultra 9 275HX - 16GB DDR5 - 1TB SSD - RTX 5060 - Windows 11 - Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19274/19274602.jpg",
+  "professional": {
+    "avg_score": 7.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (model-page aggregate, PHN16-73)",
+        "score": "76%",
+        "url": "https://www.notebookcheck.net/Acer-Predator-Helios-Neo-16-AI-PHN16-73.1171432.0.html",
+        "quote": "Aggregated scoring places it at around 76% overall, indicating a solid but not flawless package. Reviews praise the premium, screen-led experience and balanced design, while warning that the display technology can also introduce significant compromises."
+      },
+      {
+        "outlet": "Tom's Guide (reviewed 5070 Ti config)",
+        "score": "no numeric score found",
+        "url": "https://www.tomsguide.com/computing/gaming-laptops/acer-predator-helios-neo-16-ai-review",
+        "quote": "An ineffective cooling system, slow SSD hampered by bloatware, bulky design, and short battery life make the Neo 16 AI a hard sell."
+      }
+    ],
+    "note": "Pro scores anchor the reviewed 5070 Ti/OLED config; this 5060/IPS tier is inferred from it (see rating_notes). RTINGS has no PHN16-73 review — not cited."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest way into the 24-core Ultra 9 275HX platform — CPU heavily outranks the price point",
+      "Matte 16\" WQXGA 16:10 panel has no OLED reflection/glare complaints and is plenty smooth at 180Hz",
+      "Solid port set for the price: USB4/Thunderbolt 4 with PD, HDMI, microSD",
+      "RAM and storage are SODIMM/M.2 upgradeable — start at 16GB and add a second stick cheaply",
+      "Strong 1080p/1440p gaming with DLSS 4 frame-gen on the 5060 at this price"
+    ],
+    "complaints": [
+      "16GB RAM is tight for 2025+ AAA titles and multitasking; upgrade nearly mandatory",
+      "Heavy at ~2.7 kg for a 16-inch machine",
+      "Acer bloatware (PredatorSense suite and promos) bogs down first setup and SSD performance",
+      "Runs hot and fans ramp loud under sustained load (recurring Neo 16 complaint across reviews)",
+      "Battery life is short — roughly a work-half-day at best"
+    ]
+  },
+  "design_philosophy": "The Helios Neo line is Acer's performance-per-dollar wing of Predator: flagship Arrow Lake-HX CPUs from the full Helios in a cheaper chassis with one-tier-down GPUs. This entry config pairs the top 24-core CPU with the RTX 5060 and a matte IPS panel — the classic Acer trade of cutting display and graphics cost while keeping raw CPU horsepower and upgradability.",
+  "ratings": {
+    "battery": 4.5,
+    "screen_size": 7.5,
+    "screen_quality": 6,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 6.3,
+    "productivity": 7.3,
+    "portability": 4,
+    "build_quality": 7,
+    "thermals_noise": 5,
+    "port_connectivity": 7.5,
+    "creative_work": 6,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 4.5,
+    "upgradability": 7.5,
+    "ai_ml": 5,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Inferred from NBC-reviewed 76% PHN16-73 5070 Ti/OLED anchor per SHARED-predator.md: gaming -2.0 (RTX 5060 vs 5070 Ti), screen_quality -1.5 (matte IPS vs OLED) but readability_bright +0.5 / readability_dark -1.0 for matte vs OLED, productivity -0.7 and ai_ml -0.6 for 16GB RAM, thermals +0.5 and battery +0.3 for the cooler 5060. BBY per-SKU customer ratings unavailable (0 ratings) — sentiment review-grounded, disclosed in SHARED file."
+}

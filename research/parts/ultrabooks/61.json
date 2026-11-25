@@ -1,0 +1,117 @@
+{
+  "id": "obu14-u9-32-2tb",
+  "line": "HP OmniBook Ultra 14 (2026, Panther Lake)",
+  "config_name": "OmniBook Ultra 14 (kd0000ca) — Core Ultra 9 386H, 32GB, 2TB NVMe SSD, 14\" 3K 120Hz touch",
+  "tier": "High",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-04",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 386H (Panther Lake)",
+    "cpu_cores": 16,
+    "gpu": "Intel Arc integrated (12 Xe3 cores)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 2000,
+    "storage_type": "M.2 NVMe",
+    "screen_size_in": 14,
+    "display_type": "OLED touch, 16:10, 120Hz",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 430,
+    "brightness_hdr_nits": 1000,
+    "weight_kg": 1.36,
+    "ports": "2x TB4/USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 6.0",
+    "webcam": "9MP IR",
+    "speakers": "quad-speaker by Poly Studio",
+    "keyboard_notes": "backlit, fingerprint power button",
+    "pen_support": "touch",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 12,
+    "notes": "~64Wh. Panther Lake H-class trades some runtime for multicore; NBC measured ~17h Wi-Fi on the lower-power OmniBook X 14 Panther Lake config."
+  },
+  "price": {
+    "cad": 2197.89,
+    "currency": "CAD",
+    "store": "bestbuy.ca (marketplace)",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20181091",
+    "confidence": "verified",
+    "notes": "Best Buy CA SKU 20181091 'Brand New' marketplace, reg $3,000, sale $2,197.89 (2026-11-24 API). Strong value vs sibling tiers.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20173019",
+        "cad": 3399.99,
+        "est": false,
+        "name": "HP OmniBook X Flip 16\" Touchscreen 2-in-1 Laptop - Intel Core Ultra 9 386H - 32GB LPDDR5x RAM - 2TB SSD - Windows 11 - Eclipse Grey"
+      },
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20181091",
+        "cad": 2197.89,
+        "est": false,
+        "name": "Brand New - HP OmniBook UltraNGAI kd0000ca - 14\" Touchscreen Laptop - Intel Core Ultra 9 386H, 32GB, 2TB NVMe M.2 SSD - Bilingual Keyboard - W11"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20181/20181091.jpeg",
+  "professional": {
+    "avg_score": 8.5,
+    "reviews": [
+      {
+        "outlet": "PCMag",
+        "score": "recommended",
+        "url": "https://www.pcmag.com/reviews/hp-omnibook-ultra-14",
+        "quote": "I Tested HP's OmniBook Ultra 14, a Gorgeous Ultraportable With Potent Processing Power"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Ultra 9 386H compiles and exports far faster than the Lunar Lake tiers while staying silent on light loads",
+      "2TB SSD at $2,198 on sale is the best spec-per-dollar OmniBook Ultra in Canada right now",
+      "3K 120Hz OLED touch — same gorgeous panel as the top tier",
+      "x86 Windows: zero app-translation caveats, runs everything including anti-cheat games",
+      "Great keyboard and trackpad for a consumer chassis; fingerprint reader in power button"
+    ],
+    "complaints": [
+      "Runs warmer than the Snapdragon tier under sustained multicore; fan audible in rendering",
+      "~12h real-world vs 14h+ on the X2 Elite sibling",
+      "Marketplace seller on Best Buy, not direct HP stock — warranty experience varies",
+      "Soldered RAM/storage",
+      "HDMI port is single-link-limited on some units; 4K120 external needs DP alt-mode"
+    ]
+  },
+  "design_philosophy": "The x86 performance end of the OmniBook Ultra line: Panther Lake H-class silicon for creators and developers who want the same premium OLED clamshell shell with full Windows compatibility and stronger multicore.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 7,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 5,
+    "productivity": 9,
+    "portability": 8.5,
+    "build_quality": 8.5,
+    "thermals_noise": 7,
+    "port_connectivity": 7.5,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 8,
+    "webcam_speakers": 8,
+    "upgradability": 2,
+    "ai_ml": 6.5,
+    "pen_touch": 6.5,
+    "repairability_service": 4,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from PCMag OmniBook Ultra 14 anchor (headline verified) + Notebookcheck OmniBook X 14 Panther Lake data (same silicon generation, 'lasts 17 hours' headline). Panther Lake Arc iGPU ~5 gaming per dataset calibration; ecosystem 9 (x86). Sale price verified via Best Buy API."
+}

@@ -1,0 +1,117 @@
+{
+  "id": "dell-pro-max-16-mc16250-arcpro-32-1tb",
+  "line": "Dell Pro Max 16 (MC16250, 2025)",
+  "config_name": "Dell Pro Max 16 — Intel Core Ultra 7 255H, Intel Arc Pro (integrated pro-tier), 32GB, 1TB SSD, 16\" WUXGA IPS",
+  "tier": "Mid",
+  "category": "creator",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-07",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 255H (Arrow Lake-H, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "Intel Arc Pro (integrated pro-tier, ISV-certified drivers)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "DDR5 SODIMM (upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "WUXGA IPS anti-glare, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.89,
+    "ports": "2x TB4/USB-C, 2x USB-A, HDMI 2.1, RJ-45, 3.5mm, optional smart card",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "8MP + IR",
+    "speakers": "2-speaker, Dolby Audio",
+    "keyboard_notes": "Backlit keyboard with numeric keypad",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 13,
+    "real_world_hours": 7.5,
+    "notes": "Est. ~64-90Wh class; no verified pro battery test found (NBC bot-walled)."
+  },
+  "price": {
+    "cad": 4113.41,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19446125",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $4,524.75 / sale $4,113.41 (SKU 19446125). Dell CA base model for this line from CAD $3,124.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19446125",
+        "cad": 4113.41,
+        "est": false,
+        "name": "Dell Pro Max 16 Laptop - Intel Core Ultra 7 255H - 32GB DDR5 - 1TB SSD - Intel Arc/Arc Pro - Windows 11 Pro - Black"
+      }
+    ],
+    "official_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/dellpromax16laptopmc16250"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/194/19446/19446125.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Laptop Media",
+        "score": null,
+        "url": "https://laptopmedia.com/review/dell-pro-max-16-mc16250-review-built-for-work-built-to-last/",
+        "quote": "A serious workstation that prioritizes function, stability, and user-centric features over flashiness... a robust build, a fantastic keyboard, and a level of upgradeability and flexibility that is becoming increasingly rare. (exact MC16250 model reviewed; no numeric score published.)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "The most-reviewed workstation at Dell CA (4.3/5 from 464 reviews) — big owner base, few systemic defects reported",
+      "Full desktop-replacement port set including RJ-45 and numeric keypad — classic Precision 3000 workhorse utility",
+      "SODIMM RAM and dual M.2 slots: unlike Plus/Premium siblings, buyers can upgrade storage and memory themselves",
+      "Ubuntu-certified configuration option straight from Dell — rare in this price band for pro CAD work",
+      "Handles docking to Dell WD22TB4/TB22TB4 with single-cable setup cleanly — fleet-friendly vPro manageability"
+    ],
+    "complaints": [
+      "Integrated Arc Pro tier chokes on real 3D/CAD assemblies — buyers routinely wish they had stretched to a discrete RTX PRO",
+      "Base WUXGA 300-nit panel is the weakest link: dim, low contrast, not color-accurate for creator work",
+      "Fans ramp audibly under sustained load; MC-tier cooling is sized for quiet-ish idle, not sustained H-class work",
+      "Regular $4,524.75 anchor price is inflated; the ~$4,113 sale is the only honest number",
+      "Chassis plastics and hinge feel a step below the ex-Precision 5000 machines the \"workstation\" label implies"
+    ]
+  },
+  "standouts": [
+    "SODIMM RAM + dual M.2 + RJ-45: the most self-serviceable config in the Pro Max range",
+    "Dell CA 4.3/5 from 464 reviews — the best-verified user base of any entry in this line"
+  ],
+  "dealbreakers": [
+    "Integrated Arc Pro tier is too weak for real 3D/CAD assemblies — fine for office/light CAD only"
+  ],
+  "design_philosophy": "The Pro Max 16 MC is the volume workhorse of the renamed Precision line — the direct successor to the Precision 3000 mainstream tier. Its philosophy is serviceable, dockable, ISV-certified computing at fleet scale: SODIMM RAM, dual M.2, RJ-45, and Ubuntu certification over thinness. This Arc Pro config is the entry GPU point: office-to-CAD light duty, with discrete RTX PRO 1000-2000 trims above it.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 8,
+    "screen_quality": 6,
+    "readability_dark": 5.5,
+    "readability_bright": 5.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 8.3,
+    "portability": 6.3,
+    "build_quality": 7.3,
+    "thermals_noise": 6,
+    "port_connectivity": 8.5,
+    "creative_work": 5.8,
+    "keyboard_trackpad": 7.8,
+    "webcam_speakers": 6.5,
+    "upgradability": 7.5,
+    "ai_ml": 4,
+    "pen_touch": 0,
+    "repairability_service": 8.5,
+    "durability": 7.5
+  },
+  "rating_notes": "(gap-fill 2026-11-25: Laptop Media qualitative review of exact MC16250 attached via NBC collection page; avg_score stays null - no numeric score exists.) No verified pro review found (NBC bot-walled; see SHARED-dell-promax.md). Dell CA retail 4.3/5 from 464 reviews is the strongest verified user signal in this line. Arc Pro integrated tier caps gaming/creative_work/ai_ml per SHARED-thinkpad-p guidance (iGPU pro tier 4-5). SODIMM/dual-M.2 serviceability lifts upgradability/repairability above Plus/Premium siblings. Sentiment synthesized from Pro Max 16 / Precision 3000 owner themes — disclosed, not quoted."
+}

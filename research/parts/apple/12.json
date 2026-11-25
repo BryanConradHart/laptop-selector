@@ -1,0 +1,122 @@
+{
+  "id": "mbp14-m6-32-1tb",
+  "line": "Apple MacBook Pro 14-inch (2026, M6)",
+  "config_name": "MacBook Pro 14-inch — M6 12-core CPU / 12-core GPU, 32GB RAM, 1TB SSD",
+  "tier": "High",
+  "category": "apple",
+  "ecosystem": "macOS",
+  "form_factor": "clamshell",
+  "release": "2026-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M6 (12-core)",
+    "cpu_cores": 12,
+    "gpu": "Apple M6 12-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "unified/soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe soldered (PCIe 5.0)",
+    "screen_size_in": 14.2,
+    "display_type": "Mini-LED IPS (Liquid Retina XDR)",
+    "resolution": "3024x1964",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 1000,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 1.55,
+    "ports": "3x TB4/USB-C, HDMI, SDXC, MagSafe 3, 3.5mm",
+    "wireless": "Wi-Fi 7 (Apple N1), BT 6",
+    "webcam": "12MP Center Stage",
+    "speakers": "6-speaker",
+    "keyboard_notes": "Magic Keyboard, Touch ID, Force Touch trackpad",
+    "pen_support": "none",
+    "os": "macOS Tahoe 26"
+  },
+  "battery": {
+    "claimed_hours": 24,
+    "real_world_hours": 13.1,
+    "notes": "Up to 24h video / 16h web claimed; 72.4Wh. NBC notes larger RAM tiers slightly increase power draw."
+  },
+  "price": {
+    "cad": 3399,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch",
+    "confidence": "verified",
+    "notes": "Verified on apple.com/ca buy page (see research/parts/apple/NOTES.md).",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20249176",
+        "cad": 3399.99,
+        "est": false,
+        "name": "Apple MacBook Pro 14.2\" (2026) - Space Black (Apple M6 / 32GB RAM / 1TB SSD) - English"
+      },
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch",
+        "cad": 3399,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch"
+  },
+  "image_url": "https://www.apple.com/v/macbook-pro/specs/e/images/specs/14-inch/macbook_pro_14_inch__fjlrd633eki2_large.jpg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Tom's Hardware",
+        "score": "4.5/5 Editor's Choice",
+        "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-14-inch-m6-review",
+        "quote": "While the base MacBook Pro design is getting a bit tired, Apple's new M6 chip gives the 14-inch MacBook even more pep in its step."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.4/10",
+        "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-14-m5-2025",
+        "quote": "exceptional battery life... lasts well over a full day (same chassis, M5 model tested)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "32GB lets the base-chip 14-inch run local LLMs (7-14B quantized models) comfortably via unified memory",
+      "Best RAM ceiling available on any non-Pro/Max Mac laptop — future-proofs heavy multitasking",
+      "Mini-LED XDR 120Hz panel remains best-in-class for laptops (NBC)",
+      "Impeccable all-aluminum build and outstanding battery life (RTINGS)",
+      "M6 single-core speed is class-leading for compile-heavy development (NBC on M5 chassis)"
+    ],
+    "complaints": [
+      "+$600 CAD over the base for 32GB — memory upgrades more expensive than ever (Tom's Hardware con)",
+      "At C$3,399 you're near M5 Pro territory where GPU cores also double — awkward pricing step",
+      "Same 5-year-old chassis; design is starting to look stale (Tom's Hardware con)",
+      "12-core GPU unchanged — paying for RAM but not graphics",
+      "RAM and SSD soldered; 1TB is the only storage at this listed tier"
+    ]
+  },
+  "design_philosophy": "Apple's pricing ladder forces a choice: extra memory on the efficient base chip versus extra GPU on the Pro chip. This tier is the 'memory-first' 14-inch — for developers and ML tinkerers who need unified capacity more than graphics throughput.",
+  "ratings": {
+    "battery": 9,
+    "screen_size": 7,
+    "screen_quality": 9.3,
+    "readability_dark": 9,
+    "readability_bright": 8.5,
+    "ecosystem": 9.5,
+    "gaming": 3,
+    "productivity": 9,
+    "portability": 8.3,
+    "build_quality": 9.3,
+    "thermals_noise": 8.6,
+    "port_connectivity": 6,
+    "creative_work": 7.4,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 7,
+    "pen_touch": 0,
+    "repairability_service": 4,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings inferred from the tested M6 16/1TB config (Tom's 4.5/5): +0.4 productivity, +1.0 ai_ml for the 32GB unified-memory tier, −0.2 battery per NBC's RAM power-draw note. Sentiment synthesized from pro reviews and Amazon.ca aggregate — Reddit API blocked (403)."
+}

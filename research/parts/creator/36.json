@@ -1,0 +1,103 @@
+{
+  "id": "tp-p16-g3-pro1000-32-512",
+  "line": "Lenovo ThinkPad P16 Gen 3 (2025)",
+  "config_name": "ThinkPad P16 Gen 3 16\" — Intel Core Ultra 7 255HX, NVIDIA RTX PRO 1000 Blackwell, 32GB DDR5, 512GB SSD",
+  "tier": "Entry",
+  "category": "creator-workstation",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 255HX (Arrow Lake-HX, 20-core: 8P+12E)",
+    "cpu_cores": 20,
+    "gpu": "NVIDIA RTX PRO 1000 Blackwell (ISV-certified)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600 (2x SODIMM, upgradeable to 192GB)",
+    "storage_gb": 512,
+    "storage_type": "M.2 2280 NVMe Gen4 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "IPS anti-glare, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.7,
+    "ports": "2x TB4/USB-C, 2x USB-A, HDMI 2.1, SDXC, RJ45, 3.5mm, smart card",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker, Dolby Audio",
+    "keyboard_notes": "ThinkPad keyboard + TrackPoint, spill-resistant, optional numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 5.5,
+    "notes": "90Wh. Estimated ~5.5h light use. No verified pro battery test found."
+  },
+  "price": {
+    "cad": 5453.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19843341",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $6,503.99 / sale $5,453.99 (SKU 19843341). Sale price used.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19843341",
+        "cad": 5453.99,
+        "est": false,
+        "name": "Lenovo ThinkPad P16 Gen 3 Business Laptop - Intel Core Ultra 7 255HX - 32GB DDR5 - 512GB SSD - RTX PRO 1000 - Windows 11 Pro - Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19843/19843341.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest RTX PRO Blackwell config in the P16 line — certified drivers on a real HX workstation platform",
+      "20-core Ultra 7 255HX handles compilation, simulation and multitasking well beyond its price",
+      "Standard P16 serviceability: SODIMM RAM to 192GB, dual M.2, swappable parts",
+      "PRO 1000 comfortably handles 2D CAD, drafting and light 3D assemblies",
+      "Full port set including RJ45 and dual TB4 docking"
+    ],
+    "complaints": [
+      "PRO 1000 is entry-tier — heavy 3D, rendering and local AI are outside its comfort zone",
+      "512GB stock SSD is too small for project libraries; second M.2 slot effectively mandatory",
+      "2.7 kg and loud fans — desktop replacement regardless of config",
+      "Entry WUXGA 60Hz IPS panel",
+      "Regular $6,504 anchor price is inflated; sale price is the real one"
+    ]
+  },
+  "design_philosophy": "The entry tier of the P16 Gen 3 desktop-replacement line: the full HX workstation chassis and serviceability with the entry RTX PRO 1000 GPU, for CAD users and businesses who need ISV certification and CPU core count at the lowest P16 price point.",
+  "ratings": {
+    "battery": 5,
+    "screen_size": 8,
+    "screen_quality": 6.3,
+    "readability_dark": 5.8,
+    "readability_bright": 6.5,
+    "ecosystem": 9.2,
+    "gaming": 4.5,
+    "productivity": 8.8,
+    "portability": 2.8,
+    "build_quality": 8.8,
+    "thermals_noise": 6.8,
+    "port_connectivity": 9,
+    "creative_work": 7.5,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 6.8,
+    "upgradability": 9,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 8.5,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings inferred from PRO 5000 sibling entries 32/33 (SHARED-thinkpad-p.md, no verified pro anchor): PRO 1000 → ai_ml 5.5, gaming 4.5, creative_work 7.5 per SHARED GPU-tier guidance; −0.2 productivity vs 285HX sibling (255HX) and −0.3 for 32GB. Sentiment synthesized from P-series owner themes, disclosed."
+}

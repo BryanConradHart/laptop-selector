@@ -1,0 +1,104 @@
+{
+  "id": "gb6-pro-14-u7-16-512",
+  "line": "Samsung Galaxy Book6 Pro 14 (Copilot+)",
+  "config_name": "Galaxy Book6 Pro 14 — Intel Core Ultra 7 (Series 2), Arc iGPU, 16GB LPDDR5X, 512GB, 14\" Dynamic AMOLED 2x touch 120Hz",
+  "tier": "High",
+  "category": "ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 (Series 2, Lunar Lake)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 140V integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered (on-package)",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 14,
+    "display_type": "Dynamic AMOLED 2x touch",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 550,
+    "brightness_hdr_nits": 1000,
+    "weight_kg": 1.16,
+    "ports": "2x Thunderbolt 4, 1x USB-A, HDMI, microSD, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.3",
+    "webcam": "FHD IR",
+    "speakers": "stereo (AMOLED Pro audio)",
+    "keyboard_notes": "backlit, larger trackpad on Pro chassis",
+    "pen_support": "S Pen supported (touch)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 16,
+    "real_world_hours": 12.5,
+    "notes": "AMOLED + Lunar Lake; ~12-13h light use realistic per line calibration."
+  },
+  "price": {
+    "cad": 1800,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19735876",
+    "confidence": "verified",
+    "notes": "Reg $2,499.99 / sale $1,799.99 (BBY-verified 2026-11-24) — deep Black-Friday-style discount makes this the standout of the whole Galaxy Book CA range. SKU 19735876.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19735876",
+        "cad": 1799.99,
+        "est": false,
+        "name": "Samsung Galaxy Book6 Pro 14\" Touchscreen Copilot+ PC Laptop - Intel Core Ultra 7 - 16GB LPDDR5X - 512GB SSD - Windows 11 Home - Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19735/19735876.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "No retrievable pro review of this exact config; NBC/RTINGS bot-walled this pass (see SHARED-galaxy-book.md). NBC historically reviewed Galaxy Book Pro 360/Book4 Pro AMOLED models in the mid-80s % — panel quality consistently the praised element. Honest null."
+  },
+  "user_sentiment": {
+    "praises": [
+      "14-inch 3K-class Dynamic AMOLED 120Hz touch at $1,799 sale is arguably the best display-per-dollar in any Windows ultrabook at Best Buy CA right now",
+      "True blacks + HDR punch make video and dark-room use far better than any IPS competitor at this price",
+      "Still ~1.16 kg with 12+ h real battery despite the brighter AMOLED",
+      "Thunderbolt 4 + Wi-Fi 7 + Copilot+ NPU at a midrange sale price",
+      "Galaxy ecosystem pairing (Quick Share, Second Screen, S Pen input on the touch panel)"
+    ],
+    "complaints": [
+      "16GB soldered is thin for a 'Pro' badge at $2,500 list",
+      "iGPU only — 'Pro' here means screen and portability, not creator GPU power",
+      "Glossy AMOLED reflects a lot in bright rooms",
+      "Samsung bloatware; Samsung Settings quirks after updates",
+      "512GB only at this tier (the 1TB lives on the cheaper non-Pro)"
+    ]
+  },
+  "design_philosophy": "The Book6 Pro is Samsung's 'AMOLED-first' ultrabook: the Pro badge buys the flagship Dynamic AMOLED 2x touch panel, Thunderbolt 4, and Wi-Fi 7 on the same Lunar Lake platform as the base line. At its $1,799.99 sale price this 14-inch tier collapses the usual premium gap — it undercuts even its own non-Pro siblings and is the configuration that best expresses the line's philosophy of phone-grade display tech in a Windows ultrabook.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 6.5,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7.5,
+    "portability": 9.5,
+    "build_quality": 8,
+    "thermals_noise": 8.5,
+    "port_connectivity": 7.5,
+    "creative_work": 6,
+    "keyboard_trackpad": 8,
+    "webcam_speakers": 6,
+    "upgradability": 2,
+    "ai_ml": 5.5,
+    "pen_touch": 7,
+    "repairability_service": 3.5,
+    "durability": 5.5
+  },
+  "rating_notes": "Inferred from Book6 14 base-tier synthesis + AMOLED panel delta (+4.5 screen_quality, +4 readability_dark vs IPS; glossy costs some readability_bright). Pen support via S Pen on touch panel. Standout: best display per dollar in CA retail ultrabooks at this sale price. Bot-wall disclosure in SHARED-galaxy-book.md. Image URL best-guess BBY CDN pattern."
+}

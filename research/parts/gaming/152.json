@@ -1,0 +1,115 @@
+{
+  "id": "gigabyte-gaming-a16-ga6h-13620h-5060-24-32gb",
+  "line": "Gigabyte Gaming A16 (GA6H, 2025)",
+  "config_name": "Gigabyte Gaming A16 — Core i7-13620H / RTX 5060, 24GB/1TB ($2,119) or 32GB/2TB ($2,706) RAM/storage tiers",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-09",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core i7-13620H (10-core: 6P+4E, Raptor Lake-H)",
+    "cpu_cores": 10,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7 (~85W TGP)",
+    "gpu_type": "dedicated",
+    "ram_gb": 24,
+    "ram_type": "DDR5 SO-DIMM (2 slots, upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (2 slots, one free)",
+    "screen_size_in": 16,
+    "display_type": "Matte IPS (retailer lists WUXGA)",
+    "resolution": "1920x1200",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.26,
+    "ports": "1x USB-C (PD, no Thunderbolt/USB4), 2x USB-A 3.0, 1x USB 2.0, HDMI, gigabit Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.2",
+    "webcam": "FHD 1080p",
+    "speakers": "2x 2W stereo",
+    "keyboard_notes": "Chiclet, backlit, 180-degree hinge",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 6.5,
+    "notes": "76Wh; ~6-7h light use per NBC platform verdict."
+  },
+  "price": {
+    "cad": 2119.53,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/p/20341968",
+    "confidence": "verified",
+    "notes": "BBY API-verified 2026-11-24. Two near-identical tiers consolidated: SKU 20341968 (24GB/1TB, reg $2,919.53, sale $2,119.53) and SKU 20340892 (32GB/2TB, reg $3,506.14, sale $2,706.14). Both marketplace sellers — fulfillment/return risk.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/p/20341968",
+        "cad": 2119.53,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/203/20341/20341968.jpeg",
+  "professional": {
+    "avg_score": 80,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "80%",
+        "url": "https://www.notebookcheck.net/An-affordable-RTX-5070-laptop-Gigabyte-Gaming-A16-review.1072350.0.html",
+        "quote": "The Gaming A16 earned a good overall score of 80%. On the positive side, the consistent CPU and GPU performance are worth pointing out."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Best price-per-gaming-frame of the lineup at full price: RTX 5060 for ~$2,120 on sale",
+      "Upgradeable chassis: 2x SO-DIMM, 2x M.2 (NBC)",
+      "Consistent sustained performance, good sound, decent battery for class (NBC pros)",
+      "180-degree hinge",
+      "32GB/2TB variant covers heavy multitasking without opening the case"
+    ],
+    "complaints": [
+      "WUXGA 1200p panel is a downgrade vs the NBC-tested WQXGA on the 5070 tier",
+      "Very loud fan under load (NBC platform con)",
+      "Screen bleeding at edges (NBC con)",
+      "Plastic chassis, no Thunderbolt/USB4",
+      "Marketplace listings with inflated 'regular' price anchors — sale price is the real price"
+    ]
+  },
+  "design_philosophy": "The RTX 5060 tiers are the volume sellers of Gigabyte's value-first Gaming A16 line: same chassis, same upgradeable interior, GPU tier chosen for mainstream 1080p/1200p gaming. Consolidated here because the two BBY tiers differ only in RAM/storage (24GB/1TB and 32GB/2TB).",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 7.5,
+    "screen_quality": 5.5,
+    "readability_dark": 5.5,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 6,
+    "productivity": 6.5,
+    "portability": 6.5,
+    "build_quality": 6,
+    "thermals_noise": 5.5,
+    "port_connectivity": 6,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 6,
+    "upgradability": 8.5,
+    "ai_ml": 5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 6
+  },
+  "rating_notes": "Ratings inferred from NBC's Gaming A16 GA6H review (80%, i7-13620H/RTX 5070/WQXGA): RTX 5060 vs 5070 -> gaming -1.0, creative_work -0.5; WUXGA panel per retailer -> screen_quality -1.0. 32GB/2TB twin (SKU 20340892) would add +0.5 productivity/ai_ml. BBY per-SKU reviews unavailable — sentiment review-grounded synthesis.",
+  "standouts": [
+    "Best price-per-frame of the Gaming A16 tiers ($2,119 sale for RTX 5060)"
+  ],
+  "dealbreakers": [
+    "WUXGA panel on this tier (per retailer) vs WQXGA on the reviewed 5070 tier"
+  ]
+}

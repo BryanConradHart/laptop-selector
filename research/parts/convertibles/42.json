@@ -1,0 +1,124 @@
+{
+  "id": "dell16plus2in1-u7-256v-16-2tb-ips",
+  "line": "Dell 16 Plus 2-in-1 (2025, DB06250)",
+  "config_name": "Dell 16 Plus 2-in-1 — Core Ultra 7 256V, 16GB LPDDR5X, 2TB SSD, 16\" WUXGA IPS touch (Home)",
+  "tier": "High",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 256V (Lunar Lake, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 140V (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X on-package",
+    "storage_gb": 2000,
+    "storage_type": "NVMe",
+    "screen_size_in": 16,
+    "display_type": "WUXGA IPS touch",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2,
+    "ports": "1x Thunderbolt 4, 1x USB-C 3.2 Gen 2, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p (no IR)",
+    "speakers": "2-speaker down-firing",
+    "keyboard_notes": "Full numpad, shallow mushy keys, non-haptic trackpad",
+    "pen_support": "Active pen (sold separately)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 7,
+    "notes": "64Wh; ~6.5-7h real mixed use by CNET anchor calibration."
+  },
+  "price": {
+    "cad": 1767.9,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19735224",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 19735224 reg $2,455.58 / sale $1,767.90. Pro twin 19735223 $1,836.94; 4TB tiers 19735226 ($2,158.43 Home) / 19735222 ($2,227.46 Pro) omitted — storage-only variants.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19735224",
+        "cad": 1767.9,
+        "est": false,
+        "name": "Dell 16 Plus 2-in-1 16\" Touchscreen Laptop - Intel Ultra 7 256V - 16GB LPDDR5 - 2TB SSD - Intel Arc - Windows 11 Home - Ice Blue"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19735223",
+        "cad": 1836.94,
+        "est": false,
+        "name": "Dell 16 Plus 2-in-1 Touchscreen Laptop - Intel Ultra 7 256V - 16GB LPDDR5 - 2TB SSD - Intel Arc - Windows 11 Pro - Ice Blue"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19735/19735224.jpeg",
+  "professional": {
+    "avg_score": 7.3,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "7.3/10",
+        "url": "https://www.cnet.com/tech/computing/dell-16-plus-2-in-1-review-the-mini-led-display-shines-but-theres-little-else-to-get-excited-about/",
+        "quote": "this big-screen convertible laptop certainly has some positives but there are a few too many minuses to give this Plus a full-throated recommendation."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "2TB of NVMe at $1,768 on a 16\" touch convertible — storage-per-dollar standout",
+      "Fast single-core Lunar Lake performance for office work",
+      "Full numpad and big touch panel",
+      "Sturdy chassis, clean understated design",
+      "Arc 140V fine for casual gaming and light creative work"
+    ],
+    "complaints": [
+      "Class-worst battery in its category (~7h real world)",
+      "Coarse 1920x1200 IPS on 16 inches",
+      "Mushy keyboard; spacebar reliability complaints echoed from pro review",
+      "Muffled down-firing speakers",
+      "RAM soldered at 16GB regardless of storage tier"
+    ]
+  },
+  "design_philosophy": "The storage-max variant of the CA retail 16 Plus 2-in-1: Dell's CA channel loads the base IPS chassis with 2TB (and even 4TB) SSDs for buyers who want capacity over display quality, keeping the same Lunar Lake platform and compromises throughout.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 8,
+    "screen_quality": 5,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7,
+    "portability": 5.5,
+    "build_quality": 7,
+    "thermals_noise": 7.5,
+    "port_connectivity": 5.5,
+    "creative_work": 5,
+    "keyboard_trackpad": 4,
+    "webcam_speakers": 4.5,
+    "upgradability": 2,
+    "ai_ml": 5.5,
+    "pen_touch": 7,
+    "repairability_service": 4.5,
+    "durability": 6
+  },
+  "rating_notes": "Identical to entry 39 (1TB IPS) plus +999GB storage; +0.0 ratings, storage alone doesn't move factors except creative_work marginally. Inferred from CNET DB06250 anchor per SHARED-dell-2in1.md.",
+  "standouts": [
+    "2TB storage at $1,768"
+  ],
+  "dealbreakers": [
+    "Coarse 1200p panel",
+    "Class-worst battery"
+  ]
+}

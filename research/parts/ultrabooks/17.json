@@ -1,0 +1,115 @@
+{
+  "id": "x1c14-u9-64-2tb-oled",
+  "line": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition (2026, Panther Lake)",
+  "config_name": "ThinkPad X1 Carbon Gen 14 — Core Ultra 9 386H vPro, 64GB LPDDR5, 2TB SSD, 14\" 2.8K 120Hz matte OLED",
+  "tier": "High",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 386H vPro (Panther Lake, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "Intel Graphics (4 Xe cores) integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 64,
+    "ram_type": "LPDDR5-8533 soldered",
+    "storage_gb": 2000,
+    "storage_type": "M.2 2280 NVMe Gen4 (replaceable)",
+    "screen_size_in": 14,
+    "display_type": "OLED 2.8K matte, 16:10",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1100,
+    "weight_kg": 1,
+    "ports": "2x TB4, 1x USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7 (Intel BE201), BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker downward firing",
+    "keyboard_notes": "ThinkPad keyboard 1.5mm travel, TrackPoint, haptic touchpad",
+    "pen_support": "none (non-touch OLED)",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 15,
+    "real_world_hours": 9,
+    "notes": "58Wh. CNET: ~9-10h light mixed use on reviewed OLED config; Ultra 9 tier slightly lower under load."
+  },
+  "price": {
+    "cad": 4600,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159",
+    "confidence": "estimated",
+    "notes": "Top CTO tier (Ultra 9 + 64GB + 2TB) est. from CNET US$2,374 mid-tier anchor + ~US$1,000 spec uplift x ~1.3. Lenovo CA eCoupon pricing applies.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159",
+        "cad": 4600,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159"
+  },
+  "image_url": "https://p2-ofp.static.pub/ShareResource/optimized/pdp/thinkpad/thinkpad-x1-series/len101t0159/thinkpad-x1-carbon-gen-14-aura-edition-14-intel-hero.png",
+  "professional": {
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.3/10",
+        "url": "https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-14-review-flagship-ultraportable-repairable/",
+        "quote": "The X1 Carbon Gen 14 introduces Lenovo's Space Frame chassis that features a smaller motherboard and larger cooling fans, along with a modular design that makes it easier to access and then repair or replace individual components."
+      },
+      {
+        "outlet": "Ultrabookreview",
+        "score": "recommended",
+        "url": "https://www.ultrabookreview.com/75917-lenovo-thinkpad-x1carbon-gen14-review/",
+        "quote": "the X1 Carbon is lighter than MacBooks, starting at 1 kilo for the OLED variant"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "64GB in a 1 kg ThinkPad — the only way to get serious local-AI/RAM headroom at this weight",
+      "vPro on the Ultra 9 tier for enterprise fleet management",
+      "2TB replaceable Gen4 SSD in a chassis where the SSD is actually user-swappable",
+      "Same matte 2.8K 120Hz OLED as the cheaper tiers — no panel tax at the top",
+      "Space Frame repairability holds across every tier including this one"
+    ],
+    "complaints": [
+      "Ultra 9 H chip is thermally capped in a 1 kg fan-cooled chassis — little real uplift over Ultra 7",
+      "Battery is the shortest of any X1 Carbon generation per CNET's comparison",
+      "$4,500+ CAD territory before eCoupons — MacBook Pro money",
+      "iGPU only: the Arc B390 GPU option belongs to the Core Ultra X7 tier, not this one",
+      "RAM still soldered despite 64GB — expensive to buy right the first time"
+    ]
+  },
+  "design_philosophy": "The maximum-spec X1 Carbon for executives and road warriors whose workloads (VMs, large datasets, local models) demand headroom in a 1 kg machine. Performance-per-dollar is poor versus the Ultra 7 tiers; this entry exists because fleet catalogs and configurators sell it.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 7,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 8,
+    "ecosystem": 9,
+    "gaming": 3,
+    "productivity": 9.5,
+    "portability": 10,
+    "build_quality": 9.5,
+    "thermals_noise": 7.5,
+    "port_connectivity": 8.5,
+    "creative_work": 5,
+    "keyboard_trackpad": 9.5,
+    "webcam_speakers": 6,
+    "upgradability": 6.5,
+    "ai_ml": 6.5,
+    "pen_touch": 0,
+    "repairability_service": 9,
+    "durability": 9
+  },
+  "rating_notes": "Inferred from CNET/Ultrabookreview Gen 14 OLED reviews (same chassis/panel): Ultra 9 386H vs reviewed Ultra 7 → productivity +0.5 but thermals_noise −1 (H-series capped in 1 kg chassis), battery −0.5. 64GB → ai_ml +1 and productivity headroom vs 32GB siblings. Price estimated."
+}

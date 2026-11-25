@@ -1,0 +1,118 @@
+{
+  "id": "tab-s11-12-256",
+  "line": "Samsung Galaxy Tab S11 (2025)",
+  "config_name": "Galaxy Tab S11 — Dimensity 9400+, 12GB RAM, 256GB, 11.0\" Dynamic AMOLED 2X 144Hz + Book Cover Keyboard Slim AI Key (price includes cover). 128GB ($1,319.99 incl. cover) and 16/512GB ($1,769.98 incl. cover) tiers exist; 512GB folded in here to respect entry cap.",
+  "tier": "Mainstream",
+  "category": "tablets",
+  "ecosystem": "Android",
+  "form_factor": "tablet",
+  "release": "2025-09",
+  "inferred": false,
+  "specs": {
+    "cpu": "MediaTek Dimensity 9400+ (8-core: 1x3.63GHz Cortex-X925 + 3x3.3GHz X4 + 4x2.4GHz A720, 3nm)",
+    "cpu_cores": 8,
+    "gpu": "Arm Immortalis-G925 (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 12,
+    "ram_type": "soldered LPDDR5X",
+    "storage_gb": 256,
+    "storage_type": "UFS soldered + dedicated microSDXC slot (up to 2TB)",
+    "screen_size_in": 11,
+    "display_type": "Dynamic AMOLED 2X (glossy, anti-reflective coating)",
+    "resolution": "2560x1600",
+    "refresh_hz": 144,
+    "brightness_sdr_nits": 900,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 0.469,
+    "ports": "1x USB-C 3.2 Gen 1 (DisplayPort/DeX out), no 3.5mm jack",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "12MP ultrawide front (landscape)",
+    "speakers": "Quad AKG-tuned speakers",
+    "keyboard_notes": "Book Cover Keyboard Slim AI Key included in price ($219.99 reg cover): scissor keys + AI key, NO trackpad — cursor needs mouse or touch",
+    "pen_support": "S Pen INCLUDED in box (Bluetooth air actions, 4096 pressure, IP68)",
+    "os": "Android 16 / One UI 8 at launch (Android 17 / One UI 9 current); 7 years OS+security updates"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 9,
+    "notes": "8400 mAh (~32.7Wh) cell, 45W USB-PD charging (charger not in box). Samsung publishes no video-hours claim; users report ~8-10h mixed real-world use."
+  },
+  "price": {
+    "cad": 1470,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19392060",
+    "confidence": "verified",
+    "notes": "Tablet $1,249.99 (BBY SKU 19392060) + Book Cover Keyboard Slim AI Key $219.99 (BBY 19433652) = $1,469.98. Cover-only price: $219.99 reg / $131.99 sale at BBY on 2026-11-24. 128GB tier: $1,099.99 + cover = $1,319.98 (SKU 19392059). 16/512GB tier: $1,549.99 + cover = $1,769.98 (SKU 19392061, RAM inferred from spec sheet). 5G variants omitted.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19392060",
+        "cad": 1249.99,
+        "est": false,
+        "name": "Samsung Galaxy Tab S11 11-inch 256GB with S Pen - Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/193/19392/19392060.jpg",
+  "professional": {
+    "avg_score": 8.8,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "88%",
+        "url": "https://www.notebookcheck.net/A-superb-tablet-experience-with-caveats-Samsung-Galaxy-Tab-S11-review.1130795.0.html",
+        "quote": "A superb tablet experience with caveats. Pros: bright OLED panel, powerful speakers, waterproof case, frequent updates, S Pen included, fast SoC. Cons: color reproduction weaknesses, battery life only decent, fingerprint sensor somewhat slow, high throttling, UFS 3.1 only (128 GB), no WiFi 7."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "S Pen in the box — no $199 extra accessory tax like the iPad Pro; magnetically sticks and charges on the back edge",
+      "Samsung DeX with a monitor + Bluetooth keyboard/mouse is the closest anything on Android gets to a real desktop session — free-form windows, multiple simultaneous apps",
+      "Full continuity with a Samsung Galaxy phone: Quick Share, common clipboard, calls/texts answered on the tablet — Apple-continuity-grade inside the Galaxy family",
+      "144Hz Dynamic AMOLED 2X with anti-reflective coating: deep blacks, buttery scroll, still readable outdoors",
+      "microSDXC slot still present — expand the library without paying Samsung's storage upsell"
+    ],
+    "complaints": [
+      "The Slim AI Key keyboard cover included in this price has NO trackpad — cursor work demands a separate Bluetooth mouse",
+      "Android tablet app optimization is still hit-or-miss: many popular apps are stretched phone UIs even with the 144Hz panel and flagship silicon",
+      "No 3.5mm headphone jack; USB-C-only audio without a dongle",
+      "4K@30 rear camera cap feels cheap for a flagship in 2025",
+      "Galaxy AI features largely duplicate what Tab S10 owners already got — little exclusive reason to upgrade"
+    ]
+  },
+  "design_philosophy": "Samsung's answer to the iPad Air/Pro middle: laptop-class silicon, a genuinely good 144Hz AMOLED, and an included S Pen, sold cheaper than the comparable iPad before accessories. The keyboard-cover-first pricing model (cover included here) is how Samsung pitches it as a light laptop alternative, with DeX as the desktop-mode differentiator. This mid tier trades the Ultra's panel size for the best price-to-screen-quality ratio in the line.",
+  "ratings": {
+    "battery": 7.8,
+    "screen_size": 5.8,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 8.2,
+    "ecosystem": 7,
+    "gaming": 6.8,
+    "productivity": 7.2,
+    "portability": 9.2,
+    "build_quality": 8.8,
+    "thermals_noise": 8,
+    "port_connectivity": 5.5,
+    "creative_work": 6.8,
+    "keyboard_trackpad": 5.8,
+    "webcam_speakers": 7.5,
+    "upgradability": 6.5,
+    "ai_ml": 6,
+    "pen_touch": 9.3,
+    "repairability_service": 6,
+    "durability": 7.5
+  },
+  "rating_notes": "Pro score attached from NBC review of the Galaxy Tab S11 (88%, gap-fill 2026-11-24). No pro numeric score found 2026-11-24 (NBC 403, RTINGS/PCMag/Tom's/AndroidCentral 404/403; search engines bot-walled) — avg_score null, none invented; see SHARED-tab-s11.md for disclosed launch-consensus synthesis. User praises/complaints are disclosed synthesis from Reddit/BBY consensus (live threads not fetchable this session), not verbatim quotes. Ecosystem 7.0 per SHARED calibration: DeX + full Samsung-phone parity lift it above plain Android (~5-6) and just above the iPad Pro entries' 6.5, but no desktop app ecosystem keeps it under 8. keyboard_trackpad 5.8 = Slim AI Key cover has no trackpad (per SCHEMA, rated on the priced-in accessory). Brightness figures are Samsung marketing approximations (typical ~900 SDR/1600 peak HDR). microSD justifies upgradability 6.5 — rare among flagships. Battery rated on ~8-10h user-reported mixed use, not marketing.",
+  "standouts": [
+    "S Pen included + microSD slot + 144Hz AMOLED — none of which the iPad Pro includes at this price",
+    "DeX desktop mode with external monitor",
+    "Full Galaxy phone continuity (Quick Share, clipboard, calls/texts)"
+  ],
+  "dealbreakers": [
+    "Priced-in keyboard cover has no trackpad — budget the Pro Keyboard or a mouse for serious cursor work"
+  ]
+}

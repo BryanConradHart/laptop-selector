@@ -1,0 +1,111 @@
+{
+  "id": "scar18-275hx-5080-64-1tb",
+  "line": "ASUS ROG Strix SCAR 18 (2025, G835)",
+  "config_name": "Strix SCAR 18 — Core Ultra 9 275HX / RTX 5080 16GB (full ~175W TGP), 64GB DDR5, 1TB SSD, 18\" 2.5K 240Hz ROG Nebula HDR",
+  "tier": "High",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-03",
+  "inferred": false,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop 16GB GDDR7 (full ~175W TGP class, MUX + Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "DDR5 SODIMM (2x, user-upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe (M.2, 2x slots, user-upgradeable)",
+    "screen_size_in": 18,
+    "display_type": "ROG Nebula HDR (Mini-LED class per SCAR 18 lineup)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1000,
+    "weight_kg": 3.1,
+    "ports": "Thunderbolt 4/USB-C (DP, PD), USB-C 3.2, 3x USB-A 3.2, HDMI 2.1, 2.5G RJ45, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p with IR (Windows Hello)",
+    "speakers": "4-speaker (2 tweeters + 2 woofers)",
+    "keyboard_notes": "Per-key RGB chiclet with numpad; oversized Enter key",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 4,
+    "notes": "90 Wh. Desktop-replacement: ~3-5h light use, ~1.5h gaming unplugged per Strix-line user reports. 330W external adapter."
+  },
+  "price": {
+    "cad": 3999.97,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-rog-strix-scar-18-gaming-laptop-intel-core-ultra-9-275hx-64gb-ram-1tb-ssd-rtx-5080-exclusive-retail-partner/19186641",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24, sku 19186641: $3,999.97 (no sale), Exclusive Retail Partner SKU. BBY customer rating 4.57/5 (n=355).",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19186641",
+        "cad": 3999.97,
+        "est": false,
+        "name": "ASUS ROG Strix SCAR 18\" Gaming Laptop (Intel Core Ultra 9-275HX/64GB RAM/1TB SSD/RTX 5080) - Exclusive Retail Partner"
+      },
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-rog-strix-scar-18-gaming-laptop-intel-core-ultra-9-275hx-64gb-ram-1tb-ssd-rtx-5080-exclusive-retail-partner/19186641",
+        "cad": 3999.97,
+        "est": false,
+        "name": "ASUS ROG Strix SCAR 18\" Gaming Laptop (Intel Core Ultra 9-275HX/64GB RAM/1TB SSD/RTX 5080) - Exclusive Retail Partner"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/191/19186/19186641.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "note": "No numeric pro score retrieved 2026-11-24: RTINGS has no SCAR 2025 review (slug 404); NBC review pages bot-walled and slug unresolved (candidate: https://www.notebookcheck.net/Search.8222.0.html model 'SCAR 18'). Ratings are line-level anchors calibrated vs dataset siblings (Legion Pro 7i gaming 9.5, OMEN Max 16 NBC 82%, Zephyrus G16 NBC 90% TGP-capped) — see SHARED-scar.md. Gap-fill pass recommended."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Best FPS-per-dollar in the 18\" flagship class — full ~175W RTX 5080 beats TGP-capped slim rivals (Zephyrus/OMEN Max) for similar or less money (BBY pool 4.57/5, n=355)",
+      "Huge 18\" 2.5K 240Hz Nebula HDR screen repeatedly called the standout feature — smooth, bright, great for both gaming and media",
+      "64GB DDR5 standard AND user-upgradeable: 2x SODIMM + 2x M.2 slots (unlike soldered-RAM Zephyrus/Omen slim lines)",
+      "Big chassis keeps GPU at full sustained wattage without thermal throttling in long sessions; vaporizer + triple-fan cooling headroom",
+      "Solid port set for a desktop replacement: Thunderbolt 4, HDMI 2.1, 2.5G ethernet, plenty of USB-A; aggressive RGB/lightbar build quality praised vs prior-gen plastic"
+    ],
+    "complaints": [
+      "~3.1-3.3 kg laptop plus a 330W brick — it is a desktop with a lid; nobody carries this daily",
+      "Turbo-mode fan noise is genuinely loud under load, and some units have audible fan at idle",
+      "Battery life poor unplugged (~3-5h light use, ~1.5h gaming) — expected but still a sore point at $4k",
+      "Plastic sections of the keyboard deck flex compared to all-aluminum Legion/Zephyrus chassis",
+      "Armoury Crate bloat/instability and occasional ASUS QC gripes (backlight bleed, dead pixels) recur in Strix-line threads"
+    ]
+  },
+  "design_philosophy": "The SCAR is ASUS's no-compromise desktop-replacement flagship: maximum-TGP GPUs, the biggest display ASUS ships, and full user-serviceability, with weight, thickness, and battery explicitly sacrificed to raw sustained performance. This 275HX/RTX 5080/64GB tier is the volume sweet spot of the CA lineup — full 16GB-VRAM 5080 power and 64GB RAM at a price where slimmer rivals sell TGP-capped or lower-tier GPUs. It targets desk-bound gamers who cross-shop Legion Pro 7 and OMEN Max on FPS-per-dollar.",
+  "ratings": {
+    "battery": 3.5,
+    "screen_size": 9.5,
+    "screen_quality": 8.5,
+    "readability_dark": 7.5,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 9.8,
+    "productivity": 9,
+    "portability": 2.5,
+    "build_quality": 7.5,
+    "thermals_noise": 6.5,
+    "port_connectivity": 8.5,
+    "creative_work": 8,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 6.5,
+    "upgradability": 8.5,
+    "ai_ml": 8,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 7
+  },
+  "rating_notes": "BBY-verified anchor config (sku 19186641, 4.57/5 n=355). No pro score found (disclosed in professional.note) — ratings line-level inferred per SHARED-scar.md, calibrated vs Legion Pro 7i (gaming 9.5) +0.3 for SCAR's higher sustained wattage; battery 3.5 per user consensus on 90Wh/18\" Strix (~1-2h worse than any lab figure); thermals_noise 6.5 = best cooling headroom in class but loud Turbo; screen_size 9.5 (18\"); portability 2.5 (3.1kg + 330W brick); upgradability 8.5 (2x SODIMM + 2x M.2); ai_ml 8.0 (16GB VRAM CUDA). Display resolution/brightness are lineup-typical estimates (BBY name lists 240Hz Nebula HDR without panel spec) — disclosed. BBY per-SKU review text 404; sentiment review-pool-grounded per SHARED."
+}

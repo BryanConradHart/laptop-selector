@@ -1,0 +1,106 @@
+{
+  "id": "vivobook-16-r5-3501u-16-256",
+  "line": "ASUS Vivobook 16 (Ryzen 5 3501U, 2026)",
+  "config_name": "Vivobook 16 16\" 60Hz — Ryzen 5 3501U, 16GB DDR4, 256GB SSD, FHD+ (1920x1200) anti-glare, Cool Silver",
+  "tier": "Entry",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 5 3501U (4-core/4-thread Zen 2 'Mendocino' refresh, 2.1 GHz)",
+    "cpu_cores": 4,
+    "gpu": "AMD Radeon 610M-class integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "DDR4 SO-DIMM (1 slot)",
+    "storage_gb": 256,
+    "storage_type": "NVMe M.2",
+    "screen_size_in": 16,
+    "display_type": "FHD+ 1920x1200, anti-glare (300 nits)",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.75,
+    "ports": "2x USB-C 3.2 Gen1 (one with DP + power delivery), 2x USB-A 3.2 Gen1, HDMI 1.4, 3.5mm",
+    "wireless": "Wi-Fi 6 (2x2), BT 5.2",
+    "webcam": "1080p FHD camera (no privacy shutter)",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Bilingual CA chiclet with numpad, no backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 9,
+    "real_world_hours": 6.5,
+    "notes": "4335 mAh 3-cell (~50 Wh); Mendocino is very efficient — ~6-7h light use."
+  },
+  "price": {
+    "cad": 999.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20113174",
+    "confidence": "verified",
+    "notes": "BF sale $699.99.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20113174",
+        "cad": 699.99,
+        "est": false,
+        "name": "ASUS Vivobook 16 16\" 60Hz Laptop - AMD Ryzen 5 3501U - 16GB DDR4 RAM - 256GB SSD - Windows 11 Home - Cool Silver"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20113/20113174.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "16-inch 1920x1200 panel at this price is a lot of screen, and 300 nits beats the 15.6\" Vivobook's 250",
+      "16GB DDR4 in a SO-DIMM slot — genuinely upgradeable, unlike soldered rivals",
+      "USB-C supports power delivery and DisplayPort: one cable for charging and an external monitor",
+      "1080p webcam is a step up from the 720p units on the Vivobook 15",
+      "Mendocino sips power: quiet, cool, and the best battery of the x86 Vivobooks"
+    ],
+    "complaints": [
+      "256GB SSD fills almost immediately — Windows plus a year of photos and it is tight",
+      "Ryzen 5 3501U is a 4-core/4-thread Zen 2 design from 2021; heavy multitasking stutters",
+      "No keyboard backlight, no webcam privacy shutter",
+      "1.75 kg makes it the heaviest Vivobook here despite the thin look",
+      "Plastic chassis flexes in the deck; hinge is middling like the rest of the line"
+    ]
+  },
+  "standouts": [
+    "Only 16\" FHD+ panel in this budget family, with USB-C PD+DP and upgradeable RAM"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "Screen-first budgeting: ASUS puts the biggest display of its budget range on the cheapest serious CPU it can source — a 4-thread Zen 2 refresh — and pads with 16GB DDR4. The bet is that buyers scrolling BestBuy filter on \"16-inch, 16GB\"; the trade-offs (256GB SSD, 4 threads, older silicon) are hidden in the spec sheet. The working USB-C PD/DP port is a real, if quiet, plus.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 7.6,
+    "screen_quality": 4,
+    "readability_dark": 4.5,
+    "readability_bright": 4,
+    "ecosystem": 9,
+    "gaming": 1.5,
+    "productivity": 4.9,
+    "portability": 5.4,
+    "build_quality": 4.5,
+    "thermals_noise": 7.5,
+    "port_connectivity": 6,
+    "creative_work": 1.6,
+    "keyboard_trackpad": 5.2,
+    "webcam_speakers": 4.8,
+    "upgradability": 5.5,
+    "ai_ml": 1,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4
+  },
+  "rating_notes": "No pro review found (see SHARED-vivobook.md). Platform-anchored on Mendocino (4C/4T Zen 2, Radeon 610M): productivity 4.9 despite 16GB — 4 threads is the ceiling; gaming 1.5. Battery estimated from ~50 Wh + very efficient SoC. BBY lists aspect as 16:9 — spec error; 1920x1200 is 16:10. Image URL best-guess BBY CDN pattern."
+}

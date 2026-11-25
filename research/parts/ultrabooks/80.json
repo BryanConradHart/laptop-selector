@@ -1,0 +1,116 @@
+{
+  "id": "zb14-ux3480ka-a7-16-512-oled2k",
+  "line": "ASUS Zenbook 14 OLED (2026, UX3480KA, AMD Krackan Point)",
+  "config_name": "Zenbook 14 OLED — Ryzen AI 7 445, 16GB LPDDR5X, 512GB SSD, 14\" 2K 60Hz glossy OLED",
+  "tier": "Base",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-09",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 7 445 (Krackan Point, 8-core: 2 Zen5 + 6 Zen5c)",
+    "cpu_cores": 8,
+    "gpu": "AMD Radeon 860M iGPU (RDNA3.5) integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5-8000 soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 2280 NVMe (single slot)",
+    "screen_size_in": 14,
+    "display_type": "OLED 16:10 glossy, 100% DCI-P3",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": 500,
+    "weight_kg": 1.2,
+    "ports": "1x USB-C 4.0, 1x USB-C 3.2, 1x USB-A 3.2, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 6E (MediaTek MT7922), BT 5.3",
+    "webcam": "1080p FHD + IR, no privacy shutter",
+    "speakers": "2-speaker",
+    "keyboard_notes": "White backlit, 1.7mm travel, oversized glass touchpad",
+    "pen_support": "none (non-touch)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 18,
+    "real_world_hours": 12.5,
+    "notes": "70Wh. Ultrabookreview: ~12-14h text editing, 15h+ video (Whisper mode, 120 nits). Some base SKUs ship 50Wh — check before buying."
+  },
+  "price": {
+    "cad": 1999.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-14-14-oled-laptop-amd-ryzen-ai-7-445-16gb-lpddr5x-512gb-ssd-windows-11-home-jade-black/19826848",
+    "confidence": "verified",
+    "notes": "BBY direct SKU 19826848, reg=sale $1,999.99 (2026-11-24). UBR EU price 1299 EUR.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19826848",
+        "cad": 1999.99,
+        "est": false,
+        "name": "ASUS Zenbook 14 14\" OLED Laptop - AMD Ryzen AI 7 445 - 16GB LPDDR5X - 512GB SSD - Windows 11 Home - Jade Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19826/19826848.jpg",
+  "professional": {
+    "avg_score": 8,
+    "reviews": [
+      {
+        "outlet": "Ultrabookreview",
+        "score": "4/5",
+        "url": "https://www.ultrabookreview.com/77371-asus-zenbook-14-ux3480ka-review/",
+        "quote": "What you're getting here is a versatile platform for daily use and multitasking, arguably a little faster with mixed use than the similar-level Intel option, while still running efficiently, quietly, and coolly."
+      },
+      {
+        "outlet": "Ultrabookreview",
+        "score": "4/5",
+        "url": "https://www.ultrabookreview.com/77371-asus-zenbook-14-ux3480ka-review/",
+        "quote": "dim 2K OLED display, with PWM flickering at all brightness levels; no other panel option available"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "70Wh battery genuinely delivers all-day runtimes — quiet even under multi-tab loads",
+      "Good port mix for a thin 14-inch: USB-C 4.0 + USB-A + HDMI without a dongle",
+      "Light 1.2 kg chassis with cleaner design than the old UX3405",
+      "OLED colours pop for media despite the low brightness",
+      "Runs cool and near-silent in Whisper mode (UBR measured sub-35 dBA)"
+    ],
+    "complaints": [
+      "2K OLED is dim (~300 nits) with visible PWM flicker at all brightness levels — dealbreaker for light-sensitive users",
+      "Screen only opens ~150 degrees now, a step back from 180-degree predecessors",
+      "Oversized touchpad prone to ghost touches (UBR + user reports)",
+      "Only 16GB soldered RAM on this tier; no 32GB option with the AMD panel combo",
+      "60Hz panel feels slow next to 120Hz rivals at this price"
+    ]
+  },
+  "design_philosophy": "ASUS's volume mid-range OLED ultrabook: premium look at mainstream price, OLED + big battery in a compact chassis. The 2026 UX3480 refresh refines aesthetics and build but drops panel brightness and hinge angle; the AMD variant trades spec headroom for a lower price than the Panther Lake Intel model.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 7,
+    "screen_quality": 7,
+    "readability_dark": 8,
+    "readability_bright": 5,
+    "ecosystem": 9,
+    "gaming": 4,
+    "productivity": 7.5,
+    "portability": 8.5,
+    "build_quality": 8,
+    "thermals_noise": 8.5,
+    "port_connectivity": 7.5,
+    "creative_work": 5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 4.5,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 7
+  },
+  "rating_notes": "Anchored on Ultrabookreview's UX3480KA review (Ryzen AI 7 345 config, 4/5); this 445 config is a modest uplift (+0.5 productivity/gaming). Ratings inferred from that sibling config: dim 300-nit PWM OLED caps readability_bright at 5 and screen_quality at 7. BBY customer rating 4.33/5 (12 reviews)."
+}

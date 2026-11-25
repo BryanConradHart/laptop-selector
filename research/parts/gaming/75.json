@@ -1,0 +1,110 @@
+{
+  "id": "strix-g16-14650hx-5050-16-1tb-240hdr",
+  "line": "ASUS ROG Strix G16 (2025, G615)",
+  "config_name": "Strix G16 16\" — Core i7-14650HX, RTX 5050 8GB, 16GB DDR5, 1TB SSD, 16\" QHD+ 240Hz HDR",
+  "tier": "Entry",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core i7-14650HX (Raptor Lake-HX refresh, 16-core: 8P+8E)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5050 Laptop 8GB (full ~115W TGP)",
+    "gpu_type": "discrete",
+    "ram_gb": 16,
+    "ram_type": "DDR5 (2x SODIMM, upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "IPS Nebula HDR, 16:10",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 620,
+    "weight_kg": 2.5,
+    "ports": "2x USB-A, 1x USB-C (DP/PD), HDMI 2.1, RJ45, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "1080p",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Per-key RGB",
+    "pen_support": "none",
+    "os": "Windows 11"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 5.5,
+    "notes": "~90Wh; lowest-power GPU in the line helps light-use endurance slightly."
+  },
+  "price": {
+    "cad": 2449.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19338498",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $2,449.95 (no sale), sku 19338498. Lowest-priced Strix G16 at BBY.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19338498",
+        "cad": 2449.95,
+        "est": false,
+        "name": "ASUS ROG Strix G16 16\" 240Hz HDR Gaming Laptop - Intel Core i7-14650HX - 16GB DDR5 - 1TB SSD - RTX 5050 - Windows 11 - Eclipse Gray"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/193/19338/19338498.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (verdict)",
+        "score": "recommended (verdict: Good)",
+        "url": "https://www.notebookcheck.net/Asus-ROG-Strix-G16-2025-review-verdict-Good-RTX-5080-gaming-laptop-but-faster-Ryzen-9-9955HX-is-only-available-with-RTX-5070-Ti.1008100.0.html",
+        "quote": "a fast gaming notebook with an RTX 5080 Laptop, which is an excellent match for the native QHD resolution of its matte IPS panel... the faster Ryzen 9 9955HX has to make do with the RTX 5070 Ti Laptop (reviewed 5080 config; CA retail tops out at 5070)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest way into the Strix G16 chassis — and it keeps the QHD+ 240Hz Nebula HDR panel of the $3,400 tier",
+      "RTX 5050 handles 1080p esports and mid-setting AAA with DLSS at high refresh",
+      "1TB SSD standard (more than the 512GB 5060 trims)",
+      "2x SODIMM + 2x M.2 user-upgradeable; easy 32GB/2TB build-out",
+      "Strix G16 line rates ~4.6/5 across BBY reviews"
+    ],
+    "complaints": [
+      "RTX 5050 is the weakest GPU in the line — QHD+ native in AAA titles needs heavy setting cuts + DLSS",
+      "Older 14th-gen i7-14650HX CPU vs the Arrow Lake/Ryzen options near the same price",
+      "16GB RAM at this tier still warrants an upgrade",
+      "Battery short unplugged; Turbo fan noise",
+      "Plastic chassis flex; bulky power brick"
+    ]
+  },
+  "design_philosophy": "The floor of the Strix G16 range: a carry-over 14th-gen Intel CPU and the entry RTX 5050, but unusually retaining the premium QHD+ 240Hz Nebula HDR panel — a screen-first budget gaming pick within the line.",
+  "ratings": {
+    "battery": 5.3,
+    "screen_size": 8,
+    "screen_quality": 8,
+    "readability_dark": 7,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 5.6,
+    "productivity": 6.3,
+    "portability": 4.3,
+    "build_quality": 7,
+    "thermals_noise": 6.5,
+    "port_connectivity": 7.5,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 7.5,
+    "ai_ml": 5,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Inferred from anchor 70.json per SHARED-strix-g16.md: RTX 5050 = gaming −2.4 (8.0→5.6), ai_ml −1.5, battery +0.8 (lowest-power GPU), thermals_noise +0.5; i7-14650HX (14th-gen, 16-core) vs 275HX → productivity −1.7; 16GB vs 32GB included in that −1.7 total (CPU −1.0, RAM −0.7); QHD+ 240Hz HDR panel retained → screen_quality unchanged at 8.0. No pro review retrieved (hard-stop); professional null per SCHEMA. Price BBY-verified. Pro anchor added via browser gap-fill (see GAPFILL-strix-g16.md): NBC reviewed the 275HX+5080 sibling config 2025-04."
+}

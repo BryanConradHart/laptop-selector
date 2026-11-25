@@ -1,0 +1,116 @@
+{
+  "id": "xps13-u7-16-512",
+  "line": "Dell XPS 13 (2026, DX13260)",
+  "config_name": "XPS 13 — Core Ultra 7 355, 16GB LPDDR5X, 512GB SSD, 13.4\" 2.5K touch 120Hz (Storm or Sky)",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 355 (Series 3 Panther Lake, 8-core, up to 4.7 GHz)",
+    "cpu_cores": 8,
+    "gpu": "Intel Graphics (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe SSD",
+    "screen_size_in": 13.4,
+    "display_type": "IPS touch, 2.5K, 30-120Hz, 500 nits, InfinityEdge",
+    "resolution": "2560x1600",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1,
+    "ports": "2x Thunderbolt 4 (USB-C), 3.5mm",
+    "wireless": "Wi-Fi 7, BT",
+    "webcam": "FHD webcam",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit keyboard, zero-lattice edge-to-edge design",
+    "pen_support": "touch (no pen)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 17,
+    "real_world_hours": 11.5,
+    "notes": "Panther Lake efficiency cores help; ~10-13h light mixed use estimated from XPS 14 (2026) class results."
+  },
+  "price": {
+    "cad": 1650,
+    "currency": "CAD",
+    "store": "dell.ca",
+    "store_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps13dx13260",
+    "confidence": "verified",
+    "notes": "VERIFIED dell.ca 2026-11-24: CAD $1,649.99 (est. value $2,199.99, save $550). Both Storm and Sky colors.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/18338473",
+        "cad": 1499.97,
+        "est": false,
+        "name": "Dell XPS 13.4\" Laptop - Graphite (Intel Core Ultra 7 - Series 2/16GB RAM/512GB SSD)"
+      },
+      {
+        "store": "dell.ca",
+        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps13dx13260",
+        "cad": 1650,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps13dx13260"
+  },
+  "image_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-dx13260/media-gallery/sky/laptop-xps-13-sky-dx13260-silver-gallery-1.psd?fmt=png-alpha",
+  "professional": {
+    "avg_score": 8,
+    "reviews": [
+      {
+        "outlet": "CNET (XPS 14 2026 line anchor)",
+        "score": "8.1/10",
+        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps13dx13260",
+        "quote": "It's great to see Dell bring back the XPS and do so with such style."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Core Ultra 7 355 makes this a Copilot+ PC with a real NPU — the sweet spot CPU for the chassis",
+      "16GB/512GB is the minimum sensible config and it's $550 off during Black Friday",
+      "1 kg weight with a 120Hz 2.5K touch display — nothing else at this weight class",
+      "Runs cool and quiet; Panther Lake sips power in the thin XPS 13 chassis",
+      "\"beautiful display\" is the most repeated phrase in dell.ca owner reviews"
+    ],
+    "complaints": [
+      "RAM and SSD both soldered — buying 16GB means living with 16GB forever",
+      "No fingerprint reader on the 2026 XPS line (CNET con on XPS 14, same platform)",
+      "Two USB-C ports only; users report needing a dock for anything beyond a mouse",
+      "Zero-lattice keyboard takes adjustment; some owners report key-feel complaints (Dell review summary)",
+      "Price jumps steeply for the 32GB/1TB tier (~$2,300), making this mid tier the value center"
+    ]
+  },
+  "design_philosophy": "The 2026 XPS 13 is Dell's statement that premium means sub-1 kg: CNC aluminum, Gorilla Glass, and a display that Dell claims gives up to 17 hours of video. The Ultra 7 355 tier adds the Copilot+ NPU and modern Arc-class iGPU without the RAM ceiling of the base Core 5.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 5.5,
+    "screen_quality": 8,
+    "readability_dark": 7,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 3.2,
+    "productivity": 7,
+    "portability": 10,
+    "build_quality": 9,
+    "thermals_noise": 8,
+    "port_connectivity": 5,
+    "creative_work": 4,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 2,
+    "ai_ml": 6,
+    "pen_touch": 6,
+    "repairability_service": 4,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from CNET XPS 14 (2026) 8.1 anchor + dell.ca specs: Ultra 7 355 same CPU as reviewed XPS 14 base tier → productivity +1 vs Core 5 entry, ai_ml +2 (Copilot+ NPU). Portability unchanged at 1.0 kg."
+}

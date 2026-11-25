@@ -1,0 +1,108 @@
+{
+  "id": "lenovo-chromebook-m-15-3-kompanio540",
+  "line": "Lenovo Chromebook m 15.3 (2025, non-Plus)",
+  "config_name": "Lenovo Chromebook m 15.3\" — Kompanio 540, 4GB RAM, 128GB UFS, 15.3\" WUXGA",
+  "tier": "Ultra-cheap",
+  "category": "budget",
+  "ecosystem": "ChromeOS",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "MediaTek Kompanio 540 (Arm, octa-core, entry class)",
+    "cpu_cores": 8,
+    "gpu": "Arm Mali (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 4,
+    "ram_type": "soldered LPDDR4X",
+    "storage_gb": 128,
+    "storage_type": "UFS (soldered)",
+    "screen_size_in": 15.3,
+    "display_type": "WUXGA (1920x1200) IPS, anti-glare",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.65,
+    "ports": "2x USB-C, 1x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 6, BT 5.3",
+    "webcam": "720p HD",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Bilingual CA chiclet, no numpad",
+    "pen_support": "none",
+    "os": "ChromeOS (non-Plus; shorter update window than Chromebook Plus)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 8,
+    "notes": "Kompanio 540 sips power and ChromeOS idles light: ~7-9h web use, though 4GB models throttle harder under tab load."
+  },
+  "price": {
+    "cad": 299.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19883071",
+    "confidence": "verified",
+    "notes": "Regular $599.99; sale $299.99 (BBY-verified 2026-11-24, SKU 19883071). Representative ultra-cheap tier (kept instead of Celeron junk).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19883071",
+        "cad": 299.99,
+        "est": false,
+        "name": "Lenovo Chromebook m 15.3\" Chromebook - MediaTek Kompanio 540 - 4GB LPDDR5x - 128GB UFS 2.2 - ChromeOS - Luna Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19883/19883071.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "$299.99 for a 15.3\" WUXGA IPS laptop that boots in seconds is unbeatable as a browser/email machine",
+      "Kompanio 540 is silent and cool — no fan drama at all on web tasks",
+      "Big 15.3\" 16:10 screen for kids' homework or a kitchen household machine",
+      "ChromeOS keeps non-technical users safe from malware, bloatware, and scamware completely",
+      "USB-C charging — any phone charger tops it up"
+    ],
+    "complaints": [
+      "4GB RAM is below the Chromebook Plus bar — 8-10 heavy web tabs start to swap and stutter",
+      "Not a Chromebook Plus: no Google AI features and a shorter update window than the Plus models",
+      "720p webcam is the worst in this inventory — unusable for serious calls",
+      "128GB UFS is slow and soldered; almost everything lives in Drive",
+      "Thin plasticky chassis with visible deck flex; feels like a $300 machine because it is"
+    ]
+  },
+  "standouts": [
+    "The honest $299.99 floor: a big-screen, silent, secure browser machine for a third of the cheapest Windows laptop"
+  ],
+  "dealbreakers": [
+    "4GB RAM and non-Plus status: anyone who will keep this 5+ years or run many tabs should pay $150 more for the $449.99 Lenovo Plus instead"
+  ],
+  "design_philosophy": "This is the Chromebook as household appliance: the cheapest way to get a big screen, all-day battery, and ChromeOS's zero-maintenance security, built to a price rather than an experience. Kompanio Arm + 4GB + UFS is the classic sub-$300 recipe — fine for browsing and streaming, deliberately not a computer you grow into.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 7.5,
+    "screen_quality": 4.2,
+    "readability_dark": 4.2,
+    "readability_bright": 3.8,
+    "ecosystem": 4,
+    "gaming": 1,
+    "productivity": 3.5,
+    "portability": 6,
+    "build_quality": 4.5,
+    "thermals_noise": 8.5,
+    "port_connectivity": 5,
+    "creative_work": 1.5,
+    "keyboard_trackpad": 5.5,
+    "webcam_speakers": 3.5,
+    "upgradability": 2,
+    "ai_ml": 1,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 4.5
+  },
+  "rating_notes": "No pro score found (outlets bot-walled; see SHARED-chromebooks.md). Inferred from Chromebook Plus anchor (29.json) with downward deltas: 4GB RAM → productivity -2.0 and ecosystem 4.0 (below Chromebook Plus bar, no Plus AI features, shorter updates); 720p cam → webcam -2.0; thinner chassis → build -1.0; 15.3\" screen → screen_size +1.5 / portability -1.5. Image URL best-guess BBY CDN pattern."
+}

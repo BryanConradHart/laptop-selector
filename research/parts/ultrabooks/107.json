@@ -1,0 +1,103 @@
+{
+  "id": "gb6-16-refurb-u7355-16-512",
+  "line": "Samsung Galaxy Book6 16 (Copilot+)",
+  "config_name": "Galaxy Book6 16 (refurb-Excellent) — Intel Core Ultra 7 355, Arc iGPU, 16GB LPDDR5X, 512GB, 16\" FHD+ touch",
+  "tier": "Mid",
+  "category": "ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 355 (Arrow Lake)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 16,
+    "display_type": "IPS touch (base tier)",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.65,
+    "ports": "2x USB-C, 2x USB-A, HDMI, microSD, 3.5mm",
+    "wireless": "Wi-Fi 6E/7, BT 5.3",
+    "webcam": "FHD IR",
+    "speakers": "stereo",
+    "keyboard_notes": "backlit, numeric keypad",
+    "pen_support": "touch only",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 14,
+    "real_world_hours": 10,
+    "notes": "Arrow Lake U/H-Low is decent but not Lunar Lake-efficient; ~9-11h light use."
+  },
+  "price": {
+    "cad": 1469,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20280238",
+    "confidence": "verified",
+    "notes": "REFURB-Excellent: reg $2,099 / $1,469 (BBY-verified 2026-11-24). New 16\" Book6 tiers are refurb-only at BBY. Refurb carries BBY return policy; note condition grade. SKU 20280238.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20280238",
+        "cad": 1469,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20280/20280238.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "No retrievable pro review; refurb SKU of an under-reviewed line (see SHARED-galaxy-book.md). Honest null."
+  },
+  "user_sentiment": {
+    "praises": [
+      "16-inch Copilot+ touch laptop for $1,469 refurb — the cheapest big-screen AI PC at BBY",
+      "Ultra 7 355 (Arrow Lake) is a solid multitasking chip for office workloads",
+      "Numeric keypad + 16:10 touch screen at a value price",
+      "Galaxy ecosystem features identical to new units",
+      "Refurb-Excellent units come with BBY return protection, low risk"
+    ],
+    "complaints": [
+      "Refurb only — new 16\" Book6 isn't stocked at BBY CA",
+      "Dim ~300-nit FHD+ IPS panel; the 16\" deserves the AMOLED the Pro 16 has",
+      "60 Hz and no Thunderbolt certainty on base-tier 16\"",
+      "16GB soldered, 512GB only",
+      "Arrow Lake sprints behind Lunar Lake on battery"
+    ]
+  },
+  "design_philosophy": "The Book6 16 extends the base chassis to a big 16:10 touch canvas with Arrow Lake silicon, aimed at buyers who want screen area over portability without paying Pro prices. At BBY CA it exists only as a refurb-Excellent SKU — which paradoxically makes it the value play of the 16-inch range, undercutting both the new base line and the AMOLED Pro 16.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 8.5,
+    "screen_quality": 4.5,
+    "readability_dark": 5,
+    "readability_bright": 4.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7.5,
+    "portability": 6.5,
+    "build_quality": 7,
+    "thermals_noise": 8,
+    "port_connectivity": 7.5,
+    "creative_work": 4,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 5.5,
+    "upgradability": 2,
+    "ai_ml": 5.5,
+    "pen_touch": 5,
+    "repairability_service": 3.5,
+    "durability": 5.5
+  },
+  "rating_notes": "Inferred from Book6 14 base synthesis: +2 screen_size / −3 portability for 16\", −2 battery (Arrow Lake 355 less efficient than Lunar Lake), touch adds pen_touch 5. Refurb condition noted in price. Bot-wall disclosure in SHARED-galaxy-book.md. Image URL best-guess BBY CDN pattern."
+}

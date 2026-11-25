@@ -1,0 +1,103 @@
+{
+  "id": "tp-p16-g3-pro5000-64-1tb",
+  "line": "Lenovo ThinkPad P16 Gen 3 (2025)",
+  "config_name": "ThinkPad P16 Gen 3 16\" WUXGA IPS — Intel Core Ultra 9 285HX, NVIDIA RTX PRO 5000 Blackwell 24GB, 64GB DDR5, 1TB SSD",
+  "tier": "Flagship",
+  "category": "creator-workstation",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 285HX (Arrow Lake-HX, 24-core: 8P+16E)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA RTX PRO 5000 Blackwell 24GB (ISV-certified)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "DDR5-5600 (2x SODIMM, upgradeable to 192GB)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2280 NVMe Gen4 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "WUXGA IPS anti-glare, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.7,
+    "ports": "2x TB4/USB-C, 2x USB-A, HDMI 2.1, SDXC, RJ45, 3.5mm, smart card",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker, Dolby Audio",
+    "keyboard_notes": "ThinkPad keyboard + TrackPoint, spill-resistant, optional numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 5,
+    "notes": "90Wh. Desktop-replacement HX platform + high-end GPU; estimated ~5h light use. No verified pro battery test found (NBC bot-walled)."
+  },
+  "price": {
+    "cad": 9080,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20183308",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $12,080 / sale $9,080 (SKU 20183308). Sale price used.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20183308",
+        "cad": 9080,
+        "est": false,
+        "name": "Lenovo ThinkPad P16 Gen 3 Mobile Workstation, Intel Core Ultra 9-285HX, NVIDIA RTX PRO 5000 24GB, 64GB DDR5 RAM, 1TB SSD, 16\" WUXGA IPS Display, Windows 11 Pro"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20183/20183308.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "RTX PRO 5000 24GB is the top mobile pro GPU tier — certified for SolidWorks/CATIA/DaVinci with 24GB VRAM for large scenes and local LLM work",
+      "Fully serviceable: 2x SODIMM (up to 192GB) + dual M.2 slots in a workstation you can actually open",
+      "Ultra 9 285HX 24-core sustains long compile/render loads that thin workstations throttle on",
+      "Full port set including RJ45, SDXC, HDMI 2.1 and docking via dual TB4",
+      "$3,000 off regular pricing makes the PRO 5000 tier far closer to attainable"
+    ],
+    "complaints": [
+      "2.7 kg plus a large 230W brick — this is a plugged-in desktop replacement, not a travel machine",
+      "Base WUXGA 60Hz IPS panel is a weak point at a $9,000 price for color-critical work",
+      "Fans are loud under sustained render loads (high-perf HX cooling at full tilt)",
+      "Regular $12,080 anchor price is fictional; marketplace-style seller pricing",
+      "No verified Canadian pro review of this exact RTX PRO 5000 config — early-adopter risk on Blackwell pro drivers"
+    ]
+  },
+  "design_philosophy": "The P16 Gen 3 is Lenovo's 16\" desktop-replacement mobile workstation: full HX-series CPU power, the highest RTX PRO Blackwell tier, and full upgradeability in a thick, serviceable chassis. This flagship config — PRO 5000 24GB with 64GB RAM — is aimed at 3D/CAD/AI professionals who need certified drivers and VRAM rather than gaming flash.",
+  "ratings": {
+    "battery": 4.5,
+    "screen_size": 8,
+    "screen_quality": 6.3,
+    "readability_dark": 5.8,
+    "readability_bright": 6.5,
+    "ecosystem": 9.2,
+    "gaming": 7,
+    "productivity": 9.3,
+    "portability": 2.8,
+    "build_quality": 8.8,
+    "thermals_noise": 6.8,
+    "port_connectivity": 9,
+    "creative_work": 9.2,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 6.8,
+    "upgradability": 9,
+    "ai_ml": 8,
+    "pen_touch": 0,
+    "repairability_service": 8.5,
+    "durability": 8.5
+  },
+  "rating_notes": "No verified pro review found (NBC bot-walled; BBY reviews API empty) — see SHARED-thinkpad-p.md; ratings spec-anchored from dataset calibration (HX desktop-replacement battery ~4.5, portability ~2.8, ThinkPad keyboard 9). Per task brief: RTX PRO 5000 24GB scores ai_ml 8.0; ISV certification lifts creative_work 9.2 / productivity 9.3 above same-class GeForce. Gaming 7.0 (GeForce-similar silicon, pro drivers less game-tuned). Sentiment synthesized from P-series owner themes, disclosed."
+}

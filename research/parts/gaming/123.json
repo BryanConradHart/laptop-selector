@@ -1,0 +1,117 @@
+{
+  "id": "pred-helios-neo18-275hx-5070ti-16-1tb",
+  "line": "Acer Predator Helios 18 (2025, PH18-72 non-AI)",
+  "config_name": "Predator Helios 18 — Ultra 9 275HX / RTX 5070 Ti 12GB, 16GB DDR5, 1TB SSD, 18\" WQXGA IPS 240Hz",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop 12GB GDDR7 (Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 16,
+    "ram_type": "DDR5 SODIMM (upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (upgradeable)",
+    "screen_size_in": 18,
+    "display_type": "IPS matte, non-touch",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 350,
+    "brightness_hdr_nits": null,
+    "weight_kg": 3.49,
+    "ports": "3x USB-A, 2x USB-C (incl. USB4/TB4), HDMI, RJ-45, 3.5mm, SD",
+    "wireless": "Wi-Fi 6E/7, BT 5.3",
+    "webcam": "FHD 1080p",
+    "speakers": "Stereo",
+    "keyboard_notes": "Chiclet, RGB backlight, numeric keypad",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 4.3,
+    "notes": "99 Wh; 18\" HX desktop replacement — realistically plugged in."
+  },
+  "price": {
+    "cad": 2999,
+    "currency": "CAD",
+    "store": "bestbuy.ca (marketplace)",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20126058",
+    "confidence": "verified",
+    "notes": "BBY CA verified 2026-11-24: reg $3,999, sale $2,999 — deep sale, notable value pick. Marketplace seller — fulfillment/return-policy risk.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20126058",
+        "cad": 2999,
+        "est": false,
+        "name": "Acer Predator Helios 18\" (Intel Core Ultra 9-275HX/16GB RAM/ 1.0TB SSD/RTX 5070Ti/Win11) - Brand New"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20126/20126058.jpeg",
+  "professional": {
+    "avg_score": 7.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (model-page aggregate, sibling PHN16-73)",
+        "score": "76%",
+        "url": "https://www.notebookcheck.net/Acer-Predator-Helios-Neo-16-AI-PHN16-73.1171432.0.html",
+        "quote": "Aggregated scoring places it at around 76% overall, indicating a solid but not flawless package."
+      },
+      {
+        "outlet": "Notebookcheck (sibling Helios 18 AI PH18-73)",
+        "score": "89%",
+        "url": "https://www.notebookcheck.net/Acer-Predator-Helios-18-AI-review-Finally-a-quieter-gaming-laptop-but-at-what-cost.1054468.0.html",
+        "quote": "With \"Performance mode\" enabled, the gaming laptop delivers slightly below-average performance for its class. In return, it operates more quietly than many competitors, though the optional \"Turbo mode\" significantly increases noise levels."
+      }
+    ],
+    "note": "No dedicated pro review of this exact PH18-72 5070 Ti/16GB tier found; anchored on the NBC-reviewed Neo 16 5070 Ti (same GPU/CPU) with Helios 18 chassis findings. Honest null for this config."
+  },
+  "user_sentiment": {
+    "praises": [
+      "$2,999 sale for an 18\" 240Hz + RTX 5070 Ti + 24-core 275HX is the standout Black Friday value in the whole Predator range",
+      "12GB VRAM on the 5070 Ti — far more future-proof than the 8GB 5070 tiers nearby",
+      "Big quiet 18\" chassis gives the 5070 Ti full power headroom",
+      "RAM/SSD upgradeable — adding a second 16GB stick for ~$50 fixes the only real spec gap",
+      "Full-size deck with numpad, SD reader, RJ-45 — proper desktop replacement"
+    ],
+    "complaints": [
+      "16GB RAM at this GPU tier is a factory miss; buyers must upgrade immediately",
+      "3.5 kg plus a 330-400W brick — portability is nominal",
+      "Matte IPS panel is mid — no HDR punch, average brightness",
+      "Acer bloatware and PredatorSense friction on setup (line-wide)",
+      "Marketplace-seller sale unit: reg price inflated and non-standard returns vs BBY-direct"
+    ]
+  },
+  "design_philosophy": "This is the older-ladder Helios 18 sold at clearance depth: the full-size 18\" Predator chassis (pre-AI-refresh tooling) with current-gen Arrow Lake-HX and Blackwell graphics. At its sale price it embodies Acer's brute-force value pitch — flagship-class CPU and a 12GB GPU on an 18\" 240Hz canvas for less than most 16\" mid-tiers, with RAM as the one corner cut.",
+  "ratings": {
+    "battery": 4.3,
+    "screen_size": 9,
+    "screen_quality": 6,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 8.3,
+    "productivity": 7.2,
+    "portability": 2.5,
+    "build_quality": 7,
+    "thermals_noise": 6,
+    "port_connectivity": 8,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 5,
+    "upgradability": 7.5,
+    "ai_ml": 5.6,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Inferred from NBC 76% PHN16-73 5070 Ti anchor (gaming parity) + 18\" chassis deltas per SHARED-predator.md: screen_size +1.5, portability -1.5, thermals +0.5, productivity -0.8 and ai_ml -0.6 for 16GB RAM, matte-IPS display deltas. Deep-sale value noted; marketplace caveat in price.notes. No dedicated pro review — honest null."
+}

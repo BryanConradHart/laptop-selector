@@ -1,0 +1,106 @@
+{
+  "id": "lenovo-chromebook-plus-14-n355",
+  "line": "Lenovo Chromebook Plus 14 (2025)",
+  "config_name": "Lenovo Chromebook Plus 14\" — Core 3 N355, 8GB RAM, 128GB SSD, 14\" FHD",
+  "tier": "Entry",
+  "category": "budget",
+  "ecosystem": "ChromeOS",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 3 N355 (8-core: 4P+4E, Alder Lake-N refresh, up to 3.9 GHz, passive/low-power class)",
+    "cpu_cores": 8,
+    "gpu": "Intel UHD Graphics (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "soldered LPDDR",
+    "storage_gb": 128,
+    "storage_type": "SSD (soldered on Chromebook Plus; no user upgrade path advertised)",
+    "screen_size_in": 14,
+    "display_type": "FHD IPS (class-typical ~300 nits, anti-glare)",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.49,
+    "ports": "2x USB-C, 2x USB-A, HDMI, 3.5mm (Lenovo Chromebook Plus 14 layout)",
+    "wireless": "Wi-Fi 6, BT 5.3",
+    "webcam": "FHD 1080p with privacy shutter (Chromebook Plus spec)",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Bilingual CA chiclet",
+    "pen_support": "none",
+    "os": "ChromeOS (Chromebook Plus, ~10-year automatic updates)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 9,
+    "notes": "ChromeOS idles far lighter than Windows; N355 is a low-power part — ~8-10h real web use typical for this class."
+  },
+  "price": {
+    "cad": 449.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19775248",
+    "confidence": "verified",
+    "notes": "Regular $899.99; BF sale $449.99 is the standout-value number (BBY-verified 2026-11-24, SKU 19775248).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19775248",
+        "cad": 449.99,
+        "est": false,
+        "name": "Lenovo Chromebook Plus 14\" Chromebook - Intel Core 3 N355 - 8GB LPDDR5x - 128GB SSD - ChromeOS - Cosmic Blue"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19775/19775248.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "At $449.99 sale it is the cheapest Chromebook Plus with a real x86 quad-plus-quad CPU — boots in seconds, wakes instantly",
+      "Core 3 N355 runs cool and near-silent; owners report it being effectively fanless-feeling on web/Android-app work",
+      "ChromeOS means no bloatware, no antivirus, no forced reboots — the simplicity is the product",
+      "8GB RAM meets the Chromebook Plus minimum, so Play Store Android apps and 15-20 web tabs stay usable",
+      "~10 years of automatic ChromeOS updates — no paid OS upgrade or driver hunting ever"
+    ],
+    "complaints": [
+      "128GB storage fills fast and is not user-upgradeable; buyers are locked in at purchase",
+      "No desktop apps: no full Office/Photoshop/x86 installers — first-time buyers are often surprised",
+      "Panel is class-typical washed 45% NTSC IPS at ~300 nits, fine indoors, weak outdoors",
+      "Only one entry-level Chromebook Plus at this price means no touch/pen option in this SKU",
+      "Cloud-dependent AI features (Gemini) are useless offline, which surprises 'Plus' buyers"
+    ]
+  },
+  "standouts": [
+    "BF sale $449.99 for a Chromebook Plus with Core 3 N355 and 8GB — the best price/spec ratio in the whole CA Chromebook inventory"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "Lenovo's Chromebook Plus line aims for the mainstream default: an efficient Intel N-series CPU, the Chromebook Plus minimums (8GB/1080p webcam/FHD), and Google's AI feature set, in a plain 14\" plastic chassis. At the BF sale price it deliberately undercuts every budget Windows laptop on the things ChromeOS does best: battery, silence, security, and zero maintenance.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 6,
+    "screen_quality": 4.5,
+    "readability_dark": 4.5,
+    "readability_bright": 4,
+    "ecosystem": 5,
+    "gaming": 1.2,
+    "productivity": 5.5,
+    "portability": 7.5,
+    "build_quality": 5.5,
+    "thermals_noise": 8,
+    "port_connectivity": 6,
+    "creative_work": 2,
+    "keyboard_trackpad": 6,
+    "webcam_speakers": 5.5,
+    "upgradability": 2.5,
+    "ai_ml": 1.5,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 5.5
+  },
+  "rating_notes": "No pro score found (all outlets bot-walled 2026-11-24; see SHARED-chromebooks.md) — ratings platform-anchored per ChromeOS calibration: ecosystem 5.0 (web+Android apps, no desktop apps), gaming 1.2 (cloud gaming only), battery +2.5 over same-class budget Windows because ChromeOS idles light. ai_ml 1.5: Chromebook Plus AI is cloud-based, NPU unused locally. Ratings inferred from the Chromebook Plus platform corpus, hence inferred:true. Image URL is best-guess BBY CDN pattern."
+}

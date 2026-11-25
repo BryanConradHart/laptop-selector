@@ -1,0 +1,110 @@
+{
+  "id": "gigabyte-a18-3vh-r7-260-5060-32-1tb-dock",
+  "line": "Gigabyte A18 3VH (2025)",
+  "config_name": "Gigabyte A18 3VH — Ryzen 7 260 / RTX 5060, 32GB RAM, 1TB SSD (+1TB drive dock bundle)",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 7 260 (Zen, 8-core est.)",
+    "cpu_cores": 8,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7",
+    "gpu_type": "dedicated",
+    "ram_gb": 32,
+    "ram_type": "DDR5 SO-DIMM (2 slots est., upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (2 slots est.)",
+    "screen_size_in": 18,
+    "display_type": "Matte IPS",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.8,
+    "ports": "USB-C, USB-A x2-3, HDMI, Ethernet, 3.5mm (exact set unverified)",
+    "wireless": "Wi-Fi 6E est., BT 5.2",
+    "webcam": "FHD 1080p est.",
+    "speakers": "Stereo",
+    "keyboard_notes": "Chiclet, backlit, numeric keypad",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 6,
+    "notes": "~76Wh est.; large chassis but modest GPU. ~5-6h light use est."
+  },
+  "price": {
+    "cad": 2449,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/p/19956028",
+    "confidence": "verified",
+    "notes": "BBY API-verified 2026-11-24, SKU 19956028 reg $3,498.57 / sale $2,449. Marketplace DOCK-BUNDLE SET (laptop + 1TB drive/dock) — third-party fulfillment/return risk, inflated 'reg' anchor. Only 18-inch Gigabyte stocked in CA.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/p/19956028",
+        "cad": 2449,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19956/19956028.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Big 18-inch 165Hz WQXGA screen for ~$2,449 sale — cheapest 18-inch gaming laptop tier at BBY CA",
+      "Includes extra 1TB drive/dock in the bundle set",
+      "Efficient Ryzen 7 + RTX 5060 combo runs cool and quiet at light loads",
+      "32GB RAM standard; SO-DIMM/dual-M.2 upgradeability expected from the Gigabyte platform",
+      "Full-size deck with numpad for the big chassis"
+    ],
+    "complaints": [
+      "No professional review of the A18 3VH exists — ports, TGP, and panel specs unverified",
+      "Marketplace dock-bundle with inflated 'regular' price and third-party returns",
+      "Ryzen 7 260 is a rebadged mid-range mobile chip, not HX-class",
+      "RTX 5060 on an 18-inch panel is modest GPU for the screen size",
+      "Plastic chassis quality consistent with the budget Gaming line, not a premium 18-inch"
+    ]
+  },
+  "design_philosophy": "The A18 3VH stretches Gigabyte's value playbook to 18 inches: a big matte 165Hz WQXGA panel on an efficient mid-range AMD + RTX 5060 platform, sold in Canada only as a discounted marketplace dock-bundle. Screen size per dollar is the entire pitch; CPU tier, materials, and GPU headroom are where the money was saved.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 8.5,
+    "screen_quality": 6,
+    "readability_dark": 5.5,
+    "readability_bright": 5.5,
+    "ecosystem": 9,
+    "gaming": 6,
+    "productivity": 7,
+    "portability": 4.5,
+    "build_quality": 6,
+    "thermals_noise": 6.5,
+    "port_connectivity": 6,
+    "creative_work": 6,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 6,
+    "upgradability": 8,
+    "ai_ml": 5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 6
+  },
+  "rating_notes": "No pro numeric score found (honest null). Ratings inferred from NBC Gaming A16 GA6H review (80%) with 18-inch deltas: screen_size +1.0, portability -2.0 (est. 2.8kg), thermals +1.0 (bigger chassis, modest GPU). RTX 5060 parity with the Gaming A16 5060 tier. Many specs (ports, weight, battery) estimated and disclosed; A18 platform documentation is thin.",
+  "standouts": [
+    "Cheapest 18-inch gaming laptop tier at BBY CA ($2,449 sale)",
+    "Dock/drive bundle sweetens set price"
+  ],
+  "dealbreakers": [
+    "Modest RTX 5060 GPU for a large 18-inch panel",
+    "Marketplace dock-bundle: third-party fulfillment, inflated anchor"
+  ]
+}

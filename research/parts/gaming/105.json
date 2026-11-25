@@ -1,0 +1,111 @@
+{
+  "id": "legion5-g10-151-oled-275hx-5070-32-2tb",
+  "line": "Lenovo Legion 5 15 Gen 10 (2025, 15.1\" OLED, Arrow Lake-HX refresh)",
+  "config_name": "Legion 5 15.1 Gen 10 — Core Ultra 9 275HX / RTX 5070 8GB (115W), 32GB DDR5, 2TB SSD, 15.1\" WQXGA OLED 165Hz",
+  "tier": "High",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7 (115 W TGP incl. Dynamic Boost, MUX)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5 (2x SODIMM, upgradeable to 64GB)",
+    "storage_gb": 2000,
+    "storage_type": "NVMe M.2 (2 slots: second free for expansion)",
+    "screen_size_in": 15.1,
+    "display_type": "OLED glossy (LEN151WQXGA, HDR, 165 Hz)",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 495,
+    "brightness_hdr_nits": 1067,
+    "weight_kg": 1.9,
+    "ports": "2x USB-C 3.2 Gen2 (DP, PD 3.0), 3x USB-A 3.2, HDMI 2.1, RJ45 GbE, 3.5mm",
+    "wireless": "Wi-Fi 7 (MediaTek MT7925), BT 5.4",
+    "webcam": "5MP with electronic shutter",
+    "speakers": "Stereo",
+    "keyboard_notes": "Chiclet w/ numpad, 1.6mm travel, 24-zone backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 7,
+    "notes": "80 Wh. NBC AMD anchor 9.5h WiFi; HX Intel 'noticeably shorter' — est. ~7h WiFi."
+  },
+  "price": {
+    "cad": 6229,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19826103",
+    "confidence": "verified",
+    "notes": "Regular $6,229 (no sale price listed), BBY API-verified 2026-11-24 (LEGION_LIST.md). Notably above the 32GB/1TB twin (19825898, $3,999 sale) — poor pricing; the 1TB tier is the smarter buy.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19826103",
+        "cad": 4349,
+        "est": false,
+        "name": "Lenovo Legion 5 15.1\" WQXGA OLED 165Hz Gaming Laptop - Intel Ultra 9 275HX - 32GB DDR5 - 2TB SSD - RTX 5070 - Win 11 Pro - Black"
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/legion-laptops/legion-5-series/lenovo-legion-5-gen-10-15-inch-intel"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19826/19826103.jpeg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87%",
+        "url": "https://www.notebookcheck.net/Lenovo-Legion-5-15IRX10-gaming-laptop-review-Brilliant-OLED-and-RTX-5070-for-EUR1-499-approx-1-742.1147338.0.html",
+        "quote": "The Intel Core i7-13650HX draws significantly more power than the Ryzen 7 260 but doesn't deliver much additional performance. ... Overall, though, there's little to complain about. The Legion 5 15 remains an excellent gaming laptop through and through."
+      }
+    ],
+    "note": "NBC reviewed the same 15.1\" OLED RTX 5070 chassis (87%); storage size has no bearing on the tested scores. RTINGS/Tom's: no numeric score found, not cited."
+  },
+  "user_sentiment": {
+    "praises": [
+      "2TB out of the box suits game libraries + video projects without opening the chassis (second M.2 slot still free)",
+      "Same 87%-rated 15.1\" OLED — 165 Hz, 0.9 deltaE, 1067 nits HDR — the line's headline feature",
+      "Ultra 9 275HX 24-core + 32GB is the top CPU/RAM combination the chassis offers",
+      "Full 115 W RTX 5070 with MUX: NBC measured gaming 'on par with the more expensive Legion 5 Pro 16'",
+      "Top-tier serviceability: 2x SODIMM, 2x M.2, screwed battery, replaceable Wi-Fi, official manual"
+    ],
+    "complaints": [
+      "Pricing: $6,229 regular with no sale — $2,230 over the identical 32GB/1TB twin on sale; 2TB alone is worth ~$150 (and the chassis has a free second M.2 slot)",
+      "HX power draw costs ~2.5h battery vs the AMD model (NBC)",
+      "Fans clearly audible at 50.1 dB(A) in Performance mode (NBC)",
+      "No USB4/Thunderbolt on Intel chassis; no card reader (NBC cons)",
+      "Glossy-only OLED + PWM flicker (NBC); Legion Gen-10 threads report warranty friction and occasional fan/OLED quirks"
+    ]
+  },
+  "design_philosophy": "The max-storage tier of Lenovo's mainstream OLED Legion 5 — same full-wattage RTX 5070, 24-core Ultra 9 and 165 Hz OLED as the twin 1TB config, with double the SSD. At Best Buy CA it exists mainly as a high-margin tier: the line's value sits in the 1TB twin.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 6.5,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 7.6,
+    "productivity": 9.2,
+    "portability": 7.5,
+    "build_quality": 7.8,
+    "thermals_noise": 5.8,
+    "port_connectivity": 6.8,
+    "creative_work": 8.1,
+    "keyboard_trackpad": 8.3,
+    "webcam_speakers": 6.3,
+    "upgradability": 8.5,
+    "ai_ml": 5.8,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 6.8
+  },
+  "rating_notes": "Ratings inferred from NBC-reviewed 15.1\" OLED RTX 5070/32GB configs (87%) per SHARED-legion5-oled.md; identical to the 32GB/1TB twin (104.json) except +0.3 creative_work for 2TB storage. Image URL follows standard BBY CDN pattern, not individually verified."
+}

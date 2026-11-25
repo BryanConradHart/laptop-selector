@@ -1,0 +1,106 @@
+{
+  "id": "acer-chromebook-plus-516-i5-120u",
+  "line": "Acer Chromebook Plus 516 (16\", 2025)",
+  "config_name": "Acer Chromebook Plus 516 16\" — Core 5 120U, 8GB RAM, 512GB SSD, 16\" display",
+  "tier": "Mid",
+  "category": "budget",
+  "ecosystem": "ChromeOS",
+  "form_factor": "clamshell",
+  "release": "2025-04",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 5 120U (10-core: 2P+8E, Raptor Lake-U refresh, up to 5.0 GHz)",
+    "cpu_cores": 10,
+    "gpu": "Intel Iris Xe (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "soldered LPDDR5",
+    "storage_gb": 512,
+    "storage_type": "NVMe M.2 (limited user access)",
+    "screen_size_in": 16,
+    "display_type": "16\" IPS (class-typical ~300 nits, anti-glare)",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.95,
+    "ports": "2x USB-C, 2x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "1440p QHD webcam (Chromebook Plus 516 spec)",
+    "speakers": "2x stereo, DTS audio",
+    "keyboard_notes": "Bilingual CA chiclet with numpad",
+    "pen_support": "none",
+    "os": "ChromeOS (Chromebook Plus, ~10-year automatic updates)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 7.5,
+    "notes": "65 Wh cell + big 16\" panel: ~7-8h real web use on ChromeOS."
+  },
+  "price": {
+    "cad": 849.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19867579",
+    "confidence": "verified",
+    "notes": "BBY-verified 2026-11-24, SKU 19867579. 515 successor at 16\"; no active sale discount.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19867579",
+        "cad": 849.99,
+        "est": false,
+        "name": "Acer Chromebook Plus 516 16\" Chromebook - Intel Core 5 120U - 8GB LPDDR5 - 512GB SSD - ChromeOS - Iron"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19867/19867579.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "16\" 16:10 screen is the biggest Chromebook display in CA retail — the pick for split-screen web work and video",
+      "Core 5 120U is one of the fastest ChromeOS CPUs sold and stays quiet under web loads",
+      "512GB storage at $849.99 removes the soldered-storage anxiety the 128GB SKUs cause",
+      "Numpad + big screen make it a genuine desktop-replacement for a ChromeOS household",
+      "1440p webcam beats the 720p cams on older budget Chromebooks"
+    ],
+    "complaints": [
+      "8GB RAM at $849.99 feels stingy when the ASUS CX34 i5 twin has 16GB for $699.97",
+      "No sale discount — regular price only, unlike the standout Lenovo/CX34 deals",
+      "Big chassis, 1.95 kg: this is a 'luggable', not a travel machine",
+      "Washed 45% NTSC-class panel on a big screen makes colour work obviously bad",
+      "Still ChromeOS — a 16\" screen tempts people into desktop-app workflows it cannot do"
+    ]
+  },
+  "standouts": [
+    "The only 16-inch Chromebook Plus stocked in Canada — big-screen desktop-replacement niche at a reasonable $849.99"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "Acer's 516 takes the Chromebook Plus formula to desktop-replacement size: a 16\" 16:10 panel, a fast Core 5 U CPU, and 512GB storage for people who want a simple family/secondary machine with a big display. It trades portability and screen colour quality for size and storage, and sits above the value tier without a discount to justify it.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 8,
+    "screen_quality": 4.5,
+    "readability_dark": 4.3,
+    "readability_bright": 4,
+    "ecosystem": 5,
+    "gaming": 1.5,
+    "productivity": 6.2,
+    "portability": 5,
+    "build_quality": 5.5,
+    "thermals_noise": 7,
+    "port_connectivity": 6.5,
+    "creative_work": 2.5,
+    "keyboard_trackpad": 6.2,
+    "webcam_speakers": 6.5,
+    "upgradability": 3,
+    "ai_ml": 1.8,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 5.5
+  },
+  "rating_notes": "No pro score found (outlets bot-walled; see SHARED-chromebooks.md). Inferred from Chromebook Plus anchor (29.json): 16\" screen → screen_size +2.0 / portability -2.5; Core 5 120U → productivity +0.7, gaming +0.3 vs N355; 8GB keeps productivity below the 16GB CX34 entry; bigger battery partially offset by panel → battery -1.0. Image URL best-guess BBY CDN pattern."
+}

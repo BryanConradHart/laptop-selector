@@ -1,0 +1,109 @@
+{
+  "id": "t14s7-intel-u5-32-512-ips",
+  "line": "Lenovo ThinkPad T14s Gen 7 (2026, Intel Panther Lake)",
+  "config_name": "ThinkPad T14s Gen 7 — Core Ultra 5 325, 32GB LPDDR5X, 512GB SSD, 14\" WUXGA IPS 400-nit non-touch",
+  "tier": "Base",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 5 325 (Panther Lake, LPE-cores up to 3.4 GHz, P-cores up to 4.5 GHz)",
+    "cpu_cores": 8,
+    "gpu": "Intel Graphics (4 Xe3 cores) integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 2280 NVMe Gen4 (replaceable)",
+    "screen_size_in": 14,
+    "display_type": "IPS WUXGA anti-glare non-touch",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.19,
+    "ports": "2x TB4, 1x USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7 (Intel BE211 320MHz), BT 5.4",
+    "webcam": "5MP + IR with privacy shutter",
+    "speakers": "2-speaker (improved gen)",
+    "keyboard_notes": "ThinkPad keyboard 1.5mm travel, TrackPoint, auto backlit",
+    "pen_support": "none (non-touch)",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 14,
+    "real_world_hours": 12.5,
+    "notes": "58Wh. NBC measured ~17.5h Wi-Fi test on AMD sibling; Panther Lake Ultra 5 is comparable-to-slightly-better at light load."
+  },
+  "price": {
+    "cad": 2200,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadt/",
+    "confidence": "estimated",
+    "notes": "Intel T14s Gen 7 CTO on lenovo.com/ca; estimated from AMD CTO base ($2,093.55 verified) + Intel Ultra 5 tier delta. Lenovo CA runs eCoupon-stacked pricing.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadt/",
+        "cad": 2200,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadt/"
+  },
+  "image_url": "https://p2-ofp.static.pub/ShareResource/optimized/pdp/thinkpad/thinkpad-t-series/LEN101T0171/lenovo-thinkpad-t14s-gen-7-amd-series-tn.ff23d6caa387d3d7.png",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
+        "quote": "Both the AMD and Intel SKUs offer pretty much the same level of performance and you still get a good keyboard (even though it could be better) and a decent number of ports with a new USB-C port on the right side."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Intel variant gets the full 320 MHz Wi-Fi 7 radio (NBC measured ~3.9 Gbps vs 1.7 Gbps on the AMD MediaTek card)",
+      "NBC found AMD and Intel SKUs perform about the same — pick whichever is on sale",
+      "Thunderbolt 4 is native on Intel SKUs for docking compatibility with older TB docks",
+      "Same light redesigned 1.19 kg chassis, replaceable SSD/battery/WWAN as the AMD model",
+      "32GB standard on Intel prebuys — no 16GB trap at this tier"
+    ],
+    "complaints": [
+      "Ultra 5 325's 4-Xe3 iGPU is the weakest graphics option in the line (Cyberpunk ~20 fps 1080p low in sibling test)",
+      "Base WUXGA 400-nit 45% NTSC panel again — colour work needs the OLED CTO",
+      "Soldered RAM, same as every T14s Gen 7 SKU",
+      "60 Hz only on all IPS panels",
+      "Intel CTO pricing on lenovo.com/ca is volatile with rotating eCoupons"
+    ]
+  },
+  "design_philosophy": "The Intel platform option of the T14s fleet line — identical chassis, keyboard, and battery as the AMD model, chosen by IT shops for native Thunderbolt and Intel vPro manageability. The Ultra 5 tier is the price-conscious fleet SKU.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 7,
+    "screen_quality": 5,
+    "readability_dark": 7,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 3,
+    "productivity": 8.5,
+    "portability": 9,
+    "build_quality": 8.5,
+    "thermals_noise": 9,
+    "port_connectivity": 8.5,
+    "creative_work": 3,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 7.5,
+    "upgradability": 6,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 8.5,
+    "durability": 9
+  },
+  "rating_notes": "Inferred from Notebookcheck's T14s Gen 7 AMD review (90%) plus NBC's note that AMD and Intel SKUs perform about the same; Ultra 5 325 tier → productivity −0.5 and gaming 3.0 (4-Xe3 iGPU, per sibling T14 Gen 7 benchmarks). Intel BE211 supports the port_connectivity/docking note. Price estimated (CA Intel CTO page not directly fetched); image URL from the verified AMD CDN path as fallback."
+}

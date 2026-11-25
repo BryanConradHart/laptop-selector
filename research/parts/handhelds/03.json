@@ -1,0 +1,115 @@
+{
+  "id": "steam-deck-lcd-256",
+  "line": "Valve Steam Deck LCD (2022)",
+  "config_name": "Steam Deck LCD — Custom AMD 'Aerith' Zen 2 8-core / 8 RDNA1 CUs, 8GB LPDDR5-5500, 256GB NVMe, 7\" 1280x800 60Hz IPS",
+  "tier": "Base",
+  "category": "handheld-pcs",
+  "ecosystem": "SteamOS",
+  "form_factor": "handheld",
+  "release": "2023-11",
+  "inferred": true,
+  "specs": {
+    "cpu": "Custom AMD 'Aerith' APU, Zen 2 8-core (4C+4C) 2.4-3.5GHz, 7nm",
+    "cpu_cores": 8,
+    "gpu": "Radeon 8 CUs RDNA 1 1.0-1.6GHz (1.6 TFLOPS)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "LPDDR5-5500 soldered (4x16-bit)",
+    "storage_gb": 256,
+    "storage_type": "M.2 2230 NVMe Gen3 (user-replaceable)",
+    "screen_size_in": 7,
+    "display_type": "IPS LCD, glossy, touch",
+    "resolution": "1280x800",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.669,
+    "ports": "1x USB-C 3.1 Gen1 (DP alt-mode, PD), microSD UHS-I, 3.5mm",
+    "wireless": "Wi-Fi 5, BT 5.0",
+    "webcam": "none",
+    "speakers": "2 stereo speakers",
+    "keyboard_notes": "no keyboard; on-screen keyboard in SteamOS/Desktop mode",
+    "pen_support": "touch only, no pen",
+    "os": "SteamOS 3 (Arch Linux + KDE Plasma desktop mode)"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 4.5,
+    "notes": "40Wh, 7nm APU. Engadget measured Hades 2h42m on an early LCD; light indie/emu use 4-6h. No fast charge."
+  },
+  "price": {
+    "cad": 1129,
+    "currency": "CAD",
+    "store": "store.steampowered.com/steamdeck",
+    "store_url": "https://www.steamdeck.com/en/buy",
+    "confidence": "verified",
+    "notes": "Verified from steamdeck.com/en 2026-11-24; now the entry-level SKU after Valve's 2025-26 price increases.",
+    "offers": [
+      {
+        "store": "store.steampowered.com/steamdeck",
+        "url": "https://www.steamdeck.com/en/buy",
+        "cad": 1129,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.steamdeck.com/en/buy"
+  },
+  "image_url": "https://cdn.akamai.steamstatic.com/steamdeck/images/deck/deck_top.png",
+  "professional": {
+    "avg_score": 8.6,
+    "reviews": [
+      {
+        "outlet": "Engadget (OLED review, LCD comparison)",
+        "score": "recommended",
+        "url": "https://www.engadget.com/steam-deck-oled-review-its-just-better-180038030.html",
+        "quote": "One of the downsides of the first Steam Deck was its short battery life, which maxed out at eight hours, and that was only under ideal conditions."
+      },
+      {
+        "outlet": "Tom's Guide (original Steam Deck / OLED context)",
+        "score": "4/5",
+        "url": "https://www.tomsguide.com/reviews/steam-deck-review-the-nintendo-switch-for-adults",
+        "quote": "The original model was great, but this latest iteration demonstrates that Valve can improve on perfection."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest entry into SteamOS — same controls, same library, same sleep/resume console UX as the OLED for C$220 less",
+      "For emulators, indies and older AAA the 60Hz 400-nit LCD is perfectly fine; many users say the OLED isn't worth upgrading for",
+      "iFixit 10/10; the 256GB uses a standard M.2 2230 SSD users commonly swap to 1-2TB themselves",
+      "Valve still sells LCD replacement parts (batteries, stick modules, shells) so units are kept alive for years",
+      "Frequent Best Buy CA bundle deals make this the value pick of the lineup when discounted"
+    ],
+    "complaints": [
+      "Battery is the big one — ~2.5-4h in real AAA use; Engadget measured 2h42m in Hades on an early unit",
+      "Dim 400-nit glossy LCD washes out outdoors and has visible backlight bleed in dark games vs OLED",
+      "60Hz-only display and no HDR — the exact things the OLED fixed",
+      "Runs hotter: Engadget's back-to-back test found palms 'breaking a sweat' on the LCD vs the OLED",
+      "Wi-Fi 5 and slower 5500 RAM feel dated in 2026; downloads and some stuttering games lag the OLED"
+    ]
+  },
+  "design_philosophy": "The original 2022 Steam Deck formula — open PC gaming in a console-shaped shell — now repriced as the entry tier after the OLED refresh. The 256GB LCD is Valve's price-of-entry SKU: identical controls and SteamOS, older 7nm APU, dimmer 60Hz LCD, smaller battery.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 4,
+    "screen_quality": 6.3,
+    "readability_dark": 7.5,
+    "readability_bright": 6,
+    "ecosystem": 7.5,
+    "gaming": 6,
+    "productivity": 2.5,
+    "portability": 6.5,
+    "build_quality": 8.5,
+    "thermals_noise": 7.5,
+    "port_connectivity": 3.5,
+    "creative_work": 1.5,
+    "keyboard_trackpad": 1,
+    "webcam_speakers": 3.5,
+    "upgradability": 9,
+    "ai_ml": 1,
+    "pen_touch": 4,
+    "repairability_service": 9.5,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from OLED 512GB anchor via SHARED-steam-deck.md LCD deltas: screen_quality −3.0 (400-nit glossy 60Hz IPS vs HDR OLED 90Hz), readability_dark −2.0, readability_bright −1.5, battery −1.0 (40Wh/7nm), thermals_noise −1.0, portability −0.5 (669g), productivity −0.5 (8GB vs 16GB). Pro anchor is Engadget/Tom's Guide LCD-comparison commentary rather than a dedicated 256GB review."
+}

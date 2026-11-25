@@ -1,0 +1,108 @@
+{
+  "id": "ideapad-slim3i-153-c5320-8-256",
+  "line": "Lenovo IdeaPad Slim 3i 15.3\" (2025/26)",
+  "config_name": "IdeaPad Slim 3i 15.3\" — Core 5 320, 8GB DDR5, 256GB SSD, WUXGA IPS 60Hz",
+  "tier": "Entry",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 5 320 (6-core: 2P+4E)",
+    "cpu_cores": 6,
+    "gpu": "Intel UHD Graphics (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "DDR5",
+    "storage_gb": 256,
+    "storage_type": "NVMe",
+    "screen_size_in": 15.3,
+    "display_type": "IPS anti-glare, 45% NTSC",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.59,
+    "ports": "2x USB-A 3.2 Gen1, 1x USB-C 3.2 Gen1 (PD3.0, DP1.2), HDMI 1.4, 3.5mm",
+    "wireless": "Wi-Fi 6, BT 5.3",
+    "webcam": "720p",
+    "speakers": "2x stereo down-firing",
+    "keyboard_notes": "Chiclet, bilingual CA, no numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 4.8,
+    "notes": "~34Wh (4422 mAh) — the smaller battery of the 3i line; ~4-5h real web use."
+  },
+  "price": {
+    "cad": 1049.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19940875",
+    "confidence": "verified",
+    "notes": "BF sale $499.99 — the cheapest current-CPU 15\" laptop at BBY this cycle.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19940875",
+        "cad": 499.99,
+        "est": false,
+        "name": "Lenovo IdeaPad Slim 3i 15.3\" 60Hz Laptop - Intel Core 5 320 - 8GB RAM - 256GB SSD - Windows 11 Home - Luna Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19940/19940875.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "$499.99 sale price for a current-gen Core 5 320 with a WUXGA IPS panel is the floor of the market",
+      "Same thin 1.59 kg chassis as the pricier 3i SKUs — no bulk penalty for the cheap tier",
+      "CPU handles office/web/Zoom multitasking without stutter despite the price",
+      "USB-C power delivery means any 65W charger works on the road",
+      "Quiet under light loads; fan is barely audible for browsing and docs"
+    ],
+    "complaints": [
+      "Small ~34Wh battery: roughly an hour less runtime than the 512GB twin with the same CPU",
+      "256GB SSD leaves ~180GB free after Windows and updates — fills within months",
+      "720p webcam is soft and noisy on video calls (downgrade from the 512GB SKU's 1080p)",
+      "45% NTSC panel is dim and washed out; unsuitable for any colour-sensitive work",
+      "Plastic chassis flexes in the deck and lid; hinge feels loose after months of opening"
+    ]
+  },
+  "standouts": [
+    "Cheapest entry in the whole budget dataset at its $499.99 sale price — a genuine emergency/student machine"
+  ],
+  "dealbreakers": [
+    "256GB SSD + 8GB RAM together make this a dead-end for anyone keeping it 3+ years"
+  ],
+  "design_philosophy": "The floor SKU of Lenovo's volume budget chassis: identical thin shell and current Core 5 320 CPU as the better 3i models, with the cost cut taken from battery capacity (34Wh vs 47Wh), storage, and webcam. It exists to hit the sub-$500 sale shelf; everything else about it is ordinary budget-class.",
+  "ratings": {
+    "battery": 4.2,
+    "screen_size": 6.8,
+    "screen_quality": 4,
+    "readability_dark": 5.5,
+    "readability_bright": 4.5,
+    "ecosystem": 9,
+    "gaming": 1.5,
+    "productivity": 4.7,
+    "portability": 6.6,
+    "build_quality": 4.5,
+    "thermals_noise": 6.5,
+    "port_connectivity": 5.3,
+    "creative_work": 2.5,
+    "keyboard_trackpad": 5,
+    "webcam_speakers": 4,
+    "upgradability": 3.5,
+    "ai_ml": 1.5,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 4.5
+  },
+  "rating_notes": "Ratings inferred from the 512GB Core 5 320 SKU anchoring (see SHARED-ideapad-slim3.md): −1.3 battery for the 34Wh vs 47Wh pack, −2 webcam_speakers for 720p vs 1080p IR, −0.3 productivity for the tighter 256GB drive. No pro score found; nits and hours are class estimates. SD reader not listed in BBY specs for this SKU."
+}

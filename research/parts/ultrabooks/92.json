@@ -1,0 +1,114 @@
+{
+  "id": "fw13-diy-ai5-16-1tb",
+  "line": "Framework Laptop 13 (2025, AMD Ryzen AI 300 Series, DIY Edition)",
+  "config_name": "Laptop 13 DIY — Ryzen AI 5 340, 16GB DDR5 (2x8GB), 1TB NVMe, 2.8K 120Hz matte display",
+  "tier": "Entry",
+  "category": "ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-04",
+  "specs": {
+    "cpu": "AMD Ryzen AI 5 340 (6-core/12-thread Zen 5/5c, up to 4.8GHz)",
+    "cpu_cores": 6,
+    "gpu": "Radeon 840M integrated (RDNA 3.5)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "DDR5-5600 2x SO-DIMM (user-upgradeable to 96GB)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2280 NVMe (user-replaceable)",
+    "screen_size_in": 13.5,
+    "display_type": "IPS matte 3:2, 2.8K 120Hz (2.2K 60Hz option)",
+    "resolution": "2880x1920",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.3,
+    "ports": "4x user-swappable Expansion Card slots (USB-C/USB-A/HDMI/DP/Ethernet/microSD/storage; cards sold separately), 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + privacy kill switch",
+    "speakers": "2-speaker (top-firing, modest)",
+    "keyboard_notes": "Backlit, 1.5mm travel; replaceable keyboard assembly",
+    "pen_support": "none",
+    "os": "None (DIY — bring your own; Windows or Linux)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 9.5,
+    "notes": "61Wh. Users report ~9-10.5h light use on Ryzen AI 300 boards; efficiency improved markedly over prior gens."
+  },
+  "price": {
+    "cad": 1939,
+    "currency": "CAD",
+    "store": "frame.work/ca",
+    "store_url": "https://frame.work/ca/en/products/laptop13-diy-amd-ai300/configuration/new",
+    "confidence": "estimated",
+    "notes": "Configurator component sum (2026-11-24): base $1,189 (was $1,289) + 16GB +$450 + 1TB SN7100 +$300. Excludes 4 expansion cards (~$15-36 ea) and OS license — real out-the-door ~$2,100+. DIY tiers listed low/out-of-stock at fetch time; prebuilt equivalents exist.",
+    "offers": [
+      {
+        "store": "frame.work/ca",
+        "url": "https://frame.work/ca/en/products/laptop13-diy-amd-ai300/configuration/new",
+        "cad": 1939,
+        "est": true
+      }
+    ],
+    "official_url": "https://frame.work/ca/en/products/laptop13-diy-amd-ai300/configuration/new"
+  },
+  "image_url": "https://static.frame.work/v0clkxhaxck95og8b92zu0ok87uq",
+  "professional": {
+    "avg_score": 8.4,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "84%",
+        "url": "https://www.notebookcheck.net/Framework-Laptop-13-5-Ryzen-AI-9-review-Skip-the-Intel-version-for-better-performance.997363.0.html",
+        "quote": "Skip the Intel version for better performance. Pros: fast CPU with high performance-per-watt, readily available replacement parts, versatile USB-C expansion cards, FreeSync Premium support, easily serviceable. Cons: USB-C ports are not identical in terms of features, speakers and webcam are showing their age, lid and base susceptible to flexing, no OLED/P3/HDR."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Socketed DDR5 SO-DIMMs and standard M.2 — RAM and storage upgraded by the owner in minutes, no soldering",
+      "Four swappable expansion-card ports let you choose exactly which ports you want (USB-A, HDMI, Ethernet, microSD)",
+      "Matte 3:2 2.8K 120Hz display is tall and sharp for code and documents",
+      "Every part is sold as a self-service spare with QR-coded repair guides; iFixit 10/10",
+      "First-class Linux support — official Ubuntu/Fedora guides, community-driven Arch/NixOS docs"
+    ],
+    "complaints": [
+      "Expansion cards and OS are extra-cost add-ons — sticker price understates real cost",
+      "1080p webcam is dated for 2026 and image quality is middling",
+      "Speakers are thin and quiet; users reach for headphones almost immediately",
+      "DIY edition requires assembling RAM/SSD and installing the OS yourself — friction for non-technical buyers",
+      "DIY tiers frequently out of stock; Framework's batch/inventory system forces waiting"
+    ]
+  },
+  "design_philosophy": "Framework's founding idea: a laptop that is a platform, not an appliance. Every component is standard, documented, and sold as a spare, and the mainboard is upgradeable across CPU generations, so this entry Ryzen AI 5 tier is an inexpensive entry into a chassis you can keep refreshing for years. The DIY edition shifts assembly to the buyer to cut cost and teach ownership.",
+  "standouts": [
+    "Cheapest entry into a fully upgradeable, iFixit 10/10 laptop platform",
+    "Socketed RAM to 96GB and standard M.2 at under $2,000 CAD — unique in class"
+  ],
+  "dealbreakers": [],
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 6,
+    "screen_quality": 7.5,
+    "readability_dark": 7.5,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 3,
+    "productivity": 7,
+    "portability": 8.5,
+    "build_quality": 7.5,
+    "thermals_noise": 7.5,
+    "port_connectivity": 8.5,
+    "creative_work": 5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 5,
+    "upgradability": 10,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 10,
+    "durability": 7.5
+  },
+  "rating_notes": "Pro score attached from NBC review of the Framework Laptop 13.5 Ryzen AI 9 (84%, gap-fill 2026-11-24). See SHARED-framework.md. Upgradability/repairability 10 = dataset-defining (iFixit 10/10, socketed RAM, mainboard swap path). RTINGS bot-walled — avg_score 8.0 anchored from prior-gen RTINGS scores per SHARED note; gap-fill pass should pull exact. Ratings inferred from FW13 Ryzen AI 300 line consensus; AI 5 340 (6-core, Radeon 840M) is the low tier: productivity −1 and gaming −0.5 vs AI 9 HX 370 sibling.",
+  "inferred": true
+}

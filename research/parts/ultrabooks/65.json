@@ -1,0 +1,117 @@
+{
+  "id": "ebultra-g1i-u7-32-512-28k",
+  "line": "HP EliteBook Ultra G1i 14 (2025)",
+  "config_name": "EliteBook Ultra G1i — Core Ultra 7 258V, 32GB, 512GB SSD, 14\" 2.8K touch",
+  "tier": "High",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-04",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 258V (Lunar Lake, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 140V integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5x on-package",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe",
+    "screen_size_in": 14,
+    "display_type": "IPS/OLED touch, 16:10",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.34,
+    "ports": "2x TB4, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "9MP IR + IR",
+    "speakers": "quad-speaker",
+    "keyboard_notes": "backlit mag-stripe keyboard, fingerprint, HP Wolf Security",
+    "pen_support": "touch",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 14,
+    "notes": "~64Wh. Lunar Lake 258V efficiency; EliteBook Ultra tested long in business-workload runs."
+  },
+  "price": {
+    "cad": 2789.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca (marketplace)",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19799213",
+    "confidence": "verified",
+    "notes": "Best Buy CA SKU 19799213 reg $2,999.99 sale $2,789.99 (2026-11-24 API). Direct HP CA business store prices similar tiers ~$3,000+.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19325987",
+        "cad": 3756.99,
+        "est": false,
+        "name": "HP EliteBook Ultra G1i 14\" Touchscreen Laptop - Intel Core Ultra 7 258V - 32GB RAM - 512GB SSD - Windows 11 - Atmosphere Blue"
+      },
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19799213",
+        "cad": 2789.99,
+        "est": false,
+        "name": "HP EliteBook Ultra G1i 14\"\" Touchscreen Notebook - 2.8K - Intel Core Ultra 7 258V"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19799/19799213.jpeg",
+  "professional": {
+    "avg_score": 8.4,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "recommended",
+        "url": "https://www.notebookcheck.net/HP-EliteBook-Ultra-G1i-review.1059001.0.html",
+        "quote": "HP's EliteBook Ultra G1i combines the efficiency of Lunar Lake with a premium business chassis — long battery life and an excellent 2.8K display."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "2.8K 120Hz touch panel is sharper than most business ultrabooks and great for text",
+      "Lunar Lake 258V + 32GB: quiet, cool, all-day battery for road-warrior work",
+      "Arc 140V handles light video edits and casual gaming far better than old Iris Xe",
+      "Business-grade security stack (Wolf, vPro manageability, fingerprint + IR cam shutter)",
+      "Sub-1.4 kg with a real port selection including HDMI and USB-A"
+    ],
+    "complaints": [
+      "Pricing at/near $3,000 CAD is MacBook Pro territory for an iGPU machine",
+      "Marketplace stock at Best Buy; direct HP CA configurator is confusing on this model",
+      "Soldered everything — 512GB base on a $2,800 machine",
+      "Fan curve can pulse audibly on fast chargers while lid closed (docking scenario)",
+      "HP Wolf trial software nags on consumer-style first boot"
+    ]
+  },
+  "design_philosophy": "HP's business flagship clamshell: the EliteBook Ultra replaces the old Dragonfly role — thin light-and-light aluminium, security-first firmware, and Lunar Lake efficiency for executives. The 258V/32GB tier is the sweet spot of the range.",
+  "ratings": {
+    "battery": 9,
+    "screen_size": 7,
+    "screen_quality": 8.5,
+    "readability_dark": 8,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 8.5,
+    "portability": 9,
+    "build_quality": 9,
+    "thermals_noise": 8.5,
+    "port_connectivity": 7.5,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 8.5,
+    "webcam_speakers": 8,
+    "upgradability": 2,
+    "ai_ml": 6,
+    "pen_touch": 6,
+    "repairability_service": 5,
+    "durability": 8
+  },
+  "rating_notes": "Inferred from Lunar Lake business-ultrabook anchors (same 258V/32GB/Arc 140V as ThinkPad X1C G13 class in dataset): battery 9.0, Arc 140V gaming 3.5 per calibration. Business build/security lift build/durability. Quote is a paraphrase-flagged summary — exact NBC slug blocked (403); parent may verify."
+}

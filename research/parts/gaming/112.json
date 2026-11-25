@@ -1,0 +1,104 @@
+{
+  "id": "scar18-2023-i9-14900hx-4080-32-1tb",
+  "line": "ASUS ROG Strix SCAR 18 (2023/24, G834 — prev-gen value)",
+  "config_name": "Strix SCAR 18 — Core i9-14900HX / RTX 4080 12GB, 32GB DDR5, 1TB SSD, 18\" WQXGA 240Hz HDR Mini-LED",
+  "tier": "Value (prev-gen)",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2024-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core i9-14900HX (Raptor Lake-HX, 24c/32t)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 4080 Laptop 12GB GDDR6 (175W TGP, MUX + Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5 SODIMM (2x, user-upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe (M.2, 2x slots, user-upgradeable)",
+    "screen_size_in": 18,
+    "display_type": "Mini-LED HDR (ROG Nebula HDR)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1100,
+    "weight_kg": 2.98,
+    "ports": "USB-C/Thunderbolt 4 (DP, PD), USB-C 3.2, 3x USB-A 3.2, HDMI 2.1, 2.5G RJ45, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "720p (no IR on this SKU generation)",
+    "speakers": "4-speaker (2 tweeters + 2 woofers)",
+    "keyboard_notes": "Per-key RGB chiclet with numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 5,
+    "real_world_hours": 4,
+    "notes": "90 Wh. ~3-5h light use, ~1.5h gaming per G834 SCAR 18 user reports (BBY n=505 pool). 330W adapter."
+  },
+  "price": {
+    "cad": 2799.97,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-rog-strix-scar-18-wqxga-240hz-hdr-mini-led-gaming-laptop-intel-core-i9-14900hx-32gb-ddr5-1tb-ssd-rtx-4080-windows-11-home-off-black/17700715",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24, sku 17700715: $2,799.97. BBY customer rating 4.5/5 (n=505). Notable prev-gen value pick: RTX 4080 12GB + 18\" Mini-LED under $2,800.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-rog-strix-scar-18-wqxga-240hz-hdr-mini-led-gaming-laptop-intel-core-i9-14900hx-32gb-ddr5-1tb-ssd-rtx-4080-windows-11-home-off-black/17700715",
+        "cad": 2799.97,
+        "est": false,
+        "name": "ASUS ROG Strix SCAR 18\" WQXGA 240Hz HDR Mini-LED Gaming Laptop - Intel Core i9-14900HX - 32GB DDR5 - 1TB SSD - RTX 4080 - Windows 11 Home - Off Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/177/17700/17700715.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "note": "No numeric pro score retrieved for this SKU 2026-11-24 (NBC G834-era pages bot-walled; see SHARED-scar.md). Ratings inferred from SCAR line anchors + BBY 4.5/5 n=505 prev-gen pool."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Outstanding prev-gen value: RTX 4080 12GB + 18\" 240Hz Mini-LED HDR for under $2,800 — cheaper than most new mid-range 5060/5070 laptops with worse screens (BBY 4.5/5, n=505)",
+      "18\" Mini-LED panel still looks superb — high contrast HDR, 240Hz, praised consistently across the 500+ review pool",
+      "i9-14900HX is still a top-20 mobile CPU for gaming and multitasking; 32GB RAM and 1TB hit the sweet spot",
+      "User-serviceable: 2x SODIMM + 2x M.2 — cheap RAM/SSD upgrades instead of paying ASUS markup",
+      "Mature platform — early G834 firmware/thermal issues long since patched; drivers stable"
+    ],
+    "complaints": [
+      "RTX 4080 12GB VRAM is the aging point: DLSS3 without DLSS4 multi-frame-gen, and 12GB constrains newest AAA ultra textures at 2.5K",
+      "Older chassis: no Wi-Fi 7, weaker webcam (720p), and bulkier design than the 2025 G835 refresh",
+      "Battery ~4h light use — same desktop-replacement story",
+      "Fan noise under load; turbo mode loud, and 14900HX runs hot (Raptor Lake HX known for high clocks/heat)",
+      "Clearance-stock risk: sale pricing fluctuates and remaining units are late-of-life for warranty runway"
+    ]
+  },
+  "design_philosophy": "The 2023/24 G834 SCAR 18 defined the current formula — max-TGP GPU, 18\" Mini-LED Nebula HDR, serviceable internals — and now survives at clearance pricing as the line's value door. At $2,800 this i9/RTX 4080 tier offers last-gen flagship gaming (4080 ≈ current 5070-Ti class raster) with the same big-screen Mini-LED experience, for buyers who can accept 12GB VRAM and DLSS3-era upscaling.",
+  "ratings": {
+    "battery": 3.5,
+    "screen_size": 9.5,
+    "screen_quality": 8.3,
+    "readability_dark": 7.5,
+    "readability_bright": 7.3,
+    "ecosystem": 9,
+    "gaming": 8,
+    "productivity": 8.3,
+    "portability": 2.6,
+    "build_quality": 7.3,
+    "thermals_noise": 6.3,
+    "port_connectivity": 8,
+    "creative_work": 7.6,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 5.5,
+    "upgradability": 8.5,
+    "ai_ml": 6.5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 7
+  },
+  "rating_notes": "inferred:true — ratings inferred from the 2025 SCAR 18 anchor (entry 110): RTX 4080 12GB ≈ 5070-Ti-class raster, no DLSS4 frame-gen → gaming −1.8, ai_ml −1.5 (12GB VRAM); older G834 chassis → build −0.2, webcam −1.0 (720p), ports −0.5 (Wi-Fi 6E era); Mini-LED panel retained → screen_quality −0.2. Anchored additionally by BBY 4.5/5 (n=505) prev-gen pool. Brightness figures lineup-typical estimates. Included per SCHEMA rule 10 as the category's notable discounted prev-gen value pick."
+}

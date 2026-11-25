@@ -1,0 +1,114 @@
+{
+  "id": "zba14-x1-16-512-oled-value",
+  "line": "ASUS Zenbook A14 (2025, UX3407, Snapdragon X X1-26100)",
+  "config_name": "Zenbook A14 — Snapdragon X X1-26100, 16GB LPDDR5X, 512GB SSD, 14\" OLED, 32h claimed",
+  "tier": "Base",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X X1-26100 (8-core Oryon)",
+    "cpu_cores": 8,
+    "gpu": "Qualcomm Adreno integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe",
+    "screen_size_in": 14,
+    "display_type": "OLED 16:10 glossy",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 600,
+    "weight_kg": 0.98,
+    "ports": "2x USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "1080p FHD + IR",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit, Ceraluminum deck",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 32,
+    "real_world_hours": 15,
+    "notes": "70Wh + ultra-efficient X1. Original UBR A14 review measured 15h+ Wi-Fi browsing — class-leading at launch."
+  },
+  "price": {
+    "cad": 1299.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-a14-14-laptop-snapdragon-x-x1-26-100-16gb-lpddr5x-512gb-ssd-windows-11-32h-battery-life-iceland-grey/19860983",
+    "confidence": "verified",
+    "notes": "BBY direct SKU 19860983, reg $1,699.95 sale $1,299.95 (2026-11-24). Notable value pick: ~1 kg OLED ultrabook under $1,300. 4.34/5 from 29 reviews.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-a14-14-laptop-snapdragon-x-x1-26-100-16gb-lpddr5x-512gb-ssd-windows-11-32h-battery-life-iceland-grey/19860983",
+        "cad": 1299.95,
+        "est": false,
+        "name": "ASUS Zenbook A14 14\" Laptop - Snapdragon X X1 26 100 - 16GB LPDDR5X - 512GB SSD - Windows 11 - 32h Battery Life - Iceland Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19860/19860983.jpg",
+  "professional": {
+    "avg_score": 8,
+    "reviews": [
+      {
+        "outlet": "Ultrabookreview",
+        "score": "recommended",
+        "url": "https://www.ultrabookreview.com/70507-asus-zenbook-a14-review/",
+        "quote": "if you need a more powerful lightweight notebook around 1 kilo that's, at the same time, one of the quietest and most efficient running on battery power among what you can find in the Windows camp today, this Zenbook A14 is an option worth considering"
+      },
+      {
+        "outlet": "Ultrabookreview",
+        "score": "recommended",
+        "url": "https://www.ultrabookreview.com/75029-asus-zenbook-a14-x2elite-review/",
+        "quote": "this 2026 generation demands a significant premium over the existing 2025 models, which means those interested in a daily driver for more casual use would get better value with the previous iterations"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Under 1 kg with OLED and 30h+ claimed battery at $1,299 — unbeatable BF portability value",
+      "Silent, cool, all-day battery for browser/office work",
+      "Ceraluminum finish looks and feels distinctive",
+      "Copilot+ NPU despite the low price"
+    ],
+    "complaints": [
+      "X1-26100 is the weakest Snapdragon X — heavy multithreaded x86 tasks lag",
+      "Windows-on-ARM app caveats (certain games, drivers, niche software)",
+      "60Hz OLED only",
+      "16GB soldered RAM ceiling"
+    ]
+  },
+  "design_philosophy": "The original ~1 kg Ceraluminum ARM ultralight that defined the A14 line; now the budget hero of ASUS's Zenbook family at Best Buy clearance pricing. UBR explicitly recommends these previous-gen iterations for casual users over the pricier X2 Elite refresh.",
+  "ratings": {
+    "battery": 9.5,
+    "screen_size": 7,
+    "screen_quality": 7.5,
+    "readability_dark": 8,
+    "readability_bright": 6.5,
+    "ecosystem": 7.5,
+    "gaming": 3,
+    "productivity": 6.5,
+    "portability": 10,
+    "build_quality": 8,
+    "thermals_noise": 9.5,
+    "port_connectivity": 7,
+    "creative_work": 4.5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 6,
+    "upgradability": 4,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from Ultrabookreview's 2025 A14 review (X1-Elite config) — this X1-26100 tier is the weaker CPU bin: −1.5 productivity, −1 gaming vs the X2 Elite anchor 87. Same chassis/battery, so battery/portability carried over. First quote is from the 2026 A14 review describing the lineage."
+}

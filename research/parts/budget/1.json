@@ -1,0 +1,107 @@
+{
+  "id": "ideapad-slim3i-153-c5320-8-512",
+  "line": "Lenovo IdeaPad Slim 3i 15.3\" (2025/26)",
+  "config_name": "IdeaPad Slim 3i 15.3\" — Core 5 320, 8GB DDR5, 512GB SSD, WUXGA IPS 60Hz",
+  "tier": "Entry",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 5 320 (6-core: 2P+4E)",
+    "cpu_cores": 6,
+    "gpu": "Intel UHD Graphics (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "DDR5 5600",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 15.3,
+    "display_type": "IPS anti-glare, 45% NTSC",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.63,
+    "ports": "2x USB-A 3.2 Gen1, 1x USB-C 3.2 Gen1 (PD3.0, DP1.2), HDMI 1.4, SD, 3.5mm",
+    "wireless": "Wi-Fi 6, BT 5.3",
+    "webcam": "1080p IR with privacy shutter",
+    "speakers": "2x stereo down-firing",
+    "keyboard_notes": "Backlit chiclet, bilingual CA, no numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 9,
+    "real_world_hours": 6,
+    "notes": "~47Wh (5306 mAh). Core 5 320 is idle-light; ~5-7h web/video at mid brightness."
+  },
+  "price": {
+    "cad": 1099.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19987347",
+    "confidence": "verified",
+    "notes": "BF sale $599.99 (ends 2026-12-11); regular MSRP listed as price.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19987347",
+        "cad": 599.99,
+        "est": false,
+        "name": "Lenovo IdeaPad Slim 3i 15.3\" 60Hz Laptop - Intel Core 5 320 - 8GB DDR5 RAM - 512GB SSD - Windows 11 Home - Luna Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19987/19987347.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Backlit keyboard at this price is unusual and appreciated in dorms and night use",
+      "1080p IR webcam with privacy shutter is well above the budget-class norm",
+      "USB-C charges the laptop from a phone brick, so the 65W charger is easy to replace",
+      "Light for a 15-inch all-plastic chassis at 1.63 kg; easy to carry in a backpack",
+      "SSD boot is quick and wake-from-sleep is instant for the class"
+    ],
+    "complaints": [
+      "45% NTSC IPS panel looks washed out; colours shift when off-axis despite being IPS",
+      "Keyboard deck and lid flex noticeably when typing or carrying",
+      "Only 8GB RAM and soldered LPDDR5 on many of these boards — no upgrade path",
+      "HDMI 1.4 caps external monitors at 4K30, annoying for dock setups",
+      "Lenovo Vantage bloatware and pop-up promos on a fresh setup"
+    ]
+  },
+  "standouts": [
+    "BF sale price of $599.99 makes this the cheapest current-platform 15.3\" WUXGA IPS option at BBY",
+    "1080p IR webcam + privacy shutter + backlit keyboard is a webcam/call-spec unusually good for budget"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "Lenovo's IdeaPad Slim 3 line is the volume budget chassis: thin-and-light styling in all-plastic shells, current-generation mainstream CPUs, and cost taken out of panel colour gamut, chassis rigidity, and battery capacity. This Core 5 320 config is the sweet-spot SKU of the line — the larger 47Wh battery and 512GB SSD over the 256GB twin, at a price that collapses to exceptional on sale.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 6.8,
+    "screen_quality": 4,
+    "readability_dark": 5.5,
+    "readability_bright": 4.5,
+    "ecosystem": 9,
+    "gaming": 1.5,
+    "productivity": 5,
+    "portability": 6.5,
+    "build_quality": 4.5,
+    "thermals_noise": 6.5,
+    "port_connectivity": 5.5,
+    "creative_work": 2.5,
+    "keyboard_trackpad": 5.5,
+    "webcam_speakers": 6,
+    "upgradability": 3.5,
+    "ai_ml": 1.5,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 4.5
+  },
+  "rating_notes": "No pro review score found (see SHARED-ideapad-slim3.md; PCMag/NBC/Tom's bot-walled or absent) — ratings are platform-anchored from verified specs, not inferred from a reviewed sibling, hence inferred:true on all family entries. Panel is IPS but 45% NTSC (~62-68% sRGB), ~300 nits assumed at class norm. Brightness/nits and battery hours are class estimates; battery capacity 5306 mAh verified. RAM soldering varies within the line — flagged as likely soldered."
+}

@@ -1,0 +1,116 @@
+{
+  "id": "slu15-spark-48-1tb",
+  "line": "Microsoft Surface Laptop Ultra (2026, NVIDIA RTX Spark)",
+  "config_name": "Surface Laptop Ultra 15\" — NVIDIA RTX Spark (N1X), 48GB LPDDR5x, 1TB SSD, Windows 11 Pro, Mini-LED touch",
+  "tier": "Top",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "NVIDIA RTX Spark N1X (Arm, 20-core)",
+    "cpu_cores": 20,
+    "gpu": "RTX Spark integrated Blackwell-class GPU",
+    "gpu_type": "integrated",
+    "ram_gb": 48,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe soldered",
+    "screen_size_in": 15,
+    "display_type": "Mini-LED touch, high refresh",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 1.65,
+    "ports": "2x USB-C/TB, 1x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1440p IR",
+    "speakers": "2-speaker Studio",
+    "keyboard_notes": "backlit, fingerprint, Copilot key",
+    "pen_support": "touch; MPP pen",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 16,
+    "real_world_hours": 9,
+    "notes": "Same platform across tiers."
+  },
+  "price": {
+    "cad": 5849.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20122627",
+    "confidence": "verified",
+    "notes": "Best Buy CA SKU 20122627 (Nightfall, Win11 Pro), $5,849.99 (2026-11-24 API). Top retail tier.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20122627",
+        "cad": 5849.99,
+        "est": false,
+        "name": "Microsoft Surface Laptop Ultra 15\" Touchscreen Laptop - NVIDIA RTX Spark - 48GB LPDDR5x RAM - 1TB SSD - Win11 Pro - En - Nightfall"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20122/20122627.jpg",
+  "professional": {
+    "avg_score": 7.5,
+    "reviews": [
+      {
+        "outlet": "TechRadar",
+        "score": "recommended",
+        "url": "https://www.techradar.com/computers/laptops/microsoft-surface-laptop-ultra-review",
+        "quote": "isn't the MacBook Pro killer I hoped for"
+      },
+      {
+        "outlet": "IT Pro",
+        "score": "recommended",
+        "url": "https://www.itpro.com/hardware/laptops/microsoft-surface-laptop-ultra-review",
+        "quote": "has all the on-device AI your devs need – but its battery life is disappointing"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "48GB unified memory runs 70B-class quantized local LLMs on a 1.65 kg laptop — nothing else in the Surface family comes close",
+      "The definitive local-AI dev machine on Windows: CUDA + big unified memory + Mini-LED",
+      "Win11 Pro with full enterprise security stack",
+      "Fans stay quiet even during long inference runs, per line-wide testing",
+      "$1,000 over the 32GB tier buys the RAM headroom that defines the platform's usefulness"
+    ],
+    "complaints": [
+      "$5,850 regular price — MacBook Pro territory with worse battery",
+      "Battery complaint applies here as much as any tier",
+      "Arm app gaps at flagship price are hard to swallow for some buyers",
+      "Soldered everything; 1TB cap on retail SKUs",
+      "Diminishing returns vs the $3,599 sale Nightfall tier for non-AI workloads"
+    ]
+  },
+  "design_philosophy": "The no-compromise end of the Surface Laptop Ultra line: maximum RTX Spark unified memory for on-device AI, sold to developers and researchers who chose this platform precisely for that use case.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 8,
+    "screen_quality": 9.5,
+    "readability_dark": 8.5,
+    "readability_bright": 9,
+    "ecosystem": 7,
+    "gaming": 6.5,
+    "productivity": 9.5,
+    "portability": 7.5,
+    "build_quality": 9,
+    "thermals_noise": 7,
+    "port_connectivity": 7,
+    "creative_work": 9,
+    "keyboard_trackpad": 8.5,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 10,
+    "pen_touch": 7,
+    "repairability_service": 3,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from SL Ultra anchor + 32GB entry: ai_ml capped at 10 (48GB unified + CUDA). Other deltas negligible vs 32GB tier. Price verified via Best Buy API."
+}

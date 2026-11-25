@@ -1,0 +1,106 @@
+{
+  "id": "vivobook-go-15-r5-40-16-512",
+  "line": "ASUS Vivobook Go 15 (E1504-class, 2026)",
+  "config_name": "Vivobook Go 15 15.6\" — Ryzen 5 40, 16GB LPDDR5, 512GB SSD, FHD, Mixed Black",
+  "tier": "Mid",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 5 40 (4-core/4-thread Zen 2 'Mendocino' refresh, 2.8 GHz)",
+    "cpu_cores": 4,
+    "gpu": "AMD Radeon 610M-class integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5 soldered",
+    "storage_gb": 512,
+    "storage_type": "NVMe M.2",
+    "screen_size_in": 15.6,
+    "display_type": "FHD, anti-glare (panel type unstated; ~250 nits class)",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 250,
+    "weight_kg": 1.63,
+    "ports": "1x USB-C 3.2 Gen1 (data), 1x USB-A 3.2 Gen1, 1x USB 2.0, HDMI 1.4, DC-in, 3.5mm",
+    "wireless": "Wi-Fi 6E (1x1), BT 5.3",
+    "webcam": "720p HD with privacy shutter",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Bilingual CA chiclet with numpad, no backlight; fingerprint reader",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 9,
+    "real_world_hours": 6,
+    "notes": "3550 mAh 3-cell (~42 Wh); efficient Mendocino gives ~5.5-6.5h light use."
+  },
+  "price": {
+    "cad": 1299.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19728356",
+    "confidence": "verified",
+    "notes": "BF sale $799.95.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19728356",
+        "cad": 799.95,
+        "est": false,
+        "name": "ASUS Vivobook Go 15 15.6\" Laptop - AMD Ryzen 5 40 - 16GB LPDDR5 - 512GB SSD - Windows 11 Home - Mixed Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19728/19728356.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "16GB LPDDR5 from the box keeps 30+ Chrome tabs and Teams smooth for everyday work",
+      "Fingerprint reader login at under $800 on sale — rare in this class",
+      "Wi-Fi 6E radio, unusual at this price and helpful on busy networks",
+      "Webcam privacy shutter and a real numpad in a 1.63 kg chassis",
+      "Silent and cool for browsing/office; the Mendocino chip barely warms up"
+    ],
+    "complaints": [
+      "Soldered LPDDR5 is a dead-end — what you buy is what you keep",
+      "Ryzen 5 40 is 4 threads of Zen 2: video editing and heavy Excel crawl",
+      "Regular $1,299.95 is far above what this hardware deserves; only the sale is real",
+      "Thin plastic Go chassis flexes more than the standard Vivobook 15",
+      "USB-C is data-only; barrel charging, no external monitor over USB-C"
+    ]
+  },
+  "standouts": [
+    "Fingerprint reader + Wi-Fi 6E + 16GB at $799.95 sale: best feature-density of the Go line"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "The 'Go' tier trims the Vivobook 15 chassis to the cheapest build ASUS will stamp, then differentiates with features that photograph well on a spec sheet: 16GB LPDDR5, Wi-Fi 6E, and a fingerprint reader. The CPU — a 4-thread Zen 2 refresh — is the quiet compromise, making this a superb everyday machine for light users and a poor one for anyone who compiles, edits, or multitasks hard.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 7,
+    "screen_quality": 3.7,
+    "readability_dark": 4.3,
+    "readability_bright": 3.6,
+    "ecosystem": 9,
+    "gaming": 1.5,
+    "productivity": 5,
+    "portability": 6.2,
+    "build_quality": 4.3,
+    "thermals_noise": 7.8,
+    "port_connectivity": 4.8,
+    "creative_work": 1.5,
+    "keyboard_trackpad": 5.1,
+    "webcam_speakers": 4.3,
+    "upgradability": 3.5,
+    "ai_ml": 1,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4
+  },
+  "rating_notes": "No pro review found (see SHARED-vivobook.md). Platform-anchored on Ryzen 5 40 (Mendocino 4C/4T): same class as the Vivobook 16's 3501U but soldered RAM drops upgradability to 3.5; fingerprint and Wi-Fi 6E noted in sentiment, not scored separately. Panel unstated — treated as ~250-nit TN-class per BUDGET_LIST rule. Image URL best-guess BBY CDN pattern."
+}

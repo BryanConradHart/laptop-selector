@@ -1,0 +1,124 @@
+{
+  "id": "dellplus14-2in1-u7-256v-16-512",
+  "line": "Dell Plus 14 2-in-1 (2025)",
+  "config_name": "Dell Plus 14 2-in-1 — Core Ultra 7 256V, 16GB LPDDR5X, 512GB SSD, 14\" 2K touch (Home)",
+  "tier": "Entry",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 256V (Lunar Lake, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 140V (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X on-package",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 14,
+    "display_type": "2K IPS touch",
+    "resolution": "2240x1400",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.5,
+    "ports": "2x Thunderbolt 4 / USB-C, 1x USB-A, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p (no IR)",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit, shallow travel",
+    "pen_support": "Active pen (sold separately)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 18,
+    "real_world_hours": 8,
+    "notes": "64Wh-class Lunar Lake; 14\" panel draws less than the 16\" sibling. Estimated ~8h mixed."
+  },
+  "price": {
+    "cad": 1699,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20247669",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 20247669 Home reg $2,619 / sale $1,699 (BF hero); Pro twin 20247668 same price. BBY review count 0 — brand-new listing.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20247669",
+        "cad": 1699,
+        "est": false,
+        "name": "Dell Plus 14\" 2K 2-in-1 Touch Laptop-Ice Blue(Intel Core Ultra 7 256V/Intel Graphics/16GB LPDDR5X/512GB SSD/Backlit Keyboard/Win 11 Home)"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20247668",
+        "cad": 1699,
+        "est": false,
+        "name": "Dell Plus 14\" 2K 2-in-1 Touch Laptop-Ice Blue(Intel Core Ultra 7 256V/Intel Graphics/16GB LPDDR5X/512GB SSD/Backlit Keyboard/Win 11 Pro)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20247/20247669.png",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "CNET (sibling DB06250, inferred)",
+        "score": "7.3/10",
+        "url": "https://www.cnet.com/tech/computing/dell-16-plus-2-in-1-review-the-mini-led-display-shines-but-theres-little-else-to-get-excited-about/",
+        "quote": "Strong productivity performance... Sturdy chassis"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "$1,699 for a Lunar Lake Copilot+ 14\" 2K touch convertible — aggressive BF pricing vs $2,619 list",
+      "Ultra 7 256V is quick in single-threaded everyday work (GB6 ~2,700 class)",
+      "Arc 140V iGPU handles light games and video playback well",
+      "47-TOPS NPU qualifies for Copilot+ features",
+      "Compact 2K touch convertible at ~1.5 kg"
+    ],
+    "complaints": [
+      "Reg price $2,619 is inflated — the sale price is the real price (Dell/Lenovo-style anchor pricing)",
+      "0 reviews at Best Buy: brand-new SKU with no owner track record",
+      "Dell's 2025 consumer line runs heavy with mediocre battery vs Lunar Lake rivals",
+      "Shallow mushy keyboard is a family trait (per CNET on the 16\")",
+      "16GB soldered, 512GB base; no IR camera"
+    ]
+  },
+  "design_philosophy": "Dell's rebranded consumer mid tier at its most mainstream: a 14\" 2K touch convertible on Lunar Lake, sold at Best Buy in deep promotional discounts from an inflated list price. This is the volume tier of the line — everything above it is storage or bundle variations.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 6,
+    "screen_quality": 6.5,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7,
+    "portability": 7,
+    "build_quality": 7,
+    "thermals_noise": 7.5,
+    "port_connectivity": 6,
+    "creative_work": 5,
+    "keyboard_trackpad": 4.5,
+    "webcam_speakers": 5,
+    "upgradability": 2,
+    "ai_ml": 5.5,
+    "pen_touch": 7,
+    "repairability_service": 4.5,
+    "durability": 6
+  },
+  "rating_notes": "No pro review found for this exact line (NBC/PCMag bot-walled, CNET slug 404 — see SHARED-dell-2in1.md). Ratings inferred from CNET's Dell 16 Plus 2-in-1 anchor: 14\" chassis → screen_size -2, portability +1.5, battery +1 (smaller panel, same platform). Ports listed are typical for the 14\" Plus class; exact config unverified (dell.ca unfetchable).",
+  "standouts": [
+    "$1,699 BF price for 14\" 2K touch Lunar Lake"
+  ],
+  "dealbreakers": [
+    "Inflated $2,619 anchor pricing",
+    "No owner track record yet"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "t14s7-amd-a5-16-256-ips",
+  "line": "Lenovo ThinkPad T14s Gen 7 (2026, AMD Ryzen AI)",
+  "config_name": "ThinkPad T14s Gen 7 — Ryzen AI 5 430, 16GB LPDDR5X, 256GB SSD, 14\" WUXGA IPS 400-nit non-touch",
+  "tier": "Base",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 5 430 (8-core: 4 Zen 5 + 4 Zen 5c, up to 4.5 GHz)",
+    "cpu_cores": 8,
+    "gpu": "AMD Radeon 840M integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X-8533 soldered",
+    "storage_gb": 256,
+    "storage_type": "M.2 2280 NVMe Gen4 (replaceable)",
+    "screen_size_in": 14,
+    "display_type": "IPS WUXGA anti-glare non-touch (45% NTSC)",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.19,
+    "ports": "2x TB4/USB4, 1x USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7 (MediaTek MT7925), BT 5.4",
+    "webcam": "5MP + IR with privacy shutter",
+    "speakers": "2-speaker (improved gen)",
+    "keyboard_notes": "ThinkPad keyboard 1.5mm travel, TrackPoint, backlit; no fingerprint reader on this tier",
+    "pen_support": "none (non-touch)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 14,
+    "real_world_hours": 13,
+    "notes": "58Wh. NBC measured ~17.5h Wi-Fi test at 150 nits on the AI 7 PRO config; 16GB + low-gamut IPS panel should match or beat it."
+  },
+  "price": {
+    "cad": 2094,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadt/thinkpad-t14s-gen-7-14-inch-amd/len101t0171",
+    "confidence": "verified",
+    "notes": "Verified 2026-11-24: CTO build from $2,093.55 with eCoupon THINKCTO2026CA (regular est-value $2,463). Lenovo CA uses eCoupon-stacked pricing.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadt/thinkpad-t14s-gen-7-14-inch-amd/len101t0171",
+        "cad": 2094,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadt/thinkpad-t14s-gen-7-14-inch-amd/len101t0171"
+  },
+  "image_url": "https://p2-ofp.static.pub/ShareResource/optimized/pdp/thinkpad/thinkpad-t-series/LEN101T0171/lenovo-thinkpad-t14s-gen-7-amd-series-tn.ff23d6caa387d3d7.png",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
+        "quote": "Lenovo's updated ThinkPad T14s Gen 7 is an improvement over the previous model and closes the gap to the flagship ThinkPad X1 Carbon even further."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
+        "quote": "The fan noise is very quiet and it is often turned off during lighter workloads, which is a clear improvement over the previous model."
+      },
+      {
+        "outlet": "TechRadar",
+        "score": "recommended",
+        "url": "https://www.techradar.com/",
+        "quote": "Lenovo ThinkPad T14s Gen 6 (AMD) review: Still the gold standard for business (prior-gen AMD platform verdict)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "58 Wh battery genuinely lasts a full workday-plus — Notebookcheck measured ~17.5h in Wi-Fi browsing at 150 nits",
+      "Chassis redesigned lighter (~1.19 kg) with carbon-fiber-hybrid lid, big step over Gen 6",
+      "Can charge from either side now — USB-C port added on the right side",
+      "5MP webcam with privacy shutter is noticeably sharper on calls than the old 1080p cam",
+      "SSD, battery and WWAN module are user-replaceable; antennas pre-installed for 4G/5G upgrade"
+    ],
+    "complaints": [
+      "RAM is soldered — 16GB bought is 16GB forever, no SODIMM path on the T14s",
+      "Base 45% NTSC panel is washed out; colour-critical work needs the 500-nit sRGB or OLED option",
+      "Gen 7 pricing jumped hard vs Gen 6 — the sticker price assumes eCoupon stacking to look reasonable",
+      "Hinges are loosely adjusted; display wobbles and droops at small opening angles (NBC)",
+      "IPS panels are stuck at 60 Hz — no smooth-scroll option below the OLED tier"
+    ]
+  },
+  "design_philosophy": "The T14s is the fleet workhorse one notch below the X1 Carbon: same ThinkPad DNA, MIL-SPEC durability and repairability focus, at a lower price with slightly heavier materials. This entry tier gives corporate buyers a Copilot+ NPU and all-day battery at the lowest entry price, at the cost of the dim low-gamut IPS panel and soldered 16GB.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 7,
+    "screen_quality": 5,
+    "readability_dark": 7,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 3,
+    "productivity": 7.5,
+    "portability": 9,
+    "build_quality": 8.5,
+    "thermals_noise": 8.5,
+    "port_connectivity": 8.5,
+    "creative_work": 3,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 7.5,
+    "upgradability": 6,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 8.5,
+    "durability": 9
+  },
+  "rating_notes": "Ratings anchored on Notebookcheck's T14s Gen 7 AMD review (Ryzen AI 7 PRO 450, 64GB, 500-nit IPS touch, 90%). This config: weaker Ryzen AI 5 430 (productivity −1), 45% NTSC 400-nit panel instead of the reviewed sRGB touch (screen_quality 5.0, readability_bright 6.5, creative_work 3.0), non-touch (pen_touch 0). Battery kept at 8.5 — lighter panel/CPU offsets nothing vs the measured 17.5h. Image URL verified from lenovo.com/ca CDN."
+}

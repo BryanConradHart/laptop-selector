@@ -1,0 +1,115 @@
+{
+  "id": "mbp14-m6-16-1tb-nano",
+  "line": "Apple MacBook Pro 14-inch (2026, M6)",
+  "config_name": "MacBook Pro 14-inch — M6 12-core CPU / 12-core GPU, 16GB RAM, 1TB SSD, nano-texture glass",
+  "tier": "Mid",
+  "category": "apple",
+  "ecosystem": "macOS",
+  "form_factor": "clamshell",
+  "release": "2026-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M6 (12-core)",
+    "cpu_cores": 12,
+    "gpu": "Apple M6 12-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "unified/soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe soldered (PCIe 5.0)",
+    "screen_size_in": 14.2,
+    "display_type": "Mini-LED IPS (Liquid Retina XDR), nano-texture",
+    "resolution": "3024x1964",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 1000,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 1.55,
+    "ports": "3x TB4/USB-C, HDMI, SDXC, MagSafe 3, 3.5mm",
+    "wireless": "Wi-Fi 7 (Apple N1), BT 6",
+    "webcam": "12MP Center Stage",
+    "speakers": "6-speaker",
+    "keyboard_notes": "Magic Keyboard, Touch ID, Force Touch trackpad",
+    "pen_support": "none",
+    "os": "macOS Tahoe 26"
+  },
+  "battery": {
+    "claimed_hours": 24,
+    "real_world_hours": 13.5,
+    "notes": "Up to 24h video / 16h web claimed; 72.4Wh. Nano-texture glass does not change runtime."
+  },
+  "price": {
+    "cad": 3024,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch",
+    "confidence": "verified",
+    "notes": "Verified on apple.com/ca buy page; nano-texture option is +$225 over the $2,799 base (see research/parts/apple/NOTES.md).",
+    "offers": [
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch",
+        "cad": 3024,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch"
+  },
+  "image_url": "https://www.apple.com/v/macbook-pro/specs/e/images/specs/14-inch/macbook_pro_14_inch__fjlrd633eki2_large.jpg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Tom's Hardware",
+        "score": "4.5/5 Editor's Choice",
+        "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-14-inch-m6-review",
+        "quote": "While the base MacBook Pro design is getting a bit tired, Apple's new M6 chip gives the 14-inch MacBook even more pep in its step."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": "90.2%",
+        "url": "https://www.notebookcheck.net/M5-Max-with-inconsistent-performance-and-throttling-issues-Apple-MacBook-Pro-14-Review.1246064.0.html",
+        "quote": "great Mini-LED panel (with a matte option) (same chassis tested with nano-texture on the M5 Max model)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Nano-texture matte glass kills reflections in bright studios and offices — NBC calls the matte option a big advantage over most rivals",
+      "Mini-LED XDR 120Hz panel remains best-in-class for laptops even in matte form (NBC)",
+      "M6 gives a solid year-over-year performance bump (Tom's Hardware)",
+      "Impeccable all-aluminum build and outstanding battery life (RTINGS)",
+      "Only $225 CAD extra — far cheaper than matte surcharges on Windows workstation panels"
+    ],
+    "complaints": [
+      "Nano-texture slightly reduces perceived sharpness/contrast vs glossy (common NBC matte-panel observation)",
+      "Memory and SSD upgrades on top of nano-texture stack up fast (Tom's Hardware con)",
+      "Same 5-year-old chassis; design is starting to look stale (Tom's Hardware con)",
+      "Only 3x Thunderbolt 4 on the M6 tier; TB5 reserved for Pro/Max",
+      "Special-order glass: nano-texture configs can backorder during launch and holiday seasons"
+    ]
+  },
+  "design_philosophy": "Apple's nano-texture glass etches the cover glass to scatter reflections while keeping the XDR Mini-LED's contrast — the option photographers and editors ask for by name. On the M6 base tier it is the cheapest way into a matte XDR MacBook Pro.",
+  "ratings": {
+    "battery": 9.2,
+    "screen_size": 7,
+    "screen_quality": 9.2,
+    "readability_dark": 9,
+    "readability_bright": 9,
+    "ecosystem": 9.5,
+    "gaming": 3,
+    "productivity": 8.6,
+    "portability": 8.3,
+    "build_quality": 9.3,
+    "thermals_noise": 8.6,
+    "port_connectivity": 6,
+    "creative_work": 7.2,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 4,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings inferred from tested M6 16/1TB config (Tom's 4.5/5): +0.5 readability_bright for matte nano-texture glass, −0.1 screen_quality for slight sharpness diffusion. NBC tested this chassis with the nano-texture option. Sentiment synthesized from pro reviews — Reddit API blocked (403)."
+}

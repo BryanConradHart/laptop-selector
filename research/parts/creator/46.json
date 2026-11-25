@@ -1,0 +1,124 @@
+{
+  "id": "dell-pro-max-16-premium-ma16250-pro1000-64-1tb",
+  "line": "Dell Pro Max 16 Premium (MA16250, 2025)",
+  "config_name": "Dell Pro Max 16 Premium — Intel Core Ultra 7 265H, NVIDIA RTX PRO 1000 8GB, 64GB, 1TB SSD, 16\"",
+  "tier": "Flagship",
+  "category": "creator",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 265H (Arrow Lake-H, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA RTX PRO 1000 8GB (ISV-certified)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe",
+    "screen_size_in": 16,
+    "display_type": "IPS anti-glare, 16:10",
+    "resolution": "2560x1600",
+    "refresh_hz": 90,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.7,
+    "ports": "2x TB4/USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "8MP + IR",
+    "speakers": "4-speaker, Dolby Audio",
+    "keyboard_notes": "Backlit keyboard, premium low-travel deck",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 14,
+    "real_world_hours": 7.5,
+    "notes": "Est.; H-class (non-HX) + efficient Blackwell GPU in premium thin chassis. No verified pro battery test found (NBC bot-walled)."
+  },
+  "price": {
+    "cad": 7950,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19741333",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $7,950 / open-box $5,459.79 (SKU 19741333). Regular price used — open-box notably cheaper.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20265117",
+        "cad": 8549.79,
+        "est": false,
+        "name": "Dell Pro Max 18 Plus Mobile Workstation (MB18250), Intel Core Ultra 7 265HX, 64GB RAM, NVIDIA RTX PRO 3000, 18-Inch QHD+, 1TB NVMe TLC SSD, Factory Sealed, 2 Year Warranty"
+      },
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19741333",
+        "cad": 5459.79,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19741/19741333.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Andrew Marc David (YouTube)",
+        "score": null,
+        "url": "https://www.notebookcheck.net/Dell-Pro-Max-16-Premium-MC16250.1185653.0.html",
+        "quote": "2025 Dell Pro Max 16 Premium REVIEW - LAPTOP OF THE YEAR? ... the REAL XPS (two full-length independent video reviews indexed on NBC collection page; no numeric score published.)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "64GB RAM standard in a ~1.7 kg 16\" ISV-certified chassis — the travel-workstation config for engineers running big assemblies and VMs on the road",
+      "Premium build (ex-Precision 7000 design language): rigid lid, minimal flex, best fit-and-finish of the whole Pro Max range",
+      "Bright ~500-nit panel option is the only Pro Max tier genuinely usable outdoors and for serious color work",
+      "RTX PRO 1000 is quiet and cool enough that the thin chassis stays pleasant in office CAD, unlike HX-based trims",
+      "Dell ProSupport + vPro on a flagship chassis gives enterprise buyers the full manageability/warranty stack"
+    ],
+    "complaints": [
+      "GPU tier is the odd choice: PRO 1000 8GB is entry-pro in a $7,950 flagship — the Plus tier offers PRO 3000 for ~$1,400 less",
+      "Soldered 64GB is a dead end for VRAM-hungry 3D/ML work; 8GB GPU VRAM is the real bottleneck, not system RAM",
+      "Open-box units at $5,459.79 vs $7,950 new makes new-unit buyers feel gouged on the retail price",
+      "Port count thinned to premium-minimal (one USB-A) — dock required for legacy peripherals",
+      "Thin chassis still throttles sustained renders; premium money buys finish and weight, not thermal headroom"
+    ]
+  },
+  "standouts": [
+    "64GB standard in a ~1.7 kg ISV-certified chassis — the travel workstation for big assemblies and VMs",
+    "Best build quality and brightest panel option in the entire Pro Max range"
+  ],
+  "dealbreakers": [
+    "RTX PRO 1000 8GB is entry-pro VRAM in a $7,950 flagship — Plus tier offers PRO 3000 for ~$1,400 less",
+    "Soldered RAM and thinned port selection (one USB-A) demand a dock and cap upgrades"
+  ],
+  "design_philosophy": "The Pro Max 16 Premium is the renamed flagship thin mobile workstation — the design-led end of the line where weight, rigidity, and screen quality take priority over GPU tier. At 64GB/RTX PRO 1000 it targets the mobile architect/consultant profile: heavy multitasking and certified CAD in the nicest ~1.7 kg shell Dell sells, accepting modest VRAM and thermal limits as the price of the form factor.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 8,
+    "screen_quality": 7.5,
+    "readability_dark": 6.5,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 4.5,
+    "productivity": 9,
+    "portability": 7.3,
+    "build_quality": 9,
+    "thermals_noise": 5.5,
+    "port_connectivity": 6.5,
+    "creative_work": 6.8,
+    "keyboard_trackpad": 8.3,
+    "webcam_speakers": 7.5,
+    "upgradability": 4,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 8
+  },
+  "rating_notes": "(gap-fill 2026-11-25: two qualitative video reviews of exact Premium MC16250 found via NBC collection page; no numeric pro score exists for this model.) No verified pro review found (NBC bot-walled; see SHARED-dell-promax.md). PRO 1000 tier = gaming 4.5 / ai_ml 5.5 per SHARED-thinkpad-p guidance; 8GB VRAM caps ai_ml despite 64GB system RAM. Thin premium chassis: build 9.0, battery ~7.5h est. (H-class, non-HX), thermals 5.5. Panel resolution/brightness estimated from MA Premium trim; screen_quality set 7.5 conservatively. Sentiment synthesized from Precision 7000-class owner themes — disclosed, not quoted."
+}

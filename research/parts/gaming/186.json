@@ -1,0 +1,103 @@
+{
+  "id": "msi-katana-15-hx-5070-14650hx-16-1tb-qhd",
+  "line": "MSI Katana 15 HX (2025, B14VFK)",
+  "config_name": "Katana 15 HX — Core i7-14650HX, RTX 5070 8GB, 16GB DDR5, 1TB SSD, 15.6\" QHD 165Hz",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core i7-14650HX (Raptor Lake-HX refresh, 16-core: 8P+8E)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7 (MUX switch)",
+    "gpu_type": "discrete",
+    "ram_gb": 16,
+    "ram_type": "DDR5 SODIMM (2 slots, user-upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe Gen4 (2 slots)",
+    "screen_size_in": 15.6,
+    "display_type": "IPS, anti-glare, 16:9",
+    "resolution": "2560x1440",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": 0,
+    "weight_kg": 2.3,
+    "ports": "1x USB-C 10Gbps (DP), 2x USB-A 3.2, USB-A 2.0, HDMI 2.1, Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "720p HD (no shutter)",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Full-size numpad, 4-zone RGB; compact budget layout",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 4,
+    "notes": "~73Wh cell; estimated, no pro battery test captured."
+  },
+  "price": {
+    "cad": 2549,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19457119",
+    "confidence": "verified",
+    "notes": "BBY sku 19457119, $2,549 sale / $3,641.43 reg, verified 2026-11-24. Marketplace seller PC Heaven, inflated anchor (~30% 'sale'). Dock-bundle twin 19457111 $2,599 omitted.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19457119",
+        "cad": 2549,
+        "est": false,
+        "name": "MSI Katana 15 15.6\" QHD 165Hz Gaming Laptop - Intel i7-14650HX - 16GB DDR5 - 1TB SSD - RTX 5070 - Windows 11 Home - Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/194/19457/19457119.png",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "RTX 5070 under $2,600 — among the cheapest 5070 laptops in Canada (BBY)",
+      "QHD 165Hz panel is the right match for the 5070's performance band",
+      "16-core i7-14650HX handles streaming/compile work alongside gaming",
+      "Two SO-DIMM + two M.2 slots keep upgrades cheap",
+      "DLSS 4 multi-frame-gen gives the 5070 headroom in heavy AAA titles"
+    ],
+    "complaints": [
+      "8GB VRAM is the 5070's pinch point at QHD ultra in new AAA titles",
+      "Plastic chassis with deck flex; step down from Vector build",
+      "720p webcam, no shutter, weak speakers",
+      "Fan noise under load; battery only ~3-4h light use",
+      "Marketplace listing with inflated anchor + MSI Center bloat"
+    ]
+  },
+  "design_philosophy": "The Katana pairs last-gen HX CPUs and a plastic chassis with current RTX 50 GPUs at the lowest prices in the category. This tier is its performance sweet spot: the RTX 5070 at a price most brands charge for a 5060.",
+  "ratings": {
+    "battery": 4,
+    "screen_size": 7,
+    "screen_quality": 5.5,
+    "readability_dark": 5,
+    "readability_bright": 5,
+    "ecosystem": 9.5,
+    "gaming": 7,
+    "productivity": 7,
+    "portability": 5,
+    "build_quality": 5,
+    "thermals_noise": 5.5,
+    "port_connectivity": 6,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 5.5,
+    "webcam_speakers": 3.5,
+    "upgradability": 8,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 5.5
+  },
+  "rating_notes": "No numeric pro score found (see SHARED-msi-katana-vector.md). Inferred from NBC Vector 16 HX AI anchor with Katana budget deltas (SHARED): 5070 vs 5070 Ti → gaming −1.5 (8GB VRAM cap at QHD), ai_ml −1.5; other Katana deltas as in 184.json."
+}

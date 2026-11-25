@@ -1,0 +1,104 @@
+{
+  "id": "yoga7i2-16-u7-256v-16-512",
+  "line": "Lenovo Yoga 7i 2-in-1 16 (Gen 9, 2025 Lunar Lake)",
+  "config_name": "Yoga 7i 2-in-1 16\" — Core Ultra 7 256V (Lunar Lake), 16GB LPDDR5x, 512GB SSD, 16\" touch",
+  "tier": "Mid",
+  "category": "convertibles-2in1",
+  "ecosystem": "Windows",
+  "form_factor": "convertible",
+  "release": "2025-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 256V (Lunar Lake, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 140V (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x on-package (soldered)",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe (single slot)",
+    "screen_size_in": 16,
+    "display_type": "IPS touch, 16:10",
+    "resolution": "2560x1600",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.85,
+    "ports": "2x USB-C (TB4/DP/PD), 2x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p",
+    "speakers": "2-speaker + tweeters",
+    "keyboard_notes": "Backlit chiclet, fingerprint reader, Windows Hello",
+    "pen_support": "MPP 2.0 active pen (sold separately)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 21,
+    "real_world_hours": 12,
+    "notes": "~70Wh Lunar Lake; 16\" panel shaves ~0.5h vs 14\"; 10-14h light use typical."
+  },
+  "price": {
+    "cad": 1399.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20207082",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: reg $2,099.99 / sale $1,399.99. 0 reviews (new listing); ratings inferred from 14\" siblings.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20207082",
+        "cad": 1399.99,
+        "est": false,
+        "name": "Lenovo Yoga 7i 2-in-1 16\" Touch-Screen Laptop, Intel Core Ultra 7 256V, Copilot+ PC, 16GB LPDDR5X RAM, 512GB SSD, Fingerprint, Windows Hello, Wi-Fi 7, Windows 11 Home, Luna Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20207/20207082.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "No numeric pro score found (see SHARED-yoga7i-2in1.md). Inferred from 14\" 256V sibling + line calibration."
+  },
+  "user_sentiment": {
+    "praises": [
+      "$1,400 sale price for a 16\" Copilot+ convertible with Arc 140V is the standout value of the 16\" line",
+      "Lunar Lake battery efficiency carries to the big screen — all-day light use reported on the 14\" twin",
+      "Arc 140V handles light gaming and video editing capably for an iGPU convertible",
+      "2K 16:10 touch canvas is great for split-screen productivity",
+      "Sturdy aluminium chassis, quiet under light loads"
+    ],
+    "complaints": [
+      "~1.85 kg — heavy for a convertible and awkward in tablet mode",
+      "16GB soldered ceiling despite premium price",
+      "IPS panel: contrast and HDR lag the 14\" OLED siblings",
+      "Pen not included",
+      "Average 1080p webcam"
+    ]
+  },
+  "design_philosophy": "The big-screen efficiency pick: Lunar Lake's class-leading battery and Arc 140V graphics stretched onto a 16\" 2K touch canvas at mainstream pricing. The sale price makes it one of the cheapest 16\" Copilot+ convertibles in Canada.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 8,
+    "screen_quality": 6.8,
+    "readability_dark": 6,
+    "readability_bright": 6.2,
+    "ecosystem": 9,
+    "gaming": 3.8,
+    "productivity": 7.3,
+    "portability": 6,
+    "build_quality": 7.3,
+    "thermals_noise": 8.3,
+    "port_connectivity": 7,
+    "creative_work": 6,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 5.8,
+    "upgradability": 3,
+    "ai_ml": 5.5,
+    "pen_touch": 6,
+    "repairability_service": 5,
+    "durability": 6.5
+  },
+  "rating_notes": "Ratings inferred from 14\" 256V sibling 19784203 + SHARED-yoga7i-2in1.md 16\" deltas: screen_size +1.5, portability −1.5, battery −0.3, speakers +0.3. LCD caps screen_quality 6.8. No pro score found — bot-walls disclosed."
+}

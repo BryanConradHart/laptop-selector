@@ -1,0 +1,116 @@
+{
+  "id": "omen-max16-5080-32-1tb-ips240",
+  "line": "HP OMEN Max 16 (2025, 16-ah0000)",
+  "config_name": "OMEN Max 16 — Core Ultra 9 275HX, RTX 5080 Laptop 16GB, 32GB DDR5-5600, 1TB SSD, 16\" WQXGA 240Hz IPS",
+  "tier": "High",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-04",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t: 8P + 16E, up to 5.4 GHz, 156W PL2 / 109W PL1)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop 16GB GDDR7 (175W TGP class, Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600 dual-channel, 2x SODIMM (user-accessible)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe Gen4/Gen5 M.2 (2 slots, PCIe5 main)",
+    "screen_size_in": 16,
+    "display_type": "IPS, 16:10, matte (BBY lists this tier as 240Hz non-OLED)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.81,
+    "ports": "2x Thunderbolt 4, 2x USB-A 10Gbps, HDMI 2.1, 2.5G Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 7 (Intel BE200), BT 5.4",
+    "webcam": "1080p + IR face unlock",
+    "speakers": "2-speaker + subwoofer",
+    "keyboard_notes": "Per-key RGB, beveled keys",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 3.5,
+    "notes": "83Wh. Same chassis as NBC-reviewed 5090 unit (WiFi 5h50, load 1h11); users report ~3-3.5h video. 5080 tier draws slightly less."
+  },
+  "price": {
+    "cad": 3999.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19195149",
+    "confidence": "verified",
+    "notes": "BB regular $3,999.99 verified 2026-11-24 (sku 19195149). BBY customer pool 4.06/5, n=65.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19195149",
+        "cad": 3999.99,
+        "est": false,
+        "name": "HP OMEN 16 MAX 16\" 240Hz Gaming Laptop - Intel Core Ultra 9-275HX - 32GB DDR5 - 1TB SSD - GeForce RTX 5080 - Windows 11 Home - Shadow Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/191/19195/19195149.jpg",
+  "professional": {
+    "avg_score": 7.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "82%",
+        "url": "https://www.notebookcheck.net/HP-Omen-Max-16-laptop-review-Super-fast-but-a-little-bit-too-hot.999164.0.html",
+        "quote": "The Omen Max 16 squeezes a ton of performance considering the size."
+      },
+      {
+        "outlet": "Tom's Hardware",
+        "score": "3.5/5",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/hp-omen-max-16-review",
+        "quote": "some competitors with the slightly-lesser RTX 5080 GPU often kept pace with or exceeded it"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "BBY: 'Beautiful laptop with an all metal chassis extremely powerfull plays all my games at max settings while staying quiet'",
+      "User-accessible dual SODIMM RAM + 2x M.2 — upgrade path most 16-inch flagships lack",
+      "BBY 4.06/5 across 65 reviews; 'Great performance!... price is great, especially in this AI era'",
+      "Tom's: the 5080 often matched the 5090 in their game tests thanks to the 5090 unit's CPU thermals — near-flagship FPS at ~$1,000 less",
+      "Anti-dust reverse-blow fan system and comfortable per-key RGB keyboard (NBC keyboard 92%)"
+    ],
+    "complaints": [
+      "Battery ~3-3.5h in user testing (BBY), same weak 83Wh cell as the reviewed config",
+      "Unleashed-mode fan noise up to 61 dB(A) under gaming load (NBC); 'bit noisy when in full load of gaming mode' (BBY)",
+      "CPU runs 94-98 C under all-core load — 275HX throttled to ~2.5 GHz/108W vs 3.8 GHz/156W on Legion Pro 7i (NBC)",
+      "Heavy: 2.81 kg + 933 g 330W brick",
+      "16GB VRAM on the 5080 is a real ceiling for 4K ultra + local LLM work vs the 24GB 5090 tier"
+    ]
+  },
+  "design_philosophy": "The sane high-end tier of HP's performance flagship: same Arrow Lake-HX chassis, cooling and 175W GPU power target as the 5090 halo, but the RTX 5080/32GB spec that Tom's found often kept pace with the flagship anyway. Fits the OMEN Max brief of desktop-class parts in a maintainable 16-inch aluminum chassis.",
+  "ratings": {
+    "battery": 4.5,
+    "screen_size": 8,
+    "screen_quality": 7,
+    "readability_dark": 6.5,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 8.5,
+    "productivity": 8.5,
+    "portability": 3,
+    "build_quality": 7.5,
+    "thermals_noise": 5,
+    "port_connectivity": 7.5,
+    "creative_work": 8,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 8.5,
+    "ai_ml": 8.5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from the NBC/Tom's reviewed 5090/275HX config (see SHARED-omen-max16.md): GPU 5090→5080 = gaming −1.5, ai_ml −1.0 (24→16GB VRAM), battery +0.5 (lower GPU draw). RAM 32GB matches the reviewed unit; 1TB vs 2TB storage is a spec-only delta. thermals_noise +0.5 vs anchor: the 5080 loads the shared cooler less. Screen assumed 240Hz IPS per BBY tier listing (OLED is the separate 19195150 SKU)."
+}

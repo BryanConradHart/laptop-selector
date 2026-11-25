@@ -1,0 +1,116 @@
+{
+  "id": "legion5-151-ips-ryzen-ai7-350-5070-16-1tb",
+  "line": "Lenovo Legion 5 15.1 (Gen 10, 2025, AMD IPS)",
+  "config_name": "Legion 5 Gen 10 15.1 — Ryzen AI 7 350 / RTX 5070 8GB (115W), 16GB DDR5, 1TB SSD, 15.1\" IPS 165Hz",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 7 350 (Zen 5 mobile, 8c/16t, 50 TOPS NPU)",
+    "cpu_cores": 8,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7 (115 W TGP incl. Dynamic Boost, MUX, no Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 16,
+    "ram_type": "DDR5 (2x SODIMM, upgradeable to 64GB)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (2 slots: 2280 + 2242)",
+    "screen_size_in": 15.1,
+    "display_type": "IPS anti-glare (165 Hz)",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.14,
+    "ports": "USB-C 3.2 Gen2 + USB4 40Gbps (DP, PD 3.0), 3x USB-A 3.2, HDMI 2.1, RJ45 GbE, 3.5mm",
+    "wireless": "Wi-Fi 7 (MediaTek MT7925), BT 5.4",
+    "webcam": "5MP with electronic shutter",
+    "speakers": "Stereo",
+    "keyboard_notes": "Chiclet w/ numpad, 1.6mm travel, 24-zone backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 8.5,
+    "notes": "80 Wh. NBC measured ~9.5h WiFi @150nits on the AMD Ryzen 7 260 config of this chassis; Ryzen AI 7 350 similar class. ~1h under load; 80% charge in ~52 min."
+  },
+  "price": {
+    "cad": 2429.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19623213",
+    "confidence": "verified",
+    "notes": "Regular $3,433.99 / sale $2,429.99, BBY API-verified 2026-11-24 (LEGION_LIST.md). Standout sale value: full-TGP RTX 5070 under $2,500.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19623213",
+        "cad": 2429.99,
+        "est": false,
+        "name": "Lenovo Legion 5 Gen 10 15.1\" 165Hz Gaming Laptop - Ryzen AI 7 350 - 16GB - 1TB SSD - GeForce RTX 5070 8GB - Eclipse Black"
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/legion-laptops/legion-5-series/"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/196/19623/19623213.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87% (closest-tested: AMD Legion 5 15AHP G10)",
+        "url": "https://www.notebookcheck.net/The-best-mainstream-gamer-in-2025-Lenovo-Legion-5-15-Laptop-Review.1047975.0.html",
+        "quote": "Lenovo's Legion 5 15 is a very good mainstream gamer, which does not reveal any major issues in our review. The chassis is functional with sufficient ports, a very comfortable keyboard, as well as very good maintenance options."
+      }
+    ],
+    "note": "No pro review found for this exact IPS config (honest disclosure per SHARED-legion5-ips.md); the NBC AMD 15AHP G10 review (87%) is the same chassis/CPU class with the OLED panel and RTX 5060. Ratings inferred, disclosed."
+  },
+  "user_sentiment": {
+    "praises": [
+      "At the sale price this is the value pick of the Legion line: full 115W RTX 5070 — NBC says the 5070's gaming is 'on par with the more expensive Legion 5 Pro 16'",
+      "AMD Ryzen AI 7 350 keeps battery far above the Intel HX tiers (NBC: AMD ~9.5h WiFi vs 'noticeably shorter' on Intel) and adds a 50 TOPS NPU",
+      "IPS panel: no PWM flicker (an NBC con of the OLED sibling) and matte anti-glare at ~500 nits — better in bright rooms than the glossy OLED",
+      "AMD model keeps USB4 40Gbps (DP1.4 + PD) that the Intel 5i models lack (NBC ports section)",
+      "Best-in-class maintenance: 2x SODIMM to 64GB, 2x M.2, screwed battery, official Lenovo maintenance manual"
+    ],
+    "complaints": [
+      "16GB RAM at this price — first upgrade you'll want; 32GB matches what NBC tested",
+      "IPS panel lacks OLED's contrast/HDR punch (no 1000-nit HDR, ~1200:1 contrast) — buyers comparing showrooms may prefer the OLED sibling",
+      "Fans clearly audible in Performance mode gaming (~50 dB(A) measured on the chassis); quiet at idle though",
+      "No card reader; speakers 'could be better' (NBC cons)",
+      "Legion Gen-10 platform threads report occasional nvlddmkm TDR driver crashes on some 50-series units and warranty/LENOVEO service friction"
+    ]
+  },
+  "standouts": [
+    "Best sale price-per-gaming-FPS in the Legion 5 lineup ($2,430 for a full-TGP RTX 5070)",
+    "AMD efficiency + flicker-free matte IPS = the best battery-and-comfort combo of the non-OLED tiers"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "The AMD tier of Lenovo's mainstream Legion 5 Gen 10: full-TGP Blackwell graphics, an efficient Zen 5 CPU with NPU, and easy user maintenance in a restrained chassis. With the matte IPS panel it deliberately trades the OLED's contrast for brightness, no flicker, and a lower price — the pragmatic gamer's config.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 6.5,
+    "screen_quality": 6.3,
+    "readability_dark": 6.8,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 7.5,
+    "productivity": 7.8,
+    "portability": 7,
+    "build_quality": 7.8,
+    "thermals_noise": 6.2,
+    "port_connectivity": 7.3,
+    "creative_work": 6.3,
+    "keyboard_trackpad": 8.3,
+    "webcam_speakers": 6.3,
+    "upgradability": 8.5,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 6.8
+  },
+  "rating_notes": "Ratings inferred from NBC-reviewed AMD Legion 5 15AHP G10 (87%) and Intel 15IRX10/RTX 5070 (87%) per SHARED-legion5-oled.md + IPS deltas from SHARED-legion5-ips.md: 500-nit 100%sRGB IPS -> screen_quality 6.3, readability_dark 6.8 (no PWM), readability_bright 7.0 (anti-glare beats glossy OLED); Ryzen AI 7 350 (8c Zen5) -> productivity 7.8, battery 8.0 (NBC AMD anchor); RTX 5070 115W -> gaming 7.5; 16GB -> productivity -0.5 / ai_ml -0.3 vs tested 32GB; AMD chassis keeps USB4 -> port_connectivity 7.3. Image URL follows standard BBY CDN pattern, not individually verified."
+}

@@ -1,0 +1,103 @@
+{
+  "id": "tp-p14s-g6-pro500-64-2tb",
+  "line": "Lenovo ThinkPad P14s Gen 6 (2025)",
+  "config_name": "ThinkPad P14s Gen 6 14.5\" — Intel Core Ultra 7 265H vPro, NVIDIA RTX PRO 500 Blackwell, 64GB, 2TB SSD",
+  "tier": "High",
+  "category": "creator-workstation",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 265H vPro (Arrow Lake-H, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA RTX PRO 500 Blackwell (ISV-certified)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "DDR5 SODIMM (upgradeable)",
+    "storage_gb": 2000,
+    "storage_type": "M.2 NVMe (upgradeable)",
+    "screen_size_in": 14.5,
+    "display_type": "IPS anti-glare, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.45,
+    "ports": "2x TB4/USB-C, 2x USB-A, HDMI 2.1, 3.5mm, optional smart card",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker, Dolby Audio",
+    "keyboard_notes": "ThinkPad keyboard + TrackPoint, spill-resistant",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 12,
+    "real_world_hours": 7,
+    "notes": "Est. ~57-75Wh class. Estimated ~7h light use. No verified pro battery test found (NBC P14s Gen 6 review bot-walled)."
+  },
+  "price": {
+    "cad": 4819,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19966480",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $8,699 / sale $4,819 (SKU 19966480). Sale price used.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19966480",
+        "cad": 4819,
+        "est": false,
+        "name": "Lenovo ThinkPad P14s Gen 6 Intel Laptop, 14.5\", Intel Core Ultra 7 265H vPro, 64GB, 2TB SSD"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19966/19966480.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "64GB RAM + 2TB in a 1.45 kg 14.5\" ThinkPad — huge capacity for field CAD work",
+      "RTX PRO 500 adds ISV-certified 3D acceleration missing from iGPU P14s configs",
+      "Classic ThinkPad keyboard, TrackPoint and MIL-STD durability in a truly portable workstation",
+      "vPro manageability suits corporate fleet deployment",
+      "$3,880 off regular pricing makes the max-RAM config reasonable"
+    ],
+    "complaints": [
+      "RTX PRO 500 is the weakest certified GPU — fine for light assemblies, not heavy rendering",
+      "Regular $8,699 anchor price is absurd; only the sale price is real",
+      "14.5\" 60Hz IPS panel limits screen real estate for split CAD windows",
+      "Slim chassis fans up noticeably during sustained CAD loads",
+      "No verified CA pro review of the Gen 6 P14s — early-buyer uncertainty"
+    ]
+  },
+  "design_philosophy": "The P14s is the budget CAD starter line: a 14.5\" ThinkPad with ISV certification and business manageability for engineers and drafting students who move daily. This top config loads the chassis to its ceiling — 64GB and 2TB — with the entry RTX PRO 500 GPU, prioritizing capacity and portability over GPU throughput.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 6.5,
+    "screen_quality": 6.3,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 4,
+    "productivity": 8.6,
+    "portability": 8,
+    "build_quality": 8.8,
+    "thermals_noise": 6,
+    "port_connectivity": 7,
+    "creative_work": 7,
+    "keyboard_trackpad": 9.2,
+    "webcam_speakers": 7,
+    "upgradability": 8,
+    "ai_ml": 5,
+    "pen_touch": 0,
+    "repairability_service": 8,
+    "durability": 8.5
+  },
+  "rating_notes": "NBC reviewed P14s Gen 6 but page bot-walled — no verified score/quote (see SHARED-thinkpad-p.md); ratings spec-anchored from ThinkPad-line dataset anchors (portable 14\" ~1.45 kg → portability 8, battery ~7h). RTX PRO 500 → ai_ml 5.0, gaming 4.0 per SHARED GPU-tier guidance; +64GB RAM lifts productivity 8.6. Sentiment synthesized from P-series owner themes, disclosed."
+}

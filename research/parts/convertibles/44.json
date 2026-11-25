@@ -1,0 +1,125 @@
+{
+  "id": "dellplus14-2in1-u7-256v-16-1tb",
+  "line": "Dell Plus 14 2-in-1 (2025)",
+  "config_name": "Dell Plus 14 2-in-1 — Core Ultra 7 256V, 16GB LPDDR5X, 1TB SSD, 14\" 2K touch (Home/Pro)",
+  "tier": "Mid",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 256V (Lunar Lake, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 140V (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X on-package",
+    "storage_gb": 1000,
+    "storage_type": "NVMe",
+    "screen_size_in": 14,
+    "display_type": "2K IPS touch",
+    "resolution": "2240x1400",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.5,
+    "ports": "2x Thunderbolt 4 / USB-C, 1x USB-A, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p (no IR)",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit, shallow travel",
+    "pen_support": "Active pen (sold separately)",
+    "os": "Windows 11 Home (Pro twin 20247667)"
+  },
+  "battery": {
+    "claimed_hours": 18,
+    "real_world_hours": 8,
+    "notes": "Estimated ~8h mixed; Lunar Lake 14\"."
+  },
+  "price": {
+    "cad": 1899,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20247671",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 20247671 Home reg $2,819 / sale $1,899; Pro twin 20247667 $2,859/$1,899. 2TB tiers 20247670/20247666 at $2,129 omitted (storage-only).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20247671",
+        "cad": 1899,
+        "est": false,
+        "name": "Dell Plus 14\" 2K 2-in-1 Touch Laptop-Ice Blue(Intel Core Ultra 7 256V/Intel Graphics/16GB LPDDR5X/1TB SSD/Backlit Keyboard/Win 11 Home)"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20247667",
+        "cad": 1899,
+        "est": false,
+        "name": "Dell Plus 14\" 2K 2-in-1 Touch Laptop-Ice Blue(Intel Core Ultra 7 256V/Intel Graphics/16GB LPDDR5X/1TB SSD/Backlit Keyboard/Win 11 Pro)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20247/20247671.png",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "CNET (sibling DB06250, inferred)",
+        "score": "7.3/10",
+        "url": "https://www.cnet.com/tech/computing/dell-16-plus-2-in-1-review-the-mini-led-display-shines-but-theres-little-else-to-get-excited-about/",
+        "quote": "Strong productivity performance"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "1TB at the $1,899 sale price is the sensible middle of the Plus 14 range",
+      "Ultra 7 256V + Arc 140V is the sweet-spot Lunar Lake chip",
+      "2K touch panel on a 14\" convertible suits pen and tent mode",
+      "Copilot+ 47-TOPS NPU",
+      "Home and Pro editions at the same sale price — pick your Windows license free"
+    ],
+    "complaints": [
+      "Reg $2,819 anchor is marketing theater; only the sale price matters",
+      "16GB soldered is the ceiling on this platform",
+      "Dell 2025 consumer line: mushy shallow keyboards per CNET",
+      "No IR face login; fingerprint-only biometrics",
+      "Brand-new SKU with zero owner reviews at retail"
+    ]
+  },
+  "design_philosophy": "The 1TB step of Dell's mainstream Lunar Lake convertible — same chassis and panel as the base tier, doubled storage for people who keep media locally, sold at the same aggressive sale-price cadence as the rest of the line.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 6,
+    "screen_quality": 6.5,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7,
+    "portability": 7,
+    "build_quality": 7,
+    "thermals_noise": 7.5,
+    "port_connectivity": 6,
+    "creative_work": 5,
+    "keyboard_trackpad": 4.5,
+    "webcam_speakers": 5,
+    "upgradability": 2,
+    "ai_ml": 5.5,
+    "pen_touch": 7,
+    "repairability_service": 4.5,
+    "durability": 6
+  },
+  "rating_notes": "Same as entry 43 with +512GB storage (no factor movement). Inferred from CNET 16 Plus 2-in-1 anchor per SHARED-dell-2in1.md; no direct pro review of this line found.",
+  "standouts": [
+    "Home/Pro at same sale price",
+    "1TB at $1,899"
+  ],
+  "dealbreakers": [
+    "Inflated anchor pricing",
+    "16GB soldered ceiling"
+  ]
+}

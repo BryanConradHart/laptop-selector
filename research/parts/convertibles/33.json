@@ -1,0 +1,116 @@
+{
+  "id": "ob5f14-u5-322-16-512",
+  "line": "HP OmniBook 5 Flip 14 (2025/2026) — mainstream convertible",
+  "config_name": "OmniBook 5 Flip 14 — Core Ultra 5 322, 16GB LPDDR5x, 512GB SSD, 2K touch",
+  "tier": "Mid",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 5 322 (Panther Lake, 2 Xe)",
+    "cpu_cores": 6,
+    "gpu": "Intel Graphics 2Xe (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 14,
+    "display_type": "2K WUXGA-class IPS touch",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.5,
+    "ports": "2x USB-C, 1x USB-A, 3.5mm",
+    "wireless": "Wi-Fi 6E/7, BT 5.4",
+    "webcam": "5MP IR",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit, Copilot key",
+    "pen_support": "HP pen (MPP)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 10,
+    "notes": "Panther Lake efficiency cores; estimate from platform and sibling line."
+  },
+  "price": {
+    "cad": 1799.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/hp-omnibook-5-flip-14-2k-wuxga-touchscreen-copilot-pc-laptop-intel-core-ultra-5-322-16gb-lpddr5x-512gb-ssd-intel-graphics-2xe-windows-11-home-glacier-silver/19817317",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 19817317 $1,799.99 (no discount yet; open-box $999.99 exists). Entry Core 3 100U 8/256 tier at $999.99 (4.45★/128) omitted from own entry — noted for parent.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/hp-omnibook-5-flip-14-2k-wuxga-touchscreen-copilot-pc-laptop-intel-core-ultra-5-322-16gb-lpddr5x-512gb-ssd-intel-graphics-2xe-windows-11-home-glacier-silver/19817317",
+        "cad": 1799.99,
+        "est": false,
+        "name": "HP OmniBook 5 Flip 14\" 2K WUXGA Touchscreen Copilot+ PC Laptop - Intel Core Ultra 5-322 - 16GB LPDDR5X - 512GB SSD - Intel Graphics 2Xe - Windows 11 Home - Glacier Silver"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/hp-omnibook-5-flip-14-touchscreen-2-in-1-laptop-intel-core-3-100u-8gb-ram-256gb-ssd-win11-glacier-silver/20198612",
+        "cad": 999.99,
+        "est": false,
+        "name": "HP OmniBook 5 Flip 14\" Touchscreen 2-in-1 Laptop - Intel Core 3 100U - 8GB RAM - 256GB SSD - Win11 - Glacier Silver"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19817/19817317.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "4.46/5 across 131 Best Buy reviews — one of the happiest buyer bases of any CA convertible",
+      "2K touch panel praised as bright and sharp for the price",
+      "Good battery life for classes and travel; quiet under normal loads",
+      "Copilot+ PC (40+ TOPS NPU) at a mainstream price",
+      "Light for a 14\" convertible and the pen works well for note-taking"
+    ],
+    "complaints": [
+      "Plasticky deck flexes more than the OmniBook X siblings; hinge wobble reported",
+      "HP bloatware and trialware heavy out of the box",
+      "Fan spins up audibly on video calls in warm rooms",
+      "Soldered RAM, single M.2 — no upgrade path",
+      "Speakers are thin; volume fine but bass nearly absent"
+    ]
+  },
+  "design_philosophy": "The OmniBook 5 Flip is HP's mainstream convertible: last-gen-style chassis quality one step below the X line, but current-gen Copilot+ silicon and a good 2K touch panel at a price families actually pay. It is the spiritual successor to the Pavilion x360 rather than the Spectre, and its 4.46-star Best Buy following shows the formula lands.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 6,
+    "screen_quality": 6.5,
+    "readability_dark": 5.5,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 2.5,
+    "productivity": 6.5,
+    "portability": 8,
+    "build_quality": 6.5,
+    "thermals_noise": 7,
+    "port_connectivity": 5.5,
+    "creative_work": 5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6.5,
+    "upgradability": 2,
+    "ai_ml": 6,
+    "pen_touch": 7,
+    "repairability_service": 4,
+    "durability": 6
+  },
+  "rating_notes": "No pro review found for this exact CA config (bot-walls — see SHARED-hp-convertibles.md). Ratings synthesized from platform specs (Panther Lake U5 322, 2Xe iGPU weaker than Arc 140V class) and BBY aggregate 4.46★/131, which is strong and lifts user-sentiment items. Gaming rated low for 2Xe tier.",
+  "standouts": [
+    "Best user rating of any CA convertible (4.46★/131)",
+    "Copilot+ at mainstream price",
+    "Good 2K touch panel"
+  ],
+  "dealbreakers": []
+}

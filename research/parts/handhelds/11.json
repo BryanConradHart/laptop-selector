@@ -1,0 +1,116 @@
+{
+  "id": "rog-xbox-ally-z2a-16gb-512gb",
+  "line": "ASUS ROG Xbox Ally (2025)",
+  "config_name": "ROG Xbox Ally — AMD Ryzen Z2 A (4C/8T Zen 2) / Radeon 8-CU RDNA 2, 16GB LPDDR5-6400, 512GB SSD, 7\" 1080p 120Hz VRR IPS, Xbox Fullscreen Experience",
+  "tier": "Entry",
+  "category": "handheld-pcs",
+  "ecosystem": "Windows",
+  "form_factor": "handheld",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen Z2 A (4-core/8-thread Zen 2, up to ~4.0GHz — a rebranded Barceló-class part)",
+    "cpu_cores": 4,
+    "gpu": "AMD Radeon 8-CU RDNA 2 integrated iGPU",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5-6400 dual-channel, soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 2280 PCIe 4.0 NVMe",
+    "screen_size_in": 7,
+    "display_type": "IPS, glossy, capacitive touch, 120Hz with Adaptive Sync (VRR), no PWM",
+    "resolution": "1920x1080",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": null,
+    "brightness_hdr_nits": null,
+    "weight_kg": null,
+    "ports": "2x USB-C (1x USB4-class with DP alt + PD), microSD, 3.5mm",
+    "wireless": "Wi-Fi 6, BT 5.2 (exact card unverified)",
+    "webcam": "none",
+    "speakers": "stereo speakers",
+    "keyboard_notes": "no keyboard; Xbox-style grip controller shared with Ally X design language",
+    "pen_support": "none (touch only)",
+    "os": "Windows 11 Home + Xbox Fullscreen Experience"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 3.5,
+    "notes": "60Wh pack per ASUS CA eshop ('ultra-efficient design and 60Wh battery ensure extended playtime'). The weak 4-core Zen 2 APU caps AAA settings, so gaming runtimes land roughly 2.5-4h at its playable (lower) framerates; light use longer. No lab figure retrieved — disclosed estimate from pack size + APU class; see SHARED-rog-ally.md."
+  },
+  "price": {
+    "cad": 799.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-rog-xbox-ally-7-touch-gaming-console-white-amd-ryzen-z2-a-16gb-ram-512gb-ssd-windows-11/19438480",
+    "confidence": "verified",
+    "notes": "Verified on bestbuy.ca 2026-11-24: $799.99, Sold and shipped by Best Buy, model RC73YA-XB_ALLY.Z2A, web code 19438480, BBY rating 4.4/5 (1,064 reviews), '100+ bought in the last month', available to ship, open-box from $679.99. US launch was US$599.99 — this is the intended budget tier of the line. ASUS also lists it on its own CA eShop.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-rog-xbox-ally-7-touch-gaming-console-white-amd-ryzen-z2-a-16gb-ram-512gb-ssd-windows-11/19438480",
+        "cad": 799.99,
+        "est": false,
+        "name": "ASUS ROG Xbox Ally 7\" 120Hz LCD Touchscreen Handheld Gaming PC - White (AMD Ryzen Z2 A/16GB RAM/512GB SSD/Windows 11)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/194/19438/19438480.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Tom's Hardware",
+        "score": null,
+        "url": "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-ryzen-z2-a-review",
+        "quote": "Asus sells the ROG Xbox Ally in just one configuration. The $599.99 model comes with an AMD Ryzen Z2 A processor, 16GB of RAM, a 512GB SSD, and a 7-inch, 1080p touchscreen."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": null,
+        "url": "https://www.notebookcheck.net/Asus-ROG-Xbox-Ally-X.1102117.0.html",
+        "quote": null
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest way into the Xbox Fullscreen Experience — BBY owners call the console-style UI and quick resume a huge upgrade over desktop Windows at any price",
+      "C$799.99 undercuts the Steam Deck LCD (C$1,129) while running Game Pass, anti-cheat multiplayer and every PC launcher (Tom's Hardware framed it as 'the cheapest Windows handheld')",
+      "Same comfortable Xbox-grip chassis, 120Hz VRR 7\" 1080p screen and hall-effect-style controls as the C$1,500 Ally X — the ergonomics carry down intact",
+      "The power-efficient 4-core Z2 A runs cool and quiet; indie/older/2D titles and cloud streaming feel effortless",
+      "Healthy retail stock and BBY open-box from $679.99 make it the low-risk entry handheld in Canada (open-box culture is a BBY theme in its 1,000+ reviews)"
+    ],
+    "complaints": [
+      "The Z2 A is a 4-core Zen 2 / 8-CU RDNA 2 part — modern AAA at 1080p is a slideshow even on Low; NBC's benchmark sampling (e.g. ~12 FPS averages at Ultra in Turbo) shows it well below the Steam Deck",
+      "16GB RAM at 6400MT/s (slower than the Ally X's 7467/8000) further limits the weak iGPU — heavy emulation and newer titles suffer",
+      "Same dim glossy 7\" IPS panel as the rest of the line; no brightness spec published for this SKU",
+      "60Wh (vs 80Wh on both bigger siblings) despite the small APU — runtime is good only because the machine can't push hard",
+      "At C$799.99 it sits close to the C$899.97 Z1 Extreme Ally X clearance, which is dramatically faster — value math favours the older flagship (top 'which one?' objection in r/ROGAlly threads)"
+    ]
+  },
+  "design_philosophy": "The volume tier of the ASUS-Microsoft handheld push: an intentionally old, cheap Zen 2-based Ryzen Z2 A APU wrapped in the same Xbox-grip chassis, screen and Fullscreen Experience software as the flagship, sold at a US$599/C$799 price aimed at Game Pass families rather than handheld-PC enthusiasts. ASUS sells exactly one configuration (16GB/512GB), keeping it simple. The trade-offs are severe — 4 Zen 2 cores and an 8-CU RDNA 2 iGPU are several generations behind — but the software experience and ergonomics are identical to the Ally X.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 5,
+    "screen_quality": 6,
+    "readability_dark": 7,
+    "readability_bright": 5,
+    "ecosystem": 8.5,
+    "gaming": 4,
+    "productivity": 3.5,
+    "portability": 7.5,
+    "build_quality": 8,
+    "thermals_noise": 8,
+    "port_connectivity": 5,
+    "creative_work": 3,
+    "keyboard_trackpad": 0.5,
+    "webcam_speakers": 4,
+    "upgradability": 6,
+    "ai_ml": 1,
+    "pen_touch": 3,
+    "repairability_service": 6.5,
+    "durability": 6.5
+  },
+  "rating_notes": "INFERRED entry: no numeric pro score retrieved for this exact SKU (Tom's Hardware review URL confirmed but its score not captured; NBC review of the base Ally noted 'coming soon' in the Ally X review). Ratings inferred from the verified Ally X / Xbox Ally X anchors in SHARED-rog-ally.md with spec deltas: gaming -3.0 vs Ally X (4C Zen 2 + 8CU RDNA 2 vs 8C Zen 4 + 12CU RDNA 3 — well below Steam Deck, per NBC benchmark data surfaced via HandheldAtlas), productivity -1.5, ai_ml -2.0 (no NPU), battery +0.5 (60Wh but very low package power at playable settings), thermals_noise +1.0 (tiny APU), portability ~same grip chassis (weight unverified -> null in specs). professional.avg_score left null — do not fill without loading the article. webcam_speakers/keyboard_trackpad follow line conventions. image_url is a best-guess BBY CDN pattern; site fallback applies."
+}

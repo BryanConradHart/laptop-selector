@@ -1,0 +1,111 @@
+{
+  "id": "envyx360-16-u7-155u-64-2tb",
+  "line": "HP Envy x360 16 (2025/2026, Core Ultra 7 155U) — Canadian retail configs",
+  "config_name": "Envy x360 16 — Core Ultra 7 155U, 64GB LPDDR5, 2TB SSD, WUXGA touch (Win 11 Pro)",
+  "tier": "High",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 155U (Arrow Lake-U refresh)",
+    "cpu_cores": 12,
+    "gpu": "Intel Graphics (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 64,
+    "ram_type": "LPDDR5 soldered",
+    "storage_gb": 2000,
+    "storage_type": "NVMe",
+    "screen_size_in": 16,
+    "display_type": "WUXGA IPS touch",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.05,
+    "ports": "2x USB-C (DP/Power), 2x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 6E/7, BT 5.3/5.4",
+    "webcam": "5MP IR",
+    "speakers": "2-speaker B&O",
+    "keyboard_notes": "Backlit, numeric pad, Copilot key",
+    "pen_support": "HP pen (MPP)",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 16,
+    "real_world_hours": 8.5,
+    "notes": "68Wh-class pack; estimate from sibling tier."
+  },
+  "price": {
+    "cad": 2479,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/hp-envy-x360-16-wuxga-touchscreen-2-in-1-laptop-intel-core-ultra-7-155u-64gb-lpddr5-2tb-ssd288gb-win-11-pro-silver/18197449",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 18197449: reg $3,229, sale $2,479. Includes 288GB dock add-on per listing title.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/hp-envy-x360-16-wuxga-touchscreen-2-in-1-laptop-intel-core-ultra-7-155u-64gb-lpddr5-2tb-ssd288gb-win-11-pro-silver/18197449",
+        "cad": 2479,
+        "est": false,
+        "name": "HP Envy x360 16\" WUXGA Touchscreen 2-in-1 Laptop - Intel Core Ultra 7 155U - 64GB LPDDR5 - 2TB SSD+288GB - Win 11 Pro - Silver"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/181/18197/18197449.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "64GB RAM in a sub-$2,500 convertible — unmatched for VMs, huge spreadsheets, and tab hoarding",
+      "2TB storage + 288GB dock bundle included at the sale price",
+      "Windows 11 Pro with BitLocker/Remote Desktop for home-office users",
+      "Big 16\" touch canvas with full ports incl. HDMI + 2x USB-A",
+      "Quiet fans; 155U barely heats during office work"
+    ],
+    "complaints": [
+      "155U CPU is the weak link — 64GB of RAM can't fix a 12-core low-power chip",
+      "Heavy (~2 kg) and thick for a convertible — tablet mode is a token feature",
+      "Base WUXGA 60Hz glossy panel undersells the premium spec sheet",
+      "No Thunderbolt on this tier; USB-C limited to DP/PD",
+      "Regular price $3,229 is notional — only the sale price is real"
+    ]
+  },
+  "design_philosophy": "The outlier of the Envy x360 16 range: a RAM-max configuration (64GB) aimed at power users who want workstation memory in a family-priced chassis, even though the 155U CPU and 60Hz panel cap what that memory can do.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 8,
+    "screen_quality": 5.5,
+    "readability_dark": 5,
+    "readability_bright": 5,
+    "ecosystem": 9,
+    "gaming": 2.5,
+    "productivity": 8,
+    "portability": 5,
+    "build_quality": 6.5,
+    "thermals_noise": 8,
+    "port_connectivity": 8,
+    "creative_work": 5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6.5,
+    "upgradability": 2.5,
+    "ai_ml": 5.5,
+    "pen_touch": 6,
+    "repairability_service": 4.5,
+    "durability": 5.5
+  },
+  "rating_notes": "Ratings inferred from Envy x360 16 anchor (entry 34): +0.5 productivity and +0.5 ai_ml for 64GB (local LLM headroom), per cross-config inference rules. CPU remains the ceiling — noted in complaints. No pro review of exact CA config (bot-walls, SHARED-hp-convertibles.md).",
+  "standouts": [
+    "64GB RAM at sub-$2,500",
+    "2TB + dock + Win11 Pro"
+  ],
+  "dealbreakers": [
+    "~2 kg — tablet mode impractical",
+    "155U CPU bottlenecks the big RAM"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "g14-2025-ai9465-5060-32-512",
+  "line": "ASUS ROG Zephyrus G14 (2025 GA403 refresh)",
+  "config_name": "ROG Zephyrus G14 (2025 refresh) — Ryzen AI 9 465 / RTX 5060 8GB, 32GB LPDDR5X, 512GB SSD, 14\" 3K OLED 120Hz",
+  "tier": "Base",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-09",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 9 465 (10-core: 2 Zen5 + 8 Zen5c)",
+    "cpu_cores": 10,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB (~95-105W TGP)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 512,
+    "storage_type": "NVMe (1x M.2 2280)",
+    "screen_size_in": 14,
+    "display_type": "OLED (ROG Nebula HDR, glossy)",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 900,
+    "weight_kg": 1.46,
+    "ports": "2x USB4 40Gbps (DP/PD), 2x USB-A 3.2, HDMI 2.1, microSD, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "quad-speaker",
+    "keyboard_notes": "backlit chiclet",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 6.2,
+    "notes": "73Wh. Same chassis as HX 370 config; 10-core 465 slightly cooler/easier to power (+0.2h inferred). ~1.5h gaming."
+  },
+  "price": {
+    "cad": 3699.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-zephyrus-g14-14-gaming-laptop-eclipse-grey-amd-ryzen-ai-9-465-32gb-ram-512gb-ssd-geforce-rtx-5060-win-11-home/19861010",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24, sku 19861010. Open-box units of this exact config seen at $2,904.99–$3,059.99 (skus 20333881/20200952).",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19861010",
+        "cad": 3699.99,
+        "est": false,
+        "name": "ASUS Zephyrus G14 14\" Gaming Laptop -Eclipse Grey (AMD Ryzen AI 9 465/32GB RAM/512GB SSD/GeForce RTX 5060/Win 11 Home)"
+      },
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-zephyrus-g14-14-gaming-laptop-eclipse-grey-amd-ryzen-ai-9-465-32gb-ram-512gb-ssd-geforce-rtx-5060-win-11-home/19861010",
+        "cad": 3699.99,
+        "est": false,
+        "name": "ASUS Zephyrus G14 14\" Gaming Laptop -Eclipse Grey (AMD Ryzen AI 9 465/32GB RAM/512GB SSD/GeForce RTX 5060/Win 11 Home)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19861/19861010.jpg",
+  "professional": {
+    "avg_score": 8.9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "89%",
+        "url": "https://www.notebookcheck.net/14-inches-with-the-GeForce-RTX-5080-Laptop-Asus-ROG-Zephyrus-G14-2025-review.1014019.0.html",
+        "quote": "With the RTX 5070 Ti and RTX 5080 options the new ROG Zephyrus G14 is currently pretty unrivaled. Very high-quality and compact aluminum case, brilliant OLED display at 120 Hz with G-Sync, excellent speakers, great input devices. Cons: soldered-on RAM, PWM flickering, limited maximum HDR brightness, loud fans. (NBC review of the GA403WW RTX 5080 config, \"top rated\" award.)"
+      }
+    ],
+    "note": "No pro review of this exact refresh config found; anchored on GA403 line (see SHARED-zephyrus-g14.md)."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Same premium 1.46kg aluminum thin-and-light as the flagship G14 with full RTX 5060 gaming",
+      "3K OLED 120Hz Nebula HDR display is the class best screen at 14\"",
+      "Ryzen AI 9 465 runs slightly cooler and quieter than the HX 370 in this thin chassis while still handling multitasking",
+      "32GB RAM standard — plenty for engineering/productivity work alongside gaming",
+      "USB-C charging and ~1.5kg weight make it a real travel laptop, unlike bulkier gaming rivals"
+    ],
+    "complaints": [
+      "Costs MORE than the faster HX 370/1TB config ($3,700 vs $3,600) — poor spec-for-price on paper, echoed in BBY 'bad price' sentiment",
+      "512GB storage is tight for a gaming laptop; only one M.2 slot so upgrading means replacing the drive",
+      "Soldered RAM, no upgrade path",
+      "TGP-capped RTX 5060 trails thicker same-GPU laptops; hot deck and loud Turbo fan under long AAA sessions",
+      "2025 GA403 line QC anecdotes (dead pixels, battery swelling) still color buyer confidence"
+    ]
+  },
+  "design_philosophy": "The volume-tier refresh of ASUS's thin-and-light gaming halo: same aluminum 1.46kg OLED chassis, with a lower-bin 10-core Ryzen AI 9 465 traded for the entry RTX 5060. It targets the work-plus-play buyer who values portability and screen over peak multicore. Priced above the HX 370/1TB sibling at BBY, it is the weakest spec-per-dollar tier of the 2025 line.",
+  "ratings": {
+    "battery": 6.2,
+    "screen_size": 5.5,
+    "screen_quality": 9.2,
+    "readability_dark": 9,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 7,
+    "productivity": 7.5,
+    "portability": 9.2,
+    "build_quality": 8.5,
+    "thermals_noise": 5.7,
+    "port_connectivity": 7.5,
+    "creative_work": 7.3,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 7,
+    "upgradability": 2.5,
+    "ai_ml": 5.7,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Pro score attached from NBC review of the GA403 RTX 5080 config (89% very good, gap-fill 2026-11-24); lower GPU tiers share chassis/display/thermals findings. Inferred from anchor entry 76 (Ryzen AI 9 HX 370 / RTX 5060 / 32GB / 1TB, BBY 4.48/5 n=495) per SHARED-zephyrus-g14.md deltas: HX 370 -> AI 9 465 (10c vs 12c) = productivity -0.5, ai_ml -0.3, thermals_noise +0.2, battery +0.2; 1TB -> 512GB = creative_work -0.2. No pro review retrieved (hard-stop, disclosed)."
+}

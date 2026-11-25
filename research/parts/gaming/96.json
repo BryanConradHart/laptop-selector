@@ -1,0 +1,111 @@
+{
+  "id": "g16-2026-386h-5070-32-1tb",
+  "line": "ASUS ROG Zephyrus G16 (2026, GU606)",
+  "config_name": "ROG Zephyrus G16 (2026) — Core Ultra 9 386H / RTX 5070 8GB, 32GB LPDDR5X, 1TB SSD, 16\" 2.5K OLED 240Hz",
+  "tier": "Mid (2026 refresh)",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 386H (Arrow Lake-H refresh)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB (TGP-capped slim chassis ~105-110W)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe (2x M.2 2280 slots)",
+    "screen_size_in": 16,
+    "display_type": "OLED (ROG Nebula HDR, glossy, G-Sync)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 900,
+    "weight_kg": 1.85,
+    "ports": "1x Thunderbolt 4, 1x USB-C 3.2 Gen2 (DP/PD), 2x USB-A 3.2, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "quad-speaker (praised by NBC on 2025 model)",
+    "keyboard_notes": "backlit chiclet, per-key RGB",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 6.3,
+    "notes": "90Wh (same chassis). NBC lab WiFi on 2025 GU605CX: 9h00 @150nits; refresh CPU marginally thirstier — ~5-7h real mixed use. USB-C PD charging."
+  },
+  "price": {
+    "cad": 4199,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19821745",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24, sku 19821745 (ASUS Canada direct), sale $4,199 (reg $4,499). No customer reviews yet (new listing).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19821745",
+        "cad": 4199,
+        "est": false,
+        "name": "ROG Zephyrus G16 (2026) 16\" 240Hz OLED Gaming Laptop - Intel Core Ultra 9 386H - 32GB LPDDR5X - 1TB SSD - RTX 5070 - Windows 11 Home - Eclipse Gray - Bilingual"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19821/19821745.png",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/A-slim-gaming-laptop-now-with-an-RTX-5090-and-64-GB-of-RAM-Asus-ROG-Zephyrus-G16-2025-review.993365.0.html",
+        "quote": "The ROG Zephyrus G16's 2025 update offers several upgrades... The input devices and speakers remain very good. (NBC 'very good' 90%, 2025 GU605CX; no 2026 GU606 pro review retrieved — same chassis/OLED family assumed.)"
+      }
+    ],
+    "note": "No 2026 GU606 pro review found 2026-11-24; ratings inferred from 2025 GU605 line anchor (same chassis/display family) with CPU-refresh delta."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Same OLED 240Hz + aluminum chassis as the acclaimed 2025 model (BBY line pool 4.65+/5) with a faster Arrow Lake refresh CPU",
+      "5070 + 2.5K OLED remains the sensible gaming match — smooth 2.5K play with DLSS in a 1.85 kg machine",
+      "Best-in-class speakers and keyboard/trackpad carry over (NBC line finding)",
+      "90Wh battery and USB-C charging keep it usable as a work laptop away from the outlet",
+      "Wi-Fi 7 and Thunderbolt 4 keep the platform current for 2026 buyers"
+    ],
+    "complaints": [
+      "$4,199-4,499 for the same 5070/32GB spec the 2025 model sells for at $3,699.95 — pure refresh tax (no value factor, but buyers notice)",
+      "GPU still TGP-capped in the slim chassis; same 8GB VRAM ceiling as 2025",
+      "Soldered RAM, 32GB max at this tier",
+      "OLED PWM flickering and limited HDR brightness carry over from 2025 (NBC cons)",
+      "Lid creak / hinge rocking and idle fan pulsing are unresolved line complaints"
+    ]
+  },
+  "design_philosophy": "The 2026 refresh of ASUS's thin-first 16-inch flagship: identical aluminum OLED chassis, new Arrow Lake-H refresh CPU, same RTX 50-series GPU stack. This mid config is the volume pick — the philosophy is unchanged: portability and display first, GPU wattage second, now at a refresh-price premium over the still-sold 2025 model.",
+  "ratings": {
+    "battery": 6.3,
+    "screen_size": 8,
+    "screen_quality": 9,
+    "readability_dark": 8.5,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 6.9,
+    "productivity": 8,
+    "portability": 8.2,
+    "build_quality": 8,
+    "thermals_noise": 6.2,
+    "port_connectivity": 6.5,
+    "creative_work": 7.3,
+    "keyboard_trackpad": 8.5,
+    "webcam_speakers": 8,
+    "upgradability": 3,
+    "ai_ml": 5,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 6.5
+  },
+  "rating_notes": "Inferred from 2025 GU605 NBC 90% anchor per SHARED-zephyrus-g16.md (same chassis/OLED family): 5070-tier deltas (-2.5 gaming vs 5090 anchor, 8GB VRAM caps ai_ml) plus 386H CPU refresh +0.2 productivity / -0.2 battery. No 2026 pro review retrieved — disclosed. Sale price $4,199 (reg $4,499)."
+}

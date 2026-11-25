@@ -1,0 +1,121 @@
+{
+  "id": "zba16-x2eext-16-512-oled",
+  "line": "ASUS Zenbook A16 (2026, Snapdragon X2 Elite Extreme)",
+  "config_name": "Zenbook A16 — Snapdragon X2 Elite Extreme, 16GB, 512GB SSD, 16\" 3K OLED 120Hz",
+  "tier": "High",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": false,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X2 Elite Extreme (18-core Oryon)",
+    "cpu_cores": 18,
+    "gpu": "Qualcomm Adreno integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe",
+    "screen_size_in": 16,
+    "display_type": "OLED non-touch, modern-gen panel",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 700,
+    "weight_kg": 1.2,
+    "ports": "USB-C (USB4), USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p FHD + IR",
+    "speakers": "quad-speaker, decent audio per UBR",
+    "keyboard_notes": "Backlit, fair ergonomics per UBR",
+    "pen_support": "none (non-touch)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 25,
+    "real_world_hours": 11,
+    "notes": "70Wh. UBR: ~10-11h text editing, 13-14h video at Whisper mode; 7-12h browsing Standard. 16-inch panel takes a toll vs A14."
+  },
+  "price": {
+    "cad": 2999,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-a16-16-laptop-snapdragon-x-26-100-16gb-lpddr5x-512gb-ssd-windows-11-30h-battery-life-iceland-grey/19870605",
+    "confidence": "estimated",
+    "notes": "BBY carries the entry Zenbook A16 X1-tier SKU 19870605 at $1,399.99 sale — X2 Elite Extreme A16 configs are scarce at BBY CA retail; CAD estimated from UBR US$1,699 as-reviewed price x ~1.35. Parent should re-verify.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20196754",
+        "cad": 2999,
+        "est": false,
+        "name": "ASUS Zenbook A16 16\" Laptop - Snapdragon X 26 100 - 16GB LPDDR5X - 512GB SSD - Windows 11 - 30h Battery Life - Iceland Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19870/19870605.jpg",
+  "professional": {
+    "avg_score": 8.5,
+    "reviews": [
+      {
+        "outlet": "Ultrabookreview",
+        "score": "4.25/5",
+        "url": "https://www.ultrabookreview.com/75005-asus-zenbook-a16-review/",
+        "quote": "This Asus Zenbook A16 checks many of the right boxes when it comes to a versatile all-purpose portable notebook. The lightweight and premium build, the fair ergonomics and the beautiful display, all add up alongside the performance and the efficiency of the Snapdragon X2 Elite Extreme hardware."
+      },
+      {
+        "outlet": "Ultrabookreview",
+        "score": "4.25/5",
+        "url": "https://www.ultrabookreview.com/75005-asus-zenbook-a16-review/",
+        "quote": "the whole Windows on ARM experience can still be finicky sometimes, and Asus's choice of only speccing this lineup with Extreme hardware pushes pricing higher that you might aim to spend"
+      },
+      {
+        "outlet": "CNET",
+        "score": "8.5/10",
+        "url": "https://www.cnet.com/tech/computing/",
+        "quote": "the lightest 16-inch laptop I've ever tested. (It weighs less than 3 pounds!) — Lackluster 3D performance; No room for internal expansion"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "1.2 kg for a 16-inch OLED — lighter than most 14-inch laptops (CNET: lightest 16-inch they ever tested)",
+      "X2 Elite Extreme is the fastest ARM Windows chip; UBR measured quiet, cool, fast on Standard mode",
+      "Beautiful modern 3K OLED panel with good quad-speaker audio",
+      "70Wh gives comfortable full-day light-use runtime for a 16-inch"
+    ],
+    "complaints": [
+      "Only sold in expensive X2 Elite Extreme spec tiers (UBR THE BAD)",
+      "Windows-on-ARM translation quirks remain",
+      "Unused internal space — no room for battery/speaker expansion (CNET con)",
+      "3D/gaming performance lackluster at native 3K",
+      "Scarce at CA retail — most BBY stock is the cheaper X1 variant"
+    ]
+  },
+  "design_philosophy": "ASUS's flagship ARM ultralight in 16-inch form: X2 Elite Extreme performance in a 1.2 kg Ceraluminum chassis with a modern OLED, aimed at users who want MacBook-Air-15-class portability with Windows. ASUS's decision to sell only top-bin Extreme silicon keeps capability high but prices up.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 8.5,
+    "screen_quality": 9,
+    "readability_dark": 8.5,
+    "readability_bright": 7.5,
+    "ecosystem": 7.5,
+    "gaming": 4.5,
+    "productivity": 8.5,
+    "portability": 9,
+    "build_quality": 8.5,
+    "thermals_noise": 9,
+    "port_connectivity": 7,
+    "creative_work": 6,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 7,
+    "upgradability": 3.5,
+    "ai_ml": 8.5,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 7
+  },
+  "rating_notes": "Direct Ultrabookreview anchor (X2 Elite Extreme config, 4.25/5, US$1,699). CNET 8.5 quotes verified in NOTES.md (Zenbook A16 anchor, US$1,700 at Best Buy) but exact CNET slug unresolved — parent may want the URL. ai_ml 8.5 = X2 Elite Extreme 80-TOPS NPU + unified memory. 16GB config −0.5 productivity vs 48GB reviewed tier."
+}

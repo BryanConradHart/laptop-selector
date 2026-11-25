@@ -1,0 +1,122 @@
+{
+  "id": "legion-pro7-16-5080-oled-32-1tb",
+  "line": "Lenovo Legion Pro 7 16 (Gen 10, 2025)",
+  "config_name": "Legion Pro 7 16\" — Core Ultra 9 275HX, RTX 5080 16GB, 32GB DDR5, 1TB SSD, 16\" WQXGA 240Hz OLED",
+  "tier": "Mid",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": false,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24-core: 8P+16E)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop 16GB (up to 175W)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600 (2x SODIMM, upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2280 NVMe Gen4 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "OLED glossy, 16:10",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1100,
+    "weight_kg": 2.6,
+    "ports": "2x USB-C (one DP/PD), 3x USB-A, HDMI 2.1, RJ45, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker front + bottom firing, Nahimic",
+    "keyboard_notes": "Per-key RGB, no TrackPoint; keys not centered on numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 4.5,
+    "notes": "99.9Wh. RTINGS: under 5h web browsing, ~6h video, ~1.5h gaming; full charge <2h via 400W adapter."
+  },
+  "price": {
+    "cad": 5749,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/lenovo-legion-pro-7-16-wqxga-240hz-oled-gaming-laptop-intel-ultra-9-275hx-32gb-ddr5-1tb-ssd-rtx-5080-windows-11-pro-black/19811195",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $8,212.86 / sale $5,749 (marketplace seller PC Heaven, online only). Sale price used.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/lenovo-legion-pro-7-16-wqxga-240hz-oled-gaming-laptop-intel-ultra-9-275hx-32gb-ddr5-1tb-ssd-rtx-5080-windows-11-pro-black/19811195",
+        "cad": 5749,
+        "est": false,
+        "name": "Lenovo Legion Pro 7 16\" WQXGA 240Hz OLED Gaming Laptop - Intel Ultra 9 275HX - 32GB DDR5 - 1TB SSD - RTX 5080 - Windows 11 Pro - Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19811/19811195.jpeg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "RTINGS",
+        "score": "8.7/10",
+        "url": "https://www.rtings.com/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026",
+        "quote": "The Lenovo Legion Pro 7i is excellent for gaming. Our RTX 5080 configuration achieves high frame rates across demanding games, including titles with ray tracing. The 240Hz OLED display offers excellent contrast and G-SYNC support to prevent screen tearing."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.7/10",
+        "url": "https://www.rtings.com/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026",
+        "quote": "The Legion Pro 7i has disappointing battery life. The RTX 5080 configuration lasts under five hours while browsing the web, a little over six hours watching videos, and only about an hour and a half while gaming."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.7/10",
+        "url": "https://www.rtings.com/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026",
+        "quote": "It uses an all-aluminum chassis with securely fitted feet and a finish that doesn't readily collect fingerprints or scratches. The keyboard deck has very little flex, but the lid and screen have more give under deliberate pressure."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "OLED panel is drop-dead gorgeous with blinding HDR highlights and color/brightness that's day-and-night vs the IPS tier (r/IndianGaming long-term owner)",
+      "All-aluminum chassis feels genuinely premium and the lighting (including power-button RGB) can be fully disabled for professional settings",
+      "The 175W RTX 5080 is nearly impossible to max out at native QHD; DLSS + Frame Gen keep demanding titles smooth",
+      "RAM and storage are user-replaceable SODIMM/M.2 — two M.2 slots and a swappable battery",
+      "Front + bottom-firing speakers are loud and crisp for a gaming laptop"
+    ],
+    "complaints": [
+      "Black-screen hard-crashes during gaming with nvlddmkm Event 13 'FECS UCODE Fatal Error' / TDR on multiple fresh RTX 5080 units (r/Lenovo)",
+      "OLED red-bleed / subpixel color-bleed reported on Gen 10 OLED panels, and Lenovo support unhelpful on overseas units",
+      "Fan bearing grinding noise appearing within months, requiring warranty fan replacement",
+      "Keyboard gets hot under load and the fans are loud; it's a plugged-in desktop-replacement, not a battery machine",
+      "No TrackPoint and numpad-key layout annoys long-time Lenovo/Legion loyalists"
+    ]
+  },
+  "design_philosophy": "Lenovo's flagship 16-inch desktop-replacement gaming line: all-aluminum chassis, high-wattage RTX 5080 GPU, and a fast high-refresh panel tuned for maximum FPS rather than portability. This OLED 32GB config is the sweet-spot build closest to what RTINGS tested — peak gaming and screen quality at the cost of battery life and weight.",
+  "ratings": {
+    "battery": 4,
+    "screen_size": 8,
+    "screen_quality": 9.3,
+    "readability_dark": 9.5,
+    "readability_bright": 6.8,
+    "ecosystem": 9,
+    "gaming": 9.5,
+    "productivity": 8.6,
+    "portability": 3,
+    "build_quality": 8.8,
+    "thermals_noise": 6,
+    "port_connectivity": 8,
+    "creative_work": 8.3,
+    "keyboard_trackpad": 7.8,
+    "webcam_speakers": 7,
+    "upgradability": 7.5,
+    "ai_ml": 8.5,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6.8
+  },
+  "rating_notes": "Ratings anchored directly on RTINGS' reviewed Legion Pro 7i Gen 10 16 config (Core Ultra 9 / RTX 5080 / 240Hz OLED, score 8.7). This BBY config uses the 275HX vs RTINGS' 290HX Plus (negligible CPU delta), so treated as the reviewed tier. OLED gives readability_dark 9.5 (perfect blacks) but glossy panel + only-OK factory color accuracy caps readability_bright 6.8 and screen_quality 9.3. Battery 4.0 per RTINGS sub-5h web / 1.5h gaming. Durability tempered by Reddit reports of TDR crashes, fan-bearing noise, and OLED red-bleed."
+}

@@ -1,0 +1,103 @@
+{
+  "id": "tp-p1-g8-u7-32-512-arc140t",
+  "line": "Lenovo ThinkPad P1 Gen 8 (2025)",
+  "config_name": "ThinkPad P1 Gen 8 16\" — Intel Core Ultra 7 265H vPro, Intel Arc 140T graphics, 32GB, 512GB SSD, 16\" IPS",
+  "tier": "Entry",
+  "category": "creator-workstation",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 265H vPro (Arrow Lake-H, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "Intel Arc 140T (discrete-tier iGPU-class pro graphics)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe (upgradeable)",
+    "screen_size_in": 16,
+    "display_type": "IPS anti-glare, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.81,
+    "ports": "2x TB4/USB-C, 2x USB-A, HDMI, 3.5mm, optional smart card",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "8MP + IR",
+    "speakers": "2-speaker + woofers, Dolby Audio",
+    "keyboard_notes": "ThinkPad keyboard + TrackPoint, spill-resistant",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 13,
+    "real_world_hours": 7.5,
+    "notes": "Est. ~90Wh class; Arrow Lake-H in thin chassis. No verified pro battery test found."
+  },
+  "price": {
+    "cad": 3869.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20203268",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $6,029.99 / sale $3,869.99 (SKU 20203268). Sale price used.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20203268",
+        "cad": 3869.99,
+        "est": false,
+        "name": "Lenovo ThinkPad P1 Gen 8 16\" Mobile Workstation - Intel Core Ultra 7 265H vPro - 32GB RAM - 512GB SSD - Intel Arc 140T Graphics - Windows 11 Pro"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20203/20203268.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Proven Arrow Lake-H platform with mature Arc 140T drivers — safer buy than launch-gen Gen 9",
+      "Excellent ThinkPad keyboard + TrackPoint and premium thin 16\" build at sale pricing",
+      "Arc 140T clears ISV certifications for mainstream CAD (SolidWorks, Inventor) at light-medium loads",
+      "vPro on this SKU suits business fleet deployment",
+      "Noticeably cheaper than Gen 9 at the same 32GB tier during sales"
+    ],
+    "complaints": [
+      "Soldered RAM caps this workstation at 32GB",
+      "512GB stock SSD is small for creator project libraries",
+      "One generation behind Gen 9 on CPU architecture",
+      "Base 60Hz IPS panel undersells the premium chassis",
+      "Inflated $6,030 regular price — real value only at ~$3,870 sale"
+    ]
+  },
+  "design_philosophy": "The Gen 8 P1 is last year's thin premium mobile workstation, still sold at clearance pricing — the value entry into P1-class build quality. Arc 140T graphics provide entry-level ISV-certified 3D capability in a chassis prioritizing weight, keyboard, and professional manageability over raw GPU throughput.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 8,
+    "screen_quality": 6.3,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 4.2,
+    "productivity": 8.3,
+    "portability": 7.3,
+    "build_quality": 9,
+    "thermals_noise": 6.3,
+    "port_connectivity": 7.5,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 9.2,
+    "webcam_speakers": 7.5,
+    "upgradability": 4.5,
+    "ai_ml": 4.8,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings inferred from sibling P1 Gen 9 entry (30.json) with −0.5 battery / −0.2 thermals for older Arrow Lake-H platform; Arc 140T slightly better 3D than Gen 9's Arc Pro tier (+0.2 gaming). No verified pro review (NBC bot-walled, BBY reviews empty) — see SHARED-thinkpad-p.md. Sentiment synthesized from P-series owner themes, disclosed."
+}

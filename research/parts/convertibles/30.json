@@ -1,0 +1,125 @@
+{
+  "id": "obxf14-u7-355-16-1tb-oled",
+  "line": "HP OmniBook X Flip 14 (2026, Panther Lake) — Spectre x360 14 successor",
+  "config_name": "OmniBook X Flip 14 — Core Ultra 7 355, 16GB LPDDR5x, 1TB SSD, 2K OLED touch",
+  "tier": "High",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 355 (Panther Lake)",
+    "cpu_cores": 8,
+    "gpu": "Intel integrated graphics (Panther Lake)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe",
+    "screen_size_in": 14,
+    "display_type": "2K OLED touch",
+    "resolution": "2240x1400",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 600,
+    "weight_kg": 1.4,
+    "ports": "2x Thunderbolt/USB-C, USB-A, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "5MP IR",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit, Copilot key",
+    "pen_support": "HP pen (MPP)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 21,
+    "real_world_hours": 10.5,
+    "notes": "OLED shaves ~0.5h vs IPS at same settings; estimate from platform, no direct CA test."
+  },
+  "price": {
+    "cad": 2179,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/hp-omnibook-x-flip-2-in-1-14-2k-oled-touchscreen-laptop-silver-intel-core-ultra-7-355-16gb-lpddr5x-1tb-ssd-intel-graphics-copilot-pc-backlit-keyboard-windows-11-home/20003786",
+    "confidence": "verified",
+    "notes": "Reg $2,719, sale $2,179 VERIFIED (BBY 20003782-family marketplace listing 20003786). 2TB tier $2,459, 4TB Pro tier $2,879 (omitted).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/hp-omnibook-x-flip-2-in-1-14-2k-oled-touchscreen-laptop-silver-intel-core-ultra-7-355-16gb-lpddr5x-1tb-ssd-intel-graphics-copilot-pc-backlit-keyboard-windows-11-home/20003786",
+        "cad": 2179,
+        "est": false,
+        "name": "HP OmniBook X Flip 2-in-1 14\" 2K OLED Touchscreen Laptop -Silver (Intel Core Ultra 7 355/ 16GB LPDDR5X/ 1TB SSD/ Intel Graphics/ Copilot+ PC/ Backlit Keyboard/ Windows 11 Home)"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/hp-omnibook-x-flip-2-in-1-14-2k-oled-touchscreen-laptop-silver-intel-core-ultra-7-355-16gb-lpddr5x-2tb-ssd-intel-graphics-copilot-pc-backlit-keyboard-windows-11-home/20003788",
+        "cad": 2459,
+        "est": false,
+        "name": "HP OmniBook X Flip 2-in-1 14\" 2K OLED Touchscreen Laptop -Silver (Intel Core Ultra 7 355/ 16GB LPDDR5X/ 2TB SSD/ Intel Graphics/ Copilot+ PC/ Backlit Keyboard/ Windows 11 Home)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20003/20003786.png",
+  "professional": {
+    "avg_score": 8.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "86%",
+        "url": "https://www.notebookcheck.net/HP-OmniBook-X-Flip-14-review-Flexible-performance-with-AMD-Zen-5.1333611.0.html",
+        "quote": "Flexible performance with AMD Zen 5. Pros: portable and travel-friendly USB-C AC adapter, strong CPU performance for the size, full sRGB colors at minimum, integrated HDMI and USB-A, strong chassis design, great battery life. Cons: HDR only available on highest-end SKU, no Arc B390 or Radeon 890M options, 1200p OLED panel could be brighter, new keyboard takes getting used to. (NBC review of the OmniBook X Flip 14 AMD Zen 5 config.)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "2K OLED makes this the best-looking screen in any sub-$2,500 CA convertible right now",
+      "Deep blacks with no backlight bleed — excellent for dark-room movie watching in tent mode",
+      "Great battery life for a convertible — Panther Lake sips power in light browsing and video",
+      "Light (~1.4 kg) and thin for a 2-in-1; easy tablet/tent use",
+      "1TB storage at this price beats the IPS tier's value once discounts stack"
+    ],
+    "complaints": [
+      "Only 16GB soldered RAM — no upgrade path",
+      "OLED glossy touch glass reflects badly in bright rooms",
+      "HP bloatware (Support Assistant, Maxx Audio) ships preinstalled and annoys owners",
+      "60Hz panel — competitors at this price are moving to 120Hz",
+      "Regular price $2,719 is poor value; only the frequent ~$540 sales make sense"
+    ]
+  },
+  "design_philosophy": "The OLED tier is the OmniBook X Flip 14 as HP intends it to be experienced: the Spectre x360's gem-cut premium spirit reborn as a clean aluminum convertible with a vivid OLED touch panel aimed at media-first buyers who also want pen input and Copilot+ AI.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 6,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 5.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7,
+    "portability": 8.5,
+    "build_quality": 7.5,
+    "thermals_noise": 8,
+    "port_connectivity": 6,
+    "creative_work": 7,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 7,
+    "upgradability": 2,
+    "ai_ml": 6.5,
+    "pen_touch": 7,
+    "repairability_service": 4,
+    "durability": 6.5
+  },
+  "rating_notes": "Pro score attached from NBC review of the OmniBook X Flip 14 AMD Zen 5 config (86%, gap-fill 2026-11-24); this Intel Ultra 355 tier shares chassis/display/battery findings but the score is from the AMD sibling. Inferred from sibling IPS tier (entry 29): +2.5 screen_quality / +3 readability_dark / -0.5 readability_bright / -0.5 battery for OLED; +1 creative_work for DCI-P3 coverage. Ratings anchored on OmniBook X clamshell NBC ~90% per ultrabooks NOTES; no direct pro review found for this CA config (bot-walls — see SHARED-hp-convertibles.md). BBY listing carries 0 reviews.",
+  "standouts": [
+    "2K OLED at a mid-range sale price",
+    "Battery-first Panther Lake",
+    "Pen + touch"
+  ],
+  "dealbreakers": [
+    "16GB soldered RAM ceiling"
+  ]
+}

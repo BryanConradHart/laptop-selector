@@ -1,0 +1,110 @@
+{
+  "id": "msi-vector-a16-hx-5070ti-8840hx-32-1tb-qhd240",
+  "line": "MSI Vector A16 HX (2025, AMD)",
+  "config_name": "Vector A16 HX — Ryzen 7 8840HX, RTX 5070 Ti 12GB, 32GB DDR5, 1TB SSD, 16\" QHD+ 240Hz",
+  "tier": "High",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-09",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 7 8840HX (Zen 4, 12-core/24-thread, Dragon Range refresh)",
+    "cpu_cores": 12,
+    "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop 12GB GDDR7 (MUX + Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5 SODIMM (2 slots, user-upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe Gen4 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "IPS, anti-glare, 16:10",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 0,
+    "weight_kg": 2.7,
+    "ports": "1x Thunderbolt 4 (USB-C), 1x USB-C, 3x USB-A, HDMI 2.1, 2.5G Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p with privacy shutter",
+    "speakers": "2-speaker",
+    "keyboard_notes": "24-zone RGB backlit, numpad; unconventional MSI layout",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 4.5,
+    "notes": "90 Wh cell assumed (same chassis); Zen 4 HX idle draw slightly worse than Arrow Lake-HX. Estimated."
+  },
+  "price": {
+    "cad": 2999.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20177990",
+    "confidence": "verified",
+    "notes": "BBY sku 20177990, $2,999.99 sale / $3,599.99 reg, verified 2026-11-24. Marketplace seller Tech Nation. 2TB twin: sku 20177991 $3,199.99.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20177990",
+        "cad": 2999.99,
+        "est": false,
+        "name": "MSI Vector A16 HX Gaming Laptop, 16\" QHD+ 240Hz, AMD Ryzen 7 8840HX, RTX 5070 Ti, 32GB DDR5, 1TB SSD, Thunderbolt 4, Wi-Fi 7, Windows 11 Home, Cosmo Gray"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20177/20177990.webp",
+  "professional": {
+    "avg_score": 8.4,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "84%",
+        "url": "https://www.notebookcheck.net/MSI-Vector-16-HX-AI-review-A-feature-rich-gaming-laptop-powered-by-RTX-5070-Ti.1039895.0.html",
+        "quote": "Among the standout features is the abundant connectivity, featuring two Thunderbolt 5 ports."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest QHD+ 240Hz + RTX 5070 Ti combo in Canada (~$3,000) — the value pick of the Vector family",
+      "Same sturdy Vector chassis: two M.2 + two SO-DIMM slots, 32GB factory RAM",
+      "Ryzen 7 8840HX 12c/24t is strong for compile/multitask workloads at this price",
+      "240Hz QHD+ panel with wide gamut (same panel family as the NBC-reviewed Intel model)",
+      "Thunderbolt 4 + full port set incl. 2.5G Ethernet (listing spec)"
+    ],
+    "complaints": [
+      "AMD tier is USB4/TB4, not the Intel model's dual Thunderbolt 5",
+      "Same fan-control gripe as the Intel Vector: audible at idle until you retune curves",
+      "Heavy 280W-class PSU adds travel bulk (Vector-line theme)",
+      "Unconventional keyboard layout, limited lid angle (Vector-line, NBC)",
+      "Marketplace seller listing (Tech Nation) with inflated anchor price"
+    ]
+  },
+  "design_philosophy": "The A16 HX is MSI's AMD-forum variant of the Vector: same chassis and GPU stack, cheaper Zen 4 HX CPU, one Thunderbolt generation behind. It exists to undercut Intel 5070 Ti pricing for buyers who prioritize GPU tier over CPU platform.",
+  "ratings": {
+    "battery": 4.5,
+    "screen_size": 8,
+    "screen_quality": 7.5,
+    "readability_dark": 6,
+    "readability_bright": 6,
+    "ecosystem": 9.5,
+    "gaming": 8.5,
+    "productivity": 8,
+    "portability": 4,
+    "build_quality": 7.5,
+    "thermals_noise": 6,
+    "port_connectivity": 8,
+    "creative_work": 7.5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 6,
+    "upgradability": 8.5,
+    "ai_ml": 7,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 7
+  },
+  "rating_notes": "No direct pro review for the AMD A16 variant. Ratings inferred from NBC Vector 16 HX AI 5070 Ti review (84%, SHARED-msi-katana-vector.md): 8840HX vs 255HX → productivity −0.5, battery −0.5 (Zen4 idle draw); TB4 vs dual TB5 → port_connectivity −1.0; gaming unchanged (same GPU)."
+}

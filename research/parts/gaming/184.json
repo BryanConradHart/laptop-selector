@@ -1,0 +1,103 @@
+{
+  "id": "msi-katana-15-hx-5060-14650hx-16-1tb-qhd",
+  "line": "MSI Katana 15 HX (2025, B14VFK)",
+  "config_name": "Katana 15 HX — Core i7-14650HX, RTX 5060 8GB, 16GB DDR5, 1TB SSD, 15.6\" QHD 165Hz",
+  "tier": "Entry",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core i7-14650HX (Raptor Lake-HX refresh, 16-core: 8P+8E)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7 (MUX switch)",
+    "gpu_type": "discrete",
+    "ram_gb": 16,
+    "ram_type": "DDR5 SODIMM (2 slots, user-upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe Gen4 (2 slots)",
+    "screen_size_in": 15.6,
+    "display_type": "IPS, anti-glare, 16:9",
+    "resolution": "2560x1440",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": 0,
+    "weight_kg": 2.3,
+    "ports": "1x USB-C 10Gbps (DP), 2x USB-A 3.2, USB-A 2.0, HDMI 2.1, Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "720p HD (no shutter)",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Full-size numpad, 4-zone RGB; compact budget layout",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 4,
+    "notes": "~73Wh cell typical of Katana chassis; 14th-gen HX idle draw is poor. Estimated, no pro battery test captured."
+  },
+  "price": {
+    "cad": 2187.51,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20012913",
+    "confidence": "verified",
+    "notes": "BBY sku 20012913, $2,187.51 sale / $3,087.51 reg, verified 2026-11-24. Marketplace seller PCStop, inflated anchor (~29% 'sale'). Win11 Pro twin: 20012921 $2,257.67.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20012913",
+        "cad": 2187.51,
+        "est": false,
+        "name": "MSI Katana 15 HX Gaming Laptop, 15.6\" 165Hz WQHD IPS Display, 14th Intel i7-14650HX 16-Core, NVIDIA GeForce RTX 5060, 16GB DDR5 1TB SSD, RGB Backlit KB, HD Camera, Win11 Home"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20012/20012913.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest RTX 50-series laptop tier in this set: 5060 + DLSS 4 QHD-capable for ~$2,190 (BBY)",
+      "QHD 165Hz panel at this price beats the FHD 144Hz panels on most budget rivals",
+      "16-core i7-14650HX is strong for the price — good compile/multitask CPU",
+      "Two SO-DIMM + two M.2 slots: cheap self-upgrades later (Katana-line trait)",
+      "Solid port spread for a budget chassis incl. HDMI 2.1 and Ethernet"
+    ],
+    "complaints": [
+      "Mostly plastic chassis with deck flex — clear step down from Vector's sturdy build",
+      "720p webcam with no privacy shutter, weak speakers (Katana-line budget cut)",
+      "Fan ramps audibly under gaming; mediocre keyboard-deck temps vs Vector",
+      "Poor battery — 14th-gen HX idles power-hungry, ~3-4h light use",
+      "MSI Center bloat and aggressive marketplace anchor pricing (PCStop SKU)"
+    ]
+  },
+  "design_philosophy": "The Katana is MSI's entry gaming line: carry-over 14th-gen HX CPUs and a plastic 15.6\" chassis paired with current RTX 50 silicon, sold through big-box marketplace listings at the lowest prices in the category. This entry tier gambles that budget buyers prefer GPU generation and a QHD 165Hz panel over build quality, webcam, or battery.",
+  "ratings": {
+    "battery": 4,
+    "screen_size": 7,
+    "screen_quality": 5.5,
+    "readability_dark": 5,
+    "readability_bright": 5,
+    "ecosystem": 9.5,
+    "gaming": 6,
+    "productivity": 7,
+    "portability": 5,
+    "build_quality": 5,
+    "thermals_noise": 5.5,
+    "port_connectivity": 6,
+    "creative_work": 5,
+    "keyboard_trackpad": 5.5,
+    "webcam_speakers": 3.5,
+    "upgradability": 8,
+    "ai_ml": 5,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 5.5
+  },
+  "rating_notes": "No numeric pro score found for Katana 15 HX (RTINGS/NBC bot-walled, search engines CAPTCHA'd — see SHARED-msi-katana-vector.md; nothing fabricated). Ratings inferred from NBC Vector 16 HX AI anchor (84%) with budget-chassis deltas per SHARED: build −2.5, webcam_speakers −2.5 (720p cam), gaming −2.5 (5060 vs 5070 Ti), portability +1, port_connectivity −3 (no TB), screen_quality −2."
+}

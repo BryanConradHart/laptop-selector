@@ -1,0 +1,118 @@
+{
+  "id": "tab-s10plus-12-256",
+  "line": "Samsung Galaxy Tab S10+ (2024)",
+  "config_name": "Galaxy Tab S10+ — Dimensity 9300+, 12GB RAM, 256GB, 12.4\" Dynamic AMOLED 2X + Slim Keyboard Cover (priced in)",
+  "tier": "Mid",
+  "category": "tablets-ios-android",
+  "ecosystem": "Android",
+  "form_factor": "tablet",
+  "release": "2024-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "MediaTek Dimensity 9300+ (8-core: 4x3.4GHz Cortex-X4 + 4x2.0GHz A720)",
+    "cpu_cores": 8,
+    "gpu": "Immortalis-G720 MC12 (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 12,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 256,
+    "storage_type": "UFS 4.0 soldered + microSD (up to 1.5TB)",
+    "screen_size_in": 12.4,
+    "display_type": "Dynamic AMOLED 2X (glossy, anti-reflective)",
+    "resolution": "2800x1752",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 930,
+    "brightness_hdr_nits": 930,
+    "weight_kg": 0.587,
+    "ports": "1x USB-C 3.2 (DP out, DeX), pogo pins for keyboard cover — no 3.5mm, no HDMI",
+    "wireless": "Wi-Fi 6E (some units Exynos-modem variance), BT 5.3",
+    "webcam": "12MP ultra-wide front (landscape) + 13MP/6MP rear",
+    "speakers": "Quad AKG (stereo pairs)",
+    "keyboard_notes": "Slim Keyboard Cover (BBY 18469762) included in price: scissor keys, NO trackpad (trackpad only on the $299 Book Cover Keyboard); pogo-pin powered, no charging",
+    "pen_support": "S Pen INCLUDED in box (Bluetooth air actions, IP68)",
+    "os": "Android 14 (One UI 6.1) at launch; 7 years OS + security updates promised; Samsung DeX desktop mode"
+  },
+  "battery": {
+    "claimed_hours": 12,
+    "real_world_hours": 10,
+    "notes": "10,090mAh. Lab Wi-Fi-web runs ~12-14h; users report ~9-11h mixed real use. 45W charging, ~2h to full."
+  },
+  "price": {
+    "cad": 1720,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/18390513",
+    "confidence": "verified",
+    "notes": "Tab S10+ 256GB $1,499.99 (BBY SKU 18390513) + Slim Keyboard Cover $219.97 reg (BBY 18469762, sale $131.97) = $1,719.96 cover-in price. Cover-only price: $219.97 reg / $131.97 sale.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/18390513",
+        "cad": 1499.99,
+        "est": false,
+        "name": "Samsung Galaxy Tab S10+ (Plus) 12.4-inch 256GB, Wi-Fi, 12GB RAM with S Pen - Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/183/18390/18390513.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "no numeric score retrieved",
+        "url": "https://www.notebookcheck.net/ (Tab S10+ review exists but exact article URL unresolvable — guessed numeric IDs redirect; bot-walled 2026-11-24)",
+        "quote": ""
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "DeX desktop mode with the keyboard cover: real multi-window desktop UI on a 12.4\" AMOLED — the closest Android gets to a laptop (r/Samsung)",
+      "S Pen in the box at zero extra cost — users constantly contrast this with Apple's +$169 Pencil",
+      "Galaxy phone parity: Quick Share, Second Screen as a PC monitor, auto call/text relay — continuity rivals Apple within the Galaxy bubble",
+      "Quad AKG speakers are loud and clean enough to skip a Bluetooth speaker",
+      "microSD slot AND IP68 in a flagship — pool-safe with expandable storage Apple dropped and even Samsung's own S11 line dropped"
+    ],
+    "complaints": [
+      "DeX is per-app: banking apps and many popular apps refuse to window, and Chrome has no desktop mode (Samsung Internet does) — desktop promise is half-kept",
+      "Slim Keyboard Cover has NO trackpad — the mouse/trackpad tax means the $299 Book Cover Keyboard for a real typing setup",
+      "AMOLED PWM flicker at low brightness bothers light-sensitive readers in dark rooms",
+      "Dimensity 9300+ is only a modest uplift over the S9's Snapdragon — some GPU benchmarks actually regressed",
+      "No headphone jack; USB-C audio dongle dangles when the keyboard cover is on"
+    ]
+  },
+  "design_philosophy": "Samsung's flagship all-rounder slate: best-in-class AMOLED, included S Pen, IP68, and a 7-year update pledge, with DeX as its laptop-substitution pitch. This 256GB + Slim Keyboard tier is the volume buy — the price includes the entry keyboard, which buys typing but not a trackpad, so the honest laptop config is $80-170 more.",
+  "ratings": {
+    "battery": 8.3,
+    "screen_size": 7.8,
+    "screen_quality": 9.3,
+    "readability_dark": 6.5,
+    "readability_bright": 8.5,
+    "ecosystem": 7,
+    "gaming": 6.5,
+    "productivity": 6.8,
+    "portability": 8,
+    "build_quality": 9,
+    "thermals_noise": 8.5,
+    "port_connectivity": 4,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 5.5,
+    "webcam_speakers": 8,
+    "upgradability": 4,
+    "ai_ml": 5.5,
+    "pen_touch": 9.5,
+    "repairability_service": 5.5,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings anchored on the NBC-reviewed S10+ launch config per SHARED-tab-s10.md; no verbatim pro score retrievable (NBC/RTINGS bot-walled 2026-11-24 — disclosed, none invented). Ecosystem 7.0 = DeX + Galaxy-phone parity strong but Android tablet app gap; keyboard_trackpad 5.5 = priced-in Slim cover has good keys but no trackpad (real user gripe). microSD lifts upgradability above iPad peers. Image URL is BBY CDN SKU guess.",
+  "standouts": [
+    "DeX + included S Pen + IP68 + microSD — no other 12\" flagship combines all four",
+    "7-year OS/security update pledge (through ~2031) at a mid-laptop price",
+    "930-nit 120Hz AMOLED with near-perfect contrast"
+  ],
+  "dealbreakers": [
+    "Trackpad requires the pricier $299 Book Cover Keyboard — the priced-in cover is keys-only"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "strix-g16-275hx-5070-32-2tb-240hdr",
+  "line": "ASUS ROG Strix G16 (2025/2026, G615)",
+  "config_name": "Strix G16 16\" — Core Ultra 9 275HX, RTX 5070 8GB, 32GB DDR5, 2TB SSD, 16\" QHD+ 240Hz Nebula HDR",
+  "tier": "High",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24-core: 8P+16E)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB (full ~115W TGP + boost)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5 (2x SODIMM, upgradeable)",
+    "storage_gb": 2000,
+    "storage_type": "M.2 NVMe (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "IPS Nebula HDR, 16:10",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 620,
+    "weight_kg": 2.5,
+    "ports": "2x USB-A, 1x USB-C (DP/PD), HDMI 2.1, RJ45, 3.5mm",
+    "wireless": "Wi-Fi 6E/7, BT 5.3+",
+    "webcam": "1080p",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Per-key RGB, oversized Enter, no numpad on G16",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 5,
+    "notes": "~90Wh. Line-typical: ~5-6h light use, ~1.5h gaming; users report ~1-2h worse than lab figures (see SHARED-strix-g16.md)."
+  },
+  "price": {
+    "cad": 3399.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-rog-strix-g16-16-240hz-hdr-gaming-laptop-intel-core-ultra-9-275hx-32gb-ddr5-2tb-ssd-nvidia-rtx-5070-windows-11-home-eclipse-gray/19338499",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $3,399.95 (no sale), sku 19338499, direct (non-marketplace). BBY customer rating 4.62/5, n=499.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-rog-strix-g16-16-240hz-hdr-gaming-laptop-intel-core-ultra-9-275hx-32gb-ddr5-2tb-ssd-nvidia-rtx-5070-windows-11-home-eclipse-gray/19338499",
+        "cad": 3399.95,
+        "est": false,
+        "name": "ASUS ROG Strix G16 16\" 240Hz HDR Gaming Laptop - Intel Core Ultra 9 275HX - 32GB DDR5 - 2TB SSD - NVIDIA RTX 5070 - Windows 11 Home - Eclipse Gray"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/193/19338/19338499.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (verdict)",
+        "score": "recommended (verdict: Good)",
+        "url": "https://www.notebookcheck.net/Asus-ROG-Strix-G16-2025-review-verdict-Good-RTX-5080-gaming-laptop-but-faster-Ryzen-9-9955HX-is-only-available-with-RTX-5070-Ti.1008100.0.html",
+        "quote": "a fast gaming notebook with an RTX 5080 Laptop, which is an excellent match for the native QHD resolution of its matte IPS panel... the faster Ryzen 9 9955HX has to make do with the RTX 5070 Ti Laptop (reviewed 5080 config; CA retail tops out at 5070)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "BBY customer rating 4.62/5 across 499 reviews — the strongest-reviewed Strix G16 listing in Canada",
+      "Full-TGP RTX 5070 keeps demanding titles smooth at native QHD+ with DLSS; cross-shoppers cite ~120 FPS averages beating similarly priced rivals",
+      "QHD+ 240Hz Nebula HDR panel is a genuine step up — bright, fast, G-SYNC/Advanced Optimus with MUX switch",
+      "2x DDR5 SODIMM + 2x M.2 slots: RAM and storage are user-upgradeable, unlike soldered-RAM thin rivals",
+      "Aggressive per-key RGB and Armoury Crate fan profiles; GPU-side stays cool in long sessions"
+    ],
+    "complaints": [
+      "Battery unplugged is short — ~5h light use, ~1.5h gaming; it is a plugged-in machine",
+      "Turbo fan mode is loud under load; headphone territory",
+      "Plastic chassis has more deck/lid flex than the aluminum Legion Pro 7 at a similar price",
+      "Bulky 240W+ power brick adds real weight to the bag",
+      "Occasional ASUS QC gripes in reviews: panel backlight bleed and dead-pixel roulette on some units"
+    ]
+  },
+  "design_philosophy": "ASUS's mainstream 16-inch Strix: full-wattage RTX 50-series GPUs and high-refresh Nebula panels in a serviceable plastic chassis, tuned for FPS-per-dollar rather than thinness. This 275HX/5070/32GB/2TB build is the flagship CA Strix G16 tier and the highest-volume listing (499 BBY reviews), and is used as the anchor config for the whole line in SHARED-strix-g16.md.",
+  "ratings": {
+    "battery": 4.5,
+    "screen_size": 8,
+    "screen_quality": 8,
+    "readability_dark": 7,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 8,
+    "productivity": 8,
+    "portability": 4.3,
+    "build_quality": 7,
+    "thermals_noise": 6,
+    "port_connectivity": 7.5,
+    "creative_work": 7,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 7.5,
+    "ai_ml": 6.5,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6.5
+  },
+  "rating_notes": "No pro review retrieved before the researcher hard-stop (rtings/NBC pages not fetched on 2026-11-24) — professional.avg_score null per SCHEMA; do not cite a Strix G16 pro score. Ratings inferred from dataset-anchored sibling lines (Legion Pro 7/7i RTX 5080 gaming 9.5/battery 4.0; OMEN Max 16 calibration in SHARED-strix-g16.md): RTX 5070 tier ≈ 9.5 − 1.5 = gaming 8.0; ai_ml 6.5 capped by 8GB VRAM; battery 4.5 per user-calibrated ~5h light use on ~90Wh; build 7.0 (plastic chassis vs aluminum Legion); upgradability 7.5 (2x SODIMM, 2x M.2). BBY 4.62/5 (n=499) supports user-sentiment claims. Pro anchor added via browser gap-fill (see GAPFILL-strix-g16.md): NBC reviewed the 275HX+5080 sibling config 2025-04."
+}

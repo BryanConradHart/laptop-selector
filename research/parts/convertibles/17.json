@@ -1,0 +1,104 @@
+{
+  "id": "yoga7a2-16-a5-430-16-512",
+  "line": "Lenovo Yoga 7a 2-in-1 16 (Gen 11, 2026 AMD)",
+  "config_name": "Yoga 7a 2-in-1 16\" — Ryzen AI 5 430 (Krackan Point), 16GB LPDDR5x, 512GB SSD, 16\" touch",
+  "tier": "Entry",
+  "category": "convertibles-2in1",
+  "ecosystem": "Windows",
+  "form_factor": "convertible",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 5 430 (Zen 5/5c, 6-core)",
+    "cpu_cores": 6,
+    "gpu": "AMD Radeon 840M (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe (single slot)",
+    "screen_size_in": 16,
+    "display_type": "IPS touch, 16:10 (WUXGA per sibling listings)",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.85,
+    "ports": "2x USB-C (DP/PD), 2x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p",
+    "speakers": "2-speaker + tweeters",
+    "keyboard_notes": "Backlit chiclet, fingerprint reader",
+    "pen_support": "MPP 2.0 active pen (sold separately)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 18,
+    "real_world_hours": 10,
+    "notes": "~70Wh; Zen 5c efficiency good but 16\" WUXGA panel; est. 9-12h light use. 4.53★/55 BBY listing broadly happy with runtime."
+  },
+  "price": {
+    "cad": 1599.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/lenovo-yoga-7a-16-touchscreen-2-in-1-laptop-amd-ryzen-ai-5-430-16gb-lpddr5x-512gb-ssd-windows-11-home-seashell/19767707",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: $1,599.99 no sale. 4.53★/55 reviews.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/lenovo-yoga-7a-16-touchscreen-2-in-1-laptop-amd-ryzen-ai-5-430-16gb-lpddr5x-512gb-ssd-windows-11-home-seashell/19767707",
+        "cad": 1599.99,
+        "est": false,
+        "name": "Lenovo Yoga 7a 16\" Touchscreen 2-in-1 Laptop - AMD Ryzen AI 5 430 - 16GB LPDDR5x - 512GB SSD - Windows 11 Home - Seashell"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19767/19767707.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "No numeric pro score found (see SHARED-yoga7i-2in1.md). Anchored on BBY aggregate 4.53★/55 for this SKU."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest 16\" Copilot+ convertible at Best Buy — BBY reviewers call it a steal for big-screen casual work",
+      "Ryzen AI 5 430 (~50 TOPS NPU) is Copilot+ certified at entry pricing",
+      "Quiet and cool in everyday use; 4.53★ average from 55 owners",
+      "Solid aluminium convertible build at a fraction of Yoga 9i money",
+      "Good keyboard and fast fingerprint reader for the price"
+    ],
+    "complaints": [
+      "Radeon 840M is the weakest iGPU in this line — gaming limited to light/older titles",
+      "WUXGA (1200p) panel is dimmer and lower-res than the Intel siblings' 2K/OLED options",
+      "16GB soldered RAM ceiling",
+      "Heavier 16\" chassis (~1.85 kg) is clumsy in tablet mode",
+      "Pen not included"
+    ]
+  },
+  "design_philosophy": "The AMD value flank of the Yoga convertible family: Zen 5c Krackan Point silicon brings Copilot+ NPU credentials to the biggest screen in the line at the lowest price. It trades GPU punch and panel quality for cost — the budget big-screen flip, not the performance one.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 8,
+    "screen_quality": 6,
+    "readability_dark": 5.5,
+    "readability_bright": 5.5,
+    "ecosystem": 9,
+    "gaming": 3,
+    "productivity": 6.8,
+    "portability": 6,
+    "build_quality": 7.3,
+    "thermals_noise": 8,
+    "port_connectivity": 7,
+    "creative_work": 5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 5.8,
+    "upgradability": 3,
+    "ai_ml": 5.5,
+    "pen_touch": 6,
+    "repairability_service": 5,
+    "durability": 6.5
+  },
+  "rating_notes": "Ratings anchored on this SKU's own BBY aggregate (4.53★/55) + SHARED-yoga7i-2in1.md line calibration; no pro score found (bot-walls disclosed). Ryzen AI 5 430: Radeon 840M gaming 3.0, ~50 TOPS NPU → ai_ml 5.5. WUXGA IPS (sibling-name verified) → screen_quality 6.0. 16\" deltas applied per calibration (screen_size +1.5, portability −1.5)."
+}

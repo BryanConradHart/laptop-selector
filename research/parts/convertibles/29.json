@@ -1,0 +1,111 @@
+{
+  "id": "obxf14-u7-355-16-512",
+  "line": "HP OmniBook X Flip 14 (2026, Panther Lake) — Spectre x360 14 successor",
+  "config_name": "OmniBook X Flip 14 — Core Ultra 7 355, 16GB LPDDR5x, 512GB SSD, touch 2-in-1",
+  "tier": "Mid",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 355 (Panther Lake)",
+    "cpu_cores": 8,
+    "gpu": "Intel integrated graphics (Panther Lake)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 14,
+    "display_type": "IPS touch (WUXGA class)",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.4,
+    "ports": "2x Thunderbolt/USB-C, USB-A, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "5MP IR",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit, Copilot key",
+    "pen_support": "HP pen (MPP)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 21,
+    "real_world_hours": 11,
+    "notes": "Panther Lake efficiency cores strong in light use; convertible backlight + touch penalty. Estimate from platform; no direct CA review test."
+  },
+  "price": {
+    "cad": 1699.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/hp-omnibook-x-flip-14-touchscreen-2-in-1-laptop-intel-core-ultra-7-355-16gb-lpddr5x-ram-512gb-ssd-atmospheric-blue/19997565",
+    "confidence": "verified",
+    "notes": "Reg $1,889.99; sale $1,699.99 VERIFIED via BBY API 2026-11-24 (sku 19997565). Open-box twins from $1,234-1,529.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/hp-omnibook-x-flip-14-touchscreen-2-in-1-laptop-intel-core-ultra-7-355-16gb-lpddr5x-ram-512gb-ssd-atmospheric-blue/19997565",
+        "cad": 1699.99,
+        "est": false,
+        "name": "HP OmniBook X Flip 14\" Touchscreen 2-in-1 Laptop - Intel Core Ultra 7 355 - 16GB LPDDR5x RAM - 512GB SSD - Atmospheric Blue"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/203/20333/20333759.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Great battery life for a convertible — Panther Lake sips power in light browsing and video",
+      "Light (~1.4 kg) and thin for a 2-in-1; easy to use in tablet/tent modes",
+      "Copilot+ NPU handles on-device AI features without fan noise",
+      "BBY buyers rate it 4.14/5 across 22 reviews — screen and keyboard repeatedly called out as good for the price",
+      "Frequently discounted $200-400 off, making Panther Lake accessible"
+    ],
+    "complaints": [
+      "Only 16GB soldered RAM — no upgrade path and a ceiling for heavy multitasking",
+      "HP bloatware (HP Support Assistant, Maxx Audio overlays) annoys owners more than on business EliteBook line",
+      "Base 512GB SSD fills fast; storage upgrades are steeply priced (1TB OLED tier costs +$480)",
+      "60Hz non-OLED base panel looks dull next to OLED siblings; glossy touch glass reflects in bright rooms",
+      "Hinge has slight wobble when typing in tent mode (common X Flip complaint from 16\" siblings)"
+    ]
+  },
+  "design_philosophy": "HP's OmniBook X Flip is the direct successor to the Spectre x360 14 after HP folded Spectre into the OmniBook brand: a premium-adjacent convertible that trades gem-cut styling for a cleaner aluminum chassis, Copilot+ AI positioning, and battery-first silicon. This entry tier buys the newest Panther Lake platform at the lowest price, sacrificing the OLED panel that defines the line's premium appeal.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 6,
+    "screen_quality": 6.5,
+    "readability_dark": 6,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 7,
+    "portability": 8.5,
+    "build_quality": 7.5,
+    "thermals_noise": 8,
+    "port_connectivity": 6,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 7,
+    "upgradability": 2,
+    "ai_ml": 6.5,
+    "pen_touch": 7,
+    "repairability_service": 4,
+    "durability": 6.5
+  },
+  "rating_notes": "Ratings inferred from OmniBook X 14 clamshell reviews (NBC ~90% per ultrabooks NOTES) and OmniBook X Flip 16 sibling user sentiment; Panther Lake platform deltas applied. BBY aggregate 4.14/5 (22 reviews) used for user-sentiment calibration; no pro review of this exact CA config found (bot-walls — see SHARED-hp-convertibles.md). Image URL is refurb-twin BBY CDN image; base SKU's image field was null.",
+  "standouts": [
+    "Battery-first Panther Lake in a light convertible",
+    "Frequent deep discounts",
+    "Copilot+ NPU"
+  ],
+  "dealbreakers": [
+    "16GB soldered RAM ceiling"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "blade14-2025-365-5070-64-2tb",
+  "line": "Razer Blade 14 (2025, AMD Ryzen AI)",
+  "config_name": "Razer Blade 14 — Ryzen AI 9 365 / RTX 5070, 64GB RAM, 2TB SSD",
+  "tier": "High",
+  "release": "2025-04",
+  "inferred": true,
+  "specs": {
+    "cpu_cores": 10,
+    "gpu_type": "dedicated",
+    "ram_gb": 64,
+    "ram_type": "LPDDR5x-8000 soldered",
+    "screen_size_in": 14,
+    "display_type": "OLED (QHD+, glossy)",
+    "resolution": "2560x1600",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 500,
+    "weight_kg": 1.85,
+    "ports": "2x USB4 40Gbps, 3x USB-A 3.1 Gen2, HDMI 2.1, SDXC, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "Quad-speaker (est.)",
+    "keyboard_notes": "Chiclet, 1.5mm travel, per-key RGB",
+    "pen_support": "none",
+    "os": "Windows 11 Home",
+    "storage_type": "NVMe M.2 (2 slots est.)",
+    "cpu": "AMD Ryzen AI 9 365 (10-core: 4P+6E)",
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7",
+    "storage_gb": 2000
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 6.5,
+    "notes": "~70Wh (est.); same platform as the 32GB twin."
+  },
+  "price": {
+    "cad": 3899.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/p/19218985",
+    "confidence": "verified",
+    "notes": "BBY API-verified 2026-11-24, SKU 19218985.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/p/19218985",
+        "cad": 3899.99,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19218/19218985.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "MacBook-like rigid CNC aluminum unibody in a gaming laptop — 'the base unit cannot be warped' (NBC)",
+      "Improved 1.5mm-travel keyboard much better than older Blade models",
+      "64GB soldered RAM is unusual and useful in a 14-inch gaming laptop",
+      "Copilot+ Ryzen AI platform with 50 TOPS NPU",
+      "120Hz OLED with superb factory calibration"
+    ],
+    "complaints": [
+      "Black anodized surfaces are extreme fingerprint and dirt magnets (NBC con: 'surfaces remain extremely susceptible to dirt')",
+      "RAM is soldered on the 2025 AMD model — NBC calls it 'a step backwards' for maintenance",
+      "High case temperatures under load; deck near the vents runs hot (NBC: 'case temperatures have increased')",
+      "OLED PWM flickering at 960Hz below 100% brightness bothers sensitive users",
+      "Long-standing Blade-line wear: anodizing/paint scuffs at lid edges and hinge corners over time"
+    ]
+  },
+  "design_philosophy": "The Blade 14 is the most compact expression of Razer's aluminum-unibody gaming philosophy — a full RTX 50-series GPU and a calibrated OLED squeezed into a ~1.85kg 14-inch chassis that could pass for a work ultrabook. This Copilot+ Ryzen AI config trades peak TGP for portability and efficiency, targeting gamers who travel.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 5.5,
+    "screen_quality": 8.5,
+    "readability_dark": 7.5,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 7,
+    "productivity": 8,
+    "portability": 8,
+    "build_quality": 9.5,
+    "thermals_noise": 5.5,
+    "port_connectivity": 8.5,
+    "creative_work": 8.5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 6,
+    "upgradability": 4.5,
+    "ai_ml": 8.5,
+    "pen_touch": 0,
+    "repairability_service": 4.5,
+    "durability": 7
+  },
+  "rating_notes": "Inferred from NBC's Blade 16 2025 (87%) with Blade 14 deltas (see 32GB sibling) plus +0.5 productivity and +0.5 ai_ml for 64GB RAM vs 32GB (net ai_ml -0.5). No Blade 14-specific pro score found within budget; weight/battery estimated.",
+  "standouts": [
+    "64GB RAM in a ~1.85kg gaming laptop — rare for local AI/VM use"
+  ],
+  "dealbreakers": [
+    "RTX 5070's 8GB VRAM is the bottleneck, not the RAM"
+  ],
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell"
+}

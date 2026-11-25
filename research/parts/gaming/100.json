@@ -1,0 +1,110 @@
+{
+  "id": "legion7i-g10-16-275hx-5070-32-1tb",
+  "line": "Lenovo Legion 7i Gen 10 (2025, 16\" 16IAX10 Aura Edition)",
+  "config_name": "Legion 7i 16 Gen 10 — Core Ultra 9 275HX / RTX 5070 8GB, 32GB DDR5, 1TB SSD, 16\" 2.5K OLED (240Hz on this tier), Glacier White",
+  "tier": "High",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7 (Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600 (SODIMM, upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe (M.2, upgradeable)",
+    "screen_size_in": 16,
+    "display_type": "OLED glossy (G-Sync/Adaptive Sync, HDR; 240 Hz on higher SKUs per NBC)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 483,
+    "brightness_hdr_nits": 900,
+    "weight_kg": 1.98,
+    "ports": "1x TB4 USB-C (DP2.1, PD 100W), 1x USB-C 3.2 Gen2 (DP/PD), 2x USB-A 3.2, HDMI 2.1, SD reader, 3.5mm",
+    "wireless": "Wi-Fi 7 (MediaTek MT7925), BT 5.4",
+    "webcam": "5MP 1440p30 + electronic privacy switch",
+    "speakers": "2x 2W stereo",
+    "keyboard_notes": "Legion TrueStrike backlit chiclet",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 4.6,
+    "notes": "84 Wh; same chassis as NBC-tested 5060 config (4h40m WiFi); marginally worse under load with 5070/275HX. Full charge <90 min."
+  },
+  "price": {
+    "cad": 4199.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/lenovo-legion-7i-16-gaming-laptop-glacier-white-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070/19430020",
+    "confidence": "estimated",
+    "notes": "Tier confirmed sold in Canada via BBY open-box listing sku 19430020 ($2,189.99 open box, 3.0/5 n=2). Regular new price no longer listed at BBY (new stock sold through); estimated from US Lenovo pricing ($1,770 USD for this tier vs $1,650 for 5060 tier, scaled from verified $3,999.99 CAD 5060 regular). lenovo.com/ca CTO unfetchable (JS SPA).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/lenovo-legion-7i-16-gaming-laptop-glacier-white-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070/19430020",
+        "cad": 2189.99,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/legion-laptops/legion-7-series/lenovo-legion-7i-gen-10-16-inch-intel/len101g0044"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/194/19430/19430020.jpg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87%",
+        "url": "https://www.notebookcheck.net/Lenovo-Legion-7-16IAX10-review-Formidable-Razer-Blade-16-competitor.1122108.0.html",
+        "quote": "Higher-end SKUs come with the Core Ultra 9 275HX, RTX 5070, and 240 Hz OLED instead. ... The main drawback to the model is its aforementioned RTX 5070 limit. The RTX 5070 Ti is significantly faster than the RTX 5070, but its high power requirements have likely excluded it from the system."
+      }
+    ],
+    "note": "NBC reviewed the sibling 255HX/5060 config (87%); this tier is the top GPU option of the same reviewed line. RTINGS has no Legion 7i Gen 10 review — not cited."
+  },
+  "user_sentiment": {
+    "praises": [
+      "~2 kg / 17.9 mm 16-inch OLED gaming flagship — the lightest way to get an HX-class CPU + OLED",
+      "RTX 5070 at ~15% over the 5060 (NBC: Alienware 5070 ~5-15% ahead in 3DMark; 5060 config already beat average 5060 by up to 20%)",
+      "Comfortable TrueStrike keyboard and large clickpad; matte Glacier White finish resists fingerprints",
+      "Fast charging (<90 min) plus 100 W USB-C PD over Thunderbolt 4",
+      "Fast SD reader, 5MP webcam with hardware kill switch, OLED with 0.6 ms response — strong creator/travel hybrid"
+    ],
+    "complaints": [
+      "Battery ~4.5 h WiFi — far below 16-inch rivals (7+h)",
+      "Fans pulse audibly during light use on Balanced; ~54 dB in Performance-mode gaming (NBC on same chassis)",
+      "Glossy OLED mandatory — reflections in bright rooms; power-button glow cannot be disabled",
+      "Speakers (2x2W) quiet and thin for a 16-inch chassis",
+      "Open-box buyer on Best Buy CA rated this exact config 3/5 (sku 19430020) — condition/expectation friction; Legion-line warranty friction reported in owner threads"
+    ]
+  },
+  "design_philosophy": "The Legion 7i Gen 10 tops out its GPU ladder at the RTX 5070 in this tier: Lenovo's deliberate choice to keep an Arrow Lake-HX part in a sub-2 kg chassis rather than chase the 5070 Ti's power envelope. This is the enthusiast-travel config — the fastest graphics the slim 7i platform thermally allows, paired with the 24-core 275HX and the 240 Hz OLED.",
+  "ratings": {
+    "battery": 3.9,
+    "screen_size": 7.5,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 7.8,
+    "productivity": 8.8,
+    "portability": 8,
+    "build_quality": 8.5,
+    "thermals_noise": 5.6,
+    "port_connectivity": 7,
+    "creative_work": 8,
+    "keyboard_trackpad": 8.5,
+    "webcam_speakers": 6.5,
+    "upgradability": 7,
+    "ai_ml": 6.2,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from the NBC-reviewed 255HX/RTX 5060 config (87%) per SHARED-legion7i.md deltas: +1.0 gaming for RTX 5070 (~15% faster per NBC comparison charts; 8GB VRAM ceiling keeps it well below 5070 Ti tiers), +0.3 productivity for 24-core 275HX, +0.2 ai_ml, -0.1 battery and -0.2 thermals_noise for the hotter GPU/CPU pair. Same chassis/display/service profile as anchor. Price estimated (see price.notes); tier verified present in Canada via open-box SKU."
+}

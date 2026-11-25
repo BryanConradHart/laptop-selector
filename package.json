@@ -1,0 +1,10 @@
+{
+  "name": "laptop-selector",
+  "version": "1.0.0",
+  "description": "Laptop recommendation site: slider-driven ranking of 361 specific laptop configurations priced in CAD.",
+  "private": true,
+  "scripts": {
+    "build": "node build_data.js",
+    "start": "node -e \"const http=require('http'),fs=require('fs'),path=require('path');const mime={'.html':'text/html','.js':'text/javascript','.css':'text/css','.json':'application/json'};http.createServer((req,res)=>{let p=path.join('site',decodeURIComponent(req.url.split('?')[0]));if(p.endsWith('/'))p+='index.html';fs.readFile(p,(e,d)=>{if(e){res.writeHead(404);res.end('not found');return;}res.writeHead(200,{'content-type':mime[path.extname(p)]||'application/octet-stream'});res.end(d);});}).listen(8731,()=>console.log('http://localhost:8731'));\""
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "ideapad-slim3i-153-c3100u-8-512",
+  "line": "Lenovo IdeaPad Slim 3i 15.3\" (2024/25 IPS)",
+  "config_name": "IdeaPad Slim 3i 15.3\" IPS — Core 3 100U, 8GB, 512GB SSD, FHD IPS",
+  "tier": "Entry",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2024-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 3 100U (6-core Series 1)",
+    "cpu_cores": 6,
+    "gpu": "Intel Graphics (integrated, UHD-class)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "soldered LPDDR (assumed)",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 15.3,
+    "display_type": "IPS anti-glare",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.6,
+    "ports": "2x USB-A 3.2 Gen1, 1x USB-C 3.2 Gen1 (PD, DP), HDMI 1.4, 3.5mm",
+    "wireless": "Wi-Fi 6, BT 5.3",
+    "webcam": "1080p FHD IR hybrid, dual mic, privacy shutter",
+    "speakers": "2x stereo down-firing",
+    "keyboard_notes": "Chiclet, bilingual CA, no numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 9,
+    "real_world_hours": 5.8,
+    "notes": "Capacity not published on BBY spec; class norm 45-55Wh for this chassis. Core 3 100U is low-power; ~5-6.5h real."
+  },
+  "price": {
+    "cad": 1199.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19277193",
+    "confidence": "verified",
+    "notes": "BF sale $699.00.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19277193",
+        "cad": 699,
+        "est": false,
+        "name": "Lenovo IdeaPad Slim 3i 15.3\" IPS Laptop - Intel Core 3 100U - 8GB - 512GB SSD - Windows - Luna Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19277/19277193.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "1080p FHD IR webcam with dual mics and privacy shutter is the best camera in this price bracket",
+      "IPS WUXGA panel with anti-glare is a clear step up over TN competitors at the same street price",
+      "Light 1.6 kg thin chassis still uses the newer slim 3i shell, not an old brick design",
+      "Windows Hello IR face unlock works out of the box — rare at $699 sale",
+      "Silent and cool during browsing, docs, and video streaming"
+    ],
+    "complaints": [
+      "Core 3 100U is the weakest CPU choice in the 3i line; heavier multitasking stutters with 8GB",
+      "RAM is soldered — 8GB is the permanent ceiling",
+      "Regular $1,199.99 price is poor; only makes sense at the $699 sale",
+      "Panel is dim (~300 nits) with the same washed 45%-gamut look as the rest of the line",
+      "Plastic deck flex and hinge wobble match the cheaper 3i models"
+    ]
+  },
+  "standouts": [
+    "IR face-unlock + 1080p webcam + IPS panel combo at $699 sale is a strong student pick"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "An older Series 1 Core 3 refresh of the same thin 15.3\" IdeaPad Slim 3i shell, sold alongside the newer Core 5 320 models at a lower street price. It trades a bit of CPU and iGPU punch for the same IPS WUXGA panel and the line's best webcam option (1080p IR with shutter).",
+  "ratings": {
+    "battery": 5.4,
+    "screen_size": 6.8,
+    "screen_quality": 4,
+    "readability_dark": 5.5,
+    "readability_bright": 4.5,
+    "ecosystem": 9,
+    "gaming": 1.4,
+    "productivity": 4.6,
+    "portability": 6.5,
+    "build_quality": 4.5,
+    "thermals_noise": 6.5,
+    "port_connectivity": 5.3,
+    "creative_work": 2.5,
+    "keyboard_trackpad": 5,
+    "webcam_speakers": 6,
+    "upgradability": 3,
+    "ai_ml": 1.5,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 4.5
+  },
+  "rating_notes": "No pro review found (bot-walls; see SHARED-ideapad-slim3.md). Inferred from Core 5 320 sibling: −0.4 productivity and −0.1 gaming for the weaker Core 3 100U. Battery capacity unpublished — 5.8h is a class estimate. Panel listed IPS by BBY naming; gamut assumed 45% NTSC class norm."
+}

@@ -1,0 +1,123 @@
+{
+  "id": "dell16plus2in1-u5-226v-16-512-ips",
+  "line": "Dell 16 Plus 2-in-1 (2025, DB06250)",
+  "config_name": "Dell Plus 16 2-in-1 — Core Ultra 5 226V, 16GB LPDDR5X, 512GB SSD, 16\" touch (Home)",
+  "tier": "Entry",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 5 226V (Lunar Lake, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "Intel Graphics (Lunar Lake, integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X on-package",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 16,
+    "display_type": "IPS touch",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2,
+    "ports": "1x Thunderbolt 4, 1x USB-C 3.2 Gen 2, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p (no IR)",
+    "speakers": "2-speaker down-firing",
+    "keyboard_notes": "Full numpad, shallow mushy keys, non-haptic trackpad",
+    "pen_support": "Active pen (sold separately)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 7,
+    "notes": "64Wh, low-power Ultra 5 226V; ~6.5-7h real mixed use by CNET anchor calibration."
+  },
+  "price": {
+    "cad": 1299.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19270349",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 19270349 $1,299.95 (no discount). Refurb twin 19612837 $1,034.95. Cheapest new 16\" 2-in-1 at CA retail.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19270349",
+        "cad": 1299.95,
+        "est": false,
+        "name": "Dell Plus 16\" Touchscreen 2-in-1 Laptop - Intel Core Ultra 5-226V - 16GB LPDDR5X - 512GB SSD - Windows 11 Home - Ice Blue"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19612837",
+        "cad": 1034.95,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19270/19270349.jpg",
+  "professional": {
+    "avg_score": 7.3,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "7.3/10",
+        "url": "https://www.cnet.com/tech/computing/dell-16-plus-2-in-1-review-the-mini-led-display-shines-but-theres-little-else-to-get-excited-about/",
+        "quote": "there are a few too many minuses to give this Plus a full-throated recommendation."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "$1,300 for a brand-new 16-inch touch convertible — cheapest big-screen 2-in-1 at CA retail",
+      "Lunar Lake Ultra 5 is still quick for browsing/Office and very power-efficient",
+      "Copilot+ NPU (40+ TOPS) at a budget price",
+      "Sturdy chassis, understated Ice Blue look",
+      "Full numpad and generous touch panel for movies/tent mode"
+    ],
+    "complaints": [
+      "Base 226V iGPU is weaker than Arc 140V — casual gaming only",
+      "512GB soldered-class storage with no upgrade path",
+      "Same mushy keyboard and down-firing muffled speakers as the rest of the line",
+      "Battery ~7h real-world; 2.0 kg weight for a convertible",
+      "1200p on 16\" is visibly coarse for text"
+    ]
+  },
+  "design_philosophy": "The entry door to Dell's rebranded mid-tier consumer convertibles: same DB06250 chassis and Lunar Lake platform as the higher tiers, but with the slowest chip and half the storage, priced to undercut every other 16-inch 2-in-1 on the shelf.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 8,
+    "screen_quality": 5,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 3,
+    "productivity": 6.5,
+    "portability": 5.5,
+    "build_quality": 7,
+    "thermals_noise": 7.5,
+    "port_connectivity": 5.5,
+    "creative_work": 4.5,
+    "keyboard_trackpad": 4,
+    "webcam_speakers": 4.5,
+    "upgradability": 2,
+    "ai_ml": 5.5,
+    "pen_touch": 7,
+    "repairability_service": 4.5,
+    "durability": 6
+  },
+  "rating_notes": "Inferred from CNET DB06250 anchor (SHARED-dell-2in1.md): Ultra 5 226V vs 258V = -1 gaming (basic Lunar Lake iGPU, no Arc 140V), -0.5 productivity; 16\" 1200p IPS screen_quality 5.0 per anchor. No direct pro review of this tier.",
+  "standouts": [
+    "Cheapest new 16\" 2-in-1 in Canada"
+  ],
+  "dealbreakers": [
+    "Coarse 1200p panel",
+    "Class-worst battery"
+  ]
+}

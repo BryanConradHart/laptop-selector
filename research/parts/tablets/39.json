@@ -1,0 +1,119 @@
+{
+  "id": "tab-s10feplus-12-128",
+  "line": "Samsung Galaxy Tab S10 FE+ (2025)",
+  "config_name": "Galaxy Tab S10 FE+ — Exynos 1580, 12GB RAM, 128GB, 13.1\" IPS LCD 90Hz + Slim Book Cover Keyboard (priced in)",
+  "tier": "Budget",
+  "category": "tablets-ios-android",
+  "ecosystem": "Android",
+  "form_factor": "tablet",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Samsung Exynos 1580 (8-core: 1x2.9GHz A720 + 3x2.6GHz A720 + 4x1.95GHz A520)",
+    "cpu_cores": 8,
+    "gpu": "Xclipse 540 (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 12,
+    "ram_type": "LPDDR5 soldered",
+    "storage_gb": 128,
+    "storage_type": "UFS soldered + microSD (up to 2TB)",
+    "screen_size_in": 13.1,
+    "display_type": "IPS LCD (600-nit class, 90Hz)",
+    "resolution": "2880x1800",
+    "refresh_hz": 90,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.664,
+    "ports": "1x USB-C 2.0 (DeX-capable per Samsung), 3.5mm headphone jack, pogo pins",
+    "wireless": "Wi-Fi 6, BT 5.3",
+    "webcam": "12MP front + 13MP rear",
+    "speakers": "Dual speakers (stereo)",
+    "keyboard_notes": "Slim Book Cover Keyboard AI Key for FE+ (BBY 19218992) included in price: scissor keys + AI key, NO trackpad; pogo-pin powered. Premium Book Cover Keyboard AI Key (19218994, $349.99/$209.99) adds trackpad",
+    "pen_support": "S Pen INCLUDED in box (IP68; no Bluetooth air actions on FE line)",
+    "os": "Android 15 (One UI 7) at launch; 7 years OS + security updates; Samsung DeX desktop mode"
+  },
+  "battery": {
+    "claimed_hours": 12,
+    "real_world_hours": 10,
+    "notes": "10,090mAh. Users report ~9-11h mixed use; 45W charging."
+  },
+  "price": {
+    "cad": 1230,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19192250",
+    "confidence": "verified",
+    "notes": "Tab S10 FE+ 128GB $979.99 (BBY SKU 19192250) + Slim Book Cover Keyboard AI Key FE+ $249.99 reg (BBY 19218992, sale $149.99) = $1,229.98 cover-in price. Cover-only: $249.99 reg / $149.99 sale (trackpad premium cover: $349.99/$209.99, BBY 19218994). 256GB tier: $1,179.99 tablet (BBY 19192253), +$200 → ~$1,430 cover-in. Sibling 10.9\" S10 FE 8/128GB $779.99 + $274.99 cover ≈ $1,055 omitted as sub-laptop class per ANDROID_LIST.md.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19192250",
+        "cad": 979.99,
+        "est": false,
+        "name": "Samsung Galaxy Tab S10 FE+ (Plus) 13.1-inch 128GB, Exynos 1580 with S Pen - Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/191/19192/19192250.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "no numeric score retrieved",
+        "url": "https://www.notebookcheck.net/ (Tab S10 FE+ review exists but exact article URL unresolvable — guessed numeric IDs redirect; bot-walled 2026-11-24)",
+        "quote": ""
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "13.1\" big-screen + DeX + keyboard for ~$1,230 all-in — the cheapest way into a big DeX desktop, half the price of the S10+ setup (r/Samsung)",
+      "Still gets the S Pen in the box and the same 7-year update pledge as the flagships",
+      "Keeps the 3.5mm headphone jack the flagships dropped — a constant Reddit win for this tier",
+      "microSD up to 2TB fixes the 128GB base cheaply",
+      "IP68 on a midrange tablet — FE line ruggedness punches above its price"
+    ],
+    "complaints": [
+      "IPS LCD at 90Hz after AMOLED: visibly weaker contrast and blacks, users call it the one real downgrade",
+      "Exynos 1580 is a clear step down — heavier games throttle and DeX external-display use feels strained vs the S-series",
+      "128GB base fills fast; the 256GB tier costs +$200",
+      "Slim FE+ cover has no trackpad and feels floppier than the S-series Slim covers",
+      "FE S Pen lacks the Bluetooth air actions the flagship S Pen has"
+    ]
+  },
+  "design_philosophy": "The FE formula: flagship-size display, flagship durability and software commitments, trimmed silicon and LCD — sold as the family's big-screen value pick. With a keyboard priced in it is the cheapest credible DeX laptop-substitute Samsung sells; the trade is contrast, GPU headroom, and cover quality.",
+  "ratings": {
+    "battery": 7.8,
+    "screen_size": 8.2,
+    "screen_quality": 6.6,
+    "readability_dark": 3.5,
+    "readability_bright": 7,
+    "ecosystem": 6.8,
+    "gaming": 4.5,
+    "productivity": 6,
+    "portability": 7.2,
+    "build_quality": 8,
+    "thermals_noise": 7.5,
+    "port_connectivity": 5,
+    "creative_work": 5,
+    "keyboard_trackpad": 5.5,
+    "webcam_speakers": 6.5,
+    "upgradability": 4.5,
+    "ai_ml": 4,
+    "pen_touch": 9,
+    "repairability_service": 5.5,
+    "durability": 8
+  },
+  "rating_notes": "Ratings inferred from the S10+ anchor per SHARED-tab-s10.md cross-config deltas: −2.7 screen_quality and −3 readability_dark (90Hz IPS LCD vs AMOLED), gaming −2 (Exynos 1580/Xclipse 540), battery −0.5, screen_size 8.2 (13.1\"), port_connectivity +1 (headphone jack retained), ecosystem 6.8 (DeX on weaker silicon). No verbatim pro score retrievable (bot-walls, disclosed). 256GB tier consolidated in price.notes (+$200). Image URL is BBY CDN SKU guess.",
+  "standouts": [
+    "Cheapest all-in DeX laptop-substitute: 13.1\" + keyboard + S Pen + 7-year updates for ~$1,230",
+    "Keeps headphone jack and 2TB microSD the flagships lack",
+    "IP68 and the same update pledge as the $2,000 flagships"
+  ],
+  "dealbreakers": [
+    "IPS LCD: anyone coming from AMOLED will find the screen a step back",
+    "Exynos 1580 struggles for gaming and heavy DeX multitasking"
+  ]
+}

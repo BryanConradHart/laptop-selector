@@ -1,0 +1,112 @@
+{
+  "id": "zbook-power-16-g11-a-rtx1000ada-32-1tb",
+  "line": "HP ZBook Power 16 G11 A (2025, AMD mobile workstation)",
+  "config_name": "ZBook Power 16 G11 A — Ryzen 7 PRO 8845HS, NVIDIA RTX 1000 Ada 6GB + Radeon 780M, 32GB DDR5, 1TB SSD, 16\" WUXGA 400-nit",
+  "tier": "Entry",
+  "category": "creator",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-03",
+  "inferred": false,
+  "specs": {
+    "cpu": "AMD Ryzen 7 PRO 8845HS (8-core/16-thread, 3.8-5.1 GHz)",
+    "cpu_cores": 8,
+    "gpu": "NVIDIA RTX 1000 Ada 6GB (discrete) + AMD Radeon 780M (integrated)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5 SODIMM (upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "PCIe Gen4 NVMe M.2 SSD (user-replaceable)",
+    "screen_size_in": 16,
+    "display_type": "IPS anti-glare, 100% sRGB",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.65,
+    "ports": "2x USB4 Type-C, 2x USB-A, HDMI 2.1, RJ45, 3.5mm (SD reader optional by CTO)",
+    "wireless": "Wi-Fi 6E (Realtek RTL8852CE 2x2), BT 5.3",
+    "webcam": "5MP IR with shutter",
+    "speakers": "2-speaker + dual tweeter (Bang & Olufsen tuned)",
+    "keyboard_notes": "Backlit spill-resistant keyboard, numeric keypad, PointStick optional",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 13,
+    "real_world_hours": 7.5,
+    "notes": "~83Wh battery; mobilemark-class light use ~7-8h. No independent CA-lab test found; estimate from Ryzen 8845HS platform efficiency and ZBook Power G10 owner reports."
+  },
+  "price": {
+    "cad": 2499,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20069469",
+    "confidence": "verified",
+    "notes": "Sale $2,499 (reg $3,266), verified on BBY product page 2026-11-24. Includes 3-year HP warranty.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20069469",
+        "cad": 2499,
+        "est": false,
+        "name": "HP ZBook Power 16 G11 A | 16\" Mobile Workstation (AMD Ryzen 7 PRO 8845HS/32GB RAM/1TB SSD/Dual GPU NVIDIA RTX 1000 Ada 6GB & Radeon 780M) / 3-Year HP Warranty"
+      }
+    ],
+    "official_url": "https://www.hp.com/ca-en/shop/product.aspx?p=9X1Z2UT"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20069/20069469.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "ISV-certified RTX 1000 Ada drivers run SolidWorks and Inventor smoothly at this price — no gaming-laptop driver gamble",
+      "Both RAM slots and both M.2 bays are user-accessible under one bottom cover, rare in modern thin-and-lights",
+      "Ryzen 7 PRO 8845HS is cool and efficient — much quieter on office loads than Intel HX workstation competitors",
+      "2x USB4 + HDMI 2.1 + RJ45 drives triple-display docked setups without dongles",
+      "3-year HP warranty and HP Wolf Security included at a price below most non-workstation laptops"
+    ],
+    "complaints": [
+      "16\" WUXGA 1920x1200 60Hz panel is the weak point — 400 nits and coarse pixels for a workstation at this price",
+      "RTX 1000 Ada 6GB bottlenecks large CAD assemblies and any local LLM work; VRAM fills quickly",
+      "Chassis is thick and heavy (~2.6kg + 230W-style brick) compared to ZBook Firefly or EliteBook",
+      "Sustained all-core loads throttle the CPU as the Power chassis has lower power limits than ZBook Studio",
+      "Only Wi-Fi 6E (Realtek card) — no Wi-Fi 7, and some units report Bluetooth stutter with pro headsets"
+    ]
+  },
+  "design_philosophy": "ZBook Power is HP's accessible mobile workstation: EliteBook/PRO business platform plus ISV-certified Ada graphics in a serviceable 16\" chassis, deliberately trading thinness and a premium panel for price, docking breadth, and repairability. This entry configuration with the RTX 1000 Ada targets CAD/engineering students and SMB professionals who need certified drivers rather than raw GPU horsepower. At the verified $2,499 CA sale price it undercuts ThinkPad P16s and Dell Pro Max equivalents while keeping the same workstation warranty class.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 7.5,
+    "screen_quality": 5.5,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 4.5,
+    "productivity": 8,
+    "portability": 4,
+    "build_quality": 7.5,
+    "thermals_noise": 7,
+    "port_connectivity": 8.5,
+    "creative_work": 6,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 6.5,
+    "upgradability": 8.5,
+    "ai_ml": 5,
+    "pen_touch": 0,
+    "repairability_service": 8.5,
+    "durability": 8
+  },
+  "rating_notes": "No professional review found: Notebookcheck bot-walled all paths this session (a ZBook Power G11 review likely exists — gap-fill via browser), RTINGS does not cover the line, and BBY shows 0 customer reviews on SKU 20069469. Ratings synthesized from platform facts (Ryzen 7 PRO 8845HS, RTX 1000 Ada 6GB, 16\" 400-nit 100% sRGB WUXGA panel, 2x USB4/RJ45 port set, SODIMM+dual-M.2 serviceability) and ZBook Power G10/G11 owner themes; disclosed per SCHEMA budget rule. ai_ml 5.0 reflects CUDA presence but only 6GB VRAM; gaming 4.5 reflects Ampere-class RTX 1000 Ada without high-refresh panel; battery estimate ~7.5h light use from 8845HS efficiency. Image URL follows BBY multimedia CDN pattern confirmed for this SKU.",
+  "standouts": [
+    "Cheapest ISV-certified mobile workstation in CA retail at $2,499 sale",
+    "Full SODIMM + dual-M.2 upgrade path with 3-year warranty",
+    "Quiet, efficient AMD PRO platform for docked office+CAD work"
+  ],
+  "dealbreakers": [
+    "6GB VRAM caps serious 3D/AI workloads",
+    "Dim 1200p 60Hz panel for a creator-targeted machine"
+  ]
+}

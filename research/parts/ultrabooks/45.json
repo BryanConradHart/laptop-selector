@@ -1,0 +1,115 @@
+{
+  "id": "xps14-u7-32-1tb-fhd",
+  "line": "Dell XPS 14 (2026, DA14260)",
+  "config_name": "XPS 14 — Core Ultra 7 358H, 32GB LPDDR5X, 1TB SSD, 14\" FHD+ 120Hz non-touch",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 358H (Series 3 Panther Lake, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "Intel Arc Graphics (integrated Arc iGPU)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X soldered, up to 7467 MT/s",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2230 NVMe Gen4",
+    "screen_size_in": 14,
+    "display_type": "IPS non-touch, 2K (1920x1200), 1-120Hz, 500 nits, InfinityEdge",
+    "resolution": "1920x1200",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.38,
+    "ports": "3x Thunderbolt 4 (USB-C) with DP 2.1 + PD, universal audio jack",
+    "wireless": "Wi-Fi 7 (Intel BE211 2x2), BT 6.0",
+    "webcam": "FHD webcam",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit keyboard, zero-lattice design, Gorilla Glass 3 palmrest",
+    "pen_support": "none (non-touch)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 27,
+    "real_world_hours": 12,
+    "notes": "70Wh. The low-res 1-120Hz LCD keeps runtime near the base tier's class-leading figures despite the H-series CPU."
+  },
+  "price": {
+    "cad": 4480,
+    "currency": "CAD",
+    "store": "dell.ca",
+    "store_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps14da14260",
+    "confidence": "verified",
+    "notes": "VERIFIED dell.ca 2026-11-24: CAD $4,479.99. Odd pricing: $800 MORE than the same chip with the better QHD+ touch panel — flag as poor-value tier.",
+    "offers": [
+      {
+        "store": "dell.ca",
+        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps14da14260",
+        "cad": 4480,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps14da14260"
+  },
+  "image_url": "https://i.dell.com/is/image/DellContent/content/dam/images/products/laptops-and-2-in-1s/xps/14-da14260-touch/dell-da14260t-laptop-c-15000ff100-gy-oled.psd?fmt=png-alpha",
+  "professional": {
+    "avg_score": 8.1,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.1/10",
+        "url": "https://www.cnet.com/tech/computing/dell-xps-14-2026-review/",
+        "quote": "It's great to see Dell bring back the XPS and do so with such style."
+      },
+      {
+        "outlet": "CNET",
+        "score": "8.1/10",
+        "url": "https://www.cnet.com/tech/computing/dell-xps-14-2026-review/",
+        "quote": "Matches MacBook Pro in price but not performance"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Best battery config of the line: 16-core power plus the 1-120Hz low-res panel's claimed 27h+",
+      "32GB + Arc iGPU handles compile-heavy and editing workloads in a 1.38 kg chassis",
+      "Non-touch matte-ish FHD+ panel avoids the glossy reflections of the QHD+ touch",
+      "3x TB4 docking unchanged from the rest of the line",
+      "Owners praise fast boot and quiet cooling even with heavy workloads"
+    ],
+    "complaints": [
+      "$4,479.99 for a 1200p panel — Dell prices this $800 above the strictly better QHD+ touch config (dell.ca pricing anomaly)",
+      "Only reason to buy is matte non-touch preference; almost everyone should take the $3,679.99 tier instead",
+      "No fingerprint reader; USB-C-only ports persist across the line",
+      "Soldered RAM/SSD at a $4.5k price point",
+      "Speakers and webcam are average while rivals at this price ship better AV kits"
+    ]
+  },
+  "design_philosophy": "A battery-maximalist variant of the performance XPS 14: Dell pairs the 16-core 358H with the most efficient panel in the line. In practice it is a pricing mistake — it costs more than the QHD+ touch tier — so it mainly serves buyers who specifically want non-touch.",
+  "ratings": {
+    "battery": 9,
+    "screen_size": 7,
+    "screen_quality": 6.5,
+    "readability_dark": 6.5,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 4.5,
+    "productivity": 8.5,
+    "portability": 9,
+    "build_quality": 9,
+    "thermals_noise": 7.5,
+    "port_connectivity": 6.5,
+    "creative_work": 5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 2,
+    "ai_ml": 6.5,
+    "pen_touch": 0,
+    "repairability_service": 4,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from CNET XPS 14 (2026) 8.1 anchor. Same CPU/RAM deltas as QHD+ tier (productivity 8.5, gaming 4.5) but screen_quality back to 6.5 (FHD+ IPS) and battery 9.0 (efficient panel). Pen_touch 0 (non-touch)."
+}

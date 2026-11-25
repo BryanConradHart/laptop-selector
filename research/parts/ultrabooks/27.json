@@ -1,0 +1,122 @@
+{
+  "id": "ys7x-g11-x2e-32-2tb-oled-touch",
+  "line": "Lenovo Yoga Slim 7x Gen 11 (14\" Snapdragon, 2026)",
+  "config_name": "Yoga Slim 7x Gen 11 — Snapdragon X2 Elite, 32GB LPDDR5X, 2TB SSD, 14\" 2.8K OLED 120Hz touch",
+  "tier": "High",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows (ARM)",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X2 Elite (Oryon 3, 18-core)",
+    "cpu_cores": 18,
+    "gpu": "Qualcomm Adreno (integrated, X2 series)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X dual channel soldered",
+    "storage_gb": 2000,
+    "storage_type": "M.2 PCIe Gen4 NVMe (VERIFIED '2TB PCIe Gen 4 M.2')",
+    "screen_size_in": 14,
+    "display_type": "PureSight Pro 2.8K OLED touchscreen, 120Hz VRR, 1100-nit HDR, 16:10",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1100,
+    "weight_kg": 1.25,
+    "ports": "2x USB-C, 1x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "4-speaker",
+    "keyboard_notes": "Refined Yoga keyboard, backlit",
+    "pen_support": "OLED touchscreen (pen input supported)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 19,
+    "real_world_hours": 13.5,
+    "notes": "70Wh (VERIFIED). Touch panel costs a little runtime vs non-touch."
+  },
+  "price": {
+    "cad": 2099,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7x-gen-11-14-inch-snapdragon/len101y0066",
+    "confidence": "estimated",
+    "notes": "Top config of line (2TB + touch OLED tiers VERIFIED on PDP). Estimated from $1,399 base + touch/2TB uplifts (~+$700 CAD). eCoupon caveats apply.",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20180162",
+        "cad": 2499,
+        "est": false,
+        "name": "Lenovo Yoga Slim 7X 14'' WUXGA OLED Touch Laptop-Cosmic Blue(Snapdragon X2E-80-100/32GB LPDDR5X RAM/2TB SSD/Qualcomm Adreno/Backlit/Wi-Fi 7/Win 11 Pro)"
+      },
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7x-gen-11-14-inch-snapdragon/len101y0066",
+        "cad": 2099,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7x-gen-11-14-inch-snapdragon/len101y0066"
+  },
+  "image_url": "https://p1-ofp.static.pub/ShareResource/optimized/pdp/yoga/yoga-slim-series/len101y0066/lenovo-yoga-slim-7x-gen-11-14-snapdragon-pdp-gallery-3.2a5808f6c7ad6deb.png",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Jon Rettinger (via lenovo.com/ca)",
+        "score": "recommended",
+        "url": "https://www.lenovo.com/ca/en/yoga/",
+        "quote": "The Yoga Slim 7x isn't just an alternative in ways that matter day-to-day. It's actually better. Lighter, brighter screen with actual black instead of gray, double the refresh rate, more keyboard travel, touchscreen if you want it. Same performance unplugged."
+      },
+      {
+        "outlet": "Dave2D (via lenovo.com/ca)",
+        "score": "recommended",
+        "url": "https://www.lenovo.com/ca/en/yoga/",
+        "quote": "The new Lenovo Slim 7X, it's an awesome device this year. Super fast chip, crazy battery life."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Touchscreen 2.8K OLED option adds pen annotation without the 2-in-1 weight penalty (Rettinger: 'touchscreen if you want it')",
+      "2TB built-in suits travellers who can't carry drives",
+      "Still ~1.25kg with touch — lightest touch OLED 14-inch class",
+      "Battery still clears 13h light use despite touch layer",
+      "Max RAM/storage config stays relevant for 4-5 years of heavy use"
+    ],
+    "complaints": [
+      "Glossy touch glass reflects more than the non-touch tier",
+      "ARM app-compat caveats still apply",
+      "Touch adds ~$300 over the 32GB/1TB tier for a feature many don't use",
+      "No Thunderbolt/SD on the top config either",
+      "Integrated GPU remains the line's weak point for gaming and 3D"
+    ]
+  },
+  "design_philosophy": "The fully-optioned Slim 7x: Snapdragon X2 Elite with double storage and the PureSight Pro touch OLED, for creators who want pen input and maximum capacity in Lenovo's lightest premium 14-inch chassis.",
+  "ratings": {
+    "battery": 9.3,
+    "screen_size": 7,
+    "screen_quality": 8.8,
+    "readability_dark": 9,
+    "readability_bright": 7.8,
+    "ecosystem": 7.5,
+    "gaming": 3.5,
+    "productivity": 9,
+    "portability": 9.2,
+    "build_quality": 8.8,
+    "thermals_noise": 9,
+    "port_connectivity": 6.5,
+    "creative_work": 6.4,
+    "keyboard_trackpad": 8,
+    "webcam_speakers": 6.5,
+    "upgradability": 2.5,
+    "ai_ml": 7.2,
+    "pen_touch": 6.5,
+    "repairability_service": 5,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from same-line X2 Elite anchor: touch tier → pen_touch 6.5, readability_bright −0.2 (gloss), battery −0.2; 2TB → creative_work +0.2 vs 1TB sibling. Same 32GB productivity as 26.json."
+}

@@ -1,0 +1,116 @@
+{
+  "id": "sl8-15-x2e-16-1tb",
+  "line": "Microsoft Surface Laptop 8 (2026, Snapdragon X2)",
+  "config_name": "Surface Laptop 15\" — Snapdragon X2 Elite, 16GB LPDDR5x, 1TB SSD, 120Hz PixelSense touch",
+  "tier": "High",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X2 Elite (18-core Oryon v3)",
+    "cpu_cores": 18,
+    "gpu": "Qualcomm Adreno (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2230 NVMe soldered",
+    "screen_size_in": 15,
+    "display_type": "PixelSense LCD touch, 3:2, 120Hz",
+    "resolution": "3120x2080",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.5,
+    "ports": "2x USB-C (DP/charge), 1x USB-A, Surface Connect, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1440p Quad HD + IR",
+    "speakers": "2-speaker Omnisonic",
+    "keyboard_notes": "backlit, fingerprint power button",
+    "pen_support": "touch; MPP pen",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 13,
+    "notes": "~66Wh est."
+  },
+  "price": {
+    "cad": 2999.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19852156",
+    "confidence": "verified",
+    "notes": "Best Buy CA SKU 19852156, reg $2,999.99, BF sale $2,599.99 (2026-11-24 API). Top consumer SL8 tier; 32GB tiers sold via business channel only in CA.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19852156",
+        "cad": 2599.99,
+        "est": false,
+        "name": "Microsoft Surface Laptop 15\" 120Hz Touchscreen - Snapdragon X2 Elite - 16GB LPDDR5x - 1TB SSD - Windows 11 Home - Black - English"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19852/19852156.jpg",
+  "professional": {
+    "avg_score": 7.8,
+    "reviews": [
+      {
+        "outlet": "Tom's Guide",
+        "score": "recommended",
+        "url": "https://www.tomsguide.com/computers/surface-devices/microsoft-surface-laptop-8-review",
+        "quote": "The new Microsoft Surface Laptop 8 is great — but it's hard to recommend to most people"
+      },
+      {
+        "outlet": "Windows Central",
+        "score": "recommended",
+        "url": "https://www.windowscentral.com/microsoft/surface-laptop-8-for-business-review",
+        "quote": "The privacy King: Surface Laptop 8 for business review—is the new stealth screen worth the $2,549 entry price?"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Max consumer config: 15\" 3:2 120Hz + X2 Elite + 1TB — the do-everything Surface short of the Ultra",
+      "BF sale $2,599 vs $2,100 for the 512GB is the least-bad Microsoft storage upsell",
+      "Silent, cool, and still under 1.5 kg — a 15\" that actually travels",
+      "80 TOPS NPU handles on-device Copilot+ workloads (recall, live captions, local models)",
+      "Superb build rigidity; zero keyboard-deck flex reviewers praise"
+    ],
+    "complaints": [
+      "16GB RAM at $3,000 regular — the single most common complaint on this line",
+      "32GB exists only in business SKUs with worse retail pricing",
+      "ARM ecosystem caveats for games and niche hardware",
+      "No matte or OLED option",
+      "Ports unchanged: 2C+1A for a $3,000 flagship-size machine"
+    ]
+  },
+  "design_philosophy": "The top consumer configuration of the Surface Laptop 8 line — Microsoft's answer to the 15-inch premium all-rounder, differentiated by the tall 3:2 touch canvas and ARM efficiency rather than raw specs.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 8,
+    "screen_quality": 8.5,
+    "readability_dark": 7.5,
+    "readability_bright": 8.5,
+    "ecosystem": 7.5,
+    "gaming": 4,
+    "productivity": 9,
+    "portability": 8.5,
+    "build_quality": 9,
+    "thermals_noise": 9,
+    "port_connectivity": 6,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 8.5,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 8,
+    "pen_touch": 7,
+    "repairability_service": 3,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from SL8 anchor and 15\" 512GB entry; only delta is storage. Price verified via Best Buy API."
+}

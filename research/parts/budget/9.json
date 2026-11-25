@@ -1,0 +1,106 @@
+{
+  "id": "aspire-go-16-c7-150u-16-512",
+  "line": "Acer Aspire Go 16 (AG16-61P)",
+  "config_name": "Aspire Go 16\" — Core 7 150U, 16GB DDR4, 512GB SSD, 16\" FHD IPS",
+  "tier": "Mid",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-04",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 7 150U (10-core: 2P+8E, Series 1, 5.4GHz boost)",
+    "cpu_cores": 10,
+    "gpu": "Intel Graphics (integrated, Iris Xe-class)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "DDR4 SO-DIMM (upgradeable)",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 16,
+    "display_type": "IPS anti-glare",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.65,
+    "ports": "1x USB-C 3.2 Gen2x2 20Gbps (DP, 65W PD), 2x USB-A 3.2 Gen1, HDMI 1.4, 3.5mm",
+    "wireless": "Wi-Fi 6, BT 5.x",
+    "webcam": "720p HD",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Chiclet with numeric keypad, bilingual CA; no backlight on this tier",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 5.6,
+    "notes": "51 Wh verified. Core 7 150U boosts higher (5.4GHz) so slightly thirstier under load than the 120U."
+  },
+  "price": {
+    "cad": 1299.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19922393",
+    "confidence": "verified",
+    "notes": "BF sale $999.99.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19922393",
+        "cad": 999.99,
+        "est": false,
+        "name": "Acer Aspire Go 16\" Laptop - Iron (Intel Core 7 150U/16GB RAM/512GB SSD/Windows 11)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19922/19922393.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Core 7 150U (5.4GHz boost) is the fastest x86 CPU in Acer's budget line — zips through Excel and multi-app work",
+      "Same 16\" IPS panel and RAM-upgradeable DDR4 design as the cheaper 120U twin",
+      "16GB standard plus SO-DIMM slots means 32GB is a cheap afternoon upgrade",
+      "20Gbps USB-C with DP and 65W PD doubles as a single-cable dock port",
+      "$999.99 sale price undercuts most 16\" mid-tier laptops by $200+"
+    ],
+    "complaints": [
+      "Only ~5-8% faster than the $200-cheaper Core 5 120U twin — poor upgrade value at regular price",
+      "Same dull 45%-gamut IPS panel; paying more for the CPU changed nothing you look at",
+      "Still a 720p webcam with no IR on the most expensive Go 16",
+      "No keyboard backlight at $1,299.99 regular",
+      "DDR4 memory caps the iGPU and long-term platform headroom"
+    ]
+  },
+  "standouts": [
+    "Fastest CPU of the Aspire family — the pick if you compile, calculate, or multitask heavily on a budget"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "The top CPU tier of the Aspire Go 16: same 16\" IPS chassis, RAM slots, and port set as the Core 5 model, with the Series-1 Core 7 150U's higher clocks as the only delta. It's Acer's answer to 'budget but don't feel slow', though the premium over the 120U SKU mostly buys headroom rather than day-to-day speed.",
+  "ratings": {
+    "battery": 5.4,
+    "screen_size": 7.5,
+    "screen_quality": 4,
+    "readability_dark": 5,
+    "readability_bright": 4.5,
+    "ecosystem": 9,
+    "gaming": 2,
+    "productivity": 6.3,
+    "portability": 6,
+    "build_quality": 4.3,
+    "thermals_noise": 6,
+    "port_connectivity": 6.3,
+    "creative_work": 3,
+    "keyboard_trackpad": 5.3,
+    "webcam_speakers": 3.8,
+    "upgradability": 6,
+    "ai_ml": 1.8,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4.3
+  },
+  "rating_notes": "No pro review found (see SHARED-aspire-go.md). Inferred from Core 5 120U Go 16 sibling: +0.3 productivity and −0.1 battery for the 150U's higher 5.4GHz boost clocks; all else identical. Brightness/gamut are class estimates; 51Wh and DDR4 SO-DIMM verified via BBY specs."
+}

@@ -1,0 +1,110 @@
+{
+  "id": "ipad-pro-11-m5-512",
+  "line": "Apple iPad Pro 11-inch (M5, 2025)",
+  "config_name": "iPad Pro 11-inch — M5 (9-core CPU/10-core GPU), 12GB RAM, 512GB SSD, 11\" Ultra Retina XDR tandem OLED + Magic Keyboard",
+  "tier": "Mid",
+  "category": "tablets-ios-android",
+  "ecosystem": "iPadOS",
+  "form_factor": "tablet",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M5 (9-core CPU)",
+    "cpu_cores": 9,
+    "gpu": "Apple M5 10-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 12,
+    "ram_type": "unified/soldered LPDDR5X",
+    "storage_gb": 512,
+    "storage_type": "NVMe soldered",
+    "screen_size_in": 11,
+    "display_type": "Ultra Retina XDR tandem OLED (ProMotion)",
+    "resolution": "2420x1640",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 1000,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 0.44,
+    "ports": "1x Thunderbolt/USB 4, magnetic Magic Keyboard connector",
+    "wireless": "Wi-Fi 7, BT 5.3",
+    "webcam": "12MP landscape front camera",
+    "speakers": "4-speaker",
+    "keyboard_notes": "Magic Keyboard included in price: scissor keys (unlit), glass trackpad, cantilever hinge",
+    "pen_support": "Apple Pencil Pro +$168.99 (BBY sale; ~$199 Apple) — not included in total",
+    "os": "iPadOS 26 (current 27.x)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 8.3,
+    "notes": "Apple claims 10h web/video on Wi-Fi. Users report ~8-9h mixed real-world use; 11\" cell slightly smaller."
+  },
+  "price": {
+    "cad": 2379,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19495724",
+    "confidence": "verified",
+    "notes": "Tablet-only $1,979.99 (BBY 19495724 / apple.com/ca, verified 2026-11-24) + Magic Keyboard 11\" $399.99 (BBY 17932865). Apple Pencil Pro $168.99 not included.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19495724",
+        "cad": 1979.99,
+        "est": false,
+        "name": "Apple iPad Pro M5 11\" 512GB with Wi-Fi (6th Generation) - Space Black"
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-pro"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/194/19495/19495724.jpg",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/Apple-iPad-Pro-M5-2025-tablet-review-An-extremely-fast-M5-SoC-and-Wi-Fi-7.1143628.0.html",
+        "quote": "An extremely fast M5 SoC and Wi-Fi 7. Pros: extremely fast M5 SoC, sturdy and timeless case, Wi-Fi 7 and 5G, good camera quality for a tablet, powerful speaker sound, comprehensive software package, good battery life, bright and accurate display. Cons: no power adapter included, very expensive, PWM flickering, no always-on display, only a 12-month warranty. (NBC review of the iPad Pro 11\" M5 2025, 90% very good; same SoC and panel family across 11\"/13\" tiers.)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Best size/weight balance in the Pro line — 444g tablet that genuinely travels",
+      "Tandem OLED with 1000-nit SDR and 120Hz ProMotion on an 11\" panel is superb for its class",
+      "512GB is the sweet spot — full Procreate gallery and offline video library fit with room to spare",
+      "M5 is faster than most thin-and-light laptops in short bursts; huge GPU uplift over M4",
+      "Magic Keyboard 11\" makes it the closest thing to a true netbook-replacement that just works"
+    ],
+    "complaints": [
+      "iPadOS is the bottleneck: no full desktop-class apps (real Excel, Xcode, DAWs), file management friction — #1 Reddit gripe",
+      "Apple's +$280 storage upgrade pricing is ~4x what an equivalent SSD costs anywhere else",
+      "Still 12GB RAM at 512GB — 16GB is locked behind the 1TB tier",
+      "Magic Keyboard $399.99 with unlit keys is an accessory tax on a $2,400 setup",
+      "On 11\" the split-screen/Stage Manager real estate is tight for keyboard-laptop use"
+    ]
+  },
+  "design_philosophy": "Apple's halo tablet in its most portable form: identical M5 silicon and tandem OLED technology as the 13\", which most users actually carry. The 512GB tier is the practical pick — same M5 speed with enough local headroom for a real creative library. With the Magic Keyboard priced in it is the smallest true laptop-alternative Apple sells, minus desktop-app parity.",
+  "ratings": {
+    "battery": 7.8,
+    "screen_size": 6,
+    "screen_quality": 9.6,
+    "readability_dark": 9.8,
+    "readability_bright": 9,
+    "ecosystem": 6.5,
+    "gaming": 6.5,
+    "productivity": 7,
+    "portability": 9.2,
+    "build_quality": 9.3,
+    "thermals_noise": 8.5,
+    "port_connectivity": 6,
+    "creative_work": 8.8,
+    "keyboard_trackpad": 8.2,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 7.5,
+    "pen_touch": 9.5,
+    "repairability_service": 5,
+    "durability": 8
+  },
+  "rating_notes": "Pro score attached from NBC review of the iPad Pro M5 13\" (90%, gap-fill 2026-11-24). Ratings inferred from the 13\" M5 256GB anchor (see SHARED-ipad-pro.md); no verbatim pro score found this session (bot-walled) — disclosed, none invented. 11\" deltas (screen_size 6.0, portability 9.2, battery 7.8) plus +0.3 creative_work for 512GB headroom. Ecosystem 6.5 (~9 casual/creative, ~5-6 desktop-app parity). Keyboard_trackpad rated on the Magic Keyboard (included). Upgradability 1.0: everything soldered."
+}

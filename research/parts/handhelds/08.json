@@ -1,0 +1,128 @@
+{
+  "id": "rog-flow-z13-2025-395-64gb-1tb",
+  "line": "ASUS ROG Flow Z13 (2025, GZ302) gaming tablet",
+  "config_name": "ROG Flow Z13 (2025) — Ryzen AI Max+ 395 (16C/32T) / Radeon 8060S iGPU, 64GB LPDDR5x-8000 unified, 1TB SSD, 13.4\" QHD+ 180Hz touch (GZ302EA-XS98)",
+  "tier": "High",
+  "category": "handheld-pcs",
+  "ecosystem": "Windows",
+  "form_factor": "tablet",
+  "release": "2025-02",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI Max+ 395 'Strix Halo' (16-core Zen 5, 32 threads, up to 5.1GHz, 80MB cache)",
+    "cpu_cores": 16,
+    "gpu": "AMD Radeon 8060S integrated (40 CU RDNA 3.5, shares unified memory; up to ~48GB allocable as VRAM on 64GB SKUs)",
+    "gpu_type": "integrated",
+    "ram_gb": 64,
+    "ram_type": "LPDDR5x-8000 quad-channel unified, soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2230 PCIe Gen4 NVMe (user-replaceable)",
+    "screen_size_in": 13.4,
+    "display_type": "ROG Nebula IPS, glossy touch, 100% DCI-P3, Dolby Vision, Adaptive-Sync, Gorilla Glass 5, flicker-free (no PWM)",
+    "resolution": "2560x1600",
+    "refresh_hz": 180,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.6,
+    "ports": "2x USB-C USB4 (DP1.4 + PD), 1x USB-A, HDMI 2.1, microSD, 3.5mm combo",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1440p front with Windows Hello face recognition + rear 4K camera",
+    "speakers": "2 stereo speakers + dual smart amps (described as weak by Notebookcheck)",
+    "keyboard_notes": "detachable ROG keyboard cover with folding stand; larger keycaps and much bigger touchpad than 2023 model; RTINGS calls the feel 'mushy' on an incline",
+    "pen_support": "ASUS Pen 2.0 (MPP 2.6) supported, sold separately; 10-point touch",
+    "os": "Windows 11 Home (Copilot+ PC, 50 TOPS NPU)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 5.5,
+    "notes": "70Wh; identical cell and APU to the 32GB SKU, so runtime is effectively the same. Notebookcheck (32GB unit): 9h20 Wi-Fi @150 nits/60Hz, 7h30 @180Hz, 12h44 video, 0h51 max load. RTINGS tested this 64GB config but its measured battery figures are membership-locked (honest null)."
+  },
+  "price": {
+    "cad": 2999.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-rog-flow-z13-13-4-touchscreen-gaming-laptop-amd-ryzen-ai-max-395-64gb-ram-1tb-ssd-amd-radeon-8060s-off-black/20122747",
+    "confidence": "verified",
+    "notes": "Verified on bestbuy.ca 2026-11-24: $2,999.95 with 'SAVE $500' badge, 'Selling Fast', Sold and shipped by Best Buy, model GZ302EA-XS98, web code 20122747, BBY rating 4.6/5 (287 reviews). Same page hosts the 32GB SKU via a RAM selector. A separate 64GB/2TB dock-bundle SKU (web code 19929823) exists at Best Buy but is a bundled-dock SKU and was omitted.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-rog-flow-z13-13-4-touchscreen-gaming-laptop-amd-ryzen-ai-max-395-64gb-ram-1tb-ssd-amd-radeon-8060s-off-black/20122747",
+        "cad": 2999.95,
+        "est": false,
+        "name": "ASUS ROG Flow Z13 13.4\" Touchscreen Gaming Laptop - AMD Ryzen AI MAX+ 395 - 64GB RAM - 1TB SSD - AMD Radeon 8060S - Off Black"
+      }
+    ],
+    "official_url": "https://www.asus.com/en/ca/laptops/for-gaming/rog/rog-flow-z13-2025/"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20122/20122747.jpg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "RTINGS",
+        "score": null,
+        "url": "https://www.rtings.com/laptop/reviews/asus/rog-flow-z13-gz302-2025",
+        "quote": "We tested the ASUS ROG Flow Z13 (model GZ302EA-R9641TB) with an AMD Ryzen AI MAX+ 395 CPU, 64GB of RAM, and 1TB of storage. ... The keyboard's mushy feel (when using an incline) may bother some people, and the device is rather unstable when using it on a lap."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": "86.8%",
+        "url": "https://www.notebookcheck.net/Asus-ROG-Flow-Z13-GZ302EA-Convertible-Review-AMD-s-Strix-Halo-GPU-is-neck-and-neck-with-the-RTX-4070-Laptop.963266.0.html",
+        "quote": "Our review unit with 32 GB RAM can allocate up to 24 GB for the GPU, while other SKUs can allocate up to 48 or 96 GB VRAM."
+      },
+      {
+        "outlet": "Ars Technica",
+        "score": null,
+        "url": "https://arstechnica.com/gadgets/2025/02/review-asus-rog-flow-z13-tablet-takes-the-asterisk-off-integrated-gpus/",
+        "quote": "The AMD Ryzen AI Max+ 395 \"Strix Halo\" inside the Z13, with the latest Ryzen 8060S GPU built into it, is not just capable—it's a step up from most of the gaming laptops out there."
+      },
+      {
+        "outlet": "PCMag",
+        "score": null,
+        "url": "https://www.pcmag.com/reviews/asus-rog-flow-z13-2025",
+        "quote": "The calling card of the new Flow Z13 is the processor: AMD's Ryzen AI Max, which reinvents the tablet's capabilities without adding a separate graphics chip. Thanks to unified memory, up to 96GB ..."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "64GB unified memory is the enthusiast pick: up to ~48GB allocable to the 8060S as VRAM, which r/FlowZ13 members highlight for high-res texture packs and local LLM work that would need a 16GB+ discrete card",
+      "Owners use it as a genuine desktop replacement — r/FlowZ13: 'I have the 2025 Flow Z13 64gb edition... office work, browsing, and play a few games here and there' with no complaints about memory pressure",
+      "Same 16-core Zen 5 multicore punch as the top configs in far bigger laptops; Best Buy owners rate it 4.6/5 across 287 reviews, unusually high for a $3k machine",
+      "Compact and light for what it packs: 1.6kg / 14.9mm with dual USB4, HDMI 2.1 and microSD — 'compact, very powerful, battery life is decent' (r/FlowZ13)",
+      "Flicker-free 180Hz 100% DCI-P3 touchscreen with pen support and a replaceable M.2 2230 SSD — the panel and SSD are the two parts owners actually praise by name"
+    ],
+    "complaints": [
+      "$3,000 for an integrated GPU: r/FlowZ13 notes that at this price 'it's more in-line with RTX gaming laptops but then RTX will have newer upscaling/frame gen features and raster performance'",
+      "Still soldered: the 64GB cannot be added later and NBC's cons list 'RAM not upgradeable' / 'hardly any maintenance options' (repairability 40%) — you must buy the ceiling you'll need on day one",
+      "Battery under load unchanged from the cheaper SKU: ~0h51 max-brightness/max-load per Notebookcheck's identical 70Wh cell; gaming untethered is a niche use",
+      "Fan noise and coil whine are the most common owner threads on this line ('crazy fan noise and power draw', Level1Techs coil-whine thread); 45.4 dB(A) measured under load",
+      "Keyboard cover 'mushy' on an incline, tablet unstable on a lap (RTINGS), and weak speakers — the tablet form factor still costs it in typing ergonomics at any RAM tier"
+    ]
+  },
+  "design_philosophy": "The 64GB GZ302 is the Strix Halo thesis taken seriously: unified memory only pays off if there is a lot of it, and 64GB lets the Radeon 8060S borrow up to ~48GB of VRAM — more than most discrete gaming laptops at this price carry — while leaving the 16-core Zen 5 side unstarved. It is the config RTINGS actually bought and tested, and Best Buy's volume seller (287 reviews vs 67 for the 32GB). Everything else — 13.4\" 180Hz Nebula touch, 70Wh, 1.6kg, soldered RAM ceiling — is identical to the 32GB SKU; the 128GB/96GB-VRAM variant ASUS advertised was never sold in Canada.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 5.5,
+    "screen_quality": 8.3,
+    "readability_dark": 7.5,
+    "readability_bright": 6.5,
+    "ecosystem": 8.5,
+    "gaming": 7.2,
+    "productivity": 8.5,
+    "portability": 7.5,
+    "build_quality": 8.5,
+    "thermals_noise": 6.5,
+    "port_connectivity": 8,
+    "creative_work": 7.5,
+    "keyboard_trackpad": 5.5,
+    "webcam_speakers": 6.5,
+    "upgradability": 4,
+    "ai_ml": 8.5,
+    "pen_touch": 8.5,
+    "repairability_service": 4.5,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from the 32GB GZ302 anchor (Notebookcheck-tested 32GB unit + RTINGS' own 64GB test unit, whose numeric scores are membership-locked). Deltas vs the 32GB SKU: gaming +0.2 (more VRAM headroom for hi-res texture packs, same silicon), productivity +0.5 (memory for heavy multitasking/VMs), creative_work +0.5 (large-model / big-asset video and 3D work benefits from ~48GB allocable VRAM), ai_ml +1.0 (can host far larger local LLMs; NBC: 'other SKUs can allocate up to 48 or 96 GB VRAM'). Battery, thermals, keyboard, display, ports identical — same cell, APU, chassis. avg_score 8.7 carried from the line anchor (NBC 86.8%); RTINGS/Ars/PCMag numeric scores unavailable (honest nulls). Image URL is a best-guess Best Buy CDN pattern; site has a fallback."
+}

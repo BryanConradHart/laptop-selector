@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Laptop Selector — find your perfect laptop</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <div class="logo"><span class="logo-mark">◆</span> Laptop<span class="accent">Selector</span></div>
+    <h1>Find the laptop that fits <em>you</em></h1>
+    <p class="sub">Tell us what matters — we rank hundreds of exact configurations, priced in CAD, from current Canadian stock.</p>
+  </div>
+</header>
+
+<main class="layout">
+  <!-- ============ CONTROLS ============ -->
+  <aside class="controls" id="controls">
+    <div class="controls-head">
+      <h2>Your priorities</h2>
+      <button id="resetBtn" class="btn-ghost" title="Reset all sliders to defaults">Reset</button>
+    </div>
+    <div class="budget-card">
+      <label class="budget-label" for="priceSlider">
+        Budget — how much saving money matters<button type="button" class="info" data-tip="How much the price matters to you — higher pushes cheaper machines up the rankings, 0 ignores price entirely."
+                aria-label="About the Budget slider">?</button>
+        <span class="budget-hint">higher = cheaper machines ranked up; nothing is ever excluded</span>
+      </label>
+      <input type="range" id="priceSlider" min="0" max="10" step="0.1" value="6">
+    </div>
+    <div id="sliders" class="sliders"><!-- built by app.js from dataset factors --></div>
+    <details class="filters">
+      <summary>Filters</summary>
+      <div class="filter-groups">
+        <div class="filter-group"><h5>Operating system</h5><div id="fOs" class="chips"></div></div>
+        <div class="filter-group"><h5>Form factor</h5><div id="fFf" class="chips"></div></div>
+        <div class="filter-group"><h5>CPU architecture</h5><div id="fArch" class="chips"></div></div>
+      </div>
+    </details>
+    <details class="presets">
+      <summary>Quick presets</summary>
+      <div id="presetBtns" class="preset-btns"></div>
+    </details>
+  </aside>
+
+  <!-- ============ RESULTS ============ -->
+  <section class="results">
+    <div class="results-head">
+      <h2 id="resultsTitle">Top 5 matches</h2>
+      <span id="resultsMeta" class="results-meta"></span>
+    </div>
+    <div id="cards" class="cards"></div>
+  </section>
+</main>
+
+<footer class="foot">
+  <p id="footNote">Research data collected 2026-11-24 from RTINGS, Notebookcheck, Tom's Hardware, PCMag, The Verge, Reddit, Best Buy Canada, Amazon Canada and manufacturer stores. Scores are editorial estimates — verify prices before buying.</p>
+</footer>
+
+<!-- ============ DETAIL MODAL ============ -->
+<div id="modal" class="modal" hidden>
+  <div class="modal-backdrop" data-close></div>
+  <div class="modal-panel" role="dialog" aria-modal="true">
+    <button class="modal-x" data-close aria-label="Close">✕</button>
+    <div id="modalBody"></div>
+  </div>
+</div>
+
+<script src="data/laptops.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

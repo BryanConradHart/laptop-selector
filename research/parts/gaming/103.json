@@ -1,0 +1,111 @@
+{
+  "id": "legion5-g10-151-oled-275hx-5070-16-1tb",
+  "line": "Lenovo Legion 5 15 Gen 10 (2025, 15.1\" OLED, Arrow Lake-HX refresh)",
+  "config_name": "Legion 5 15.1 Gen 10 — Core Ultra 9 275HX / RTX 5070 8GB (115W), 16GB DDR5, 1TB SSD, 15.1\" WQXGA OLED 165Hz",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7 (115 W TGP incl. Dynamic Boost, MUX)",
+    "gpu_type": "discrete",
+    "ram_gb": 16,
+    "ram_type": "DDR5 (2x SODIMM, upgradeable to 64GB)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (2 slots)",
+    "screen_size_in": 15.1,
+    "display_type": "OLED glossy (LEN151WQXGA, HDR, 165 Hz)",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 495,
+    "brightness_hdr_nits": 1067,
+    "weight_kg": 1.9,
+    "ports": "2x USB-C 3.2 Gen2 (DP, PD 3.0), 3x USB-A 3.2, HDMI 2.1, RJ45 GbE, 3.5mm",
+    "wireless": "Wi-Fi 7 (MediaTek MT7925), BT 5.4",
+    "webcam": "5MP with electronic shutter",
+    "speakers": "Stereo",
+    "keyboard_notes": "Chiclet w/ numpad, 1.6mm travel, 24-zone backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 7,
+    "notes": "80 Wh. NBC AMD anchor 9.5h WiFi; HX-class Intel parts 'noticeably shorter' — Arrow Lake-HX slightly more efficient than Raptor Lake-HX, est. ~7h WiFi."
+  },
+  "price": {
+    "cad": 3649,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19825895",
+    "confidence": "verified",
+    "notes": "Regular $5,229 / sale $3,649, BBY API-verified 2026-11-24 (LEGION_LIST.md).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19825895",
+        "cad": 3649,
+        "est": false,
+        "name": "Lenovo Legion 5 15.1\" WQXGA OLED 165Hz Gaming Laptop - Intel Ultra 9 275HX - 16GB DDR5 - 1TB SSD - RTX 5070 8GB - Windows 11 - Black"
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/legion-laptops/legion-5-series/lenovo-legion-5-gen-10-15-inch-intel"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19825/19825895.jpeg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87%",
+        "url": "https://www.notebookcheck.net/Lenovo-Legion-5-15IRX10-gaming-laptop-review-Brilliant-OLED-and-RTX-5070-for-EUR1-499-approx-1-742.1147338.0.html",
+        "quote": "Its gaming performance is on par with the more expensive Legion 5 Pro 16. Combined with an excellent OLED display boasting a 165 Hz refresh rate and impressive brightness, gaming becomes an absolute pleasure."
+      }
+    ],
+    "note": "NBC reviewed the same 15.1\" OLED chassis with RTX 5070 (87%); this tier swaps in the Arrow Lake-HX Ultra 9 275HX. RTINGS/Tom's: no numeric score found, not cited."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Same superb 15.1\" OLED (495 nits SDR / 1067 nits HDR measured, 0.9 deltaE, 165 Hz) that NBC scored 'excellent' at the mainstream price",
+      "Ultra 9 275HX 24-core Arrow Lake-HX is the fastest CPU option in the line — strong for compile/render multitasking",
+      "RTX 5070 at full 115 W with MUX switch — 'on par with the more expensive Legion 5 Pro 16' (NBC)",
+      "Easy upgrades: 2x SODIMM to 64GB, dual M.2, screwed battery, replaceable Wi-Fi module, official maintenance manual",
+      "Light 1.94 kg OLED chassis (lighter than the IPS version), comfortable keyboard + numpad, Wi-Fi 7"
+    ],
+    "complaints": [
+      "16GB RAM on a $3,649 sale / $5,229 regular config — upgrade to 32GB is the obvious first move (NBC tested 32GB)",
+      "HX-class power draw costs battery vs the AMD Ryzen option (NBC: Intel model has 'noticeably shorter battery life')",
+      "Fans clearly audible at 50.1 dB(A) in Performance-mode gaming (NBC)",
+      "No card reader; USB-C tops out at 10 Gbps Gen2 on Intel models (no USB4) per NBC",
+      "Glossy-only OLED + PWM flicker (NBC cons); Legion Gen-10 owner threads report warranty friction and occasional fan/OLED quirks"
+    ]
+  },
+  "design_philosophy": "The Legion 5 Gen 10 line gives mainstream buyers flagship-panel OLED and full-TGP Blackwell graphics without premium-chassis markup; this Arrow Lake-HX tier is the CPU-top option of that formula — the 24-core Ultra 9 paired with the line's OLED + RTX 5070 core, at the cost of RAM (16GB) to hold price.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 6.5,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 7.6,
+    "productivity": 8.7,
+    "portability": 7.5,
+    "build_quality": 7.8,
+    "thermals_noise": 5.8,
+    "port_connectivity": 6.8,
+    "creative_work": 7.5,
+    "keyboard_trackpad": 8.3,
+    "webcam_speakers": 6.3,
+    "upgradability": 8.5,
+    "ai_ml": 5.5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 6.8
+  },
+  "rating_notes": "Ratings inferred from NBC-reviewed 15.1\" OLED RTX 5070 configs (87%) per SHARED-legion5-oled.md: 275HX Arrow Lake-HX gets +0.2 productivity vs i9-14900HX tier and +0.5 battery (Arrow Lake-HX more efficient than Raptor Lake-HX), −0.5 productivity / −0.3 ai_ml for 16GB vs tested 32GB. Image URL follows standard BBY CDN pattern, not individually verified."
+}

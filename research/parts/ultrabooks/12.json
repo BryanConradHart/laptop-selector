@@ -1,0 +1,115 @@
+{
+  "id": "t14s7-amd-a7pro-32-1tb-oled",
+  "line": "Lenovo ThinkPad T14s Gen 7 (2026, AMD Ryzen AI)",
+  "config_name": "ThinkPad T14s Gen 7 — Ryzen AI 7 PRO 450, 32GB LPDDR5X, 1TB SSD, 14\" 2.8K 120Hz matte OLED",
+  "tier": "High",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 7 PRO 450 (8-core/16-thread: 4 Zen 5 + 4 Zen 5c, up to 5.1 GHz, 40W PL2)",
+    "cpu_cores": 8,
+    "gpu": "AMD Radeon 860M integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X-8533 soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2280 NVMe Gen4 TLC Opal (replaceable)",
+    "screen_size_in": 14,
+    "display_type": "OLED 2.8K matte, 16:10",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1100,
+    "weight_kg": 1.19,
+    "ports": "2x TB4/USB4, 1x USB-C, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7 (MediaTek MT7925), BT 5.4",
+    "webcam": "5MP + IR with privacy shutter",
+    "speakers": "2-speaker (improved gen)",
+    "keyboard_notes": "ThinkPad keyboard 1.5mm travel, TrackPoint, auto backlit, fingerprint reader",
+    "pen_support": "none (non-touch OLED)",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 12,
+    "real_world_hours": 11,
+    "notes": "58Wh. NBC: IPS config ~17.5h Wi-Fi test; OLED costs roughly 15-25% runtime (NBC noted OLED 'probably with higher power consumption')."
+  },
+  "price": {
+    "cad": 2900,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadt/thinkpad-t14s-gen-7-14-inch-amd/len101t0171",
+    "confidence": "estimated",
+    "notes": "OLED is a Build-Your-PC option on the CA CTO (base CTO verified $2,093.55 with eCoupon). OLED+32GB+1TB est. ~$2,900 CAD after eCoupon; Lenovo CA runs eCoupon-stacked pricing.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadt/thinkpad-t14s-gen-7-14-inch-amd/len101t0171",
+        "cad": 2900,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadt/thinkpad-t14s-gen-7-14-inch-amd/len101t0171"
+  },
+  "image_url": "https://p2-ofp.static.pub/ShareResource/optimized/pdp/thinkpad/thinkpad-t-series/LEN101T0171/lenovo-thinkpad-t14s-gen-7-amd-series-tn.ff23d6caa387d3d7.png",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
+        "quote": "Lenovo also offers a matte 120 Hz 2.8K OLED panel if you prefer better image quality (but probably with higher power consumption)."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
+        "quote": "Lenovo's updated ThinkPad T14s Gen 7 is an improvement over the previous model and closes the gap to the flagship ThinkPad X1 Carbon even further."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "The 2.8K 120Hz matte OLED is the screen the T14s always needed — same panel family as the X1 Carbon's best option",
+      "OLED + 120Hz scrolling makes this the T14s reviewers said closes the gap to the X1 Carbon",
+      "Still ~1.19 kg even with the OLED panel; no weight penalty worth mentioning",
+      "CTO lets you pair the OLED with 1TB Opal self-encrypting SSD for compliance work",
+      "Far cheaper than the X1 Carbon for the same panel + similar CPU performance"
+    ],
+    "complaints": [
+      "OLED tier shaves meaningful battery vs the IPS (NBC flagged higher power consumption)",
+      "CTO configurator pricing swings wildly with expiring eCoupons — hard to time the real price",
+      "Matte OLED coating still shows more reflections than the IPS anti-glare in bright offices",
+      "RAM remains soldered regardless of panel choice",
+      "OLED burn-in caution for static taskbar/spreadsheet work over multi-year fleet lifetimes"
+    ]
+  },
+  "design_philosophy": "The enthusiast tier of the T14s line: put the X1 Carbon's best display into the cheaper, more repairable T-series chassis. For buyers who want OLED image quality without flagship pricing, this CTO combination is the line's best value-per-dollar configuration.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 7,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 8,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 9,
+    "portability": 9,
+    "build_quality": 8.5,
+    "thermals_noise": 9,
+    "port_connectivity": 8.5,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 7.5,
+    "upgradability": 6,
+    "ai_ml": 6.5,
+    "pen_touch": 0,
+    "repairability_service": 8.5,
+    "durability": 9
+  },
+  "rating_notes": "Inferred from Notebookcheck's T14s Gen 7 AMD review (90%, IPS-touch config): swapping to the 2.8K 120Hz matte OLED option NBC names → screen_quality 5→9, readability_dark 9 (OLED blacks), readability_bright 8, creative_work +2 (full gamut), battery −1h per NBC's higher-consumption note. CPU/RAM/storage match entry 11's reviewed platform."
+}

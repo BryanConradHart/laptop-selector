@@ -1,0 +1,109 @@
+{
+  "id": "ideapad-slim3x-153-sdx1-16-512",
+  "line": "Lenovo IdeaPad Slim 3x 15.3\" Copilot+ (2025)",
+  "config_name": "IdeaPad Slim 3x 15.3\" Copilot+ — Snapdragon X X1-26-100, 16GB LPDDR5x, 512GB SSD, WUXGA IPS",
+  "tier": "Mid",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X X1-26-100 (8-core Arm)",
+    "cpu_cores": 8,
+    "gpu": "Qualcomm Adreno (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x-8448 soldered",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 15.3,
+    "display_type": "IPS LCD anti-glare",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "weight_kg": 1.6,
+    "ports": "2x USB-A 3.2 Gen1 (1 Always On), 1x USB-C 3.2 Gen1 (DP1.2, PD3.0), HDMI 1.4, 3.5mm",
+    "wireless": "Wi-Fi 7 (802.11BE 320MHz), BT 5.x",
+    "webcam": "720p",
+    "speakers": "2x stereo down-firing",
+    "keyboard_notes": "Chiclet, bilingual CA, no numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Home (ARM64, Copilot+ certified, 45 TOPS NPU)"
+  },
+  "battery": {
+    "claimed_hours": 14,
+    "real_world_hours": 11.5,
+    "notes": "~57Wh (5306 mAh) + Arm efficiency: 10-13h real web/video. Best battery in the family by a wide margin."
+  },
+  "price": {
+    "cad": 1199.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19767602",
+    "confidence": "verified",
+    "notes": "BF sale $899.99 — the Copilot+ value pick of the CA market.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19767602",
+        "cad": 899.99,
+        "est": false,
+        "name": "Lenovo IdeaPad Slim 3x 15.3\" Laptop - Snapdragon X X1-26-100 - 16GB LPDDR5x - 512GB SSD - Windows 11 Home - Luna Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19767/19767602.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Battery life is in a different league from every other laptop on this shelf — a full workday plus commute with room left",
+      "Completely silent for office work; the fan almost never spins up",
+      "Copilot+ NPU (45 TOPS) actually accelerates Recall, Click to Do, and local Copilot features",
+      "Wi-Fi 7 and snappy wake-from-sleep feel two generations ahead of the x86 budget twins",
+      "At the $899.99 sale it is the cheapest Copilot+ certified laptop at BBY"
+    ],
+    "complaints": [
+      "Arm app-compatibility surprises: niche peripherals, some anti-cheat games, and legacy plugins don't run or run translated and slow",
+      "Adreno GPU is weak — games that run fine on Iris Xe stutter or fail here",
+      "720p webcam is disappointing on a machine whose CPU is otherwise the most modern in the store",
+      "Same washed 45%-gamut IPS panel and flexy plastic shell as the rest of the Slim 3 line",
+      "Occasional translated-app glitches (older Win32 apps hang or render wrong) that x86 users never see"
+    ]
+  },
+  "standouts": [
+    "Best battery of the entire budget dataset (~11-13h real) — 2x the runtime of every x86 sibling",
+    "Cheapest Copilot+ certified laptop in CA retail; 45 TOPS NPU + Wi-Fi 7 at $899.99 sale"
+  ],
+  "dealbreakers": [
+    "ARM Windows: if your workflow needs specific legacy software, hardware drivers, or anti-cheat games, check compatibility first — this is the one config where 'will my app run?' is a real question"
+  ],
+  "design_philosophy": "Lenovo's price-to-entry for Copilot+ PC certification: the cheapest Snapdragon X platform (X1-26-100) dropped into the standard Slim 3 shell, selling battery life, silence, and on-device AI as the budget-tier differentiator. The compromises are Arm software caveats, a weak Adreno GPU, and the same budget panel and chassis as the x86 twins.",
+  "ratings": {
+    "battery": 9,
+    "screen_size": 6.8,
+    "screen_quality": 4,
+    "readability_dark": 5.5,
+    "readability_bright": 4.5,
+    "ecosystem": 7.5,
+    "gaming": 2,
+    "productivity": 5.8,
+    "portability": 7,
+    "build_quality": 4.5,
+    "thermals_noise": 8,
+    "port_connectivity": 5.5,
+    "creative_work": 2.5,
+    "keyboard_trackpad": 5.2,
+    "webcam_speakers": 4,
+    "upgradability": 2.5,
+    "ai_ml": 4.5,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 4.5
+  },
+  "rating_notes": "No pro review of this exact SKU found (Snapdragon X1 variant is thinly covered; see SHARED-ideapad-slim3.md). Inferred from Core 5 320 sibling + Snapdragon X platform calibration: +3.5 battery (Arm efficiency + 57Wh), +3.5 thermals_noise (near-silent), +3.0 ai_ml (45 TOPS NPU), ecosystem −1.5 for Arm app-translation caveats, −0.5 productivity vs a same-class x86 for translated-app overhead. Battery hours estimated from platform norms; capacity 5306 mAh verified."
+}

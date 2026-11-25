@@ -1,0 +1,111 @@
+{
+  "id": "yoga7i2-14-u5-226v-16-512",
+  "line": "Lenovo Yoga 7i 2-in-1 14 (Gen 9, 2024/25 Lunar Lake)",
+  "config_name": "Yoga 7i 2-in-1 14\" — Core Ultra 5 226V (Lunar Lake), 16GB LPDDR5x, 512GB SSD, 14\" touch",
+  "tier": "Entry",
+  "category": "convertibles-2in1",
+  "ecosystem": "Windows",
+  "form_factor": "convertible",
+  "release": "2024-12",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 5 226V (Lunar Lake, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 130V (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x on-package (soldered)",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe (single slot)",
+    "screen_size_in": 14,
+    "display_type": "IPS touch (BBY name does not state OLED — LCD per twin SKU 19182403)",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.34,
+    "ports": "2x USB-C (TB4/DP/PD), 2x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p",
+    "speakers": "2-speaker + tweeters",
+    "keyboard_notes": "Backlit chiclet, fingerprint reader",
+    "pen_support": "MPP 2.0 active pen (sold separately)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 21,
+    "real_world_hours": 12.5,
+    "notes": "~70Wh Lunar Lake; the 226V twin listing (BBY 19182403, 4.7★/1001) is renowned for battery; 10-14h light use typical."
+  },
+  "price": {
+    "cad": 1699.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19784202",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: $1,699.95 no sale. Twin older SKU 19182403 (same spec) = 4.7★/1,001 reviews, the line's hero listing.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19784202",
+        "cad": 1699.95,
+        "est": false,
+        "name": "Lenovo Yoga 7i 14\" Touchscreen 2-in-1 Laptop - Intel Core Ultra 5 226V - 16GB LPDDR5x - 512GB SSD - Windows 11 Home - Luna Grey"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/lenovo-yoga-7-14-touchscreen-2-in-1-copilot-pc-laptop-intel-core-ultra-5-226v-16gb-lpddr5x-512gb-ssd-windows-11-luna-grey/19182403",
+        "cad": 1299.97,
+        "est": false,
+        "name": "Lenovo Yoga 7 14\" Touchscreen 2-in-1 Copilot+ PC Laptop - Intel Core Ultra 5 226V - 16GB LPDDR5x - 512GB SSD - Windows 11 - Luna Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19784/19784202.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "No numeric pro score found for this config (RTINGS/NBC bot-walled at research time; see SHARED-yoga7i-2in1.md). Anchored on BBY twin 19182403 aggregate 4.7★/1,001."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Lunar Lake battery life is the headline — the 1,001-review twin listing averages 4.7★ largely on all-day runtime",
+      "Cool and near-silent under everyday loads; fans rarely spin up for office work",
+      "Excellent sale-price value when discounted below $1,400",
+      "Light 1.34 kg with a sturdy aluminium convertible chassis",
+      "Copilot+ certified (37 TOPS NPU) and Wi-Fi 7"
+    ],
+    "complaints": [
+      "16GB is on-package — absolute RAM ceiling, no upgrade ever",
+      "LCD (non-OLED) panel on this SKU is only average brightness/contrast vs the OLED siblings",
+      "Pen not bundled despite touch support",
+      "Average 1080p webcam",
+      "Occasional unit QC issues reported (dead pixels, fan whine) in high-volume listing"
+    ]
+  },
+  "design_philosophy": "The efficiency-first tier of the Yoga 7i 2-in-1 line: Lunar Lake trades peak CPU throughput for class-leading battery life and cool, silent running in a mainstream aluminium convertible — the sensible all-day battery pick of the family.",
+  "ratings": {
+    "battery": 8.8,
+    "screen_size": 6.5,
+    "screen_quality": 6.5,
+    "readability_dark": 6,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 3,
+    "productivity": 6.8,
+    "portability": 7.5,
+    "build_quality": 7.5,
+    "thermals_noise": 8.5,
+    "port_connectivity": 7,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 5.5,
+    "upgradability": 3,
+    "ai_ml": 5,
+    "pen_touch": 6,
+    "repairability_service": 5,
+    "durability": 6.5
+  },
+  "rating_notes": "Ratings synthesized from SHARED-yoga7i-2in1.md anchor (BBY twin 19182403, 4.7★/1,001; no pro score found, bot-walls disclosed). Lunar Lake 226V: battery +0.6 over siblings (8.8), Arc 130V gaming 3.0, thermals_noise 8.5. LCD panel caps screen_quality 6.5 (OLED siblings get 8.6). Display type flagged: BBY name omits OLED; treated as LCD per twin listing."
+}

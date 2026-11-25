@@ -1,0 +1,110 @@
+{
+  "id": "strix-g16-8940hx-5070-32-1tb-165",
+  "line": "ASUS ROG Strix G16 (2025, G615)",
+  "config_name": "Strix G16 16\" — Ryzen 9 8940HX, RTX 5070 8GB, 32GB DDR5, 1TB SSD, 16\" FHD+ 165Hz",
+  "tier": "Mid",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen 9 8940HX (Zen 4, 16-core/32-thread)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB (full ~115W TGP + boost)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5 (2x SODIMM, upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "IPS, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 370,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.5,
+    "ports": "2x USB-A, 1x USB-C (DP/PD), HDMI 2.1, RJ45, 3.5mm",
+    "wireless": "Wi-Fi 6E, BT 5.3",
+    "webcam": "1080p",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Per-key RGB",
+    "pen_support": "none",
+    "os": "Windows 11"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 5,
+    "notes": "~90Wh; Zen4 HX idles slightly thirstier than mobile Ryzen AI parts."
+  },
+  "price": {
+    "cad": 3299,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19620063",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: $3,299.00 (no sale), sku 19620063, marketplace seller ASUS Canada (premier).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19620063",
+        "cad": 3299,
+        "est": false,
+        "name": "ASUS ROG Strix G16 (2025) 16\" 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 32GB DDR5 - 1TB SSD - RTX 5070 - Windows 11"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/196/19620/19620063.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (verdict)",
+        "score": "recommended (verdict: Good)",
+        "url": "https://www.notebookcheck.net/Asus-ROG-Strix-G16-2025-review-verdict-Good-RTX-5080-gaming-laptop-but-faster-Ryzen-9-9955HX-is-only-available-with-RTX-5070-Ti.1008100.0.html",
+        "quote": "a fast gaming notebook with an RTX 5080 Laptop, which is an excellent match for the native QHD resolution of its matte IPS panel... the faster Ryzen 9 9955HX has to make do with the RTX 5070 Ti Laptop (reviewed 5080 config; CA retail tops out at 5070)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Same full-TGP RTX 5070 as the pricier Intel tiers — identical gaming FPS",
+      "Ryzen 9 8940HX 16-core is a multicore workhorse for rendering/compiling",
+      "32GB/1TB from the factory with both SODIMM and M.2 slots still upgradeable",
+      "Strix G16 chassis user pool rates it ~4.6/5 (BBY)",
+      "Cheapest route to a full-TGP 5070 in the Strix line"
+    ],
+    "complaints": [
+      "Base FHD+ 165Hz panel is dim (~300-370 nits) and low-gamut vs the Nebula HDR tier",
+      "$100 more than the anchor 275HX/5070/32GB/2TB/240Hz HDR tier for a worse screen — odd value curve",
+      "Battery life short unplugged",
+      "Fan noise in Turbo mode",
+      "Plastic chassis flex; bulky power brick"
+    ]
+  },
+  "design_philosophy": "The AMD trim of the 2025 Strix G16: a high-core-count Ryzen 8940HX with the same full-wattage RTX 5070, aimed at buyers who want CPU-heavy productivity alongside gaming, though the CA SKU pairs it with the base 165Hz panel.",
+  "ratings": {
+    "battery": 4.5,
+    "screen_size": 8,
+    "screen_quality": 6.3,
+    "readability_dark": 6.3,
+    "readability_bright": 5.5,
+    "ecosystem": 9,
+    "gaming": 8,
+    "productivity": 7.3,
+    "portability": 4.3,
+    "build_quality": 7,
+    "thermals_noise": 6.2,
+    "port_connectivity": 7.5,
+    "creative_work": 6.8,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 7.5,
+    "ai_ml": 6.5,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Inferred from anchor 70.json per SHARED-strix-g16.md: same full-TGP RTX 5070 → gaming unchanged; 16-core 8940HX vs 24-core 275HX → productivity −0.7, thermals_noise +0.2; base FHD+ 165Hz panel → screen_quality −1.7, readability_dark −0.7, readability_bright −0.5; 1TB vs 2TB → creative_work −0.2. No pro review retrieved (hard-stop); professional null per SCHEMA. Price BBY-verified. Pro anchor added via browser gap-fill (see GAPFILL-strix-g16.md): NBC reviewed the 275HX+5080 sibling config 2025-04."
+}

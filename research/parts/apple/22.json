@@ -1,0 +1,122 @@
+{
+  "id": "mbp16-m5max-40c-48-2tb",
+  "line": "Apple MacBook Pro 16-inch (2026, M5 Max)",
+  "config_name": "MacBook Pro 16-inch — M5 Max 40-core GPU, 48GB RAM, 2TB SSD",
+  "tier": "Flagship",
+  "category": "apple",
+  "ecosystem": "macOS",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": false,
+  "specs": {
+    "cpu": "Apple M5 Max (18-core)",
+    "cpu_cores": 18,
+    "gpu": "Apple M5 Max 40-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 48,
+    "ram_type": "unified/soldered",
+    "storage_gb": 2000,
+    "storage_type": "NVMe soldered (PCIe 5.0)",
+    "screen_size_in": 16.2,
+    "display_type": "Mini-LED IPS (Liquid Retina XDR)",
+    "resolution": "3456x2234",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 1000,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 2.15,
+    "ports": "3x TB5/USB-C, HDMI, SDXC, MagSafe 3, 3.5mm",
+    "wireless": "Wi-Fi 7 (Apple N1), BT 6",
+    "webcam": "12MP Center Stage",
+    "speakers": "6-speaker",
+    "keyboard_notes": "Magic Keyboard, Touch ID, Force Touch trackpad",
+    "pen_support": "none",
+    "os": "macOS Tahoe 26"
+  },
+  "battery": {
+    "claimed_hours": 22,
+    "real_world_hours": 11,
+    "notes": "100Wh; 140W adapter but input capped ~97W. NBC: battery dropped 12% in one hour of full load even with stronger PSUs."
+  },
+  "price": {
+    "cad": 6999,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/16-inch",
+    "confidence": "verified",
+    "notes": "Verified on apple.com/ca buy page (see research/parts/apple/NOTES.md).",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20256185",
+        "cad": 7599.99,
+        "est": false,
+        "name": "Apple MacBook Pro PROLED XDR 16\" (2026) - Space Black (Apple M5 Max / 48GB RAM / 2TB SSD) - English"
+      },
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/16-inch",
+        "cad": 6999,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/16-inch"
+  },
+  "image_url": "https://www.apple.com/v/macbook-pro/specs/e/images/specs/16-inch/macbook_pro_16_inch__cqvg4x5ohjv6_large.jpg",
+  "professional": {
+    "avg_score": 8.9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "92.4%",
+        "url": "https://www.notebookcheck.net/Apple-s-fastest-laptop-starts-to-show-its-age-Apple-MacBook-Pro-16-2026-M5-Max-Review.1250821.0.html",
+        "quote": "the larger 16-inch chassis handles the powerful M5 Max much better compared to the MacBook Pro 14 and the performance is both better as well as more consistent... even the MacBook Pro 16 cannot utilize the full potential of the M5 Max and the cooling system can only handle 70 Watts."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.2/10",
+        "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-16-m5-2026",
+        "quote": "premium workstation laptop designed for creative and professional work... outstanding build quality with premium materials and incredible fit and finish"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "The fastest Mac Apple sells, with consistent M5 Max performance in the big chassis (NBC)",
+      "48GB unified memory runs 30B+ quantized local LLMs and massive Resolve timelines without swap (NBC-class tests)",
+      "40-core GPU ≈ RTX 5070 class with native Cyberpunk 2077 support (NBC gaming tests)",
+      "Cooling is usually very quiet or even inaudible despite the power (NBC)",
+      "Mini-LED panel still rivals tandem-OLED in brightness and color accuracy, matte option available (NBC)"
+    ],
+    "complaints": [
+      "Cooling handles only 70W — the full M5 Max potential remains locked (NBC)",
+      "Power input capped ~97W; battery falls 12% per hour at full load even with a bigger PSU (NBC)",
+      "Apple's fastest laptop starts to show its age — chassis needs a redesign (NBC title/verdict)",
+      "Wi-Fi 7 module limited to 160 MHz (~2 Gbps cap) (NBC)",
+      "C$6,999 before upgrades, with everything soldered; prices are still high (NBC)"
+    ]
+  },
+  "design_philosophy": "The top of Apple's portable lineup: the full 40-core M5 Max with 48GB of unified memory in the largest Pro chassis — Apple's answer to a mobile workstation for film, 3D, and local AI. NBC's caveat frames the tier: extraordinary machine, but the five-year-old cooling now bottlenecks Apple's own flagship.",
+  "ratings": {
+    "battery": 8.3,
+    "screen_size": 8.5,
+    "screen_quality": 9.3,
+    "readability_dark": 9,
+    "readability_bright": 8.5,
+    "ecosystem": 9.5,
+    "gaming": 5,
+    "productivity": 9.6,
+    "portability": 6.4,
+    "build_quality": 9.5,
+    "thermals_noise": 7.5,
+    "port_connectivity": 7,
+    "creative_work": 9.6,
+    "keyboard_trackpad": 9.2,
+    "webcam_speakers": 8.5,
+    "upgradability": 1,
+    "ai_ml": 8.8,
+    "pen_touch": 0,
+    "repairability_service": 4,
+    "durability": 8.5
+  },
+  "rating_notes": "Directly tested config — this matches the 40-core GPU test unit of NBC's 92.4% review. Thermals 7.5 (not higher) because the chassis cooling tops out at 70W per NBC; gaming 5.0 top of the ~4.5-5 NOTES range for M5 Max ≈ RTX 5070 class. Sentiment synthesized from pro reviews — Reddit API blocked (403)."
+}

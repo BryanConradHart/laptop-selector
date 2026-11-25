@@ -1,0 +1,128 @@
+{
+  "id": "rog-ally-x-z1e-24gb-1tb",
+  "line": "ASUS ROG Ally X (2024)",
+  "config_name": "ROG Ally X — AMD Ryzen Z1 Extreme (8C/16T Zen 4) / Radeon 780M, 24GB LPDDR5x-7467, 1TB SSD, 7\" 1080p 120Hz VRR IPS",
+  "tier": "Mid",
+  "category": "handheld-pcs",
+  "ecosystem": "Windows",
+  "form_factor": "handheld",
+  "release": "2024-06",
+  "inferred": false,
+  "specs": {
+    "cpu": "AMD Ryzen Z1 Extreme (8-core/16-thread Zen 4, 3.3-5.1GHz, 53W PL2 burst / 30W PL1 sustained)",
+    "cpu_cores": 8,
+    "gpu": "AMD Radeon 780M integrated (12 CU RDNA 3, up to 2.7GHz)",
+    "gpu_type": "integrated",
+    "ram_gb": 24,
+    "ram_type": "LPDDR5x-7467 dual-channel, soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2280 PCIe 4.0 NVMe (user-accessible, WD SN560 in tested unit)",
+    "screen_size_in": 7,
+    "display_type": "IPS, glossy, capacitive touch, Corning Gorilla Glass Victus, 120Hz with Adaptive Sync (VRR), no PWM flicker, no HDR",
+    "resolution": "1920x1080",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 456,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.685,
+    "ports": "1x USB4 40Gbps (USB-C, DP alt + PD), 1x USB-C 3.1 Gen2, microSD, 3.5mm; fingerprint reader in power button",
+    "wireless": "Wi-Fi 6E (MediaTek MT7922), BT 5.2",
+    "webcam": "none",
+    "speakers": "stereo speakers (front-firing)",
+    "keyboard_notes": "no keyboard; controls: joysticks with RGB rings, hall-effect triggers, 2 rear paddles, 2 remappable mappable buttons, touchpad-free touchscreen input",
+    "pen_support": "none (touch only)",
+    "os": "Windows 11 Home + Armoury Crate SE gamepad UI"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 3,
+    "notes": "80Wh 4-cell (double the original Ally's 40Wh). No official runtime claim. Notebookcheck measured the 7\" panel at 456 nits average; owners and reviewers consistently report ~2-3h under gaming load (Performance preset, ~15-25W) and roughly 6-9h for light use/video. Real-world gaming figure is the widely-corroborated community consensus, not a single lab measurement — see SHARED-rog-ally.md."
+  },
+  "price": {
+    "cad": 899.97,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-rog-ally-x-7-120hz-lcd-touchscreen-handheld-gaming-pc-ryzen-z1-extreme-24gb-ram-1tb-ssd-windows-11/17944483",
+    "confidence": "verified",
+    "notes": "Verified on bestbuy.ca 2026-11-24: $899.97, Sold and shipped by Best Buy, model RC72LA-ALLYX.Z1X, web code 17944483, BBY rating 4.7/5 (2,742 reviews), '100+ bought in the last month'-class traffic, delivery available (store pickup sold out locally). Launch price was C$1,699 in July 2024; this is a deep clearance discount as the line has moved to the Xbox Ally family.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-rog-ally-x-7-120hz-lcd-touchscreen-handheld-gaming-pc-ryzen-z1-extreme-24gb-ram-1tb-ssd-windows-11/17944483",
+        "cad": 899.97,
+        "est": false,
+        "name": "ASUS ROG Ally X 7\" 120Hz LCD Touchscreen Handheld Gaming PC (Ryzen Z1 Extreme/24GB RAM/1TB SSD/Windows 11)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ROG_Ally_X/_1000587_wide.jpg",
+  "professional": {
+    "avg_score": 8.5,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "84.6%",
+        "url": "https://www.notebookcheck.net/Asus-ROG-Ally-X-Review-The-best-gaming-handheld-thanks-to-faster-RAM-and-a-huge-80-Wh-battery.865721.0.html",
+        "quote": "The new Asus ROG Ally X is the updated version of the ROG Ally and still uses the same AMD processor as well as the 7-inch IPS screen with VRR, but almost every other aspect has been improved. In addition to improved ergonomics and better joysticks, the gaming handheld benefits from additional memory as well as the larger 80 Wh battery."
+      },
+      {
+        "outlet": "TechPowerUp (via NBC collection)",
+        "score": "positive",
+        "url": "https://www.techpowerup.com/review/asus-rog-ally-x/",
+        "quote": "Even a year after its release, the ASUS ROG Ally X is a still well-rounded Windows PC handheld and one of the best options on the market. The performance's solid, the software's great, the screen's more than decent, and you've got a massive battery that allows you to game for hours on end without the need for a charger."
+      },
+      {
+        "outlet": "Tom's Hardware",
+        "score": null,
+        "url": "https://www.tomshardware.com/video-games/console-gaming/asus-rog-ally-x-review",
+        "quote": "The Asus ROG Ally X is the best Windows gaming handheld out there right now, with a big battery, solid ergonomics, and lots of RAM to help boost performance. But Windows still isn't perfect, and ..."
+      },
+      {
+        "outlet": "PCMag",
+        "score": null,
+        "url": "https://www.pcmag.com/reviews/asus-rog-ally-x",
+        "quote": "The ROG Ally X enhances Asus' handheld gaming console with extra storage and battery life, cementing its place as the top Steam Deck alternative."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "80Wh battery is a genuine 2x the original Ally — r/ROGAlly owners consistently call it the fix that made the line usable for travel; ~6-9h of video/emulation at low TDP",
+      "24GB of fast LPDDR5x-7467 measurably lifts Radeon 780M frame rates vs the 16GB original (NBC's headline finding); emulation and heavy mods benefit from the extra headroom",
+      "Much more comfortable than the 2023 Ally: deeper grips, better sticks, hall-effect triggers — 'improved ergonomics' is NBC's lead pro and the top BBY review theme",
+      "120Hz IPS with real VRR/Adaptive-Sync keeps sub-60fps games smooth, and minimum brightness dropped to ~10 nits with no PWM — good for dark-room play (NBC measured)",
+      "At C$899.97 (2026 clearance) it is the cheapest way into a full Windows handheld that runs Game Pass, anti-cheat multiplayer and every launcher — BBY 4.7/5 across 2,700+ reviews"
+    ],
+    "complaints": [
+      "Battery 'doubling' still means only ~2-3h of AAA gaming at Performance preset — r/ROGAlly battery threads call 80Wh adequate rather than good",
+      "Windows 11 on a 7-inch touch screen remains fiddly: updates, wake/sleep bugs and desktop-mode digging are the #1 recurring gripe in BBY reviews ('Now if only we can get a version of Windows...', Tom's Hardware)",
+      "Same 2023 Z1 Extreme silicon — by 2026 the Z2 Extreme Xbox Ally X and Legion Go 2 are 10-25% faster for the money if you shop new",
+      "Glossy screen only measures ~456 nits (below the 500-nit claim on NBC's unit) — poor outdoor visibility vs Deck OLED anti-glare",
+      "No webcam, Wi-Fi 6E not Wi-Fi 7, and RAM is soldered; the M.2 2280 SSD is the only upgrade path (NBC cons: RAM not upgradeable)"
+    ]
+  },
+  "design_philosophy": "ASUS's second-generation refinement of its own formula: keep the 7-inch 1080p 120Hz VRR IPS panel and the Z1 Extreme APU, but rebuild everything the community complained about — double the battery (80Wh), 50% more and faster RAM (24GB LPDDR5x-7467), a full 1TB SSD, deeper grips, better hall-effect sticks/triggers, and a user-accessible M.2 2280 bay. This Z1 Extreme 24GB/1TB SKU was the single launch SKU (C$1,699 at launch) and in late 2026 it is the line's value play at C$899.97 clearance while ASUS's retail focus has shifted to the Xbox-branded successors.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 5,
+    "screen_quality": 6.5,
+    "readability_dark": 7,
+    "readability_bright": 5.5,
+    "ecosystem": 8.5,
+    "gaming": 6.5,
+    "productivity": 5,
+    "portability": 8,
+    "build_quality": 7.5,
+    "thermals_noise": 7,
+    "port_connectivity": 5,
+    "creative_work": 4,
+    "keyboard_trackpad": 0.5,
+    "webcam_speakers": 4,
+    "upgradability": 6,
+    "ai_ml": 3,
+    "pen_touch": 3,
+    "repairability_service": 6,
+    "durability": 6.5
+  },
+  "rating_notes": "Anchor config: exactly the SKU Notebookcheck tested (Z1 Extreme/24GB/1TB, RC72LA) — no inference needed. avg_score 8.5 = NBC 84.6% normalised; TechPowerUp 'positive' and PCMag/Tom's Hardware verbal endorsements corroborate; RTINGS score not retrievable (see SHARED-rog-ally.md gap-fill list). Battery 6.5 reflects the disclosed calibration: pros praise the 'massive battery' but real gaming runtime is ~2-3h (users rate it ~1h worse than the reviews' glow — see SHARED). Gaming 6.5: 780M + fast 24GB RAM beats Deck OLED (~6.0) and original Ally by a few %, below Z2 Extreme machines (7.0+). readability_bright penalised for measured 456 nits glossy; readability_dark helped by 10-nit minimum + no PWM. ai_ml 3.0: Z1 Extreme has no NPU. keyboard_trackpad near-zero per handheld convention (touchscreen only; controller inputs counted in build_quality). webcam_speakers: no camera at all. image_url is the verified NBC review hero image (direct jpg); BBY CDN pattern unconfirmed — site fallback applies."
+}

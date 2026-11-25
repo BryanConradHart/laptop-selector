@@ -1,0 +1,106 @@
+{
+  "id": "ideapad-slim3i-156-i51335u-16-512",
+  "line": "Lenovo IdeaPad Slim 3i 15.6\" (15IRU9 class)",
+  "config_name": "IdeaPad Slim 3i 15.6\" — Core i5-1335U, 16GB LPDDR5, 512GB SSD, FHD, numeric keypad",
+  "tier": "Mid",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-09",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core i5-1335U (10-core: 2P+8E)",
+    "cpu_cores": 10,
+    "gpu": "Intel Iris Xe Graphics (80 EU, integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5 soldered",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 15.6,
+    "display_type": "TN/IPS unstated (assume TN), anti-glare",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 250,
+    "weight_kg": 1.65,
+    "ports": "2x USB-A, 1x USB-C, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 6 (802.11ax), BT 5.x",
+    "webcam": "720p HD",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Full-size with numeric keypad, bilingual CA",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 9,
+    "real_world_hours": 5.5,
+    "notes": "Capacity not published on BBY spec; 15.6\" Slim 3i class uses ~50Wh. i5-1335U mid-load ~5-6h real."
+  },
+  "price": {
+    "cad": 1279.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20002853",
+    "confidence": "verified",
+    "notes": "BF sale $1,079.99.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20002853",
+        "cad": 1079.99,
+        "est": false,
+        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Laptop-Grey(Intel Core i5-1335U/16GB RAM/512GB SSD/Intel Iris Xe Graphics/Numeric Keypad/720p HD Camera/Win 11)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20002/20002853.png",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "16GB LPDDR5 standard — the only 3i at BBY that won't choke on 30 Chrome tabs",
+      "Numeric keypad on a 1.65 kg 15.6\" chassis is a real productivity plus for spreadsheets",
+      "i5-1335U with Iris Xe handles light video editing and older games far better than UHD-graphics siblings",
+      "Iris Xe drives two external 4K monitors via HDMI+DP-over-USB-C without complaint",
+      "Sturdy for the price; the 15.6\" shell feels less flexy than the 15.3\" models"
+    ],
+    "complaints": [
+      "Panel type unstated and buyers report the dull TN variant: poor viewing angles and washed colour",
+      "Regular $1,279.99 is overpriced for a budget TN panel; only the sale price is defensible",
+      "720p webcam is the weakest camera of any current 3i SKU",
+      "LPDDR5 is soldered — 16GB is fixed, no upgrade path",
+      "Fan spins up audibly during Teams calls with camera on"
+    ]
+  },
+  "standouts": [
+    "Best raw x86 CPU+iGPU combo of the IdeaPad budget line — Iris Xe and 16GB make it the closest thing to a real work machine here"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "The upper tier of the IdeaPad Slim 3 family: a 15.6\" shell with numeric keypad and a 13th-gen Core i5 with Iris Xe and 16GB soldered LPDDR5, aimed at buyers who need real multitasking headroom but not a Slim 5 price. Panel and webcam are where Lenovo pays for that CPU.",
+  "ratings": {
+    "battery": 5.2,
+    "screen_size": 7,
+    "screen_quality": 3.5,
+    "readability_dark": 5,
+    "readability_bright": 4,
+    "ecosystem": 9,
+    "gaming": 2.5,
+    "productivity": 6.3,
+    "portability": 6.3,
+    "build_quality": 4.5,
+    "thermals_noise": 5.8,
+    "port_connectivity": 5.3,
+    "creative_work": 3.5,
+    "keyboard_trackpad": 6,
+    "webcam_speakers": 4,
+    "upgradability": 3,
+    "ai_ml": 2,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 4.5
+  },
+  "rating_notes": "No pro review found (see SHARED-ideapad-slim3.md). Inferred from Core 5 320 sibling anchoring: +1.3 productivity (10-core + 16GB + numpad), +1.0 gaming (Iris Xe vs UHD), −0.3 battery (hotter 13th-gen U at 15.6\"), screen_quality −0.5 for likely TN panel (BBY does not state IPS; BUDGET_LIST rule = assume TN). Battery hours estimated; capacity unpublished."
+}

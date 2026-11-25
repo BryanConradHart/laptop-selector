@@ -1,0 +1,111 @@
+{
+  "id": "lg-gram-max-17-u7355",
+  "line": "LG gram Max 17 (2025)",
+  "config_name": "LG gram Max 17 — Core Ultra 7 355, Intel Arc iGPU, 16GB LPDDR5X; tiers: 512GB ($2,049, SKU 20068119) or 1TB ($2,199, SKU 20068120), 17\" 2.5K touch",
+  "tier": "Entry",
+  "category": "ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 355 (Arrow Lake)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc integrated (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 512,
+    "storage_type": "NVMe",
+    "screen_size_in": 17,
+    "display_type": "IPS touch, glossy",
+    "resolution": "2560x1600",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 350,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.49,
+    "ports": "2x TB4/USB-C, USB-A, HDMI, microSD, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.3",
+    "webcam": "FHD IR with Windows Hello",
+    "speakers": "stereo, downward-firing",
+    "keyboard_notes": "backlit, numeric keypad, Copilot key",
+    "pen_support": "touch only",
+    "os": "Windows 11 Home (Copilot+)"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 9.5,
+    "notes": "~80 Wh pack. Estimated ~9-10h real-world light use; LG claims ~40% high."
+  },
+  "price": {
+    "cad": 2049,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20068119",
+    "confidence": "verified",
+    "notes": "512GB: reg $2,659 / sale $2,049; 1TB: reg $2,869 / sale $2,199 (BBY-verified 2026-11-24). Ratings identical across the two storage tiers.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20068119",
+        "cad": 2049,
+        "est": false,
+        "name": "LG gram Max 17\" 2.5K Touchscreen Laptop -Matte Bronze (Intel Core Ultra 7 355/ 16GB LPDDR5X RAM/ 512GB SSD/ Backlit Keyboard/ Copilot+ PC/ Numeric Keypad/ Win 11)"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20068120",
+        "cad": 2199,
+        "est": false,
+        "name": "LG gram Max 17\" 2.5K Touchscreen Laptop -Matte Bronze (Intel Core Ultra 7 355/ 16GB LPDDR5X RAM/ 1TB SSD/ Backlit Keyboard/ Copilot+ PC/ Numeric Keypad/ Win 11)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20068/20068119.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "No verified pro review retrieved (bot-walls; see SHARED-lg-gram.md)."
+  },
+  "user_sentiment": {
+    "praises": [
+      "17-inch screen at ~1.5 kg is unmatched — buyers cite it as the only big-screen laptop that feels like a 14\"",
+      "Numeric keypad on the Max chassis is a real spreadsheet win",
+      "Copilot+ NPU and Wi-Fi 7 on the 2025 Arrow Lake board",
+      "Good port set for the thickness: HDMI, USB-A, microSD, dual TB4",
+      "Solid battery for a 17-inch machine on light workloads"
+    ],
+    "complaints": [
+      "Only 16GB soldered RAM at this price limits longevity and multitasking headroom",
+      "60 Hz glossy panel feels basic next to same-price matte 120 Hz rivals",
+      "Lid flex and hinge wobble on the large 17\" lid are more noticeable than on smaller grams",
+      "Speakers are thin and bass-light, typical of the thin gram chassis",
+      "LG Vantage bloat and spotty firmware update cadence in Canada"
+    ]
+  },
+  "design_philosophy": "The gram Max pushes the line's lightness gimmick to its largest canvas: a 17-inch Copilot+ laptop with a numeric keypad that still weighs less than most 15-inch ultrabooks. Magnesium-nano-carbon keeps it ~1.5 kg; the cost is a basic 60 Hz glossy panel and 16GB soldered RAM at entry tiers. It targets road-warriors and finance/spreadsheet users who want maximum screen per gram rather than maximum performance.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 9,
+    "screen_quality": 6.5,
+    "readability_dark": 5.5,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 4,
+    "productivity": 8,
+    "portability": 8.5,
+    "build_quality": 6,
+    "thermals_noise": 7,
+    "port_connectivity": 8,
+    "creative_work": 5,
+    "keyboard_trackpad": 8,
+    "webcam_speakers": 5.5,
+    "upgradability": 3,
+    "ai_ml": 5.5,
+    "pen_touch": 5,
+    "repairability_service": 3.5,
+    "durability": 6
+  },
+  "rating_notes": "Synthesized per SHARED-lg-gram.md; no verified pro anchor (disclosed). 17\" at ~1.49 kg (est.): screen_size +1 vs gram Pro 16, portability −1. 16GB soldered caps productivity vs 32GB Pro tier. 60 Hz glossy panel lowers screen_quality/readability. Image URL best-guess BBY CDN pattern."
+}

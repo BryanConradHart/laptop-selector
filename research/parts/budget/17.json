@@ -1,0 +1,106 @@
+{
+  "id": "vivobook-15-c5320-8-512",
+  "line": "ASUS Vivobook 15 (Core 5 320, 2026)",
+  "config_name": "Vivobook 15 15.6\" 60Hz — Core 5 320, 8GB DDR5, 512GB SSD, FHD anti-glare, Quiet Blue",
+  "tier": "Entry",
+  "category": "budget",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 5 320 (6-core: 2P+4E, Raptor Lake refresh)",
+    "cpu_cores": 6,
+    "gpu": "Intel Graphics (UHD-class integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "DDR5 SO-DIMM (replaceable)",
+    "storage_gb": 512,
+    "storage_type": "NVMe M.2",
+    "screen_size_in": 15.6,
+    "display_type": "FHD IPS-class, anti-glare (250 nits)",
+    "resolution": "1920x1080",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 250,
+    "weight_kg": 1.7,
+    "ports": "1x USB-C 3.2 Gen1 (data only), 2x USB-A 3.2 Gen1, 1x USB 2.0, HDMI 1.4, DC-in, 3.5mm",
+    "wireless": "Wi-Fi 6 (1x1), BT 5.3",
+    "webcam": "720p HD with privacy shutter",
+    "speakers": "2x stereo",
+    "keyboard_notes": "Bilingual CA chiclet with numpad, no backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 5,
+    "notes": "Same ~42 Wh 3-cell as the 16GB twin; ~4.5-5.5h light use."
+  },
+  "price": {
+    "cad": 1099.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20099715",
+    "confidence": "verified",
+    "notes": "BF sale $649.99 — standout sale price; regular price uncompetitive.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20099715",
+        "cad": 649.99,
+        "est": false,
+        "name": "ASUS Vivobook 15 15.6\" 60Hz Laptop - Intel Core 5 320 - 8GB RAM - 512GB SSD - Windows 11 Home - Quiet Blue"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20099/20099715.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "$649.99 sale price is one of the cheapest ways into a modern 6-core x86 with an NVMe SSD",
+      "8GB sits in a standard DDR5 SO-DIMM — a $25 stick later and it is a 16GB machine",
+      "Same solid Core 5 320 CPU as the pricier twin; everyday Windows feels quick",
+      "Webcam privacy shutter and numeric keypad retained from the 16GB SKU",
+      "Light 1.7 kg for a 15.6\" with numpad; easy carry for a student"
+    ],
+    "complaints": [
+      "8GB in 2026 Windows 11 is tight out of the box — Chrome-heavy users feel it within weeks",
+      "250-nit washed-out panel is the same dim compromise as the twin SKU",
+      "USB-C is data-only: no PD charging, no external monitor over USB-C",
+      "Deck and lid flex; hinge wobble typical of this chassis",
+      "Regular $1,099.99 is hard to justify when the 16GB twin sells for $849.99"
+    ]
+  },
+  "standouts": [
+    "Cheapest entry into the upgradable-DDR5 Vivobook 15 chassis at its $649.99 sale"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "The volume tier of ASUS's budget 15.6\" line: identical chassis and CPU as the 16GB SKU with RAM trimmed to hit a deeper sale price. It is explicitly a start-now-upgrade-later machine — the single DDR5 SO-DIMM invites a cheap RAM bump, which is exactly why it beats the soldered-RAM rivals at $649.",
+  "ratings": {
+    "battery": 5.3,
+    "screen_size": 7,
+    "screen_quality": 3.6,
+    "readability_dark": 4.2,
+    "readability_bright": 3.5,
+    "ecosystem": 9,
+    "gaming": 1.5,
+    "productivity": 5.4,
+    "portability": 5.8,
+    "build_quality": 4.5,
+    "thermals_noise": 7,
+    "port_connectivity": 5,
+    "creative_work": 1.6,
+    "keyboard_trackpad": 5.2,
+    "webcam_speakers": 4.3,
+    "upgradability": 6,
+    "ai_ml": 1.2,
+    "pen_touch": 0,
+    "repairability_service": 5.5,
+    "durability": 4
+  },
+  "rating_notes": "Ratings inferred from the 16GB Vivobook 15 twin (same chassis/panel/CPU): -0.6 productivity for 8GB out-of-box, +0.5 upgradability (RAM bump is the intended path and cheap). No pro review exists for the line (see SHARED-vivobook.md). Battery estimated from ~42 Wh 3-cell. Image URL best-guess BBY CDN pattern."
+}

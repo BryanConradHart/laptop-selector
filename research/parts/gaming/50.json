@@ -1,0 +1,128 @@
+{
+  "id": "omen-max16-5090-64-2tb-ips240",
+  "line": "HP OMEN Max 16 (2025, 16-ah0000)",
+  "config_name": "OMEN Max 16 — Core Ultra 9 275HX, RTX 5090 Laptop 175W, 64GB DDR5-5600, 2TB SSD, 16\" WQXGA 240Hz IPS",
+  "tier": "Flagship",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-04",
+  "inferred": false,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t: 8P Lion Cove + 16E Skymont, up to 5.4 GHz, 156W PL2 / 109W PL1)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5090 Laptop 24GB GDDR7 (175W TGP, boost 1597 MHz, Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "DDR5-5600 dual-channel, 2x SODIMM (user-accessible)",
+    "storage_gb": 2000,
+    "storage_type": "NVMe Gen4/Gen5 M.2 (2 slots, PCIe5 main; WD SN810 in reviewed unit)",
+    "screen_size_in": 16,
+    "display_type": "IPS, 16:10, matte (CA 5090 SKU is 240Hz IPS; reviewed unit was OLED)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.81,
+    "ports": "2x Thunderbolt 4, 2x USB-A 10Gbps, HDMI 2.1, 2.5G Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 7 (Intel BE200), BT 5.4",
+    "webcam": "1080p + IR face unlock",
+    "speakers": "2-speaker + subwoofer ('layered sound' per Tom's, but not loud enough over fans per NBC)",
+    "keyboard_notes": "Per-key RGB, beveled keys; NBC rates it comfortable (92%), Tom's calls it mushy",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 3.5,
+    "notes": "83Wh. NBC: WiFi websurfing 5h50, max-brightness load 1h11. BBY users: ~3.5h 1080p YouTube fullscreen, one reports '3 hours'. 330W brick (933g)."
+  },
+  "price": {
+    "cad": 4999.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19195151",
+    "confidence": "verified",
+    "notes": "BB regular $4,999.99 verified 2026-11-24 (sku 19195151). NBC tested as US$3,800 (32GB); Tom's as US$4,329.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19195151",
+        "cad": 4999.99,
+        "est": false,
+        "name": "HP OMEN 16 MAX 16\" 240Hz Gaming Laptop - Intel Core Ultra 9-275HX - 64GB DDR5 - 2TB SSD - GeForce RTX 5090 - Windows 11 Home - Shadow Black"
+      }
+    ],
+    "official_url": "https://www.hp.com/ca-en/shop/cp.aspx/en/pdp/16t-gaming-laptop"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/191/19195/19195151.jpg",
+  "professional": {
+    "avg_score": 7.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "82%",
+        "url": "https://www.notebookcheck.net/HP-Omen-Max-16-laptop-review-Super-fast-but-a-little-bit-too-hot.999164.0.html",
+        "quote": "The Omen Max 16 squeezes a ton of performance considering the size. It comes with the same Core Ultra 9 275HX CPU and 175 W GeForce RTX 5090 GPU as the competing Lenovo Legion Pro 7i 16 Gen 10 while being both heavier and smaller."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": "82%",
+        "url": "https://www.notebookcheck.net/HP-Omen-Max-16-laptop-review-Super-fast-but-a-little-bit-too-hot.999164.0.html",
+        "quote": "As fast as the Arrow Lake HX CPU may be, it may be too fast for the Omen Max 16 to handle. Core temperature under load or when gaming is well over 90 C while clock rates are consistently slower than the same processor running on the aforementioned Legion Pro 7i 16."
+      },
+      {
+        "outlet": "Tom's Hardware",
+        "score": "3.5/5",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/hp-omen-max-16-review",
+        "quote": "The HP Omen Max 16 offers good performance, stunning visuals and layered sound, but it's a lot to lug around."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "no numeric score found",
+        "url": "https://www.rtings.com/laptop/reviews/hp/omen-max-16-2025",
+        "quote": "Review page exists but score was behind a bot-wall on 2026-11-24; not cited."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "BBY user A/B vs an RTX 5070 Ti rival: 'Stays cool while gaming. Just feels slightly warm - very minimum. FPS is great! (avg 120)' while the rival ran 10 C hotter and 10 FPS lower",
+      "All-metal chassis with user-accessible RAM and SSD: 'besides the battery and SSD, the RAM can also be upgraded... several levels above many other laptops that have soldered RAM'",
+      "Runs everything on max settings while 'staying quiet' in Balanced mode per multiple BBY reviews; anti-dust reverse-blow fan system is unique",
+      "24GB GDDR7 VRAM praised for AI workloads alongside gaming — 'Good laptop for ai and gaming' (BBY)",
+      "BBY overall 4.24/5 across 87 reviews — users like it notably more than the pro reviewers did"
+    ],
+    "complaints": [
+      "Battery: 'youtube - 1080P - Full screen non stop playing: approximately 3.5H' (BBY), another user: 'Battery life (3 hours)' — worse than NBC's 5h50 WiFi figure",
+      "'bit noisy when in full load of gaming mode' — NBC measured 61 dB(A) in Unleashed and recommends headphones above 60 dB",
+      "Keyboard feels off: 'will need some time to get use. Everything feels squished together' (BBY); Tom's calls it 'mushy and lifeless'",
+      "2.81 kg laptop + 933 g/2 lb 330W power brick is a huge bag weight for a 16-inch (both pros and users)",
+      "Speakers can't overcome the fans at full load (NBC); trackpad 'isn't that smooth' and chassis 'cheap feeling' vs pricier rivals (BBY)"
+    ]
+  },
+  "design_philosophy": "HP's no-compromise performance flagship of the OMEN line: 'the larger, heavier, and faster version of the regular Omen 16' (NBC), packing desktop-class Arrow Lake-HX and a full 175 W RTX 5090 with PCIe5 storage, dual SODIMMs and easy maintenance access. This top CA config (64GB/2TB) is the AI-and-gaming halo SKU; its cooling is the acknowledged weak point, trading CPU boost clocks for a quieter-thinner claim than the Legion Pro 7i.",
+  "ratings": {
+    "battery": 4,
+    "screen_size": 8,
+    "screen_quality": 7,
+    "readability_dark": 6.5,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 10,
+    "productivity": 9,
+    "portability": 3,
+    "build_quality": 7.5,
+    "thermals_noise": 4.5,
+    "port_connectivity": 7.5,
+    "creative_work": 8.5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 8.5,
+    "ai_ml": 9.5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 7
+  },
+  "rating_notes": "Anchor config for the line (see SHARED-omen-max16.md). NBC 82% + Tom's 3.5/5 = avg 7.6. CA SKU differs from the reviewed unit in two ways: 64GB vs 32GB RAM (+0.5 productivity/ai_ml applied) and 240Hz IPS vs the reviewed OLED panel — screen_quality/readability ratings are IPS-adjusted per SHARED deltas (OLED would be +2.0 screen_quality, +1.5 readability_dark). Gaming 10.0 per dataset calibration (full 175W 5090; Tom's noted some 5080 rivals kept pace due to this unit's CPU thermals). Battery 4.0 per user calibration (users ~2h worse than NBC's 5h50). thermals_noise 4.5: CPU 94-98 C under load, 45-61 dB(A) fan range (NBC). upgradability 8.5: dual SODIMM + 2x M.2, PCIe5 (NBC pro). Image URL is Best Buy CA product CDN (verified HTTP 200)."
+}

@@ -1,0 +1,122 @@
+{
+  "id": "omen-max16-5070-32-1tb-oled240",
+  "line": "HP OMEN Max 16 (2025, 16-ah0000)",
+  "config_name": "OMEN Max 16 — Core Ultra 9 275HX, RTX 5070 Laptop 8GB, 32GB DDR5-5600, 1TB SSD, 16\" WQXGA 240Hz OLED (HDR500)",
+  "tier": "Mid",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-04",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t: 8P + 16E, up to 5.4 GHz, 156W PL2 / 109W PL1)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7 (Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600 dual-channel, 2x SODIMM (user-accessible)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe Gen4/Gen5 M.2 (2 slots, PCIe5 main)",
+    "screen_size_in": 16,
+    "display_type": "OLED, 16:10, glossy, HDR (BBY tier: 240Hz OLED HDR500; NBC-reviewed panel class: Samsung ATNA60DL02-0)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 391,
+    "brightness_hdr_nits": 500,
+    "weight_kg": 2.81,
+    "ports": "2x Thunderbolt 4, 2x USB-A 10Gbps, HDMI 2.1, 2.5G Ethernet, 3.5mm",
+    "wireless": "Wi-Fi 7 (Intel BE200), BT 5.4",
+    "webcam": "1080p + IR face unlock",
+    "speakers": "2-speaker + subwoofer",
+    "keyboard_notes": "Per-key RGB, beveled keys (NBC keyboard sub-score 92%)",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 4,
+    "notes": "83Wh. NBC (same chassis): WiFi 5h50, load 1h11; users ~3-3.5h on the higher-GPU tiers. Lower-TGP 5070 helps slightly."
+  },
+  "price": {
+    "cad": 3499.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19195150",
+    "confidence": "verified",
+    "notes": "BB regular $3,499.95 verified 2026-11-24 (sku 19195150). BBY customer pool 4.18/5, n=66.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19195150",
+        "cad": 3499.95,
+        "est": false,
+        "name": "HP OMEN 16 Max 16\" 240Hz HDR 500 OLED Gaming Laptop - Intel Core Ultra 9-275HX - 32GB DDR5 - 1TB SSD - RTX 5070 - Windows 11 Home - Shadow Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/191/19195/19195150.jpg",
+  "professional": {
+    "avg_score": 7.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "82%",
+        "url": "https://www.notebookcheck.net/HP-Omen-Max-16-laptop-review-Super-fast-but-a-little-bit-too-hot.999164.0.html",
+        "quote": "+ high quality 240 Hz OLED panel with G-Sync"
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": "82%",
+        "url": "https://www.notebookcheck.net/HP-Omen-Max-16-laptop-review-Super-fast-but-a-little-bit-too-hot.999164.0.html",
+        "quote": "it comes with similar OLED panels as the competition and an arguably more comfortable keyboard"
+      },
+      {
+        "outlet": "Tom's Hardware",
+        "score": "3.5/5",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/hp-omen-max-16-review",
+        "quote": "Its OLED panel offered vibrant colors and wide viewing angles while the speakers provided rich tin-free audio."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "'The screen is magnificent and it is really nice to work or study with it' (BBY 5070 OLED owner)",
+      "'Really strong gaming laptop. I can play demanding games such as Star Citizen or MSFS 2020 in the max settings even in VR' (BBY)",
+      "OLED 240Hz with G-Sync at $3,499 CAD — the cheapest way into the panel NBC called 'high quality' in this chassis",
+      "Metal chassis, user-upgradeable RAM/SSD, anti-dust fan system (line-wide BBY praises)",
+      "BBY pool rates it 4.18/5 (n=66), the second-highest of the five CA OMEN Max tiers"
+    ],
+    "complaints": [
+      "'as long as you put it in economy mode so it won't make a ridiculous loud ventilating sound' (BBY) — Unleashed mode hits ~61 dB(A) (NBC)",
+      "Glossy OLED reflects a lot: 'OLED screen is beautiful - glossy and quite a bit of reflections' (BBY)",
+      "Battery: strong only plugged in — 'Just perfect (except unplugged)' (BBY title); ~3-3.5h real-world",
+      "New NVIDIA driver regressions flagged by owners: 'Be careful with new drivers' (BBY)",
+      "Fingerprint-prone finish: 'the plastic keeps your finger tips a lot so you need to wipe it regularly' (BBY)"
+    ]
+  },
+  "design_philosophy": "The display-first mid tier: this is the config where buyers get the exact panel the pro-reviewed flagship shipped with (2560x1600 240Hz OLED, the class NBC scored 84% and praised as 'high quality... with G-Sync') for $1,500 less by stepping the GPU down to the RTX 5070. Same Arrow Lake-HX CPU, RAM/SSD access and chassis, so productivity and maintainability match the halo tier.",
+  "ratings": {
+    "battery": 4.5,
+    "screen_size": 8,
+    "screen_quality": 9,
+    "readability_dark": 7.5,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 7,
+    "productivity": 8.5,
+    "portability": 3,
+    "build_quality": 7.5,
+    "thermals_noise": 5,
+    "port_connectivity": 7.5,
+    "creative_work": 8,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 8.5,
+    "ai_ml": 7.5,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from the NBC/Tom's reviewed 5090/275HX OLED config (see SHARED-omen-max16.md) — this CA tier keeps the reviewed OLED panel and CPU, only the GPU steps down: 5090→5070 = gaming −3.0 (two tiers at −1.5), ai_ml −2.0 (24→8GB VRAM), battery +0.5. screen_quality 9.0 = the anchor OLED itself (NBC Display 84%; −1 for no HDR1000 + 960Hz PWM); readability_dark 7.5 (OLED blacks, glossy reflections + PWM penalty); readability_bright 6.5 (391 nits SDR, glossy). thermals_noise 5.0: 275HX heat persists but 5070 adds less GPU heat than anchor."
+}

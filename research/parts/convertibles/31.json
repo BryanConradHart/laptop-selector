@@ -1,0 +1,118 @@
+{
+  "id": "obxf14-a7-450-32-1tb-oled",
+  "line": "HP OmniBook X Flip 14 (2025, AMD Ryzen AI) — Spectre x360 14 successor",
+  "config_name": "OmniBook X Flip 14 — Ryzen AI 7 450, 32GB LPDDR5x, 1TB SSD, 2K OLED touch",
+  "tier": "High",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "AMD Ryzen AI 7 450 (Strix Point)",
+    "cpu_cores": 8,
+    "gpu": "AMD Radeon 860M (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe",
+    "screen_size_in": 14,
+    "display_type": "2K OLED touch",
+    "resolution": "2240x1400",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 600,
+    "weight_kg": 1.45,
+    "ports": "2x USB4/USB-C, USB-A, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "5MP IR",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit, Copilot key",
+    "pen_support": "HP pen (MPP)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 9.5,
+    "notes": "Strix Point draws more than Lunar/Panther Lake in light use; OLED penalty included. Estimate."
+  },
+  "price": {
+    "cad": 2499.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/hp-omnibook-x-flip-14-2k-oled-touchscreen-copilot-pc-laptop-amd-ryzen-ai7-450-32gb-lpddr5x-1tb-ssd-windows-11-home-amd-radeon-860m-graphics-deep-espresso-aluminum/19817319",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 19817319 at $2,499.99 (no discount). Poor value vs Panther Lake twin at $2,179.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/hp-omnibook-x-flip-14-2k-oled-touchscreen-copilot-pc-laptop-amd-ryzen-ai7-450-32gb-lpddr5x-1tb-ssd-windows-11-home-amd-radeon-860m-graphics-deep-espresso-aluminum/19817319",
+        "cad": 2499.99,
+        "est": false,
+        "name": "HP OmniBook X Flip 14\" 2K OLED Touchscreen Copilot+ PC Laptop - AMD Ryzen Ai7 450 - 32GB LPDDR5X - 1TB SSD - Windows 11 Home - AMD Radeon 860M Graphics - Deep Espresso Aluminum"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19817/19817321.jpg",
+  "professional": {
+    "avg_score": 8.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "86%",
+        "url": "https://www.notebookcheck.net/HP-OmniBook-X-Flip-14-review-Flexible-performance-with-AMD-Zen-5.1333611.0.html",
+        "quote": "Flexible performance with AMD Zen 5. Pros: portable and travel-friendly USB-C AC adapter, strong CPU performance for the size, full sRGB colors at minimum, integrated HDMI and USB-A, strong chassis design, great battery life. Cons: HDR only available on highest-end SKU, no Arc B390 or Radeon 890M options, 1200p OLED panel could be brighter, new keyboard takes getting used to. (NBC review of the OmniBook X Flip 14 AMD Zen 5 config.)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "32GB RAM — double the Intel twins, better for heavy multitasking",
+      "Radeon 860M is the strongest iGPU here: light 1080p gaming actually works",
+      "2K OLED panel is vivid with perfect blacks",
+      "Strong Zen 5 multicore for short bursts",
+      "Deep Espresso aluminum finish is the nicest of the line"
+    ],
+    "complaints": [
+      "BBY owners rate it only 2.82/5 across 17 reviews — by far the worst of the line",
+      "Reports of sleep/wake failures, driver instability, and fan weirdness on the AMD build (drives the 2.8-star score)",
+      "Noticeably worse battery life than the Intel Panther Lake twin in the same chassis",
+      "No Thunderbolt (USB4 only) and fewer docking guarantees",
+      "$2,500 with no discount while the Intel OLED tier sells for $2,179"
+    ]
+  },
+  "design_philosophy": "The AMD Strix Point variant of HP's premium convertible was meant to offer the stronger iGPU and 32GB for creators on a budget, but in Canada it became the line's black sheep: same chassis as the well-liked Intel model, visibly worse customer satisfaction (2.82 stars vs 4.14), and no price advantage.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 6,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 5.5,
+    "ecosystem": 9,
+    "gaming": 5,
+    "productivity": 8,
+    "portability": 8,
+    "build_quality": 7,
+    "thermals_noise": 6.5,
+    "port_connectivity": 5.5,
+    "creative_work": 7,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 7,
+    "upgradability": 2,
+    "ai_ml": 7,
+    "pen_touch": 7,
+    "repairability_service": 4,
+    "durability": 5.5
+  },
+  "rating_notes": "Pro score attached from NBC review of the OmniBook X Flip 14 AMD Zen 5 config (86%, gap-fill 2026-11-24). Inferred from Intel OmniBook X Flip 14 sibling (entry 30): +1.5 gaming / +1 productivity for 860M+32GB, -1 battery / -1.5 thermals_noise for Strix Point in a thin convertible, per BBY user reports (2.82★/17 — worst-rated CA OmniBook listing we found; treat reliability complaints as load-bearing). Durability docked for that instability signal. No pro review of this exact config found (bot-walls — see SHARED-hp-convertibles.md). Image URL from BBY 16\" AMD twin (this SKU's image field was null).",
+  "standouts": [
+    "32GB RAM + best iGPU in line",
+    "2K OLED"
+  ],
+  "dealbreakers": [
+    "2.82★ customer rating — instability/sleep-wake complaints",
+    "Worse battery than Intel twin at higher price"
+  ]
+}

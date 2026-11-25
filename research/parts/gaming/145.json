@@ -1,0 +1,109 @@
+{
+  "id": "blade14-2025-365-5070-32-1tb",
+  "line": "Razer Blade 14 (2025, AMD Ryzen AI)",
+  "config_name": "Razer Blade 14 — Ryzen AI 9 365 / RTX 5070, 32GB RAM, 1TB SSD (Copilot+)",
+  "tier": "Mid",
+  "release": "2025-04",
+  "inferred": true,
+  "specs": {
+    "cpu_cores": 10,
+    "gpu_type": "dedicated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5x-8000 soldered",
+    "screen_size_in": 14,
+    "display_type": "OLED (QHD+, glossy)",
+    "resolution": "2560x1600",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 500,
+    "weight_kg": 1.85,
+    "ports": "2x USB4 40Gbps, 3x USB-A 3.1 Gen2, HDMI 2.1, SDXC, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "Quad-speaker (est.)",
+    "keyboard_notes": "Chiclet, 1.5mm travel, per-key RGB",
+    "pen_support": "none",
+    "os": "Windows 11 Home",
+    "storage_type": "NVMe M.2 (2 slots est.)",
+    "cpu": "AMD Ryzen AI 9 365 (10-core: 4P+6E)",
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7",
+    "storage_gb": 1000
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 6.5,
+    "notes": "~70Wh (est.). 120Hz OLED + 5070 tier = most efficient Blade; ~6-7h light use estimated."
+  },
+  "price": {
+    "cad": 3449.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/p/19218987",
+    "confidence": "verified",
+    "notes": "BBY API-verified 2026-11-24, SKU 19218987. Mercury White twin SKU 19218986 same price.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/p/19218987",
+        "cad": 3449.99,
+        "est": false
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19218/19218987.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "MacBook-like rigid CNC aluminum unibody in a gaming laptop — 'the base unit cannot be warped' (NBC)",
+      "Improved 1.5mm-travel keyboard much better than older Blade models",
+      "Copilot+ Ryzen AI platform with 50 TOPS NPU in a 14-inch gaming chassis",
+      "Fits the Blade build quality into the most travel-friendly size Razer sells",
+      "120Hz OLED still 0.2ms with superb factory color"
+    ],
+    "complaints": [
+      "Black anodized surfaces are extreme fingerprint and dirt magnets (NBC con: 'surfaces remain extremely susceptible to dirt')",
+      "RAM is soldered on the 2025 AMD model — NBC calls it 'a step backwards' for maintenance",
+      "High case temperatures under load; deck near the vents runs hot (NBC: 'case temperatures have increased')",
+      "OLED PWM flickering at 960Hz below 100% brightness bothers sensitive users",
+      "Long-standing Blade-line wear: anodizing/paint scuffs at lid edges and hinge corners over time"
+    ]
+  },
+  "design_philosophy": "The Blade 14 is the most compact expression of Razer's aluminum-unibody gaming philosophy — a full RTX 50-series GPU and a calibrated OLED squeezed into a ~1.85kg 14-inch chassis that could pass for a work ultrabook. This Copilot+ Ryzen AI config trades peak TGP for portability and efficiency, targeting gamers who travel.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 5.5,
+    "screen_quality": 8.5,
+    "readability_dark": 7.5,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 7,
+    "productivity": 7.5,
+    "portability": 8,
+    "build_quality": 9.5,
+    "thermals_noise": 5.5,
+    "port_connectivity": 8.5,
+    "creative_work": 8.5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 6,
+    "upgradability": 4,
+    "ai_ml": 8,
+    "pen_touch": 0,
+    "repairability_service": 4.5,
+    "durability": 7
+  },
+  "rating_notes": "No pro numeric score found for the Blade 14 2025 within researcher budget (RTINGS/NBC not reached; honest null per SCHEMA). Ratings inferred from NBC's Blade 16 2025 (87%) with size/platform deltas: 14-inch 120Hz OLED (screen_size -2, gaming -2.5 for lower-TGP 5070 8GB), portability +0.5, battery +1.0. Weight/battery/speakers estimated (disclosed).",
+  "standouts": [
+    "Most portable current-gen Blade — ~1.85kg with RTX 50-series",
+    "Copilot+ NPU (50 TOPS) in a gaming chassis"
+  ],
+  "dealbreakers": [
+    "RTX 5070's 8GB VRAM limits AAA max-settings and AI work"
+  ],
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell"
+}

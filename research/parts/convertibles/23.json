@@ -1,0 +1,118 @@
+{
+  "id": "sp11-xelite-16-1tb-oled",
+  "line": "Microsoft Surface Pro 11 (13\", Snapdragon, 2024)",
+  "config_name": "Surface Pro 11 — Snapdragon X Elite (12-core), 16GB, 1TB, 13\" 120Hz OLED touch + Flex Keyboard",
+  "tier": "High",
+  "category": "convertibles-2in1",
+  "ecosystem": "Windows",
+  "form_factor": "tablet",
+  "release": "2024-06",
+  "inferred": false,
+  "specs": {
+    "cpu": "Qualcomm Snapdragon X Elite X1E-80-100 (12-core Oryon, 3.4GHz)",
+    "cpu_cores": 12,
+    "gpu": "Qualcomm Adreno 741 (integrated, shared memory)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "LPDDR5x-8448 soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2230 NVMe (replaceable under kickstand)",
+    "screen_size_in": 13,
+    "display_type": "PixelSense Flow OLED glossy touch, 3:2, DisplayHDR 600 / Dolby Vision IQ",
+    "resolution": "2880x1920",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 575,
+    "brightness_hdr_nits": 890,
+    "weight_kg": 0.895,
+    "ports": "2x USB-C/USB4 40Gbps (DP+PD), Surface Connect",
+    "wireless": "Wi-Fi 7 (FastConnect 7800), BT 5.3",
+    "webcam": "1440p front Windows Hello + 10MP rear",
+    "speakers": "2W stereo, Studio Mics",
+    "keyboard_notes": "Flex Keyboard price included in this entry (sold separately); backlit, wireless or on-device connection, stores/charges Slim Pen",
+    "pen_support": "Surface Slim Pen 2 supported, sold separately (~CA$159.99); Flex Keyboard has pen storage",
+    "os": "Windows 11 Home (ARM)"
+  },
+  "battery": {
+    "claimed_hours": 14,
+    "real_world_hours": 12,
+    "notes": "48Wh. CNET measured just under 13h video streaming on this exact config; 5h+ mixed heavy use on Best-performance."
+  },
+  "price": {
+    "cad": 2399.96,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/microsoft-surface-pro-oled-copilot-pc-13-1tb-tablet-with-snapdragon-x-elite-16gb-ram-2024-sapphire-device-only-exclusive-retail-partner/17921785",
+    "confidence": "verified",
+    "notes": "Tablet VERIFIED BBY API 2026-11-24: reg $3,049.97 / sale $1,999.97 (Sapphire, 4.91★/35). + Flex Keyboard w/ Slim Pen VERIFIED CA$399.99 (BBY 17923155) = $2,399.96 with keyboard. Tablet-only sale price $1,999.97.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/microsoft-surface-pro-oled-copilot-pc-13-1tb-tablet-with-snapdragon-x-elite-16gb-ram-2024-sapphire-device-only-exclusive-retail-partner/17921785",
+        "cad": 1999.97,
+        "est": false,
+        "name": "Microsoft Surface Pro (OLED) Copilot+ PC 13\" 1TB Tablet with Snapdragon X Elite/16GB RAM (2024) - Sapphire - Device Only - Exclusive Retail Partner"
+      }
+    ],
+    "official_url": "https://www.microsoft.com/en-ca/d/surface-pro-11-with-snapdragon-technology/8mzbkmz0lmc1"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/179/17921/17921785.jpg",
+  "professional": {
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.3/10",
+        "url": "https://www.cnet.com/tech/computing/microsoft-surface-pro-11-review-snapdragon-and-oled-deliver/",
+        "quote": "the Surface Pro 11's Qualcomm Snapdragon X Elite finally breaks the mold, delivering surprisingly competitive performance and a lot fewer compatibility issues for mainstream use"
+      },
+      {
+        "outlet": "CNET",
+        "score": "8.3/10",
+        "url": "https://www.cnet.com/tech/computing/microsoft-surface-pro-11-review-snapdragon-and-oled-deliver/",
+        "quote": "performance comparable to an Intel Core Ultra 7 155H and an Apple M3 ... The Surface Pro's battery life is just under 13 hours streaming video, as promised"
+      }
+    ],
+    "notes": "THIS is CNET's as-reviewed configuration (X Elite X1E-80-100, 16GB, 1TB OLED, US$1,950 as tested)."
+  },
+  "user_sentiment": {
+    "praises": [
+      "4.91★/35 on BBY for this SKU — best-rated Pro 11 tier; OLED + battery + silence is the recurring trio",
+      "Performance comparable to Core Ultra 7 155H / Apple M3 (CNET) — finally no ARM performance apology",
+      "Performance holds on battery, unlike x86 convertibles (CNET)",
+      "NPU 'blew the Core Ultra away' (CNET) — class-leading local AI at launch",
+      "1 TB suits creators who store projects locally; SSD still replaceable under kickstand"
+    ],
+    "complaints": [
+      "Keyboard + pen add CA$400-560 — CNET con: 'Optional Pen and keyboard can get expensive'",
+      "16GB is the ceiling pain point — CNET con: '16GB is not enough' with GPU sharing the pool",
+      "Gets hot while plugged in under intense use (CNET con; users echo warm metal back)",
+      "DX12 gaming mixed; no headphone jack; only 2 USB-C ports",
+      "Stylus digitizer grid faintly visible on white (CNET); glossy reflections outdoors"
+    ]
+  },
+  "design_philosophy": "The definitive Surface Pro and the exact configuration reviewers benchmarked: OLED 120Hz, Snapdragon X Elite, 45-TOPS NPU, fanless 895 g magnesium chassis. CNET's as-reviewed 16GB/1TB tier trades RAM for storage — Microsoft's tiering forces a 32GB jump for memory headroom, which is why this config satisfies most buyers but not heavy multitaskers.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 6,
+    "screen_quality": 8.8,
+    "readability_dark": 8.5,
+    "readability_bright": 7,
+    "ecosystem": 7.5,
+    "gaming": 3.5,
+    "productivity": 7.2,
+    "portability": 9.2,
+    "build_quality": 8.8,
+    "thermals_noise": 7,
+    "port_connectivity": 4.5,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 6.5,
+    "webcam_speakers": 7,
+    "upgradability": 5,
+    "ai_ml": 6.5,
+    "pen_touch": 8.5,
+    "repairability_service": 6,
+    "durability": 7
+  },
+  "rating_notes": "Direct anchor: CNET 8.3/10 on this exact configuration (as-reviewed US$1,950). BBY users rate it higher (4.91★/35) — screen and battery praised more effusively than the review; heat-while-charging and accessory-cost complaints match CNET cons exactly. Ecosystem 7.5 = ARM Windows translation caveats per dataset calibration (X Elite app compat 'a lot fewer issues' but not zero).",
+  "inferred_details": "direct review (CNET as-reviewed config)"
+}

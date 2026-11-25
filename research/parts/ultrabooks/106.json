@@ -1,0 +1,104 @@
+{
+  "id": "gb6-pro-16-u7-32-1tb",
+  "line": "Samsung Galaxy Book6 Pro 16 (Copilot+)",
+  "config_name": "Galaxy Book6 Pro 16 — Intel Core Ultra 7 (Series 2), Arc iGPU, 32GB LPDDR5X, 1TB, 16\" Dynamic AMOLED 2x touch 120Hz",
+  "tier": "Top",
+  "category": "ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 (Series 2, Arrow Lake-H class)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe",
+    "screen_size_in": 16,
+    "display_type": "Dynamic AMOLED 2x touch",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 550,
+    "brightness_hdr_nits": 1000,
+    "weight_kg": 1.6,
+    "ports": "2x Thunderbolt 4, 1x USB-A, HDMI, microSD, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.3",
+    "webcam": "FHD IR",
+    "speakers": "stereo+",
+    "keyboard_notes": "backlit, numeric keypad on 16\" Pro chassis",
+    "pen_support": "S Pen supported (touch)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 15,
+    "real_world_hours": 11,
+    "notes": "Bigger AMOLED panel costs runtime vs 14\" Pro; ~10-12h light use."
+  },
+  "price": {
+    "cad": 3600,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19735875",
+    "confidence": "verified",
+    "notes": "Flat $3,599.99, no sale (BBY-verified 2026-11-24). Top Book6 Pro tier at BBY; full list price makes it hard to recommend over the discounted 14\" Pro. SKU 19735875.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19735875",
+        "cad": 3599.99,
+        "est": false,
+        "name": "Samsung Galaxy Book6 Pro 16\" Touchscreen Copilot+ PC Laptop - Intel Core Ultra 7 - 32GB LPDDR5X - 1TB SSD - Windows 11 Home - Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19735/19735875.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [],
+    "notes": "No retrievable pro review of this exact config; NBC/RTINGS bot-walled this pass (see SHARED-galaxy-book.md). Honest null."
+  },
+  "user_sentiment": {
+    "praises": [
+      "16-inch 3K AMOLED 120Hz touch with 32GB RAM — the closest thing to a MacBook Pro 16 alternative in Samsung's range",
+      "32GB LPDDR5X finally matches the 'Pro' label for heavy multitasking and light creative work",
+      "Still ~1.6 kg for a 16-inch — far lighter than typical 16-inch laptops",
+      "Thunderbolt 4, Wi-Fi 7, Copilot+ NPU, microSD reader",
+      "Galaxy phone + S Pen integration on a big touch canvas"
+    ],
+    "complaints": [
+      "$3,599.99 flat with no discount while the 14\" Pro sells for half that — brutal pricing",
+      "iGPU only: at $3,600 competitors offer discrete RTX GPUs",
+      "32GB soldered — pay for it up front, never upgrade",
+      "Glossy AMOLED mirror effect in bright rooms",
+      "Samsung bloatware and a thinner CA service network than Dell/Lenovo at this price"
+    ]
+  },
+  "design_philosophy": "The Book6 Pro 16 is the line's flagship: the biggest Dynamic AMOLED 2x panel Samsung puts in a laptop, 32GB RAM, and Thunderbolt 4 in a 1.6 kg 16-inch chassis. It deliberately trades GPU muscle for display and portability — a mobile-office/consumption flagship rather than a creator workstation — and at full $3,599 list it is priced where RTX-equipped rivals crowd in.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 8.5,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 8.5,
+    "portability": 8,
+    "build_quality": 8,
+    "thermals_noise": 8,
+    "port_connectivity": 7.5,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 8,
+    "webcam_speakers": 6.5,
+    "upgradability": 2,
+    "ai_ml": 5.5,
+    "pen_touch": 7,
+    "repairability_service": 3.5,
+    "durability": 5.5
+  },
+  "rating_notes": "Inferred from Book6 Pro 14 (+2 screen_size, +1 productivity for 32GB, −1 battery for larger AMOLED, −1.5 portability at ~1.6 kg). Dealbreakers: full-price $3,599 with iGPU only. Bot-wall disclosure in SHARED-galaxy-book.md. Image URL best-guess BBY CDN pattern."
+}

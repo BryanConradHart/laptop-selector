@@ -1,0 +1,103 @@
+{
+  "id": "tp-p14s-g6-arc-32-512",
+  "line": "Lenovo ThinkPad P14s Gen 6 (2025)",
+  "config_name": "ThinkPad P14s Gen 6 14.5\" IPS 60Hz — Intel Core Ultra 7 255H, Intel Arc iGPU, 32GB, 512GB SSD",
+  "tier": "Entry",
+  "category": "creator-workstation",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 255H (Arrow Lake-H, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "Intel Arc integrated graphics (iGPU)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "DDR5 SODIMM (upgradeable)",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe (upgradeable)",
+    "screen_size_in": 14.5,
+    "display_type": "IPS anti-glare, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1.45,
+    "ports": "2x TB4/USB-C, 2x USB-A, HDMI 2.1, 3.5mm, optional smart card",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker, Dolby Audio",
+    "keyboard_notes": "ThinkPad keyboard + TrackPoint, spill-resistant",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 13,
+    "real_world_hours": 7.5,
+    "notes": "Est. ~57-75Wh class; iGPU config is the battery-friendly tier. Estimated ~7.5h light use. No verified pro battery test found."
+  },
+  "price": {
+    "cad": 2659,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20352919",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $3,399.99 / sale $2,659 (SKU 20352919). Sale price used. AMD twin (19486112, Ryzen AI 7 PRO 350, 32/1TB, $2,658.24) omitted — near-identical tier.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20352919",
+        "cad": 2659,
+        "est": false,
+        "name": "Lenovo ThinkPad P14s Gen 6 Intel Laptop, 14.5\" IPS 60Hz, Intel Core Ultra 7 255H, 32GB, 512GB SSD"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/203/20352/20352919.png",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Under $2,700 for a P-series ThinkPad with a 16-core Arrow Lake-H CPU — cheapest entry into the certified-workstation line",
+      "iGPU config runs cool and quiet with the best battery of the P14s range",
+      "Proper ThinkPad build, keyboard and TrackPoint at a mainstream business-laptop price",
+      "RAM and storage are upgradeable SODIMM/M.2 despite the low price",
+      "Fine for 2D CAD, drafting review, Office and coding multitasking with 32GB"
+    ],
+    "complaints": [
+      "Intel Arc iGPU lacks the RTX PRO certification buyers pick the P-line for — heavy 3D CAD stutters",
+      "512GB SSD needs an upgrade almost immediately for project files",
+      "Entry 60Hz IPS panel with modest color coverage",
+      "At regular $3,400 it's overpriced; the $2,659 sale is the only good buy",
+      "No verified CA pro review of this exact iGPU configuration"
+    ]
+  },
+  "design_philosophy": "The absolute floor of the P-series: a ThinkPad P14s chassis with integrated Arc graphics instead of a certified RTX PRO GPU, sold to students and drafting shops that want ThinkPad durability, capacity headroom, and P-line serviceability at commodity-business pricing. Real 3D workstation work is out of scope for this tier.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 6.5,
+    "screen_quality": 6.3,
+    "readability_dark": 6,
+    "readability_bright": 6.5,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 8.2,
+    "portability": 8,
+    "build_quality": 8.8,
+    "thermals_noise": 7,
+    "port_connectivity": 7,
+    "creative_work": 5.5,
+    "keyboard_trackpad": 9.2,
+    "webcam_speakers": 7,
+    "upgradability": 8,
+    "ai_ml": 4.2,
+    "pen_touch": 0,
+    "repairability_service": 8,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings inferred from sibling entry 37 (SHARED-thinkpad-p.md, no verified pro anchor): iGPU instead of RTX PRO 500 → creative_work 5.5 (no discrete cert), ai_ml 4.2, gaming 3.5 (Arc iGPU class ~3.5 per dataset anchors), +0.5 battery / +1.0 thermals_noise for fan-cool iGPU tier. Sentiment synthesized from P-series owner themes, disclosed."
+}

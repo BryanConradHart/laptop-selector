@@ -1,0 +1,111 @@
+{
+  "id": "g16-2026-386h-5090-64-2tb",
+  "line": "ASUS ROG Zephyrus G16 (2026, GU606)",
+  "config_name": "ROG Zephyrus G16 (2026, GU606AX) — Core Ultra 9 386H / RTX 5090 24GB, 64GB LPDDR5X, 2TB SSD, 16\" 2.5K OLED 240Hz",
+  "tier": "Flagship",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 386H (Arrow Lake-H refresh)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5090 Laptop 24GB (TGP-capped slim chassis ~110-115W; NBC: 'relatively slow version of the GPU')",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 2000,
+    "storage_type": "NVMe (2x M.2 2280 slots)",
+    "screen_size_in": 16,
+    "display_type": "OLED (ROG Nebula HDR, glossy, G-Sync)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 900,
+    "weight_kg": 1.88,
+    "ports": "1x Thunderbolt 4, 1x USB-C 3.2 Gen2 (DP/PD), 2x USB-A 3.2, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "quad-speaker (praised by NBC)",
+    "keyboard_notes": "backlit chiclet, per-key RGB; NBC: 'brilliant input devices'",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 6,
+    "notes": "90Wh. NBC lab WiFi test on the 2025 GU605CX (same chassis/GPU class): 9h00 @150nits / 6h43 max brightness; ~5-7h real mixed use, ~1.2h gaming. USB-C PD charging."
+  },
+  "price": {
+    "cad": 7699,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20256102",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24, sku 20256102 (GU606AX-DS98-CA, ASUS Canada direct), $7,699 no sale. No customer reviews yet.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20256102",
+        "cad": 7699,
+        "est": false,
+        "name": "ASUS ROG Zephyrus G16 Gaming Laptop (16\" 2.5K OLED Display / Intel Core Ultra 9 386H / 64GB RAM / 2TB SSD / NVIDIA GeForce RTX 5090 / Windows 11 Home / GU606AX-DS98-CA)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20256/20256102.png",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/A-slim-gaming-laptop-now-with-an-RTX-5090-and-64-GB-of-RAM-Asus-ROG-Zephyrus-G16-2025-review.993365.0.html",
+        "quote": "Its overall performance has also increased thanks to the Arrow Lake processor and the new GeForce RTX 5090 laptop GPU. However, it's still important to know that it uses a relatively slow version of the GPU. (NBC 'very good' 90% — tested this exact GPU/RAM/storage tier on the 2025 GU605CX; 2026 refresh changes the CPU only.)"
+      }
+    ],
+    "note": "NBC's 90% anchor config (RTX 5090/64GB/2TB) maps directly to this tier, one CPU generation back; 2026 GU606AX pro review not retrieved 2026-11-24."
+  },
+  "user_sentiment": {
+    "praises": [
+      "The line as NBC tested it: 24GB 5090 + 64GB + 2TB in 1.88 kg — the most powerful ~1.9 kg gaming laptop money can buy",
+      "NBC: 'fantastic 240 Hz G-Sync OLED display', 'excellent speakers', 'brilliant input devices' — no compromises outside the GPU's power budget",
+      "24GB VRAM + 64GB RAM makes local LLM/AI work and heavy 4K video editing genuinely possible on the go",
+      "90Wh battery with ~9h lab WiFi runtime — flagship gaming laptop that can survive a meeting-heavy day",
+      "2x M.2 slots and Wi-Fi 7 round out a future-proof platform"
+    ],
+    "complaints": [
+      "NBC's headline con: the 5090 is 'unable to reach its potential' at the slim chassis's ~110W — you pay 5090 money for high-5080-class FPS",
+      "$7,699 exceeds most thicker 5090 laptops (Legion Pro 7i, Raider) by well over $1,000",
+      "Soldered RAM; 64GB ceiling fixed at purchase",
+      "OLED PWM flickering and low HDR peak brightness persist (NBC cons) at a price where brighter Mini-LED options exist",
+      "Lid creak, hinge rocking, and pulsating idle fans were NBC's remaining build/emissions gripes on this exact tier"
+    ]
+  },
+  "design_philosophy": "The flagship of ASUS's thin-first halo line — the config NBC itself reviewed (5090/64GB/2TB), now on the 2026 CPU refresh. It is the purest statement of the G16 idea: maximum silicon that a 1.88 kg aluminum OLED chassis can cool, sold to buyers who value portability and screen over peak FPS-per-dollar.",
+  "ratings": {
+    "battery": 6,
+    "screen_size": 8,
+    "screen_quality": 9,
+    "readability_dark": 8.5,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 9.4,
+    "productivity": 8.6,
+    "portability": 8.1,
+    "build_quality": 8,
+    "thermals_noise": 5.1,
+    "port_connectivity": 6.5,
+    "creative_work": 8.7,
+    "keyboard_trackpad": 8.5,
+    "webcam_speakers": 8,
+    "upgradability": 3,
+    "ai_ml": 8.5,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 6.5
+  },
+  "rating_notes": "Closest entry to NBC's tested anchor (2025 GU605CX 5090/64GB/2TB, 90%): gaming 9.4 not 10 because NBC found the 5090 TGP-capped ('relatively slow version of the GPU'); -0.3 thermals_noise vs 5080 tier (NBC: constant fluctuating fans under load). +0.2 productivity / -0.2 battery for 386H 2026 refresh. Marked inferred because the 2026 GU606AX itself has no pro review retrieved."
+}

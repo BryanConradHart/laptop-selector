@@ -1,0 +1,109 @@
+{
+  "id": "yoga9i-14-258v-16-1tb",
+  "line": "Lenovo Yoga 9i 2-in-1 Aura Edition (14\", Gen 10, Lunar Lake)",
+  "config_name": "Yoga 9i 2-in-1 Aura Edition 14\" — Core Ultra 7 258V, 16GB LPDDR5x, 1TB SSD, 2.8K OLED 120Hz touch",
+  "tier": "Entry",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2025-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 258V (Lunar Lake, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 140V (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 16,
+    "ram_type": "soldered LPDDR5x",
+    "storage_gb": 1000,
+    "storage_type": "NVMe soldered",
+    "screen_size_in": 14,
+    "display_type": "OLED touch, glossy, HDR, rotating soundbar hinge",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 600,
+    "weight_kg": 1.32,
+    "ports": "2x Thunderbolt 4 (USB-C), 3.5mm combo",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "5MP (1440p) with presence sensor",
+    "speakers": "Bowers & Wilkins rotating soundbar (2 woofers + 2 tweeters)",
+    "keyboard_notes": "Backlit chiclet, glass trackpad; Yoga Pen included (MPP 2.0, charges in chassis)",
+    "pen_support": "included (Yoga Pen, MPP 2.0)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 20,
+    "real_world_hours": 12.5,
+    "notes": "70Wh, Lunar Lake efficiency; ~11-14h light web/video @150 nits. Big fix vs Gen 9 Meteor Lake battery complaint."
+  },
+  "price": {
+    "cad": 2999.99,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-9-series/yoga-9i-2-in-1-gen-10-14-intel/",
+    "confidence": "estimated",
+    "notes": "Gen 10 Lunar Lake Aura tiers no longer at Best Buy CA (only Gen 11 Ultra 7 355 remains, SKU 19784270); lenovo.com/ca PDP is a JS shell — price estimated from CA launch pricing pattern.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-9-series/yoga-9i-2-in-1-gen-10-14-intel/",
+        "cad": 2999.99,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-9-series/yoga-9i-2-in-1-gen-10-14-intel/"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19784/19784270.jpg",
+  "professional": {
+    "avg_score": 8.9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "89%",
+        "url": "https://www.notebookcheck.net/Lenovo-Yoga-9-14-2in1-G10-review-The-high-end-convertible-suffers-due-to-weak-4K-OLED.982128.0.html",
+        "quote": "High-quality & stable case, improved battery life, good system performance, OLED with high 4K resolution, Thunderbolt 4 & Wi-Fi 7, stylus attaches to case magnetically. Cons: RAM can't be upgraded, PWM flickering, OLED only at 60 Hz and without color profiles, neither HDMI nor an SD card reader. (\"The high-end convertible suffers due to weak 4K OLED\" — NBC review of the Yoga 9 14 2-in-1 Gen 10 Lunar Lake.)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Rotating soundbar hinge speakers are the best-sounding laptop speakers in this class — bass you can actually feel in tablet mode",
+      "2.8K OLED at 120Hz with inky blacks; video and photo editing look superb",
+      "Active pen included in the box (charges in the chassis slot), unlike the Yoga 7i line",
+      "1.32 kg machined-aluminium build feels genuinely flagship-thin and light",
+      "Lunar Lake battery life is a huge step up from the Meteor Lake Gen 9 — easily a full workday of light use"
+    ],
+    "complaints": [
+      "OLED moire/graininess on small black-on-white text is visible to sensitive users (confirmed by Notebookcheck)",
+      "USB-C-only ports (2x TB4) — dongle life for USB-A/HDMI without a dock",
+      "Glossy OLED reflects overhead lights outdoors",
+      "Soldered RAM and SSD — nothing upgradeable after purchase",
+      "Fan noise and performance drop under sustained load; not a creator workhorse despite the screen"
+    ]
+  },
+  "design_philosophy": "Lenovo's Yoga 9i is the convertible flagship: a machined-aluminium 360° 2-in-1 whose signature is the rotating soundbar hinge that keeps Bowers & Wilkins speakers aimed at you in every mode. The Aura Edition generation leans into thinness, Copilot+ AI silicon, and pen-first creativity — trading ports and upgradability for a 1.32 kg premium package. This 16GB/1TB Lunar Lake tier is the volume CA configuration and the battery-efficiency sweet spot of the line.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 6.5,
+    "screen_quality": 8.8,
+    "readability_dark": 7.5,
+    "readability_bright": 6,
+    "ecosystem": 7.5,
+    "gaming": 3.5,
+    "productivity": 7.5,
+    "portability": 8.8,
+    "build_quality": 9,
+    "thermals_noise": 6,
+    "port_connectivity": 5,
+    "creative_work": 7,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 9,
+    "upgradability": 2,
+    "ai_ml": 5.5,
+    "pen_touch": 8.5,
+    "repairability_service": 4.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Pro score attached from NBC review of the Yoga 9 14 2-in-1 G10 Aura Edition (89%, gap-fill 2026-11-24). Ratings inferred from generation-adjacent pro anchor (NBC 90.5% on Gen 9 14IMH9, same chassis family) plus BBY user data on the Gen 11 sibling (4.54 stars / 50 reviews); Lunar Lake deltas vs Gen 9 anchor: battery +1.5 (Meteor Lake was the line's weak point), ai_ml +1 (47 TOPS NPU), gaming +0 (Arc 140V ~= Arc 8-core here), thermals +0.5 (passable-cooling 17W chip). Moire keeps screen_quality at 8.8 not 9.3. Image URL is the Gen 11 sibling photo (same chassis). NBC/RTINGS review of the IMI9/IML9 Aura gen itself could not be located (documented in SHARED-yoga9i.md)."
+}

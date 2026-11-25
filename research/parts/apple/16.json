@@ -1,0 +1,115 @@
+{
+  "id": "mbp14-m5pro-18c-24-1tb",
+  "line": "Apple MacBook Pro 14-inch (2026, M5 Pro)",
+  "config_name": "MacBook Pro 14-inch — M5 Pro 18-core CPU / 20-core GPU, 24GB RAM, 1TB SSD",
+  "tier": "High",
+  "category": "apple",
+  "ecosystem": "macOS",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M5 Pro (18-core: 5 super + 13 performance)",
+    "cpu_cores": 18,
+    "gpu": "Apple M5 Pro 20-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 24,
+    "ram_type": "unified/soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe soldered (PCIe 5.0)",
+    "screen_size_in": 14.2,
+    "display_type": "Mini-LED IPS (Liquid Retina XDR)",
+    "resolution": "3024x1964",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 1000,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 1.6,
+    "ports": "3x TB5/USB-C, HDMI, SDXC, MagSafe 3, 3.5mm",
+    "wireless": "Wi-Fi 7 (Apple N1), BT 6",
+    "webcam": "12MP Center Stage",
+    "speakers": "6-speaker",
+    "keyboard_notes": "Magic Keyboard, Touch ID, Force Touch trackpad",
+    "pen_support": "none",
+    "os": "macOS Tahoe 26"
+  },
+  "battery": {
+    "claimed_hours": 22,
+    "real_world_hours": 12.2,
+    "notes": "Up to 22h video / 14h web claimed; 72.4Wh. Higher GPU tier draws slightly more under load."
+  },
+  "price": {
+    "cad": 3749,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch",
+    "confidence": "verified",
+    "notes": "Verified on apple.com/ca buy page (see research/parts/apple/NOTES.md).",
+    "offers": [
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch",
+        "cad": 3749,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch"
+  },
+  "image_url": "https://www.apple.com/v/macbook-pro/specs/e/images/specs/14-inch/macbook_pro_14_inch__fjlrd633eki2_large.jpg",
+  "professional": {
+    "avg_score": 8.8,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "92.3%",
+        "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-16-2026-Review-M5-Pro-makes-one-of-the-best-multimedia-laptops-even-better.1245523.0.html",
+        "quote": "noticeable performance advantages over the previous M4 Pro chip (~20 % CPU, 30-50 % GPU) (same chip family tested in the 16-inch chassis)"
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.4/10",
+        "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-14-m5-2025",
+        "quote": "exceptional battery life... lasts well over a full day (same chassis, M5 model tested)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "The 20-core GPU turns 30-50% higher GPU scores over M4 Pro into real timeline and render gains (NBC)",
+      "18-core CPU chews through compile and transcode jobs that stall the 12-core M6 (NBC benchmarks)",
+      "Thunderbolt 5 + PCIe 5.0 SSD for fast docks and storage (NBC)",
+      "Mini-LED XDR 120Hz panel remains best-in-class (NBC)",
+      "Only +$250 CAD over the 15-core tier — the best performance-per-dollar step on the 14-inch ladder"
+    ],
+    "complaints": [
+      "The 14-inch chassis runs the 18-core part hotter than the 16-inch does (NBC thermal behaviour on 14-inch Max models)",
+      "Prices are still high, especially when you add upgrades (NBC con)",
+      "Still no SD Express support in the card reader (NBC con)",
+      "RAM and SSD soldered; 24GB base with paid tiers to 48/64GB",
+      "Same 5-year-old chassis; a redesign is overdue (NBC and Tom's Hardware)"
+    ]
+  },
+  "design_philosophy": "The full-power M5 Pro in the small chassis: Apple's answer for users who want near-Max multicore and a 20-core GPU without carrying 2.1 kg. It compresses workstation-class throughput into 1.6 kg at the cost of earlier thermal limits.",
+  "ratings": {
+    "battery": 8.6,
+    "screen_size": 7,
+    "screen_quality": 9.3,
+    "readability_dark": 9,
+    "readability_bright": 8.5,
+    "ecosystem": 9.5,
+    "gaming": 4.2,
+    "productivity": 9.3,
+    "portability": 8.1,
+    "build_quality": 9.3,
+    "thermals_noise": 7.8,
+    "port_connectivity": 7,
+    "creative_work": 8.6,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 7.2,
+    "pen_touch": 0,
+    "repairability_service": 4,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings inferred from NBC's 92.3% M5 Pro review (16-inch chassis): +0.4 gaming / +0.4 creative_work / +0.4 ai_ml for the 20-core GPU tier, −0.4 thermals_noise and −0.2 battery for the higher-power chip in the smaller 72.4Wh chassis. Sentiment synthesized from pro reviews — Reddit API blocked (403)."
+}

@@ -1,0 +1,115 @@
+{
+  "id": "xps16-u7-64-1tb-oled",
+  "line": "Dell XPS 16 (2026, DA16260)",
+  "config_name": "XPS 16 — Core Ultra 7 358H, 64GB LPDDR5X, 1TB SSD, 16\" 3.2K OLED touch",
+  "tier": "High",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-01",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 358H (Series 3 Panther Lake, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "Intel UMA Graphics (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 64,
+    "ram_type": "LPDDR5X soldered, up to 9600 MT/s",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2230 NVMe Gen4",
+    "screen_size_in": 16,
+    "display_type": "OLED touch, 3.2K (3200x2000), 120Hz",
+    "resolution": "3200x2000",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 1000,
+    "weight_kg": 1.65,
+    "ports": "3x Thunderbolt 4 (USB-C) with DP 2.1 + PD, universal audio jack",
+    "wireless": "Wi-Fi 7 (Intel BE211 2x2), BT 6.0",
+    "webcam": "FHD webcam",
+    "speakers": "multi-speaker",
+    "keyboard_notes": "Backlit keyboard, zero-lattice design, Gorilla Glass 3 palmrest",
+    "pen_support": "touch (no pen)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 26,
+    "real_world_hours": 10.5,
+    "notes": "70Wh. OLED tier ~10-11h real-world mixed; 64GB adds negligible draw."
+  },
+  "price": {
+    "cad": 5950,
+    "currency": "CAD",
+    "store": "dell.ca",
+    "store_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16da16260",
+    "confidence": "verified",
+    "notes": "VERIFIED dell.ca 2026-11-24: CAD $5,949.99.",
+    "offers": [
+      {
+        "store": "dell.ca",
+        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16da16260",
+        "cad": 5950,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16da16260"
+  },
+  "image_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-16-da16260/media-gallery/touch/notebook-da16260-t-gray-gallery-11.psd?fmt=png-alpha",
+  "professional": {
+    "avg_score": 8,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.0/10",
+        "url": "https://www.cnet.com/tech/computing/dell-xps-16-2026-review/",
+        "quote": "the XPS 16 is a fantastic laptop befitting of the premium XPS name"
+      },
+      {
+        "outlet": "CNET",
+        "score": "8.0/10",
+        "url": "https://www.cnet.com/tech/computing/dell-xps-16-2026-review/",
+        "quote": "Can't upgrade RAM or SSD"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "64GB soldered means serious local AI/VM headroom in a 1.65 kg OLED laptop — the max-memory mainstream XPS",
+      "3.2K OLED 120Hz touch remains the display highlight CNET praises",
+      "Owners report smooth handling of 'demanding applications' and video editing at this spec class",
+      "Cheaper than the XPS 16 Creator Edition while covering most creator workflows except GPU-heavy ones",
+      "Thunderbolt 4 x3 with 64GB makes it a capable docking hub"
+    ],
+    "complaints": [
+      "$5,950 for integrated graphics — the price/performance critique from CNET bites hardest here",
+      "64GB costs $1,150 over the identical 32GB config (soldered-memory tax)",
+      "No discrete GPU and no upgrade path — 'Can't upgrade RAM or SSD' (CNET)",
+      "Glossy OLED, no HDMI/SD, no fingerprint reader",
+      "Fan noise rises under sustained all-core loads in the 14.62 mm chassis"
+    ]
+  },
+  "design_philosophy": "The memory-max tier of the standard XPS 16 line: Dell's pitch that a thin-and-light OLED laptop can be a professional machine if you load it with RAM instead of a GPU. Suited to developers, data-heavy analysts, and light local-AI users.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 8.5,
+    "screen_quality": 9,
+    "readability_dark": 9.5,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 4,
+    "productivity": 9,
+    "portability": 8.5,
+    "build_quality": 9,
+    "thermals_noise": 7,
+    "port_connectivity": 6.5,
+    "creative_work": 6.5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 2,
+    "ai_ml": 7.5,
+    "pen_touch": 6,
+    "repairability_service": 4,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from CNET XPS 16 (2026) 8.0 anchor + OLED deltas (entry 49). 64GB → productivity +0.5 and ai_ml +1 vs 32GB OLED tier (memory ceiling for local models). UMA (non-Arc) bin → gaming 4.0."
+}

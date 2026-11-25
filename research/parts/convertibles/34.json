@@ -1,0 +1,117 @@
+{
+  "id": "envyx360-16-u7-155u-32-1tb",
+  "line": "HP Envy x360 16 (2025/2026, Core Ultra 7 155U) — Canadian retail configs",
+  "config_name": "Envy x360 16 — Core Ultra 7 155U, 32GB LPDDR5, 1TB SSD, WUXGA touch",
+  "tier": "Mid",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 155U (Arrow Lake-U refresh)",
+    "cpu_cores": 12,
+    "gpu": "Intel Graphics (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5 soldered",
+    "storage_gb": 1000,
+    "storage_type": "NVMe",
+    "screen_size_in": 16,
+    "display_type": "WUXGA IPS touch",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 300,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.05,
+    "ports": "2x USB-C (DP/Power), 2x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 6E/7, BT 5.3/5.4",
+    "webcam": "5MP IR",
+    "speakers": "2-speaker B&O",
+    "keyboard_notes": "Backlit, numeric pad, Copilot key",
+    "pen_support": "HP pen (MPP)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 16,
+    "real_world_hours": 8.5,
+    "notes": "68Wh-class pack; 155U efficient at idle but 16\" glossy touch drains. Estimate."
+  },
+  "price": {
+    "cad": 1699,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/hp-envy-x360-16-wuxga-touchscreen-2-in-1-laptop-intel-core-ultra-7-155u-32gb-lpddr5-1tb-ssd-windows-11-home-silver/18188972",
+    "confidence": "verified",
+    "notes": "VERIFIED BBY 18188972: reg $2,209, sale $1,699 (deep ~23% HP/BBY promo pricing). Win11 Pro twins and 288GB-dock bundles same price.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/hp-envy-x360-16-wuxga-touchscreen-2-in-1-laptop-intel-core-ultra-7-155u-32gb-lpddr5-1tb-ssd-windows-11-home-silver/18188972",
+        "cad": 1699,
+        "est": false,
+        "name": "HP Envy x360 16\" WUXGA Touchscreen 2-in-1 Laptop - Intel Core Ultra 7 155U - 32GB LPDDR5 - 1TB SSD - Windows 11 Home - Silver"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/hp-envy-x360-16-wuxga-touchscreen-2-in-1-laptop-intel-core-ultra-7-155u-32gb-lpddr5-1tb-ssd288gb-windows-11-pro-silver/18197447",
+        "cad": 1699,
+        "est": false,
+        "name": "HP Envy x360 16\" WUXGA Touchscreen 2-in-1 Laptop - Intel Core Ultra 7 155U - 32GB LPDDR5 - 1TB SSD+288GB - Windows 11 Pro - Silver"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/181/18188/18188972.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Big 16\" touch canvas with 32GB RAM for $1,699 on sale — lots of machine per dollar",
+      "Full port set incl. HDMI + 2x USB-A; no dongles for office gear",
+      "Quiet fans; 155U barely heats the deck during office work",
+      "Numeric keypad praised by spreadsheet users",
+      "Frequently bundled with extra storage/dock at the same sale price"
+    ],
+    "complaints": [
+      "Heavy (~2 kg) and thick for a convertible — tablet mode is a token feature",
+      "155U is a low-power office chip; multicore trails Ryzen AI and H-class chips in pricier rivals",
+      "Base WUXGA 60Hz glossy panel: average brightness, visible reflections",
+      "Chassis flex and hinge wobble bigger on the 16\" than the 14\" Envy",
+      "Regular price $2,209 is notional — only the perpetual sales are real"
+    ]
+  },
+  "design_philosophy": "The Envy x360 16 is HP's big-screen family convertible: aluminum-look polish at midrange cost, prioritizing screen area, ports, and RAM-per-dollar over portability or panel quality. In Canada it is sold almost exclusively on deep promotional discounts off inflated regular prices — the $1,699 sale tier is the real price.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 8,
+    "screen_quality": 5.5,
+    "readability_dark": 5,
+    "readability_bright": 5,
+    "ecosystem": 9,
+    "gaming": 2.5,
+    "productivity": 7.5,
+    "portability": 5,
+    "build_quality": 6.5,
+    "thermals_noise": 8,
+    "port_connectivity": 8,
+    "creative_work": 5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6.5,
+    "upgradability": 2.5,
+    "ai_ml": 5,
+    "pen_touch": 6,
+    "repairability_service": 4.5,
+    "durability": 5.5
+  },
+  "rating_notes": "Line anchor for Envy x360 16 entries. No pro review of this exact CA config found (NBC/PCMag bot-walls — see SHARED-hp-convertibles.md; NBC reviewed the US Envy x360 14 2025 instead). Ratings synthesized from specs (155U Arrow Lake-U, 16\" WUXGA touch, ~2.05 kg) and BBY sibling ratings (16\" line 4.83★/6 on leftover 8840HS, 4.03★/29 on 15.6\" 125U).",
+  "standouts": [
+    "32GB + 1TB + HDMI at $1,699 sale",
+    "Big 16\" touch canvas"
+  ],
+  "dealbreakers": [
+    "~2 kg — tablet mode impractical"
+  ]
+}

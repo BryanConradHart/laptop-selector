@@ -1,0 +1,123 @@
+{
+  "id": "slu15-spark-24-1tb",
+  "line": "Microsoft Surface Laptop Ultra (2026, NVIDIA RTX Spark)",
+  "config_name": "Surface Laptop Ultra 15\" — NVIDIA RTX Spark (N1X), 24GB LPDDR5x, 1TB SSD, Mini-LED touch",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "NVIDIA RTX Spark N1X (Arm, 20-core)",
+    "cpu_cores": 20,
+    "gpu": "RTX Spark integrated Blackwell-class GPU",
+    "gpu_type": "integrated",
+    "ram_gb": 24,
+    "ram_type": "LPDDR5x soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe soldered",
+    "screen_size_in": 15,
+    "display_type": "Mini-LED touch, high refresh",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 1.65,
+    "ports": "2x USB-C/TB, 1x USB-A, HDMI, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1440p IR",
+    "speakers": "2-speaker Studio",
+    "keyboard_notes": "backlit, fingerprint, Copilot key",
+    "pen_support": "touch; MPP pen",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 16,
+    "real_world_hours": 9,
+    "notes": "Same silicon as base tier; battery remains the line's weak point."
+  },
+  "price": {
+    "cad": 4449.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20180957",
+    "confidence": "verified",
+    "notes": "Best Buy CA SKU 20180957 (Platinum) $4,449.99; Nightfall SKU 20265371 listed reg $4,999.99 but on sale $3,599.99 (2026-11-24 API) — sale Nightfall is the value tier of the line.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20180957",
+        "cad": 4449.99,
+        "est": false,
+        "name": "Microsoft Surface Laptop Ultra 15\" Touchscreen Laptop - NVIDIA RTX Spark - 24GB LPDDR5x RAM - 1TB SSD - Win11 Home - En - Platinum"
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/20265371",
+        "cad": 3599.99,
+        "est": false,
+        "name": "Microsoft Surface Laptop Ultra 15\" Touchscreen Laptop - NVIDIA RTX Spark - 24GB LPDDR5x RAM - 1TB SSD - Win11 Home - En - Nightfall"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20180/20180957.jpg",
+  "professional": {
+    "avg_score": 7.5,
+    "reviews": [
+      {
+        "outlet": "TechRadar",
+        "score": "recommended",
+        "url": "https://www.techradar.com/computers/laptops/microsoft-surface-laptop-ultra-review",
+        "quote": "isn't the MacBook Pro killer I hoped for"
+      },
+      {
+        "outlet": "IT Pro",
+        "score": "recommended",
+        "url": "https://www.itpro.com/hardware/laptops/microsoft-surface-laptop-ultra-review",
+        "quote": "has all the on-device AI your devs need – but its battery life is disappointing"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "1TB at the $3,599 Nightfall sale price is the sweet spot of the Ultra line right now",
+      "DaVinci Resolve and Blender on Arm+CUDA rip through timelines that choke Snapdragon ultrabooks",
+      "Mini-LED HDR for grading on the road is legitimately pro-grade",
+      "24GB unified memory handles 20B-class local models comfortably",
+      "Quiet fans under sustained creative loads"
+    ],
+    "complaints": [
+      "$550 regular-price jump for +512GB, though the Nightfall sale mostly erases it",
+      "Battery still ~9h — worst-in-class for a 'premium ultrabook' verdict",
+      "Arm gaps: some plugins/games still translate imperfectly",
+      "Soldered storage and RAM",
+      "1.65 kg + large charger = ultrabook in name only"
+    ]
+  },
+  "design_philosophy": "The volume config of the RTX Spark flagship: same Mini-LED chassis and CUDA-on-Arm silicon with practical 1TB storage; the frequent Nightfall discount makes it the de-facto recommended Ultra tier.",
+  "ratings": {
+    "battery": 5.5,
+    "screen_size": 8,
+    "screen_quality": 9.5,
+    "readability_dark": 8.5,
+    "readability_bright": 9,
+    "ecosystem": 7,
+    "gaming": 6.5,
+    "productivity": 9,
+    "portability": 7.5,
+    "build_quality": 9,
+    "thermals_noise": 7,
+    "port_connectivity": 7,
+    "creative_work": 8.5,
+    "keyboard_trackpad": 8.5,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 9.5,
+    "pen_touch": 7,
+    "repairability_service": 3,
+    "durability": 7.5
+  },
+  "rating_notes": "Inferred from SL Ultra anchor; identical to 24GB/512GB tier except storage. Dual price verified via Best Buy API (Platinum $4,449.99 / Nightfall sale $3,599.99); price field uses Platinum reg."
+}

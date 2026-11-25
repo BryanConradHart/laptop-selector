@@ -1,0 +1,103 @@
+{
+  "id": "tp-p16-g3-pro2000-32-1tb-fhd",
+  "line": "Lenovo ThinkPad P16 Gen 3 (2025)",
+  "config_name": "ThinkPad P16 Gen 3 16\" FHD+ — Intel Core Ultra 9 285HX, NVIDIA RTX PRO 2000 Blackwell, 32GB DDR5, 1TB SSD",
+  "tier": "Mid",
+  "category": "creator-workstation",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 285HX (Arrow Lake-HX, 24-core: 8P+16E)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA RTX PRO 2000 Blackwell (ISV-certified)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600 (2x SODIMM, upgradeable to 192GB)",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2280 NVMe Gen4 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "FHD+ IPS anti-glare, 16:10",
+    "resolution": "1920x1200",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.7,
+    "ports": "2x TB4/USB-C, 2x USB-A, HDMI 2.1, SDXC, RJ45, 3.5mm, smart card",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker, Dolby Audio",
+    "keyboard_notes": "ThinkPad keyboard + TrackPoint, spill-resistant, optional numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Pro"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 5.5,
+    "notes": "90Wh. Estimated ~5.5h light use. No verified pro battery test found."
+  },
+  "price": {
+    "cad": 5999.79,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20295417",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: regular $6,998 / sale $5,999.79 (SKU 20295417, marketplace seller, 2-year warranty noted).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20295417",
+        "cad": 5999.79,
+        "est": false,
+        "name": "New LENOVO ThinkPad P16 G3, 16\" FHD+ Nvidia RTX Pro 2000, Ultra 9 285HX, 32GB, 1TB, 2 Years Warranty, 100800-22011"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20295/20295417.jpeg",
+  "professional": {
+    "avg_score": null,
+    "reviews": []
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest way into the P16 Gen 3 HX platform with a certified RTX PRO GPU — sale price under $6,000",
+      "Ultra 9 285HX 24-core is the same flagship CPU as the $9,000 tier",
+      "RTX PRO 2000 clears SolidWorks/CAD certification for mainstream mechanical and AEC work",
+      "32GB is upgradeable later (SODIMM) rather than soldered like thin workstations",
+      "Full port set with RJ45, SDXC, HDMI and dual TB4 docking"
+    ],
+    "complaints": [
+      "32GB RAM is light for a workstation-class machine out of the box",
+      "PRO 2000 VRAM and throughput limit very large scenes or local AI work",
+      "2.7 kg desktop-replacement weight and loud fans under load",
+      "FHD+ 60Hz IPS panel is entry-grade on a machine marketed as a workstation",
+      "Marketplace-seller listing rather than direct Best Buy stock"
+    ]
+  },
+  "design_philosophy": "The value entry into the P16 Gen 3 line: flagship 285HX CPU with an entry-mid RTX PRO 2000 GPU, aimed at CAD professionals and students who need certified drivers and HX multi-core power but not flagship GPU throughput. Sale pricing makes it the platform-access config of the family.",
+  "ratings": {
+    "battery": 5,
+    "screen_size": 8,
+    "screen_quality": 6.3,
+    "readability_dark": 5.8,
+    "readability_bright": 6.5,
+    "ecosystem": 9.2,
+    "gaming": 5,
+    "productivity": 9,
+    "portability": 2.8,
+    "build_quality": 8.8,
+    "thermals_noise": 6.8,
+    "port_connectivity": 9,
+    "creative_work": 8,
+    "keyboard_trackpad": 9,
+    "webcam_speakers": 6.8,
+    "upgradability": 9,
+    "ai_ml": 6,
+    "pen_touch": 0,
+    "repairability_service": 8.5,
+    "durability": 8.5
+  },
+  "rating_notes": "Ratings inferred from PRO 5000 sibling entries 32/33 (SHARED-thinkpad-p.md, no verified pro anchor): PRO 2000 → ai_ml 6.0, gaming 5.0, creative_work 8.0 per SHARED GPU-tier guidance; keeps 285HX so productivity stays 9.0 (−0.3 vs 64GB sibling for half the RAM). Sentiment synthesized from P-series owner themes, disclosed."
+}

@@ -1,0 +1,117 @@
+{
+  "id": "tab-s10fe-8-128",
+  "line": "Samsung Galaxy Tab S10 FE (2025)",
+  "config_name": "Galaxy Tab S10 FE — Exynos 1580, 8GB RAM, 128GB, 10.9\" IPS LCD 90Hz + Keyboard Case (priced in). 256GB tier: $979.99 tablet (BBY 19192247), +$200 → ~$1,455 cover-in",
+  "tier": "Budget",
+  "category": "tablets-ios-android",
+  "ecosystem": "Android",
+  "form_factor": "tablet",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Samsung Exynos 1580 (8-core: 1x2.9GHz A720 + 3x2.6GHz A720 + 4x1.95GHz A520)",
+    "cpu_cores": 8,
+    "gpu": "Xclipse 540 (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "LPDDR5 soldered",
+    "storage_gb": 128,
+    "storage_type": "UFS soldered + microSD (up to 2TB)",
+    "screen_size_in": 10.9,
+    "display_type": "IPS LCD (600-nit class, 90Hz)",
+    "resolution": "2304x1440",
+    "refresh_hz": 90,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.523,
+    "ports": "1x USB-C 2.0 (DeX-capable per Samsung), 3.5mm headphone jack, pogo pins",
+    "wireless": "Wi-Fi 6, BT 5.3",
+    "webcam": "12MP front + 13MP rear",
+    "speakers": "Dual speakers (stereo)",
+    "keyboard_notes": "Keyboard Case for S10 FE/S10 Lite/S9 (BBY 18469763) included in price: membrane-ish keys, NO trackpad; pogo-pin powered",
+    "pen_support": "S Pen INCLUDED in box (IP68; no Bluetooth air actions on FE line)",
+    "os": "Android 15 (One UI 7) at launch; 7 years OS + security updates; Samsung DeX desktop mode"
+  },
+  "battery": {
+    "claimed_hours": 12,
+    "real_world_hours": 9.5,
+    "notes": "8,000mAh. Users report ~8-10h mixed use; 25W charging (slower than FE+)."
+  },
+  "price": {
+    "cad": 1055,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19192251",
+    "confidence": "verified",
+    "notes": "Tab S10 FE 128GB $779.99 (BBY SKU 19192251) + Keyboard Case S10 FE/S10 Lite/S9 $274.99 reg (BBY 18469763, sale $164.99) = $1,054.98 cover-in price. Cover-only: $274.99 reg / $164.99 sale. 256GB tablet tier $979.99 (BBY 19192247).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19192251",
+        "cad": 779.99,
+        "est": false,
+        "name": "Samsung Galaxy Tab S10 FE 10.9-inch 128GB, Exynos 1580 with S Pen - Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/191/19192/19192251.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "no numeric score retrieved",
+        "url": "https://www.notebookcheck.net/ (Tab S10 FE review exists but exact article URL unresolvable — guessed numeric IDs redirect; bot-walled 2026-11-24)",
+        "quote": ""
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Cheapest way into DeX + S Pen + 7-year updates: ~$1,055 all-in with keyboard undercuts every 11\" laptop alternative (r/Samsung)",
+      "S Pen in the box at the budget tier — iPad rivals charge $170 extra for the equivalent",
+      "Headphone jack + 2TB microSD retained while flagships dropped both",
+      "IP68 water resistance is unheard of at this price class",
+      "Light 523g slate that kids and students actually keep up with for note-taking"
+    ],
+    "complaints": [
+      "8GB RAM is the family floor — heavy DeX multitasking and tab hoarding hit limits sooner than the FE+",
+      "10.9\" 2304x1440 LCD feels cramped for DeX windows compared to the FE+'s 13.1\"",
+      "Keyboard Case is the floppiest of the family and has no trackpad",
+      "25W charging is the slowest of the line — ~2h+ to full",
+      "Exynos 1580 stutters in heavier games; this is a media/note tablet, not a gaming one"
+    ]
+  },
+  "design_philosophy": "The entry point of the laptop-substitute family: the smallest, cheapest slate that still ships the full Samsung commitments — S Pen in box, IP68, DeX, and 7 years of updates. With its keyboard priced in it undercuts budget laptops on price while accepting the weakest display, RAM, and cover in the lineup.",
+  "ratings": {
+    "battery": 7.3,
+    "screen_size": 6.3,
+    "screen_quality": 6.4,
+    "readability_dark": 3.5,
+    "readability_bright": 7,
+    "ecosystem": 6.8,
+    "gaming": 4.3,
+    "productivity": 5.5,
+    "portability": 8.3,
+    "build_quality": 7.8,
+    "thermals_noise": 7.5,
+    "port_connectivity": 5,
+    "creative_work": 4.8,
+    "keyboard_trackpad": 5,
+    "webcam_speakers": 6.3,
+    "upgradability": 4.5,
+    "ai_ml": 3.8,
+    "pen_touch": 9,
+    "repairability_service": 5.5,
+    "durability": 8
+  },
+  "rating_notes": "Ratings inferred from the S10+ anchor per SHARED-tab-s10.md deltas, then from the FE+ sibling: same LCD class (screen_quality 6.4 for lower res), 8GB RAM → productivity −0.5 vs FE+, portability +1 (523g/10.9\"), battery −0.5 (8Ah/25W), keyboard_trackpad −0.5 (floppiest cover). No verbatim pro score retrievable (bot-walls, disclosed). 256GB tier consolidated in config_name/price.notes. ANDROID_LIST.md flags this line \"sub-laptop class\" — included because BBY stocks it new. Image URL is BBY CDN SKU guess.",
+  "standouts": [
+    "Lowest-cost DeX + S Pen + 7-year-update bundle in the lineup (~$1,055 with keyboard)",
+    "IP68 + headphone jack + 2TB microSD at budget pricing"
+  ],
+  "dealbreakers": [
+    "8GB RAM + 10.9\" LCD make DeX multitasking feel cramped for serious work — the FE+ is the smarter big-screen buy"
+  ]
+}

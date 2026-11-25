@@ -1,0 +1,115 @@
+{
+  "id": "yp9i-g10-u7-32-1tb-tandem",
+  "line": "Lenovo Yoga Pro 9i Aura Edition Gen 10 (16\" Intel, 2025)",
+  "config_name": "Yoga Pro 9i Aura Edition Gen 10 — Core Ultra 7 255H, RTX 5050 8GB, 32GB LPDDR5X, 1TB SSD, 16\" 3.2K Tandem OLED 120Hz",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 255H (Arrow Lake-H, 16-core)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5050 Laptop 8GB GDDR7",
+    "gpu_type": "dedicated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X-8400 dual channel soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 PCIe Gen4 NVMe",
+    "screen_size_in": 16,
+    "display_type": "PureSight Pro 3.2K Tandem OLED, 16:10",
+    "resolution": "3200x2000",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": 1600,
+    "weight_kg": 1.62,
+    "ports": "2x Thunderbolt 4, 1x USB-A, HDMI 2.1, SD Express, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "6-speaker array (2 tweeters + 4 woofers)",
+    "keyboard_notes": "Yoga creator keyboard, per-key backlight on upper trims; CNET noted slightly awkward keyboard placement",
+    "pen_support": "none (non-touch)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 13,
+    "real_world_hours": 8.5,
+    "notes": "84Wh (VERIFIED on lenovo.com/ca). RTX 5050 + Tandem OLED; ~8-9h light mixed use, less under GPU load."
+  },
+  "price": {
+    "cad": 2499,
+    "currency": "CAD",
+    "store": "lenovo.com/ca",
+    "store_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-pro-series/yoga-pro-9i-gen-10-aura-edition-16-inch-intel/len101y0063",
+    "confidence": "estimated",
+    "notes": "Lenovo CA hides ld+json price (0) on this PDP; page confirms InStock. CNET as-reviewed US$1,950 (Ultra 9/5050 tier); this Ultra 7 tier estimated ~US$1,850 x 1.35. Lenovo CA runs eCoupon pricing.",
+    "offers": [
+      {
+        "store": "lenovo.com/ca",
+        "url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-pro-series/yoga-pro-9i-gen-10-aura-edition-16-inch-intel/len101y0063",
+        "cad": 2499,
+        "est": true
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/yoga/yoga-pro-series/yoga-pro-9i-gen-10-aura-edition-16-inch-intel/len101y0063"
+  },
+  "image_url": "https://p4-ofp.static.pub/ShareResource/optimized/pdp/yoga/yoga-pro-series/len101y0063/yoga-pro-9i-gen-10-aura-editionn-16-intel.png",
+  "professional": {
+    "avg_score": 8.6,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": "8.6/10",
+        "url": "https://www.cnet.com/tech/computing/",
+        "quote": "Centered around a gorgeous 16-inch OLED display, this Yoga laptop provides the performance and build that graphics pros demand."
+      },
+      {
+        "outlet": "CNET",
+        "score": "8.6/10",
+        "url": "https://www.cnet.com/tech/computing/",
+        "quote": "Six-speaker array produces tinny, hollow sound"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "3.2K Tandem OLED holds 1,600-nit HDR peaks without dimming like older OLEDs — best 16-inch creator panel near this price",
+      "RTX 5050 eases DaVinci Resolve and Premiere exports far beyond what an iGPU-only Slim can do",
+      "84Wh battery is unusually large for a thin 16-inch creator clamshell",
+      "SD Express slot + HDMI + USB-A means no dongle bag for photography workflows",
+      "Aluminium chassis stays rigid; lid flex is minimal for a 16-inch ultrabook"
+    ],
+    "complaints": [
+      "Six-speaker array sounds tinny and hollow even at mid volume (CNET con, echoed by users on calls)",
+      "Keyboard sits close to the front edge — awkward palm position on long typing sessions (CNET con)",
+      "RAM is soldered and capped at 64GB with no user upgrade path",
+      "Fans audibly spin up during GPU exports in the thin 16-inch chassis",
+      "Lenovo.com 'sale' price requires stacking eCoupons; street price at Best Buy CA fluctuates"
+    ]
+  },
+  "design_philosophy": "Lenovo's 16-inch creator flagship: thin-and-light chassis with discrete RTX graphics, a studio-grade Tandem OLED, and a large battery, aimed at photographers/video editors who want workstation output without a gaming-laptop aesthetic. This Ultra 7 + RTX 5050 tier is the sensible mid-point of that formula.",
+  "ratings": {
+    "battery": 7.5,
+    "screen_size": 8.5,
+    "screen_quality": 9.2,
+    "readability_dark": 9,
+    "readability_bright": 8.5,
+    "ecosystem": 9,
+    "gaming": 6,
+    "productivity": 8.5,
+    "portability": 6.5,
+    "build_quality": 9,
+    "thermals_noise": 7,
+    "port_connectivity": 8,
+    "creative_work": 8.5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 5.5,
+    "upgradability": 3,
+    "ai_ml": 6.5,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 7.5
+  },
+  "rating_notes": "Ratings anchored on CNET's Editors' Choice review of the sibling Ultra 9 285H + RTX 5050 + 32GB + 1TB config (8.6/10, US$1,950, VERIFIED quotes in NOTES.md). This Ultra 7 255H config: −0.3 productivity, −0.2 ai_ml vs anchor; display/battery identical. CNET URL generic (exact slug unverified — flagged for parent); Ultrabookreview reviewed the next-gen Pro 9i (page verified live, no quote extracted). Port list best-effort from PDP marketing; weight estimated."
+}

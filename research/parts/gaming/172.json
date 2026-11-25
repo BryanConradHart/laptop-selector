@@ -1,0 +1,116 @@
+{
+  "id": "legion5i-153-ips-251hx-5060-32-1tb",
+  "line": "Lenovo Legion 5i 15.3 (Gen 11 chassis, 2025/26, IPS)",
+  "config_name": "Legion 5i 15.3 — Core Ultra 7 251HX / RTX 5060 8GB, 32GB DDR5, 1TB SSD, 15.3\" WQXGA IPS 165Hz HDR",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-11",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 251HX (Arrow Lake-HX, 20c/20t)",
+    "cpu_cores": 20,
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7 (~115W Legion TGP, MUX)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5 (2x SODIMM, upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (2 slots)",
+    "screen_size_in": 15.3,
+    "display_type": "IPS anti-glare (WQXGA, HDR, 165 Hz)",
+    "resolution": "2560x1600",
+    "refresh_hz": 165,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 400,
+    "weight_kg": 2.1,
+    "ports": "2x USB-C (DP, PD; no Thunderbolt/USB4 on Intel Legion 5 models), 3x USB-A, HDMI, RJ45 GbE, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "5MP with electronic shutter",
+    "speakers": "Stereo",
+    "keyboard_notes": "Chiclet w/ numpad, 1.6mm travel, backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 8,
+    "real_world_hours": 7,
+    "notes": "~80 Wh class. Inferred from NBC Legion 5 Gen 10 chassis testing; Arrow Lake-HX 251HX efficient for Intel HX (~7h WiFi est)."
+  },
+  "price": {
+    "cad": 3599.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19784197",
+    "confidence": "verified",
+    "notes": "BBY API-verified 2026-11-24 (LEGION_LIST.md). No sale price at check; the 5070 twin (19784200) is often cheaper on sale — check both.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19784197",
+        "cad": 3599.99,
+        "est": false,
+        "name": "Lenovo Legion 5i 15.3\" 165Hz HDR Gaming Laptop - Intel Core Ultra 7 251HX - 32GB DDR5 - 1TB SSD - RTX 5060 - Windows 11 Home - Eclipse Black"
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/legion-laptops/legion-5-series/"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19784/19784197.jpg",
+  "professional": {
+    "avg_score": null,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87% (closest-tested chassis: Legion 5 15 Gen 10)",
+        "url": "https://www.notebookcheck.net/The-best-mainstream-gamer-in-2025-Lenovo-Legion-5-15-Laptop-Review.1047975.0.html",
+        "quote": "The chassis is functional with sufficient ports, a very comfortable keyboard, as well as very good maintenance options."
+      }
+    ],
+    "note": "No pro review found for the 15.3\" Gen 11 IPS chassis (honest disclosure per SHARED-legion5-ips.md); ratings inferred from the NBC Gen 10 chassis reviews."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Larger 15.3\" 2560x1600 165Hz matte IPS at a healthy ~500-nit brightness class — bright, sharp, flicker-free (no PWM, unlike the OLED siblings)",
+      "32GB RAM standard — no immediate upgrade tax, rare at this price in the gaming segment",
+      "Arrow Lake-HX 251HX (20 cores) is a strong multitasking CPU and far more efficient than the old Raptor Lake-HX Legion chips",
+      "Same Legion serviceability as the rest of the line: dual SODIMM, dual M.2, screwed battery",
+      "HDR-labelled IPS panel handles HDR video acceptably while staying matte — no glossy reflections"
+    ],
+    "complaints": [
+      "RTX 5060 tier costs the same list price as the 5070 twin often does on sale — check SKU 19784200 before buying this one",
+      "No Thunderbolt/USB4 on Intel Legion 5 models (NBC noted the same on Gen 10) — docking options limited vs AMD siblings",
+      "IPS contrast (~1200:1) and HDR impact well below OLED siblings; HDR400-class at best despite the 'HDR' label",
+      "Speakers 'could be better' and no card reader — recurring Legion 5 cons (NBC)",
+      "Legion Gen-10/11 platform threads report occasional 50-series driver crashes (nvlddmkm TDR) and Lenovo warranty friction"
+    ]
+  },
+  "standouts": [
+    "32GB RAM + 20-core Arrow Lake-HX at mid price — the productivity-friendly Legion of the 15\" range",
+    "Flicker-free 15.3\" 165Hz matte display"
+  ],
+  "dealbreakers": [],
+  "design_philosophy": "The 15.3\" Gen 11 refresh stretches Lenovo's mainstream Legion into a slightly bigger 16:10 panel while keeping the serviceable, lighting-free chassis. This 5060/32GB config leans workstation-ish: lots of RAM and cores with moderate GPU power, aimed at gamers who also code or multitask heavily.",
+  "ratings": {
+    "battery": 7,
+    "screen_size": 6.7,
+    "screen_quality": 6.3,
+    "readability_dark": 6.8,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 6.4,
+    "productivity": 8.5,
+    "portability": 7,
+    "build_quality": 7.8,
+    "thermals_noise": 6.4,
+    "port_connectivity": 6.8,
+    "creative_work": 6.3,
+    "keyboard_trackpad": 8.3,
+    "webcam_speakers": 6.3,
+    "upgradability": 8.5,
+    "ai_ml": 5.2,
+    "pen_touch": 0,
+    "repairability_service": 7,
+    "durability": 6.8
+  },
+  "rating_notes": "Ratings inferred from NBC Legion 5 Gen 10 chassis reviews (87%) per SHARED-legion5-oled.md + IPS deltas per SHARED-legion5-ips.md: 500-nit WQXGA IPS -> screen_quality 6.3 / readability_dark 6.8 (no PWM) / readability_bright 7.0; RTX 5060 115W -> gaming 6.4, thermals +0.2 (UBR: 5060 'properly tamed'); 251HX -> productivity 8.5 (32GB included, 20c); Intel model lacks USB4 -> port_connectivity 6.8 (NBC Gen 10 finding). 15.3\" Gen 11 chassis has no dedicated pro review — disclosed. Image URL follows standard BBY CDN pattern, not individually verified."
+}

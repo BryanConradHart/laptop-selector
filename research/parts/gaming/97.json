@@ -1,0 +1,111 @@
+{
+  "id": "g16-2026-386h-5080-64-2tb",
+  "line": "ASUS ROG Zephyrus G16 (2026, GU606)",
+  "config_name": "ROG Zephyrus G16 (2026, GU606AW) — Core Ultra 9 386H / RTX 5080 16GB, 64GB LPDDR5X, 2TB SSD, 16\" 2.5K OLED 240Hz",
+  "tier": "High (2026 refresh)",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 386H (Arrow Lake-H refresh)",
+    "cpu_cores": 16,
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop 16GB (TGP-capped slim chassis ~110W)",
+    "gpu_type": "discrete",
+    "ram_gb": 64,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 2000,
+    "storage_type": "NVMe (2x M.2 2280 slots)",
+    "screen_size_in": 16,
+    "display_type": "OLED (ROG Nebula HDR, glossy, G-Sync)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 900,
+    "weight_kg": 1.87,
+    "ports": "1x Thunderbolt 4, 1x USB-C 3.2 Gen2 (DP/PD), 2x USB-A 3.2, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "quad-speaker (praised by NBC on 2025 model)",
+    "keyboard_notes": "backlit chiclet, per-key RGB",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 6.1,
+    "notes": "90Wh (same chassis). NBC lab WiFi on 2025 GU605CX: 9h00 @150nits; ~5-7h real mixed use, ~1.25h gaming. USB-C PD charging."
+  },
+  "price": {
+    "cad": 6999,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19965090",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24, sku 19965090 (GU606AW-DS98-CA, ASUS Canada direct), $6,999 no sale. 1 review, 5.0/5 (too few to anchor).",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19965090",
+        "cad": 6999,
+        "est": false,
+        "name": "ASUS ROG Zephyrus G16 Gaming Laptop (16\" 2.5K OLED Display / Intel Core Ultra 9 386H / NVIDIA GeForce RTX 5080 / 64GB LPDDR5X RAM / 2TB SSD / Windows 11 Home / GU606AW-DS98-CA)"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19965/19965090.png",
+  "professional": {
+    "avg_score": 9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "90%",
+        "url": "https://www.notebookcheck.net/A-slim-gaming-laptop-now-with-an-RTX-5090-and-64-GB-of-RAM-Asus-ROG-Zephyrus-G16-2025-review.993365.0.html",
+        "quote": "it's still important to know that it uses a relatively slow version of the GPU... The input devices and speakers remain very good. (NBC 'very good' 90%, 2025 GU605CX RTX 5090/64GB/2TB — nearest tested sibling; no 2026 GU606 pro review retrieved.)"
+      }
+    ],
+    "note": "No 2026 GU606 pro review found 2026-11-24; inferred from 2025 GU605 line anchor (same chassis/display family) with GPU/CPU deltas."
+  },
+  "user_sentiment": {
+    "praises": [
+      "Top-tier silicon (5080 + 64GB + 2TB) in a 1.87 kg aluminum chassis — the closest thing to a portable workstation that still games",
+      "2.5K OLED 240Hz G-Sync panel remains a class leader for gaming; NBC line quote 'fantastic 240 Hz G-Sync OLED display'",
+      "Speakers and keyboard/trackpad best-in-class for gaming laptops (NBC line finding)",
+      "2x M.2 slots: storage expansion to multiple TB is the easy upgrade the RAM can't get",
+      "2026 refresh brings the faster 386H CPU and Wi-Fi 7 as standard"
+    ],
+    "complaints": [
+      "$6,999 is flagship money for a GPU that NBC proves is TGP-throttled in this chassis — thicker 5080 laptops cost $1.5-2.5k less",
+      "Soldered RAM: the 64GB is fixed and priced accordingly; no path beyond",
+      "OLED PWM flickering and limited HDR peak brightness persist at $7k where Mini-LED rivals shine brighter",
+      "Lid creak / hinge rocking and idle fan pulsation are long-standing line complaints (NBC)",
+      "No sale price and no proven review pool yet at BBY — early-adopter pricing on a refresh"
+    ]
+  },
+  "design_philosophy": "The 2026 high-end expression of the thin-first flagship: maximum GPU this chassis can cool, maximum (soldered) memory, top storage — ASUS's argument that a 1.87 kg OLED machine can double as a creator rig and gaming deck. The TGP tax and price premium are the accepted cost of that philosophy.",
+  "ratings": {
+    "battery": 6.1,
+    "screen_size": 8,
+    "screen_quality": 9,
+    "readability_dark": 8.5,
+    "readability_bright": 7,
+    "ecosystem": 9,
+    "gaming": 8.4,
+    "productivity": 8.6,
+    "portability": 8.1,
+    "build_quality": 8,
+    "thermals_noise": 5.4,
+    "port_connectivity": 6.5,
+    "creative_work": 8.3,
+    "keyboard_trackpad": 8.5,
+    "webcam_speakers": 8,
+    "upgradability": 3,
+    "ai_ml": 7.5,
+    "pen_touch": 0,
+    "repairability_service": 5,
+    "durability": 6.5
+  },
+  "rating_notes": "Inferred from 2025 GU605 NBC 90% (5090/64GB/2TB tested) per SHARED-zephyrus-g16.md: -1.0 gaming / -1.0 ai_ml for 5080 tier (16 vs 24GB VRAM, both TGP-capped), +0.2 productivity for 386H refresh, -0.2 battery. No 2026 pro review retrieved — disclosed. Upgradability 3.0 (soldered RAM, 2x M.2)."
+}

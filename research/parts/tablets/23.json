@@ -1,0 +1,123 @@
+{
+  "id": "ipad-air-11-m4-128",
+  "line": "Apple iPad Air 11-inch (M4, 2026)",
+  "config_name": "iPad Air 11-inch — M4 8-core CPU / 9-core GPU, 12GB RAM, 128GB SSD, 11\" Liquid Retina + Magic Keyboard",
+  "tier": "Entry",
+  "category": "tablets-ios-android",
+  "ecosystem": "iPadOS",
+  "form_factor": "tablet",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M4 (8-core: 3P+5E)",
+    "cpu_cores": 8,
+    "gpu": "Apple M4 9-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 12,
+    "ram_type": "unified/soldered LPDDR5X",
+    "storage_gb": 128,
+    "storage_type": "NVMe soldered",
+    "screen_size_in": 10.86,
+    "display_type": "Liquid Retina IPS LCD (fully laminated, anti-reflective, no ProMotion)",
+    "resolution": "2360x1640",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.464,
+    "ports": "1x USB-C (USB 3 10Gb/s, DisplayPort), magnetic Magic Keyboard connector, Smart Connector",
+    "wireless": "Wi-Fi 7 (2x2 MIMO), BT 6, Thread",
+    "webcam": "12MP landscape Center Stage front",
+    "speakers": "Landscape stereo (2-speaker)",
+    "keyboard_notes": "Magic Keyboard for iPad Air 11\" included in price: scissor keys with full function row (unlit), glass trackpad, cantilever hinge",
+    "pen_support": "Apple Pencil Pro +$168.99 (BBY sale; ~$199 Apple) — not included in total; Pencil USB-C +$99; hover supported",
+    "os": "iPadOS (Apple Intelligence supported)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 8,
+    "notes": "28.93Wh cell. Apple claims 10h web/video Wi-Fi (9h cellular); users report ~8h mixed real-world use on the 11\"."
+  },
+  "price": {
+    "cad": 1379,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/11-inch-display-128gb-space-grey-wifi",
+    "confidence": "verified",
+    "notes": "Tablet-only $999.00 (apple.com/ca, verified 2026-11-24) + Magic Keyboard Air 11\" $379.99 (BBY 19204080). BBY sale: tablet $899.99 (reg $939.99) → ~$1,280 with keyboard. Cellular variant +$200 ($1,199 tablet). Pencil Pro not included.",
+    "offers": [
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/11-inch-display-128gb-space-grey-wifi",
+        "cad": 1379,
+        "est": false
+      },
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19788293",
+        "cad": 899.99,
+        "est": false,
+        "name": "Apple iPad Air M4 11\" 128GB with Wi-Fi 7 (8th Generation) - Space Grey"
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/11-inch-display-128gb-space-grey-wifi"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19788/19788293.jpg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87%",
+        "url": "https://www.notebookcheck.net/The-fiercest-competitor-for-the-iPad-Pro-is-home-made-Apple-iPad-Air-13-M4-2026-tablet-review.1279201.0.html",
+        "quote": "The fiercest competitor for the iPad Pro is home-made. Pros: brute top performance, WiFi very fast, high-quality unibody chassis, USB-C with 10 GBit/s, two external displays possible, good color accuracy (PWM-free), well-balanced speakers, high recycled content. Cons: slow 60 Hz display, battery charging takes time, SoC throttles under sustained load. (NBC review of the iPad Air 13\" M4 2026; 11\" shares SoC and chassis design.)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "464g with M4 inside — the lightest way to get full current Apple silicon speed, users call it the perfect travel tablet (r/ipad)",
+      "Fits in bags where 13\" won't; the 11\" Magic Keyboard keeps the whole setup under 1kg",
+      "12GB unified memory means zero app reloads even with a dozen apps + Stage Manager windows",
+      "BBY sale pricing (~$900 tablet) makes it the best promo target of the Air line",
+      "Fanless, silent, and its Wi-Fi 7 radio is the same as the Pro's"
+    ],
+    "complaints": [
+      "500-nit LCD (100 less than the 13\") is noticeably dimmer outdoors",
+      "128GB fills fast; external USB-C SSD becomes mandatory for media",
+      "60Hz panel — no ProMotion on any Air",
+      "$379.99 keyboard is unlit and the 11\" version's keys/trackpad feel cramped vs the 13\"",
+      "iPadOS still lacks desktop-class apps no matter the size"
+    ]
+  },
+  "design_philosophy": "The 11\" Air is the portability end of the 'right iPad for most people': identical M4/12GB silicon to the 13\", shed to 464g and a smaller 500-nit panel. This entry tier is the cheapest M4 Air bundle in Canada and the one most often discounted at retail.",
+  "ratings": {
+    "battery": 7.8,
+    "screen_size": 6,
+    "screen_quality": 7.6,
+    "readability_dark": 6,
+    "readability_bright": 7.3,
+    "ecosystem": 6.5,
+    "gaming": 4.5,
+    "productivity": 6.8,
+    "portability": 9.4,
+    "build_quality": 9,
+    "thermals_noise": 9,
+    "port_connectivity": 5.5,
+    "creative_work": 7.3,
+    "keyboard_trackpad": 7.9,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 6.8,
+    "pen_touch": 9.3,
+    "repairability_service": 5,
+    "durability": 8
+  },
+  "rating_notes": "Pro score attached from NBC review of the iPad Air 13\" M4 2026 (87%, gap-fill 2026-11-24). Ratings inferred from the 13\" M4 256GB line anchor (SHARED-ipad-air.md): 11\" deltas screen_size 6.0, portability 9.4 (464g), battery 7.8 (28.93Wh), readability_bright 7.3 (500 nits), keyboard_trackpad 7.9 (smaller keyboard); 128GB −0.3 creative_work. No verbatim pro score found (bot-walls) — disclosed, none invented. Ecosystem 6.5 per tablets rule. BBY CDN image is this SKU (19788293).",
+  "standouts": [
+    "Cheapest M4 Air with keyboard in Canada (~$1,379, ~$1,280 on BBY sale)",
+    "Best pure-portability tablet in the lineup: 464g, 6.1mm, full current silicon"
+  ],
+  "dealbreakers": [
+    "128GB + 500-nit panel: the two cuts that make the 256GB upgrade worth it for most buyers"
+  ]
+}

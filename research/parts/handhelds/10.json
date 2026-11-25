@@ -1,0 +1,134 @@
+{
+  "id": "rog-xbox-ally-x-z2e-24gb-1tb",
+  "line": "ASUS ROG Xbox Ally X (2025)",
+  "config_name": "ROG Xbox Ally X — AMD Ryzen AI Z2 Extreme (3x Zen 5 + 5x Zen 5c) / Radeon 890M, 24GB LPDDR5x-8000, 1TB SSD, 7\" 1080p 120Hz VRR IPS, Xbox Fullscreen Experience",
+  "tier": "High",
+  "category": "handheld-pcs",
+  "ecosystem": "Windows",
+  "form_factor": "handheld",
+  "release": "2025-10",
+  "inferred": false,
+  "specs": {
+    "cpu": "AMD Ryzen AI Z2 Extreme (8C/16T: 3x Zen 5 up to 5.0GHz + 5x Zen 5c, 55W PL2 / 35W PL1, Strix Point) with XDNA2 NPU (~50 TOPS, Copilot+ PC)",
+    "cpu_cores": 8,
+    "gpu": "AMD Radeon 890M integrated (16 CU RDNA 3.5, up to 2.9GHz)",
+    "gpu_type": "integrated",
+    "ram_gb": 24,
+    "ram_type": "LPDDR5x-8000, soldered",
+    "storage_gb": 1000,
+    "storage_type": "M.2 2280 PCIe NVMe (user-accessible; Samsung MZVMA1T0HCLD in tested unit)",
+    "screen_size_in": 7,
+    "display_type": "IPS, glossy, capacitive touch, 120Hz with Adaptive Sync (VRR), no PWM flicker, no HDR; brightness measured below the advertised figure",
+    "resolution": "1920x1080",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 430,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.718,
+    "ports": "1x USB4 40Gbps (USB-C, DP alt + PD), 1x USB-C 3.1 Gen2, microSD, 3.5mm, XG Mobile docking-station port; fingerprint reader",
+    "wireless": "Wi-Fi 6E (MediaTek MT7922), BT 5.2 (no Wi-Fi 7)",
+    "webcam": "none",
+    "speakers": "stereo speakers (NBC: 'good input devices & speakers')",
+    "keyboard_notes": "no keyboard; new Xbox-style controller grips with improved hall-effect triggers, textured grips, remappable mappable buttons",
+    "pen_support": "none (touch only)",
+    "os": "Windows 11 Home + Xbox Fullscreen Experience (console-style full-screen shell with third-party launcher integration: Steam, EA, Ubisoft)"
+  },
+  "battery": {
+    "claimed_hours": null,
+    "real_world_hours": 3.2,
+    "notes": "80Wh 4-cell, same as Ally X. No official runtime claim. NBC verdict: Performance mode gives 'more than three hours of gaming' with quiet fans; lighter titles and lower TDP stretch longer, heavy AAA at Turbo drops below 2h. Community consensus clusters at 2-4h gaming depending on preset — see SHARED-rog-ally.md."
+  },
+  "price": {
+    "cad": 1499.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-rog-xbox-ally-x-7-touch-gaming-console-black-amd-ryzen-z2-extreme-24gb-ram-1tb-ssd-windows-11-exclusive-retail-partner/19438479",
+    "confidence": "verified",
+    "notes": "Verified on bestbuy.ca 2026-11-24: $1,499.99, Sold and shipped by Best Buy, model RC73XA-XB_ALLYX.Z2E, web code 19438479, BBY rating 4.7/5 (2,555 reviews), '100+ bought in the last month', available to ship; open-box from ~$1,160. Launched in Canada Oct 2025 at this price (US$999). Best Buy is ASUS's exclusive retail partner for the Xbox Ally line in CA. Open-box listing 19528693 confirms the same spec.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-rog-xbox-ally-x-7-touch-gaming-console-black-amd-ryzen-z2-extreme-24gb-ram-1tb-ssd-windows-11-exclusive-retail-partner/19438479",
+        "cad": 1499.99,
+        "est": false,
+        "name": "ASUS ROG Xbox Ally X 7\" 120Hz Touchscreen Handheld Gaming PC - Black (Ryzen Z2 Extreme/24GB/1TB SSD/Windows 11) - Exclusive Retail Partner"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ROG_Xbox_Ally_X/rog_xbox_ally_x_case_18.jpg",
+  "professional": {
+    "avg_score": 8.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "85.9%",
+        "url": "https://www.notebookcheck.net/Full-screen-Xbox-experience-for-gaming-handhelds-Asus-ROG-Xbox-Ally-X-review.1139045.0.html",
+        "quote": "The new ROG Xbox Ally X is an upgrade in pretty much every respect... the new controller grips are just much more comfortable and you can easily play for hours. The AMD Ryzen AI Z2 Extreme with the fast Radeon 890M increases the gaming performance by 10-15 % compared to the previous Ally X... Thanks to the new Xbox full-screen experience, you can now focus on gaming and include third-party launchers (Steam, EA, Ubisoft, etc.). Ideally, you will never have to use the traditional desktop mode."
+      },
+      {
+        "outlet": "Tom's Hardware",
+        "score": null,
+        "url": "https://www.tomshardware.com/video-games/console-gaming/asus-rog-xbox-ally-x-review",
+        "quote": "The Asus ROG Xbox Ally X has excellent ergonomics thanks to controller-style grips, and Microsoft's handheld-focused Xbox experience is far better than using the Windows 11 desktop."
+      },
+      {
+        "outlet": "Trusted Reviews",
+        "score": "recommended",
+        "url": "https://www.trustedreviews.com/reviews/asus-rog-xbox-ally-x",
+        "quote": "The Asus ROG Xbox Ally X is the definitive Windows handheld to buy right now. It's fast, comfortable and provides a great gaming experience."
+      },
+      {
+        "outlet": "PCMag",
+        "score": null,
+        "url": "https://www.pcmag.com/reviews/asus-rog-xbox-ally-x",
+        "quote": "Asus and Microsoft's ROG Xbox Ally X is an impressive update to the Ally X, adding console-style controller grips and a full-screen Xbox interface."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": null,
+        "url": "https://www.rtings.com/laptop/reviews/asus/rog-xbox-ally-x",
+        "quote": null
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "Xbox Fullscreen Experience finally makes Windows feel console-like — instant-boot feel, quick resume, and Steam/EA/Ubisoft libraries surfaced in one full-screen UI (top theme in BBY 4.7/5 reviews and r/XboxSeriesX/r/ROGAlly)",
+      "The new Xbox-style grips are the most comfortable of any handheld — NBC: 'you can easily play for hours'; users repeat that it beats the flat Ally X shape for long sessions",
+      "Z2 Extreme + 24GB LPDDR5x-8000 is 10-15% faster than the Ally X per NBC, enough that Game Pass day-1 titles and anti-cheat multiplayer (which SteamOS can't run) are genuinely playable at 1080p with FSR",
+      "Performance preset is quiet: NBC measured good thermals and calls the fan quiet outside Turbo mode; users echo that it runs cooler/quieter than the Legion Go 2 at similar power",
+      "Access to the fans and M.2 2280 SSD is easy (NBC pro) — battery and SSD are realistically swappable, and the XG Mobile eGPU dock port keeps an upgrade path open"
+    ],
+    "complaints": [
+      "C$1,499.99 in Canada is a steep premium over the US$999 positioning and over the C$899.97 Ally X clearance that is nearly as capable — the most common 'is it worth it' objection",
+      "Display brightness is lower than advertised (NBC con) — same dim, glossy 7\" 1080p panel as the 2024 Ally X, while rivals moved to OLED; outdoor use is poor",
+      "Xbox Fullscreen is Game Pass-centric and still rough at the edges: users report apps that launch awkwardly, occasional forced trips to desktop, and settings split between Xbox UI, Armoury Crate SE and Windows (TechRadar: 'not quite the console-like experience you were hoping for')",
+      "No webcam and no Wi-Fi 7 in a C$1,500 2025 device (NBC cons); streaming/calls need external gear",
+      "Turbo mode on mains is loud (NBC con), and the bulkier grip chassis makes it thicker (50.9mm) than the Ally X — pocketability is gone"
+    ]
+  },
+  "design_philosophy": "The result of an explicit ASUS-Microsoft collaboration to make Windows handhelds feel like consoles: a bulkier Xbox-controller-shaped grip chassis, hall-effect triggers, and — most importantly — the Xbox Fullscreen Experience, a full-screen console-style Windows shell that aggregates Game Pass, Steam and other launchers so the desktop is rarely needed. This Z2 Extreme/24GB/1TB SKU is the flagship of the CA line at C$1,499.99 (Best Buy exclusive retail partner); a cheaper non-Extreme 'Xbox Ally' with the Ryzen Z2 A sits beneath it at C$799.99. NBC's only real hardware criticisms — dim glossy panel, no webcam/Wi-Fi 7 — are the price of keeping the 2024 display and battery.",
+  "ratings": {
+    "battery": 6.5,
+    "screen_size": 5,
+    "screen_quality": 6.5,
+    "readability_dark": 7,
+    "readability_bright": 5,
+    "ecosystem": 8.5,
+    "gaming": 7,
+    "productivity": 5,
+    "portability": 7.5,
+    "build_quality": 8,
+    "thermals_noise": 7.5,
+    "port_connectivity": 5.5,
+    "creative_work": 4,
+    "keyboard_trackpad": 0.5,
+    "webcam_speakers": 4,
+    "upgradability": 6,
+    "ai_ml": 5,
+    "pen_touch": 3,
+    "repairability_service": 6.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Anchor config: exactly the SKU Notebookcheck tested (RC73XA, Z2 Extreme/24GB/1TB) — no inference. avg_score 8.6 = NBC 85.9% normalised; RTINGS review exists (rtings.com/laptop/reviews/asus/rog-xbox-ally-x) but its numeric score was not retrievable this session (honest null, quote null — gap-fill candidate). vs Ally X anchor (SHARED-rog-ally.md): gaming +0.5 (NBC-measured 10-15% faster 890M), ai_ml +2.0 (XDNA2 NPU ~50 TOPS Copilot+ vs none), build_quality +0.5 (grips widely called best-in-class), portability -0.5 (718g, 50.9mm thick), readability_bright -0.5 (NBC con: brightness lower than advertised), thermals_noise +0.5 (NBC: quiet in Performance mode), port_connectivity +0.5 (XG Mobile dock port). Battery 6.5: same 80Wh cell, NBC >3h gaming matches user 2-4h spread. keyboard_trackpad near-zero per handheld convention. webcam_speakers: no camera (NBC con) despite 'good speakers'. image_url is the verified NBC review hero image; site fallback applies."
+}

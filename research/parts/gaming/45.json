@@ -1,0 +1,122 @@
+{
+  "id": "legion-pro7i-16-5090-32-2tb-bf",
+  "line": "Lenovo Legion Pro 7i 16 (Gen 10, 2025)",
+  "config_name": "Legion Pro 7i 16\" — Core Ultra 9 275HX, RTX 5090 24GB, 32GB DDR5, 2TB SSD, 16\" WQXGA 240Hz",
+  "tier": "Deal",
+  "category": "gaming-laptops",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-06",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24-core: 8P+16E)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5090 Laptop 24GB (up to 175W incl. dynamic boost)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5-5600 (2x SODIMM, upgradeable)",
+    "storage_gb": 2000,
+    "storage_type": "M.2 2280 NVMe Gen4 (2 slots)",
+    "screen_size_in": 16,
+    "display_type": "IPS anti-glare, 16:10 (panel type not verifiable from BBY listing)",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 2.7,
+    "ports": "2x USB-C (one DP/PD), 3x USB-A, HDMI 2.1, RJ45, 3.5mm",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "1080p + IR",
+    "speakers": "2-speaker front + bottom firing, Nahimic",
+    "keyboard_notes": "Per-key RGB, no TrackPoint; keys not centered on numpad",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 4.5,
+    "notes": "99.9Wh. RTINGS (5080 config): under 5h web browsing, ~6h video, ~1.5h gaming; 5090 tier draws more power under load."
+  },
+  "price": {
+    "cad": 4999.97,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/19272259",
+    "confidence": "verified",
+    "notes": "BBY API 2026-11-24: $4,999.97 Black Friday hero SKU — roughly half the $10,929 regular price of the equivalent 32GB/2TB 5090 config (SKU 20341955). Almost certainly a limited-time Black Friday price that will revert or sell out.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/19272259",
+        "cad": 4999.97,
+        "est": false,
+        "name": "Lenovo Legion Pro 7i 16\" 240Hz Gaming Laptop - Intel Core Ultra 9 275HX - 32GB DDR5 - 2TB SSD - RTX 5090 - Windows 11 Home - Eclipse Black"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19272/19272259.jpg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "RTINGS",
+        "score": "8.7/10",
+        "url": "https://www.rtings.com/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026",
+        "quote": "The Lenovo Legion Pro 7i is excellent for gaming. Our RTX 5080 configuration achieves high frame rates across demanding games, including titles with ray tracing. The 240Hz OLED display offers excellent contrast and G-SYNC support to prevent screen tearing."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.7/10",
+        "url": "https://www.rtings.com/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026",
+        "quote": "The Legion Pro 7i has disappointing battery life. The RTX 5080 configuration lasts under five hours while browsing the web, a little over six hours watching videos, and only about an hour and a half while gaming."
+      },
+      {
+        "outlet": "RTINGS",
+        "score": "8.7/10",
+        "url": "https://www.rtings.com/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026",
+        "quote": "It uses an all-aluminum chassis with securely fitted feet and a finish that doesn't readily collect fingerprints or scratches. The keyboard deck has very little flex, but the lid and screen have more give under deliberate pressure."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "RTX 5090's 24GB VRAM makes this the top local-AI laptop tier — large LLMs that don't fit on the 5080's 16GB load comfortably (r/Lenovo 5090-tier discussion)",
+      "All-aluminum chassis feels genuinely premium and the lighting (including power-button RGB) can be fully disabled for professional settings",
+      "RAM and storage are user-replaceable SODIMM/M.2 — two M.2 slots and a swappable battery",
+      "Front + bottom-firing speakers are loud and crisp for a gaming laptop",
+      "240Hz panel keeps even high-FPS esports titles tear-free with G-SYNC"
+    ],
+    "complaints": [
+      "nvlddmkm Event 13 'FECS UCODE Fatal Error' / TDR black-screen crashes reported on multiple fresh Legion Pro 7i 50-series units (r/Lenovo)",
+      "Fan bearing grinding noise appearing within months, requiring warranty fan replacement (r/Lenovo)",
+      "Keyboard gets hot under load and the fans are loud; the 175W 5090 pushes the same cooler harder than the 5080",
+      "It's a plugged-in desktop-replacement — battery is an afterthought and gaming off-AC is severely throttled",
+      "No TrackPoint and numpad-key layout annoys long-time Lenovo/Legion loyalists"
+    ]
+  },
+  "design_philosophy": "Lenovo's flagship 16-inch desktop-replacement gaming line at its absolute top: the RTX 5090 24GB tier squeezes every frame out of the 175W power envelope in an all-aluminum chassis. This BF hero SKU is the same top GPU at roughly half the regular CAD price — a limited-time Black Friday deal that makes the halo tier briefly attainable.",
+  "ratings": {
+    "battery": 4,
+    "screen_size": 8,
+    "screen_quality": 8.3,
+    "readability_dark": 8,
+    "readability_bright": 7.1,
+    "ecosystem": 9,
+    "gaming": 10,
+    "productivity": 8.6,
+    "portability": 3,
+    "build_quality": 8.8,
+    "thermals_noise": 5.5,
+    "port_connectivity": 8,
+    "creative_work": 8.4,
+    "keyboard_trackpad": 7.8,
+    "webcam_speakers": 7,
+    "upgradability": 7.5,
+    "ai_ml": 9.5,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6.8
+  },
+  "rating_notes": "Ratings inferred from RTINGS' reviewed Legion Pro 7i Gen 10 RTX 5080 config (8.7) per SHARED-legion-pro7.md, plus 5090-tier deltas: gaming +1.5 (capped 10.0), creative_work +0.5, ai_ml +1.0 (24GB vs 16GB VRAM), battery -0.5, thermals_noise -0.5 (same cooler, hotter GPU). IPS deltas applied from SHARED (screen_quality -1.0, readability_dark -1.5, readability_bright +0.3, battery +0.3 — battery nets to 4.0); BBY listing does not state panel type, IPS assumed per sibling entries. 2TB tier: creative_work +0.3 headroom. $4,999.97 is very likely a limited-time Black Friday price (regular for this tier ~$10,929). Image URL is a best-guess BBY CDN pattern (SKU 19272259); site has fallback. 5090 TGP/thermal details could not be independently fetched (NBC 404, Reddit bot-walled); 175W max TGP is the published NVIDIA envelope for the Legion Pro 7i   chassis."
+}

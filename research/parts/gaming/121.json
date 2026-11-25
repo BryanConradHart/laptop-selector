@@ -1,0 +1,123 @@
+{
+  "id": "pred-helios-neo16-oled-275hx-5070ti-32-1tb",
+  "line": "Acer Predator Helios Neo 16 AI (2025, PHN16-73)",
+  "config_name": "Predator Helios Neo 16 AI OLED — Ultra 9 275HX / RTX 5070 Ti 12GB, 32GB DDR5, 1TB SSD, 16\" WQXGA OLED 240Hz",
+  "tier": "Mid",
+  "category": "gaming",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2025-05",
+  "inferred": false,
+  "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (Arrow Lake-HX, 24c/24t, 8P+16E)",
+    "cpu_cores": 24,
+    "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop 12GB GDDR7, 140W (Advanced Optimus)",
+    "gpu_type": "discrete",
+    "ram_gb": 32,
+    "ram_type": "DDR5-6400 SODIMM (upgradeable)",
+    "storage_gb": 1000,
+    "storage_type": "NVMe M.2 (upgradeable)",
+    "screen_size_in": 16,
+    "display_type": "OLED glossy, non-touch",
+    "resolution": "2560x1600",
+    "refresh_hz": 240,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": 900,
+    "weight_kg": 2.7,
+    "ports": "3x USB-A 3.2 Gen2, 1x USB4 40Gbps (TB4, PD), 1x USB-C, HDMI, 3.5mm, microSD",
+    "wireless": "Wi-Fi 7, BT 5.3",
+    "webcam": "2MP 1080p",
+    "speakers": "Stereo",
+    "keyboard_notes": "Chiclet, RGB backlight",
+    "pen_support": "none",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 6,
+    "real_world_hours": 4.2,
+    "notes": "90 Wh. Tom's Guide flagged short battery life on exactly this config; users report ~1h worse than pro light-use tests."
+  },
+  "price": {
+    "cad": 3699,
+    "currency": "CAD",
+    "store": "bestbuy.ca (marketplace)",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/20191220",
+    "confidence": "verified",
+    "notes": "BBY CA verified 2026-11-24: reg $3,999, sale $3,699. Sold by BBY marketplace seller as \"Brand New\" — marketplace fulfillment/return-policy risk vs BBY-direct.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/20191220",
+        "cad": 3699,
+        "est": false,
+        "name": "Acer Predator Helios NEO 16\" OLED 240Hz Laptop (Intel Ultra 9-275HX/32GB RAM/ 1TB SSD/RTX 5070Ti/Win11) - Brand New"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20191/20191220.webp",
+  "professional": {
+    "avg_score": 7.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (model-page aggregate, PHN16-73)",
+        "score": "76%",
+        "url": "https://www.notebookcheck.net/Acer-Predator-Helios-Neo-16-AI-PHN16-73.1171432.0.html",
+        "quote": "Aggregated scoring places it at around 76% overall, indicating a solid but not flawless package."
+      },
+      {
+        "outlet": "Laptop Media (via Notebookcheck)",
+        "score": "recommended (no numeric score)",
+        "url": "https://www.notebookcheck.net/Acer-Predator-Helios-Neo-16-AI-PHN16-73.1171432.0.html",
+        "quote": "The Acer Predator Helios Neo 16 AI (PHN16-73) is a powerful and well-balanced gaming laptop that successfully bridges the gap between raw performance and a surprisingly portable design. ... The very same OLED screen that provides its greatest strength is also the source of its most critical flaws, creating a frustrating paradox for potential buyers."
+      },
+      {
+        "outlet": "Tom's Guide",
+        "score": "no numeric score found",
+        "url": "https://www.tomsguide.com/computing/gaming-laptops/acer-predator-helios-neo-16-ai-review",
+        "quote": "It's bright and features stupendous color coverage and accuracy. Its 240Hz refresh rate delivers smooth gaming performance, and the laptop is great for everyday tasks, too. But its flaws are hard to overlook. An ineffective cooling system, slow SSD hampered by bloatware, bulky design, and short battery life make the Neo 16 AI a hard sell."
+      }
+    ],
+    "note": "THIS is the professionally-reviewed configuration (275HX/5070 Ti/32GB/1TB OLED). NBC-listed cons: \"OLED has critical flaws\", runs hot, 2.7 kg, pricey vs competitors. RTINGS: no review — not cited."
+  },
+  "user_sentiment": {
+    "praises": [
+      "240Hz WQXGA OLED at this price is the line's headline — perfect blacks and instant response for gaming and media",
+      "RTX 5070 Ti at 140W + 24-core 275HX is a genuine 1440p/240fps-class combo",
+      "USB4/Thunderbolt 4 with PD plus Wi-Fi 7 — modern connectivity for a mid-tier machine",
+      "RAM/SSD upgradeable (unlike many OLED rivals); 32GB DDR5-6400 from the factory",
+      "Strong everyday productivity too — Tom's Guide called it \"great for everyday tasks\""
+    ],
+    "complaints": [
+      "OLED panel's anti-reflective coating haze and brightness limits — Laptop Media's \"The Most Beautiful Screen You CAN'T See\"",
+      "Gets very hot under load; cooling can't keep up in Turbo (Tom's Guide + NBC con lists)",
+      "Heavy (2.7 kg) and bulky for a 16-inch laptop",
+      "Heavy Acer bloatware that measurably slows the SSD until removed (Tom's Guide)",
+      "Short battery life — the config's most repeated real-world complaint"
+    ]
+  },
+  "design_philosophy": "Acer's flagship-spec-for-mid-price playbook at its most literal: this config is the exact machine reviewers tested — top-tier Arrow Lake-HX CPU, a full 140W RTX 5070 Ti, and the 240Hz OLED that defines the experience. The philosophy is screen-led value: give enthusiasts the OLED + GPU combo of a $5k machine at $3-4k, and accept the chassis, cooling headroom, and software bloat as the price of admission.",
+  "ratings": {
+    "battery": 4.2,
+    "screen_size": 7.5,
+    "screen_quality": 8.8,
+    "readability_dark": 9,
+    "readability_bright": 6,
+    "ecosystem": 9,
+    "gaming": 8.3,
+    "productivity": 8,
+    "portability": 4,
+    "build_quality": 7,
+    "thermals_noise": 4.5,
+    "port_connectivity": 7.5,
+    "creative_work": 7.5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 4.5,
+    "upgradability": 7.5,
+    "ai_ml": 6.2,
+    "pen_touch": 0,
+    "repairability_service": 6.5,
+    "durability": 6.5
+  },
+  "rating_notes": "ANCHOR entry — directly reviewed config (NBC aggregate 76%, Laptop Media, Tom's Guide). screen_quality high for OLED colour/contrast but readability_bright capped by ABL/AR-coat haze per Laptop Media. Thermals_noise low per two independent con lists. BBY per-SKU customer ratings unavailable (new marketplace listing, 0 ratings) — sentiment review-grounded per SHARED-predator.md."
+}

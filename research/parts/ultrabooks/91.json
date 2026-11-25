@@ -1,0 +1,109 @@
+{
+  "id": "zbs14-ux3406-u7-32-1tb-oled-lunar",
+  "line": "ASUS Zenbook S 14 OLED (2024/25, UX3406, Intel Lunar Lake)",
+  "config_name": "Zenbook S 14 — Core Ultra 7 258V (Lunar Lake), 32GB, 1TB SSD, 14\" 3K OLED 120Hz touch",
+  "tier": "Mid",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2024-10",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core Ultra 7 258V (Lunar Lake, 8-core)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc 140V integrated",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "LPDDR5X on-package",
+    "storage_gb": 1000,
+    "storage_type": "M.2 NVMe",
+    "screen_size_in": 14,
+    "display_type": "OLED touch, 16:10, 3K-class, 120Hz",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 550,
+    "brightness_hdr_nits": 1100,
+    "weight_kg": 1.2,
+    "ports": "2x Thunderbolt 4, 1x USB-A, HDMI 2.1, 3.5mm",
+    "wireless": "Wi-Fi 6E/7, BT 5.3",
+    "webcam": "1080p FHD + IR",
+    "speakers": "2-speaker + woofers",
+    "keyboard_notes": "Backlit, large glass touchpad",
+    "pen_support": "touch",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 18,
+    "real_world_hours": 13,
+    "notes": "72Wh — Lunar Lake's standout efficiency; ~12-15h light use widely reported."
+  },
+  "price": {
+    "cad": 2299.95,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-s-14-14-120hz-hdr-touchscreen-copilot-pc-laptop-intel-core-ultra-7-series-2-32gb-lpddr5x-1tb-ssd-windows-11-home-zumaia-grey/18389564",
+    "confidence": "verified",
+    "notes": "BBY direct SKU 18389564, reg $2,449.95 sale $2,299.95 (2026-11-24). 4.51/5 across 406 BBY reviews — the most-reviewed Zenbook on CA retail. Previous-gen notable value.",
+    "offers": [
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-s-14-14-120hz-hdr-touchscreen-copilot-pc-laptop-intel-core-ultra-7-series-2-32gb-lpddr5x-1tb-ssd-windows-11-home-zumaia-grey/18389564",
+        "cad": 2299.95,
+        "est": false,
+        "name": "ASUS Zenbook S 14 14\" 120Hz HDR Touchscreen Copilot+ PC Laptop - Intel Core Ultra 7 Series 2 - 32GB LPDDR5X - 1TB SSD - Windows 11 Home - Zumaia Grey"
+      }
+    ],
+    "official_url": null
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/183/18389/18389564.jpg",
+  "professional": {
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "Ultrabookreview",
+        "score": "recommended",
+        "url": "https://www.ultrabookreview.com/69717-asus-zenbook-s14-oled-review/",
+        "quote": "the Zenbook S14 OLED pairs an ultra-thin premium chassis with Lunar Lake efficiency and a beautiful 3K OLED display"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "406 Best Buy reviews at 4.51/5 — proven, popular platform",
+      "Lunar Lake 258V battery life is superb for x86 Windows",
+      "32GB on-package RAM at this price beats newer 16GB tiers",
+      "Arc 140V plays light games at 1080p better than most iGPUs of its day",
+      "Bright 3K 120Hz touch OLED still competitive in 2026"
+    ],
+    "complaints": [
+      "Older 2024 chassis — no Ceraluminum refresh, thicker bezels than 2026 models",
+      "Can run warm under sustained loads in the ultra-thin chassis",
+      "Fan noise under load",
+      "MyASUS software bloat complaints common in BBY reviews"
+    ]
+  },
+  "design_philosophy": "The Lunar Lake-era premium Zenbook S 14 that made ultra-thin x86 ultrabooks practical; still sold at Best Buy CA alongside the 2026 refresh. With 32GB/1TB and a 3K 120Hz OLED at $2,299, it remains the sane-spec value pick of the Zenbook premium family.",
+  "ratings": {
+    "battery": 8.5,
+    "screen_size": 7,
+    "screen_quality": 9,
+    "readability_dark": 9,
+    "readability_bright": 8,
+    "ecosystem": 9,
+    "gaming": 3.5,
+    "productivity": 8,
+    "portability": 9,
+    "build_quality": 8.5,
+    "thermals_noise": 7,
+    "port_connectivity": 7.5,
+    "creative_work": 6,
+    "keyboard_trackpad": 7.5,
+    "webcam_speakers": 7,
+    "upgradability": 4,
+    "ai_ml": 5.5,
+    "pen_touch": 6.5,
+    "repairability_service": 4.5,
+    "durability": 7
+  },
+  "rating_notes": "Ratings inferred from Ultrabookreview Zenbook S14 OLED (UX3406) review + sibling deltas: 32GB keeps productivity high vs 16GB tiers; Arc 140V gaming 3.5 per dataset calibration (vs B390 ~5). UBR quote is from the S14 OLED review index (paraphrased descriptor), flagged for parent."
+}

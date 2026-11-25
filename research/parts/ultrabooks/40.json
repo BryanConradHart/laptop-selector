@@ -1,0 +1,110 @@
+{
+  "id": "xps13-c5-8-256",
+  "line": "Dell XPS 13 (2026, DX13260)",
+  "config_name": "XPS 13 — Intel Core 5 320, 8GB LPDDR5X, 256GB SSD, 13.4\" 2.5K touch 120Hz (Sky)",
+  "tier": "Entry",
+  "category": "windows-ultrabooks",
+  "ecosystem": "Windows",
+  "form_factor": "clamshell",
+  "release": "2026-05",
+  "inferred": true,
+  "specs": {
+    "cpu": "Intel Core 5 320 (Series 3, 6-core, up to 4.6 GHz)",
+    "cpu_cores": 6,
+    "gpu": "Intel UMA Graphics (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 8,
+    "ram_type": "LPDDR5X soldered",
+    "storage_gb": 256,
+    "storage_type": "M.2 NVMe SSD",
+    "screen_size_in": 13.4,
+    "display_type": "IPS touch, 2.5K, 30-120Hz, 500 nits, InfinityEdge",
+    "resolution": "2560x1600",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 500,
+    "brightness_hdr_nits": null,
+    "weight_kg": 1,
+    "ports": "2x Thunderbolt 4 (USB-C), 3.5mm",
+    "wireless": "Wi-Fi 7, BT",
+    "webcam": "FHD webcam",
+    "speakers": "2-speaker",
+    "keyboard_notes": "Backlit keyboard, zero-lattice edge-to-edge design",
+    "pen_support": "touch (no pen)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 17,
+    "real_world_hours": 11,
+    "notes": "Dell claims up to 17h video. Real-world light use est. ~10-12h; inferred from XPS 14 (2026) efficiency class."
+  },
+  "price": {
+    "cad": 800,
+    "currency": "CAD",
+    "store": "dell.ca",
+    "store_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps13dx13260/dx13260_reg_03",
+    "confidence": "verified",
+    "notes": "VERIFIED dell.ca 2026-11-24: $799.99 Black Friday, 'Lowest price of the year' (est. value $1,049.99). Notable value pick for a premium 13-inch.",
+    "offers": [
+      {
+        "store": "dell.ca",
+        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps13dx13260/dx13260_reg_03",
+        "cad": 800,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps13dx13260/dx13260_reg_03"
+  },
+  "image_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-dx13260/media-gallery/sky/laptop-xps-13-sky-dx13260-silver-gallery-1.psd?fmt=png-alpha",
+  "professional": {
+    "avg_score": 7.8,
+    "reviews": [
+      {
+        "outlet": "CNET (XPS 14 2026 line anchor)",
+        "score": "8.1/10",
+        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps13dx13260",
+        "quote": "It's great to see Dell bring back the XPS and do so with such style."
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "1 kg / 12.7 mm chassis — the thinnest, lightest XPS yet per dell.ca; genuinely pocketable",
+      "13.4\" 2.5K 120Hz touch panel at 500 nits is far better than any other sub-$900 Windows laptop",
+      "Black Friday deal makes it lowest-price-of-the-year for a CNC aluminum + Gorilla Glass premium chassis",
+      "Silent fanless-like behavior in light office work on the 6-core Core 5 320",
+      "Thunderbolt 4 x2 with 500-nit panel covers docking and outdoor use despite the low price"
+    ],
+    "complaints": [
+      "8GB soldered RAM is a hard ceiling — no upgrade path and it will bottleneck multitasking within a year or two",
+      "256GB soldered storage fills up fast with Windows updates and OneDrive caches",
+      "Core 5 320 (no Ultra branding) lacks the Copilot+ NPU tier of the Ultra 7 models",
+      "Only 2 USB-C ports and no USB-A/HDMI — dongles mandatory",
+      "Dell after-sales support frustration is a recurring theme across XPS owner threads"
+    ]
+  },
+  "design_philosophy": "Dell's 2026 XPS revival doubles down on extreme thinness and edge-to-edge minimalism: a 1 kg CNC-aluminum slab with Gorilla Glass palmrest and near-invisible design seams. This entry tier trades RAM and storage for the same chassis and 120Hz touch display as the higher tiers.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 5.5,
+    "screen_quality": 8,
+    "readability_dark": 7,
+    "readability_bright": 7.5,
+    "ecosystem": 9,
+    "gaming": 2.5,
+    "productivity": 5.5,
+    "portability": 10,
+    "build_quality": 9,
+    "thermals_noise": 8,
+    "port_connectivity": 5,
+    "creative_work": 3.5,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 6,
+    "upgradability": 2,
+    "ai_ml": 4,
+    "pen_touch": 6,
+    "repairability_service": 4,
+    "durability": 7.5
+  },
+  "rating_notes": "Ratings inferred from CNET's XPS 14 (2026, DA14260) review (8.1/10) plus dell.ca specs — no direct pro review found for the DX13260 Core 5 tier. Smaller/weaker Core 5 320 + 8GB RAM: productivity −2.5 vs reviewed XPS 14 config, gaming −0.7, portability +1.5 (1.0 kg vs 1.36 kg), battery +0.5 (smaller screen, weaker chip). screen_quality 8.0 for 2.5K 500-nit IPS touch (no OLED contrast).",
+  "omitted_note": "Also sold: Core 5 320 / 16GB / 512GB at CAD $1,249.99 (verified) — consolidated here for brevity."
+}

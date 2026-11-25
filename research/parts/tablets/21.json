@@ -1,0 +1,116 @@
+{
+  "id": "ipad-air-13-m4-512",
+  "line": "Apple iPad Air 13-inch (M4, 2026)",
+  "config_name": "iPad Air 13-inch — M4 8-core CPU / 9-core GPU, 12GB RAM, 512GB SSD, 13\" Liquid Retina + Magic Keyboard",
+  "tier": "High",
+  "category": "tablets-ios-android",
+  "ecosystem": "iPadOS",
+  "form_factor": "tablet",
+  "release": "2026-03",
+  "inferred": true,
+  "specs": {
+    "cpu": "Apple M4 (8-core: 3P+5E)",
+    "cpu_cores": 8,
+    "gpu": "Apple M4 9-core GPU (integrated)",
+    "gpu_type": "integrated",
+    "ram_gb": 12,
+    "ram_type": "unified/soldered LPDDR5X",
+    "storage_gb": 512,
+    "storage_type": "NVMe soldered",
+    "screen_size_in": 13,
+    "display_type": "Liquid Retina IPS LCD (fully laminated, anti-reflective, no ProMotion)",
+    "resolution": "2732x2048",
+    "refresh_hz": 60,
+    "brightness_sdr_nits": 600,
+    "brightness_hdr_nits": null,
+    "weight_kg": 0.616,
+    "ports": "1x USB-C (USB 3 10Gb/s, DisplayPort), magnetic Magic Keyboard connector, Smart Connector",
+    "wireless": "Wi-Fi 7 (2x2 MIMO), BT 6, Thread",
+    "webcam": "12MP landscape Center Stage front",
+    "speakers": "Landscape stereo (2-speaker)",
+    "keyboard_notes": "Magic Keyboard for iPad Air 13\" included in price: scissor keys with full function row (unlit), glass trackpad, cantilever hinge",
+    "pen_support": "Apple Pencil Pro +$168.99 (BBY sale; ~$199 Apple) — not included in total; Pencil USB-C +$99; hover supported",
+    "os": "iPadOS (Apple Intelligence supported)"
+  },
+  "battery": {
+    "claimed_hours": 10,
+    "real_world_hours": 8.3,
+    "notes": "36.59Wh cell. Apple claims 10h web/video Wi-Fi (9h cellular); users report ~8-8.5h mixed real-world use."
+  },
+  "price": {
+    "cad": 2129,
+    "currency": "CAD",
+    "store": "apple.com/ca",
+    "store_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/13-inch-display-512gb-space-grey-wifi",
+    "confidence": "verified",
+    "notes": "Tablet-only $1,729.00 (apple.com/ca, verified 2026-11-24) + Magic Keyboard Air 13\" $399.99 (BBY 19204078). Cellular variant +$200 ($1,929 tablet). Pencil Pro not included.",
+    "offers": [
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/13-inch-display-512gb-space-grey-wifi",
+        "cad": 2129,
+        "est": false
+      }
+    ],
+    "official_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/13-inch-display-512gb-space-grey-wifi"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19788/19788312.jpg",
+  "professional": {
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "87%",
+        "url": "https://www.notebookcheck.net/The-fiercest-competitor-for-the-iPad-Pro-is-home-made-Apple-iPad-Air-13-M4-2026-tablet-review.1279201.0.html",
+        "quote": "The fiercest competitor for the iPad Pro is home-made. Pros: brute top performance, WiFi very fast, high-quality unibody chassis, USB-C with 10 GBit/s, two external displays possible, good color accuracy (PWM-free), well-balanced speakers, high recycled content. Cons: slow 60 Hz display, battery charging takes time, SoC throttles under sustained load. (NBC review of the iPad Air 13\" M4 2026; 11\" shares SoC and chassis design.)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "512GB is the tier creators call the sane pick — ProRes/DaVinci projects and game libraries coexist without external drives (r/ipad)",
+      "M4 + 12GB unified memory handles multitrack 4K timelines that choke most thin laptops, silently",
+      "13\" 600-nit fully-laminated anti-reflective panel is excellent in daylight and office light",
+      "Keyboard bundle with function row turns it into a real writing/machine work machine",
+      "USB-C external 6K display + Stage Manager gives a credible two-screen setup"
+    ],
+    "complaints": [
+      "Still 60Hz — the price crosses $2,100 with keyboard and the display is the one part that doesn't scale with it",
+      "At this price the $2,099 M5 Pro 13\" (tandem OLED, 120Hz) is uncomfortably close on sale",
+      "LCD dark-room blacks vs OLED remain the recurring media-watching gripe",
+      "Keyboard keys unlit for late-night typing",
+      "iPadOS app ceiling (desktop-class apps, file-system friction) is the same as the $1,300 tier"
+    ]
+  },
+  "design_philosophy": "The Air's storage ladder lets buyers pay only for capacity, never for performance — every tier is the same M4/12GB machine. The 512GB 13\" is the creator-leaning config: enough internal scratch for ProRes and large project libraries without stepping into 1TB money, though it starts trading blows with iPad Pro pricing.",
+  "ratings": {
+    "battery": 8,
+    "screen_size": 7.5,
+    "screen_quality": 7.6,
+    "readability_dark": 6,
+    "readability_bright": 7.5,
+    "ecosystem": 6.5,
+    "gaming": 4.5,
+    "productivity": 6.8,
+    "portability": 8.4,
+    "build_quality": 9,
+    "thermals_noise": 9,
+    "port_connectivity": 5.5,
+    "creative_work": 7.9,
+    "keyboard_trackpad": 8,
+    "webcam_speakers": 8,
+    "upgradability": 1,
+    "ai_ml": 6.8,
+    "pen_touch": 9.3,
+    "repairability_service": 5,
+    "durability": 8
+  },
+  "rating_notes": "Pro score attached from NBC review of the iPad Air 13\" M4 2026 (87%, gap-fill 2026-11-24). Ratings inferred from the 13\" M4 256GB line anchor (SHARED-ipad-air.md): identical silicon/display; creative_work +0.3 for 512GB headroom (per SHARED storage-step rule). No verbatim pro score found (bot-walls) — disclosed, none invented. Ecosystem 6.5 per tablets rule; battery on ~8.3h real use. At $2,129 with keyboard it sits within ~$200 of the M5 Pro 13\" 256GB on BBY sale — noted in complaints. Image URL is BBY CDN best guess (closest-SKU image).",
+  "standouts": [
+    "Creator-sweet-spot storage tier: no external drive needed for 4K projects",
+    "Same silent M4 performance as every Air tier"
+  ],
+  "dealbreakers": [
+    "With keyboard it approaches iPad Pro 13\" M5 sale pricing — the OLED/120Hz Pro becomes the rational buy at that money"
+  ]
+}

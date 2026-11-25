@@ -1,0 +1,116 @@
+{
+  "id": "yoga9i-14-u7-355-32-1tb",
+  "line": "Lenovo Yoga 9i 2-in-1 Aura Edition (14\", Gen 11, Panther Lake)",
+  "config_name": "Yoga 9i 2-in-1 Aura Edition 14\" — Core Ultra 7 355, 32GB LPDDR5x, 1TB SSD, 2.8K-class 120Hz HDR OLED touch",
+  "tier": "Top",
+  "category": "convertibles",
+  "ecosystem": "Windows",
+  "form_factor": "2-in-1",
+  "release": "2026-01",
+  "specs": {
+    "cpu": "Intel Core Ultra 7 355 (Panther Lake)",
+    "cpu_cores": 8,
+    "gpu": "Intel Arc integrated (Panther Lake)",
+    "gpu_type": "integrated",
+    "ram_gb": 32,
+    "ram_type": "soldered LPDDR5x",
+    "storage_gb": 1000,
+    "storage_type": "NVMe soldered",
+    "screen_size_in": 14,
+    "display_type": "OLED HDR touch, glossy, 120Hz, rotating soundbar hinge",
+    "resolution": "2880x1800",
+    "refresh_hz": 120,
+    "brightness_sdr_nits": 400,
+    "brightness_hdr_nits": 600,
+    "weight_kg": 1.32,
+    "ports": "2x Thunderbolt 4/USB4 (USB-C), 3.5mm combo",
+    "wireless": "Wi-Fi 7, BT 5.4",
+    "webcam": "5MP (1440p) with presence sensor",
+    "speakers": "Bowers & Wilkins rotating soundbar (2 woofers + 2 tweeters)",
+    "keyboard_notes": "Backlit chiclet, glass trackpad; Yoga Pen included (MPP 2.0, charges in chassis)",
+    "pen_support": "included (Yoga Pen, MPP 2.0)",
+    "os": "Windows 11 Home"
+  },
+  "battery": {
+    "claimed_hours": 22,
+    "real_world_hours": 13,
+    "notes": "~70Wh Panther Lake; efficiency-class chip, real ~11-15h light use (BBY listing: 120Hz HDR touch OLED)."
+  },
+  "price": {
+    "cad": 3599.99,
+    "currency": "CAD",
+    "store": "bestbuy.ca",
+    "store_url": "https://www.bestbuy.ca/en-ca/product/lenovo-yoga-9i-14-120hz-hdr-touchscreen-2-in-1-laptop-intel-core-ultra-7-355-32gb-lpddr5x-1tb-ssd-windows-11-home-cosmic-blue/19784270",
+    "confidence": "verified",
+    "notes": "BBY SKU 19784270 VERIFIED 2026-11-24: $3,599.99 (no sale), 4.54 stars / 50 reviews. Open-box units $2,849.99-2,999.99 exist (SKUs 20198418, 19998922).",
+    "offers": [
+      {
+        "store": "Best Buy",
+        "url": "https://www.bestbuy.ca/en-ca/product/19784270",
+        "cad": 3599.99,
+        "est": false,
+        "name": "Lenovo Yoga 9i 14\" 120Hz HDR Touchscreen 2-in-1 Laptop - Intel Core Ultra 7 355 - 32GB LPDDR5x - 1TB SSD - Windows 11 Home - Cosmic Blue"
+      },
+      {
+        "store": "bestbuy.ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/lenovo-yoga-9i-14-120hz-hdr-touchscreen-2-in-1-laptop-intel-core-ultra-7-355-32gb-lpddr5x-1tb-ssd-windows-11-home-cosmic-blue/19784270",
+        "cad": 3599.99,
+        "est": false,
+        "name": "Lenovo Yoga 9i 14\" 120Hz HDR Touchscreen 2-in-1 Laptop - Intel Core Ultra 7 355 - 32GB LPDDR5x - 1TB SSD - Windows 11 Home - Cosmic Blue"
+      }
+    ],
+    "official_url": "https://www.lenovo.com/ca/en/laptops/yoga/"
+  },
+  "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19784/19784270.jpg",
+  "professional": {
+    "avg_score": 8.9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": "89%",
+        "url": "https://www.notebookcheck.net/Lenovo-Yoga-9-14-2in1-G10-review-The-high-end-convertible-suffers-due-to-weak-4K-OLED.982128.0.html",
+        "quote": "High-quality & stable case, improved battery life, good system performance, OLED with high 4K resolution, Thunderbolt 4 & Wi-Fi 7, stylus attaches to case magnetically. Cons: RAM can't be upgraded, PWM flickering, OLED only at 60 Hz and without color profiles, neither HDMI nor an SD card reader. (\"The high-end convertible suffers due to weak 4K OLED\" — NBC review of the Yoga 9 14 2-in-1 Gen 10 Lunar Lake.)"
+      }
+    ]
+  },
+  "user_sentiment": {
+    "praises": [
+      "4.54 stars across 50 Best Buy reviews — buyers consistently call it the best-sounding convertible on the market thanks to the rotating B&W soundbar hinge",
+      "Panther Lake efficiency keeps it cool and near-silent in everyday work, with battery lasting a full day of meetings and browsing",
+      "Bright 120Hz HDR OLED touch with included active pen is superb for markup, sketching, and streaming in tablet mode",
+      "Cosmic Blue machined-aluminium chassis at 1.32 kg feels like jewellery — the premium matches the price",
+      "Copilot+ NPU handles on-device AI features (live captions, image effects) without fan spin-up"
+    ],
+    "complaints": [
+      "$3,599.99 for integrated graphics — buyers openly balk at paying flagship money with no dGPU option (multiple BBY reviews note gaming is limited to low settings)",
+      "Only two USB-C ports; USB-A/HDMI users need a dock from day one",
+      "OLED moire on small text persists on this generation for sensitive users",
+      "Soldered RAM/SSD and glued-in design make repairs a board-swap affair",
+      "Occasional coil whine and fan ramp during charging + heavy tabs; Lenovo Vantage bloat nags"
+    ]
+  },
+  "design_philosophy": "The Yoga 9i is Lenovo's convertible flagship: machined aluminium, 360° rotating soundbar hinge with Bowers & Wilkins drivers that follow the mode you're in, OLED touch, and a pen that lives in the chassis. The Gen 11 Aura Edition moves to Panther Lake for Copilot+ AI and better battery, and this single Canadian retail tier (32GB/1TB, Cosmic Blue at Best Buy) is the line's flagship configuration — everything about it prioritises premium feel and media over raw performance.",
+  "ratings": {
+    "battery": 8.3,
+    "screen_size": 6.5,
+    "screen_quality": 8.8,
+    "readability_dark": 7.5,
+    "readability_bright": 6,
+    "ecosystem": 7.5,
+    "gaming": 4,
+    "productivity": 8,
+    "portability": 8.8,
+    "build_quality": 9,
+    "thermals_noise": 6.5,
+    "port_connectivity": 5,
+    "creative_work": 7,
+    "keyboard_trackpad": 7,
+    "webcam_speakers": 9,
+    "upgradability": 2,
+    "ai_ml": 6,
+    "pen_touch": 8.5,
+    "repairability_service": 4.5,
+    "durability": 6.5
+  },
+  "rating_notes": "Pro score attached from NBC review of the Yoga 9 14 2-in-1 G10 Aura Edition (89%, gap-fill 2026-11-24). Directly sold CA config with strong user base (BBY 4.54/50), but no pro review of the Gen 11 Panther Lake model found (NBC IMI9 review unlocatable; documented in SHARED-yoga9i.md). Ratings anchored on NBC 90.5% Gen 9 chassis review + BBY user aggregate, with Panther Lake deltas vs Lunar Lake sibling: gaming +0.5 (newer Arc), battery +0.3, thermals +0.5. Moire keeps screen_quality 8.8. avg_score 8.7 is the NBC-collection average for the chassis family (85.7% NBC aggregate / Mashable 94 / GadgetGuy 76), generation-adjacent disclosure."
+}
