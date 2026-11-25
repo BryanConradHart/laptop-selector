@@ -57,17 +57,17 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19860/19860983.jpg",
   "professional": {
-    "avg_score": 8,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "Ultrabookreview",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.ultrabookreview.com/70507-asus-zenbook-a14-review/",
         "quote": "if you need a more powerful lightweight notebook around 1 kilo that's, at the same time, one of the quietest and most efficient running on battery power among what you can find in the Windows camp today, this Zenbook A14 is an option worth considering"
       },
       {
         "outlet": "Ultrabookreview",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.ultrabookreview.com/75029-asus-zenbook-a14-x2elite-review/",
         "quote": "this 2026 generation demands a significant premium over the existing 2025 models, which means those interested in a daily driver for more casual use would get better value with the previous iterations"
       }

@@ -1,7 +1,7 @@
 {
   "id": "legion-go-2-z2e-16-512",
   "line": "Lenovo Legion Go 2 (2025)",
-  "config_name": "Legion Go 2 — AMD Ryzen AI Z2 Extreme (8C/16T) / Radeon 820M 16CU, 16GB LPDDR5X-8000, 512GB NVMe, 8.8\" 2560x1600 144Hz OLED",
+  "config_name": "Legion Go 2 — AMD Ryzen AI Z2 Extreme (8C/16T) / Radeon 890M 16CU, 16GB LPDDR5X-8000, 512GB NVMe, 8.8\" 2560x1600 144Hz OLED",
   "tier": "Mid",
   "category": "handhelds",
   "ecosystem": "Windows",
@@ -11,7 +11,7 @@
   "specs": {
     "cpu": "AMD Ryzen AI Z2 Extreme (Zen 5, 8-core/16-thread, up to ~5.0GHz)",
     "cpu_cores": 8,
-    "gpu": "Radeon 820M 16 CU RDNA 3.5 (integrated)",
+    "gpu": "Radeon 890M 16 CU RDNA 3.5 (integrated)",
     "gpu_type": "integrated",
     "ram_gb": 16,
     "ram_type": "LPDDR5X-8000 soldered",
@@ -56,18 +56,18 @@
   },
   "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lenovo_Legion_Go.jpg/250px-Lenovo_Legion_Go.jpg",
   "professional": {
-    "avg_score": null,
+    "avg_score": 8.3,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": null,
-        "url": "https://www.notebookcheck.net/Reviews.55.0.html",
-        "quote": null,
-        "note": "NBC reviewed the Legion Go 2 (32GB/1TB anchor config) but the article URL/score could not be resolved this session; recorded as null per schema rule 5."
+        "score": 8.3,
+        "url": "https://www.notebookcheck.net/Gaming-handheld-with-great-144-Hz-OLED-and-detachable-controllers-Lenovo-Legion-Go-2-review.1225235.0.html",
+        "quote": "Gaming handheld with great 144 Hz OLED and detachable controllers; however, the price comes in at a hefty €1,499, making it one of the most expensive handhelds on the market.",
+        "note": null
       },
       {
         "outlet": "Engadget (2026 Steam Deck re-check, mentions Legion Go 2)",
-        "score": "n/a (about the Deck)",
+        "score": null,
         "url": "https://www.engadget.com/2248094/is-steam-deck-still-worth-it/",
         "quote": "competitors (Xbox Ally/Ally X, Legion Go 2) beat it in raw Time Spy, but in real-world applications, Valve's handheld often comes out on top"
       }
@@ -75,7 +75,7 @@
   },
   "user_sentiment": {
     "praises": [
-      "Same Z2 Extreme + Radeon 820M and same 8.8\" 144Hz OLED as the flagship tier — zero performance or display compromise vs the C$1,799 model",
+      "Same Z2 Extreme + Radeon 890M and same 8.8\" 144Hz OLED as the flagship tier — zero performance or display compromise vs the C$1,799 model",
       "Detachable TrueStrike controllers with hall-effect sticks and the 3ms low-latency mode are identical across tiers",
       "C$1,549 makes it the cheapest way into the Go 2's screen and detachable-controller design in Canada",
       "512GB M.2 2242 SSD is user-replaceable and the UHS-II microSD slot covers library growth cheaply",
@@ -120,5 +120,5 @@
     "repairability_service": 6.5,
     "durability": 6
   },
-  "rating_notes": "Ratings inferred from the 32GB/1TB anchor entry (05.json), which is itself delta-derived from the verified Steam Deck OLED anchor (see SHARED-legion-go2.md) — professional scores unverified. Sibling deltas from the anchor: productivity -0.5 and creative_work -0.5 (16GB vs 32GB for multitask/heavier work), gaming -0.3 (16GB at 2560x1600 is the practical floor for newer AAA; paging pressure). Everything else identical: same APU, GPU, battery, display, chassis and controllers. Handheld conventions from SHARED-steam-deck.md: screen_size kept modest (5.5) with portability carrying the form-factor story; keyboard_trackpad 1.0 (no keyboard; touchpad is inside the right controller); pen_touch 4.0 (multi-touch yes, no pen). Omitted tier: a 32GB/2TB variant exists in some markets but Canadian retail availability/pricing could not be confirmed this session. Image URL is a real Commons photo of the first-gen Legion Go (wrong generation, best verified direct image available)."
+  "rating_notes": "Ratings inferred from the 32GB/1TB anchor entry (05.json), which is itself delta-derived from the verified Steam Deck OLED anchor (see SHARED-legion-go2.md) — professional scores unverified. Sibling deltas from the anchor: productivity -0.5 and creative_work -0.5 (16GB vs 32GB for multitask/heavier work), gaming -0.3 (16GB at 2560x1600 is the practical floor for newer AAA; paging pressure). Everything else identical: same APU, GPU, battery, display, chassis and controllers. Handheld conventions from SHARED-steam-deck.md: screen_size kept modest (5.5) with portability carrying the form-factor story; keyboard_trackpad 1.0 (no keyboard; touchpad is inside the right controller); pen_touch 4.0 (multi-touch yes, no pen). Omitted tier: a 32GB/2TB variant exists in some markets but Canadian retail availability/pricing could not be confirmed this session. Image URL is a real Commons photo of the first-gen Legion Go (wrong generation, best verified direct image available). Z2 Extreme iGPU is the Radeon 890M (16 CU RDNA 3.5)."
 }

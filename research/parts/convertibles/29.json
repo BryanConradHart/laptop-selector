@@ -57,8 +57,19 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/203/20333/20333759.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.6,
+        "quote": "The new OmniBook X Flip 14 is even more impressive than the OmniBook Ultra Flip 14 with more CPU performance, more ports, and a revised keyboard - though most SKUs are limited to a 60 Hz touchscreen."
+      },
+      {
+        "outlet": "PC World",
+        "score": 8.0,
+        "quote": "An attractive, luxurious 2-in-1 that is mostly meant for laptop use, with a sturdy chassis, nice keyboard, and lots of connectivity - though the aging Radeon 880M iGPU is the weak link."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

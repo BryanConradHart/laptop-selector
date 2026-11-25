@@ -57,17 +57,17 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20126/20126058.jpeg",
   "professional": {
-    "avg_score": 7.6,
+    "avg_score": 8.3,
     "reviews": [
       {
         "outlet": "Notebookcheck (model-page aggregate, sibling PHN16-73)",
-        "score": "76%",
+        "score": 7.6,
         "url": "https://www.notebookcheck.net/Acer-Predator-Helios-Neo-16-AI-PHN16-73.1171432.0.html",
         "quote": "Aggregated scoring places it at around 76% overall, indicating a solid but not flawless package."
       },
       {
         "outlet": "Notebookcheck (sibling Helios 18 AI PH18-73)",
-        "score": "89%",
+        "score": 8.9,
         "url": "https://www.notebookcheck.net/Acer-Predator-Helios-18-AI-review-Finally-a-quieter-gaming-laptop-but-at-what-cost.1054468.0.html",
         "quote": "With \"Performance mode\" enabled, the gaming laptop delivers slightly below-average performance for its class. In return, it operates more quietly than many competitors, though the optional \"Turbo mode\" significantly increases noise levels."
       }

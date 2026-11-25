@@ -15,8 +15,8 @@
     "gpu_type": "integrated",
     "ram_gb": 16,
     "ram_type": "LPDDR5X soldered",
-    "storage_gb": 1500,
-    "storage_type": "NVMe 512GB + bundled 1TB dock SSD",
+    "storage_gb": 512,
+    "storage_type": "NVMe 512GB + bundled 1TB dock SSD (+ bundled 1TB docking-station SSD not counted in internal storage)",
     "screen_size_in": 15.6,
     "display_type": "IPS non-touch",
     "resolution": "1920x1080",
@@ -58,8 +58,13 @@
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/203/20350/20350465.jpeg",
   "professional": {
     "avg_score": null,
-    "reviews": [],
-    "notes": "Book5 15.6 U-series SKU not covered by major pro outlets (see SHARED-galaxy-book.md). Honest null."
+    "reviews": [
+      {
+        "outlet": "None found",
+        "score": null,
+        "quote": "No professional review found for this line as of 2026-11; ratings inferred from specs and sibling-line reviews."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

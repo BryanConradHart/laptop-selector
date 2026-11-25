@@ -12,7 +12,7 @@
     "cpu": "Intel Core 7 240H (Raptor Lake-H refresh, 10-core est.)",
     "cpu_cores": 10,
     "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop 12GB GDDR7 (~100W TGP est.)",
-    "gpu_type": "dedicated",
+    "gpu_type": "discrete",
     "ram_gb": 32,
     "ram_type": "DDR5 SO-DIMM (2 slots, upgradeable)",
     "storage_gb": 1000,
@@ -56,8 +56,15 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20206/20206315.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.1,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.1,
+        "url": "https://www.notebookcheck.net/Gigabyte-Gaming-A16-Pro-review-RTX-5070-Ti-meets-a-slim-chassis-and-some-unusual-priorities.1259661.0.html",
+        "quote": "With its slim chassis, solid battery life, low power draw under load, and bright display, it leans more toward being an affordable entry-level machine for mobile video editing or local AI workloads; high latencies, SSD throttling, and elevated idle power point to missed potential."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [
@@ -98,7 +105,7 @@
     "repairability_service": 7,
     "durability": 6
   },
-  "rating_notes": "No pro numeric score found for the A16 Pro (avg_score null, reviews empty — honest disclosure). Ratings inferred from NBC's Gaming A16 GA6H review (80%) with deltas: RTX 5070 Ti 12GB vs 5070 8GB -> gaming +1.0, creative_work +1.0, ai_ml +1.0, battery -0.5; WQXGA panel -> screen_quality +0.0 vs anchor. CPU (Core 7 240H) treated as i7-13620H-class. CPU/TGP/ports partly estimated and disclosed.",
+  "rating_notes": "Pro score from NBC full review of the A16 Pro (GA6DH, 81%). Ratings inferred from NBC's Gaming A16 GA6H review (80%) with deltas: RTX 5070 Ti 12GB vs 5070 8GB -> gaming +1.0, creative_work +1.0, ai_ml +1.0, battery -0.5; WQXGA panel -> screen_quality +0.0 vs anchor. CPU (Core 7 240H) treated as i7-13620H-class. CPU/TGP/ports partly estimated and disclosed.",
   "standouts": [
     "Cheapest RTX 5070 Ti laptop price found at BBY CA ($2,979 sale)",
     "Dock/drive bundle sweetens the set price"

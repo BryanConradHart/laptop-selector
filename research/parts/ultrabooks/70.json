@@ -38,7 +38,7 @@
     "notes": "~54Wh est. Snapdragon X2 Plus efficiency class; SL7-class 13.8\" achieved ~16h light use, X2 Plus similar."
   },
   "price": {
-    "cad": 2299.99,
+    "cad": 1899.99,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19852132",
@@ -64,17 +64,17 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19852/19852132.jpg",
   "professional": {
-    "avg_score": 7.8,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "Tom's Guide",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.tomsguide.com/computers/surface-devices/microsoft-surface-laptop-8-review",
         "quote": "The new Microsoft Surface Laptop 8 is great — but it's hard to recommend to most people"
       },
       {
         "outlet": "Windows Central",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.windowscentral.com/microsoft/surface-laptop-8-for-business-review",
         "quote": "The privacy King: Surface Laptop 8 for business review—is the new stealth screen worth the $2,549 entry price?"
       }

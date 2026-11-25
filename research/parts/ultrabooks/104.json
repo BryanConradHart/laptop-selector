@@ -58,8 +58,13 @@
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19735/19735871.jpg",
   "professional": {
     "avg_score": null,
-    "reviews": [],
-    "notes": "No retrievable pro review of this exact config; NBC/RTINGS bot-walled this pass (see SHARED-galaxy-book.md). Honest null."
+    "reviews": [
+      {
+        "outlet": "None found",
+        "score": null,
+        "quote": "No professional review found for this line as of 2026-11; ratings inferred from specs and sibling-line reviews."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

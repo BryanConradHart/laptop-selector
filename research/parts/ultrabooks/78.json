@@ -57,17 +57,17 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20122/20122627.jpg",
   "professional": {
-    "avg_score": 7.5,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "TechRadar",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.techradar.com/computers/laptops/microsoft-surface-laptop-ultra-review",
         "quote": "isn't the MacBook Pro killer I hoped for"
       },
       {
         "outlet": "IT Pro",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.itpro.com/hardware/laptops/microsoft-surface-laptop-ultra-review",
         "quote": "has all the on-device AI your devs need – but its battery life is disappointing"
       }

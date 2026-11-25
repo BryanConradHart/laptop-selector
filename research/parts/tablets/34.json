@@ -38,27 +38,46 @@
     "notes": "11600 mAh (~44.4Wh) cell, 45W USB-PD charging (charger not in box). No official video-hours claim; users report ~8-11h mixed real-world use on the 14.6\" panel."
   },
   "price": {
-    "cad": 2050,
+    "cad": 1679.98,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19627589",
     "confidence": "verified",
-    "notes": "Tablet $1,749.99 reg / $1,499.99 sale (BBY SKU 19627589) + Book Cover Keyboard Slim Ultra $299.99 reg / $179.99 sale (BBY 19433657) = $2,049.98 at regular prices. Cover-only price: Slim $299.99 reg/$179.99 sale; Pro Keyboard w/ trackpad $499.99/$299.99 (BBY 20142500) — pairing with Pro Keyboard totals ~$2,249.98 reg.     BBY sale combined total ~$1,679.98. 5G variant omitted.",
+    "notes": "Bundle price = tablet (current best new retail) + keyboard, per the config definition. Components: Tablet $1,749.99 reg / $1,499.99 sale (BBY SKU 19627589) + Book Cover Keyboard Slim Ultra $299.99 reg / $179.99 sale (BBY 19433657) = $2,049.98 at regular prices. Cover-only price: Slim $299.99 reg/$179.99 sale; Pro Keyboard w/ trackpad $499.99/$299.99 (BBY 20142500) — pairing with Pro Keyboard totals ~$2,249.98 reg.     BBY sale combined total ~$1,679.98. 5G variant omitted.",
     "offers": [
       {
         "store": "bestbuy.ca",
         "url": "https://www.bestbuy.ca/en-ca/product/19627589",
-        "cad": 1499,
-        "est": false,
-        "name": "Samsung Galaxy Tab S11 Ultra 14.6\" 256GB Android Tablet with D9400+ (DX4+) Processor - Grey"
+        "cad": 1679.98,
+        "est": true,
+        "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 1499 + keyboard per price.notes."
       }
     ],
     "official_url": null
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/196/19627/19627589.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7.8,
+    "reviews": [
+      {
+        "outlet": "What Hi-Fi",
+        "score": 10,
+        "url": "https://www.whathifi.com/reviews/samsung-galaxy-tab-s11-ultra",
+        "quote": "One of the most capable Android tablets you can buy."
+      },
+      {
+        "outlet": "TechRadar",
+        "score": 7,
+        "url": "https://www.techradar.com/tablets/samsung-galaxy-tab-s11-ultra-review",
+        "quote": "A disappointing chipset lets down an otherwise fantastic media and gaming machine."
+      },
+      {
+        "outlet": "Android Police",
+        "score": 6.5,
+        "url": "https://www.androidpolice.com/samsung-galaxy-tab-s11-ultra-review/",
+        "quote": "Totally ridiculous, but that hasn't stopped me liking it."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [
@@ -99,7 +118,7 @@
     "repairability_service": 6,
     "durability": 7.5
   },
-  "rating_notes": "Ratings inferred from the Tab S11 11\" 12/256 anchor per SHARED-tab-s11.md cross-config note: screen_size 5.8→8.2, portability 9.2→7.6 (692g but 5.1mm), battery +0.4 (11600 vs 8400 mAh), productivity +0.7 (DeX on 14.6\" real estate), creative_work +0.5, gaming −0.2 (higher res), keyboard_trackpad 6.5 = Slim cover w/o trackpad but better keys/size; with the $499.99 Pro Keyboard (trackpad) it would be ~7.0. No pro numeric score found 2026-11-24 (NBC 403, RTINGS/PCMag/Tom's 404/403; searches bot-walled) — avg_score null, none invented; disclosed synthesis in SHARED file. Ecosystem 7.0 = DeX + Galaxy-phone parity per SHARED calibration. Brightness figures are Samsung marketing approximations. User sentiment is disclosed synthesis, not verbatim quotes.",
+  "rating_notes": "Pro scores from What Hi-Fi/TechRadar/Android Police Tab S11 Ultra reviews (gap-fill 2026-11-25). Ratings inferred from the Tab S11 11\" 12/256 anchor per SHARED-tab-s11.md cross-config note: screen_size 5.8→8.2, portability 9.2→7.6 (692g but 5.1mm), battery +0.4 (11600 vs 8400 mAh), productivity +0.7 (DeX on 14.6\" real estate), creative_work +0.5, gaming −0.2 (higher res), keyboard_trackpad 6.5 = Slim cover w/o trackpad but better keys/size; with the $499.99 Pro Keyboard (trackpad) it would be ~7.0. Ecosystem 7.0 = DeX + Galaxy-phone parity per SHARED calibration. Brightness figures are Samsung marketing approximations. User sentiment is disclosed synthesis, not verbatim quotes.",
   "standouts": [
     "Largest AMOLED tablet display in current retail, at 5.1mm thin",
     "Best-in-class DeX desktop canvas — 14.6\" fits real multi-window work",

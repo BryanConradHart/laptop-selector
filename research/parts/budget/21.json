@@ -37,7 +37,7 @@
     "notes": "~50 Wh (4185 mAh 3-cell) + Arm efficiency: ~10-12h real light use — best in this budget family by a wide margin."
   },
   "price": {
-    "cad": 999.95,
+    "cad": 799.95,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19994920",
@@ -56,8 +56,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19994/19994920.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7.8,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.4,
+        "quote": "A good everyday computer with almost 20 hours of battery life — the Snapdragon X efficiency is the star of this 16-inch budget Copilot+ laptop."
+      },
+      {
+        "outlet": "91mobiles",
+        "score": 8.0,
+        "quote": "Fast, efficient, and built to last all day."
+      },
+      {
+        "outlet": "NDTV",
+        "score": 7.0,
+        "quote": "More screen, more style, and more stamina — a strong value in the emerging budget AI-laptop class."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

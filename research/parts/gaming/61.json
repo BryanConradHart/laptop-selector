@@ -12,7 +12,7 @@
     "cpu": "AMD Ryzen AI 9 365 (Zen 5/5c, 10-core: 4P+6E)",
     "cpu_cores": 10,
     "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7",
-    "gpu_type": "dedicated",
+    "gpu_type": "discrete",
     "ram_gb": 16,
     "ram_type": "DDR5 SODIMM (2 slots)",
     "storage_gb": 1000,
@@ -57,8 +57,15 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19763/19763439.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.2,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.2,
+        "url": "https://www.notebookcheck.net/HP-Omen-17z-gaming-laptop-review-Hot-performer-with-cool-temperatures.1139180.0.html",
+        "quote": "Midrange specs done right... a solid midrange gaming machine with specifications just powerful enough to satisfy casual and occasional gamers. The low core temperatures deserve praise as well."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

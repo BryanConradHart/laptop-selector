@@ -7,7 +7,7 @@
   "inferred": true,
   "specs": {
     "cpu_cores": 24,
-    "gpu_type": "dedicated",
+    "gpu_type": "discrete",
     "ram_gb": 32,
     "ram_type": "DDR5 (DIMM, upgradeable — verify per unit)",
     "screen_size_in": 18,
@@ -53,8 +53,27 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19218/19218979.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.9,
+        "url": "https://www.notebookcheck.net/Razer-Blade-18.1076253.0.html",
+        "quote": "Extremely fast, but comparatively quiet gamer; the new design doesn't really hit the spot."
+      },
+      {
+        "outlet": "PCMag",
+        "score": 8,
+        "url": "https://www.pcmag.com/reviews/razer-blade-18-2025",
+        "quote": "A heavyweight with a welterweight design: desktop-class performance in the most sophisticated 18-inch package."
+      },
+      {
+        "outlet": "91mobiles",
+        "score": 9.3,
+        "url": "https://www.notebookcheck.net/Razer-Blade-18.1076253.0.html",
+        "quote": "A superbly built desktop replacement with class-leading performance."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

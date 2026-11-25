@@ -57,9 +57,20 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19823/19823939.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": [],
-    "notes": "No numeric pro score found (see SHARED-yoga7i-2in1.md). Inferred from 512GB twin 19767707 (4.53★/55)."
+    "avg_score": 7.9,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": 7.8,
+        "quote": "The Yoga 7a 2-in-1 hits a sweet spot for those in the market for a big touchscreen OLED two-in-one. Where it stumbles is graphics horsepower."
+      },
+      {
+        "outlet": "Ultrabookreview",
+        "score": 8,
+        "quote": "The Yoga 7a 2-in-1 16 checks a fair bit of the right boxes."
+      }
+    ],
+    "notes": "Line-level scores from the Yoga 7a 2-in-1 16 review round (aggregated by Notebookcheck); no review of this exact config as of 2026-11."
   },
   "user_sentiment": {
     "praises": [
@@ -100,5 +111,5 @@
     "repairability_service": 5,
     "durability": 6.5
   },
-  "rating_notes": "Ratings inferred from 512GB twin 19767707 (SHARED-yoga7i-2in1.md); +0.2 productivity for 1TB. Screen size omitted in BBY name for this SKU — treated as 16\" per sibling listing (flagged). No pro score found — bot-walls disclosed."
+  "rating_notes": "Ratings inferred from 512GB twin 19767707 (SHARED-yoga7i-2in1.md); +0.2 productivity for 1TB. Screen size omitted in BBY name for this SKU — treated as 16\" per sibling listing (flagged). No pro score found — bot-walls disclosed. CNET quote refers to the OLED variant of this line; this config ships with the IPS panel."
 }

@@ -60,13 +60,13 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "90%",
+        "score": 9,
         "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
         "quote": "Lenovo also offers a matte 120 Hz 2.8K OLED panel if you prefer better image quality (but probably with higher power consumption)."
       },
       {
         "outlet": "Notebookcheck",
-        "score": "90%",
+        "score": 9,
         "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
         "quote": "Lenovo's updated ThinkPad T14s Gen 7 is an improvement over the previous model and closes the gap to the flagship ThinkPad X1 Carbon even further."
       }

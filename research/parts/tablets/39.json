@@ -38,32 +38,32 @@
     "notes": "10,090mAh. Users report ~9-11h mixed use; 45W charging."
   },
   "price": {
-    "cad": 1230,
+    "cad": 1129.98,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19192250",
     "confidence": "verified",
-    "notes": "Tab S10 FE+ 128GB $979.99 (BBY SKU 19192250) + Slim Book Cover Keyboard AI Key FE+ $249.99 reg (BBY 19218992, sale $149.99) = $1,229.98 cover-in price. Cover-only: $249.99 reg / $149.99 sale (trackpad premium cover: $349.99/$209.99, BBY 19218994). 256GB tier: $1,179.99 tablet (BBY 19192253), +$200 → ~$1,430 cover-in. Sibling 10.9\" S10 FE 8/128GB $779.99 + $274.99 cover ≈ $1,055 omitted as sub-laptop class per ANDROID_LIST.md.",
+    "notes": "Bundle price = tablet (current best new retail) + keyboard, per the config definition. Components: Tab S10 FE+ 128GB $979.99 (BBY SKU 19192250) + Slim Book Cover Keyboard AI Key FE+ $249.99 reg (BBY 19218992, sale $149.99) = $1,229.98 cover-in price. Cover-only: $249.99 reg / $149.99 sale (trackpad premium cover: $349.99/$209.99, BBY 19218994). 256GB tier: $1,179.99 tablet (BBY 19192253), +$200 → ~$1,430 cover-in. Sibling 10.9\" S10 FE 8/128GB $779.99 + $274.99 cover ≈ $1,055 omitted as sub-laptop class per ANDROID_LIST.md.",
     "offers": [
       {
         "store": "bestbuy.ca",
         "url": "https://www.bestbuy.ca/en-ca/product/19192250",
-        "cad": 979.99,
-        "est": false,
-        "name": "Samsung Galaxy Tab S10 FE+ (Plus) 13.1-inch 128GB, Exynos 1580 with S Pen - Grey"
+        "cad": 1129.98,
+        "est": true,
+        "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 979.99 + keyboard per price.notes."
       }
     ],
     "official_url": null
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/191/19192/19192250.jpg",
   "professional": {
-    "avg_score": null,
+    "avg_score": 8.2,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "no numeric score retrieved",
-        "url": "https://www.notebookcheck.net/ (Tab S10 FE+ review exists but exact article URL unresolvable — guessed numeric IDs redirect; bot-walled 2026-11-24)",
-        "quote": ""
+        "score": 8.2,
+        "url": "https://www.notebookcheck.net/Samsung-Galaxy-S10-FE-Review-Large-Android-tablet-with-price-focus-and-fabulous-run-times.1039894.0.html",
+        "quote": "Large Android tablet with price focus and fabulous run times: the 13.1-inch display, included S Pen and AI functions make the FE model the better buy for students and casual users."
       }
     ]
   },

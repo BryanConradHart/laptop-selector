@@ -57,11 +57,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19994/19994917.jpg",
   "professional": {
-    "avg_score": 7.5,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "Ultrabookreview",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.ultrabookreview.com/77189-asus-zenbook-14-ux3480aa-review/",
         "quote": "Asus offers it with Intel, AMD or Qualcomm specs, all tucked inside the same chassis with similar perks and features."
       }

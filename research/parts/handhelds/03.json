@@ -56,17 +56,17 @@
   },
   "image_url": "https://cdn.akamai.steamstatic.com/steamdeck/images/deck/deck_top.png",
   "professional": {
-    "avg_score": 8.6,
+    "avg_score": 8,
     "reviews": [
       {
         "outlet": "Engadget (OLED review, LCD comparison)",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.engadget.com/steam-deck-oled-review-its-just-better-180038030.html",
         "quote": "One of the downsides of the first Steam Deck was its short battery life, which maxed out at eight hours, and that was only under ideal conditions."
       },
       {
         "outlet": "Tom's Guide (original Steam Deck / OLED context)",
-        "score": "4/5",
+        "score": 8,
         "url": "https://www.tomsguide.com/reviews/steam-deck-review-the-nintendo-switch-for-adults",
         "quote": "The original model was great, but this latest iteration demonstrates that Valve can improve on perfection."
       }

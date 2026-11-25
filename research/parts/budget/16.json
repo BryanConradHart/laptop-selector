@@ -37,7 +37,7 @@
     "notes": "3550 mAh 3-cell (~42 Wh); Core 5 320 is idle-light but capacity is small — ~4.5-5.5h light use."
   },
   "price": {
-    "cad": 1299.99,
+    "cad": 849.99,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/20099717",
@@ -56,8 +56,19 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20099/20099717.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7.3,
+    "reviews": [
+      {
+        "outlet": "91mobiles",
+        "score": 7.0,
+        "quote": "The Vivobook 15 cuts a few corners to keep its cost down and the display is dull, but its performance is right up there with laptops that cost a couple thousand bucks more."
+      },
+      {
+        "outlet": "Laptop Media",
+        "score": 7.5,
+        "quote": "An inexpensive laptop that performs well — good performance and comfort under heavy loads, comfortable keyboard, and cooling that quietly does its job."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

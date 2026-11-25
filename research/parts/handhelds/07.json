@@ -23,7 +23,7 @@
     "refresh_hz": 180,
     "brightness_sdr_nits": 500,
     "brightness_hdr_nits": null,
-    "weight_kg": 1.6,
+    "weight_kg": 1.62,
     "ports": "2x USB-C USB4 (DP1.4 + PD), 1x USB-A, HDMI 2.1, microSD, 3.5mm combo",
     "wireless": "Wi-Fi 7, BT 5.4",
     "webcam": "1440p front with Windows Hello face recognition + rear 4K camera",
@@ -34,7 +34,7 @@
   },
   "battery": {
     "claimed_hours": 10,
-    "real_world_hours": 5.5,
+    "real_world_hours": 7.5,
     "notes": "70Wh. Notebookcheck measured 9h20 Wi-Fi browsing @150 nits/60Hz and 7h30 @180Hz; 6h18/5h43 at max brightness; H.264 video 12h44; only 0h51 under max load at max brightness. Owners report roughly half the 60Hz figure in mixed real use with 180Hz and GPU boost enabled (see SHARED-flow-z13.md calibration)."
   },
   "price": {
@@ -61,7 +61,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "86.8%",
+        "score": 8.7,
         "url": "https://www.notebookcheck.net/Asus-ROG-Flow-Z13-GZ302EA-Convertible-Review-AMD-s-Strix-Halo-GPU-is-neck-and-neck-with-the-RTX-4070-Laptop.963266.0.html",
         "quote": "The Ryzen AI Max+ 395 offers enormous amounts of CPU performance in multi-core scenarios thanks to 16 Zen 5 cores, which rivals the Ryzen 9 7945HX3D. This is impressive for a 13-inch device... The integrated graphics card Radeon 8060S is by far the fastest x86 iGPU and is neck-and-neck with the GeForce RTX 4070 Laptop (with a TGP range between 65-75 Watts) in games."
       },

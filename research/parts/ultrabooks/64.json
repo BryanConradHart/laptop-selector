@@ -38,7 +38,7 @@
     "notes": "Notebookcheck measured ~17h Wi-Fi browsing on the reviewed Panther Lake OmniBook X 14 config."
   },
   "price": {
-    "cad": 1999,
+    "cad": 1098,
     "currency": "CAD",
     "store": "bestbuy.ca (marketplace)",
     "store_url": "https://www.bestbuy.ca/en-ca/product/20174277",
@@ -57,11 +57,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20174/20174277.png",
   "professional": {
-    "avg_score": 8.2,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.notebookcheck.net/HP-OmniBook-X-14-review.1128001.0.html",
         "quote": "This Panther Lake productivity powerhouse lasts 17 hours, but HP wants $1,900"
       }

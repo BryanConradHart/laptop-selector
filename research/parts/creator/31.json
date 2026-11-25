@@ -57,8 +57,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20203/20203268.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 9.2,
+        "quote": "Tandem OLED series premiere — the new panel can improve the HDR viewing experience tremendously."
+      },
+      {
+        "outlet": "XDA",
+        "score": 8.5,
+        "quote": "The ThinkPad P1 Gen 8 has everything that you'd want from a mobile workstation."
+      },
+      {
+        "outlet": "PCMag",
+        "score": 8.0,
+        "quote": "A remarkable mobile workstation, with emphasis on the 'mobile' — an Editors' Choice award winner for beginner mobile workstations."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

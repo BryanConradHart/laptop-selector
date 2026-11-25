@@ -9,7 +9,7 @@
   "release": "2025-08",
   "inferred": true,
   "specs": {
-    "cpu": "Intel Core 3 N355 (8-core: 4P+4E, Alder Lake-N refresh, up to 3.9 GHz)",
+    "cpu": "Intel Core 3 N355 (8-core: 8 E-cores (Alder Lake-N, no P-cores), Alder Lake-N refresh, up to 3.9 GHz)",
     "cpu_cores": 8,
     "gpu": "Intel UHD Graphics (integrated)",
     "gpu_type": "integrated",
@@ -56,8 +56,19 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19860/19860976.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7.5,
+    "reviews": [
+      {
+        "outlet": "PC World",
+        "score": 8,
+        "quote": "A bargain laptop that's actually fast - the Core 3 processor ensures the system feels fast and stable at all times, with a clear performance leap over simple Chromebooks."
+      },
+      {
+        "outlet": "PCMag",
+        "score": 7,
+        "quote": "ChromeOS charm on a shoestring: a decent performer with attractive price, but it's not the best-built laptop, with an all-plastic construction that isn't very rigid."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

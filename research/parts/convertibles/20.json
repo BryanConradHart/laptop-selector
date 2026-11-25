@@ -49,25 +49,26 @@
         "store": "microsoft.com/en-ca",
         "url": "https://www.microsoft.com/en-ca/d/surface-pro-11-with-snapdragon-technology/8mzbkmz0lmc1",
         "cad": 1599.98,
-        "est": true
+        "est": true,
+        "name": "BBY tablet listing — bundle: tablet est $1,399.99 + Signature Keyboard est $199.99"
       },
       {
         "store": "Best Buy",
         "url": "https://www.bestbuy.ca/en-ca/product/19263399",
-        "cad": 1349.99,
-        "est": false,
-        "name": "Microsoft Surface Pro (LCD) Copilot+ PC 13\" 512GB Tablet with Snapdragon X Plus/16GB RAM (2024) - Dune - Device Only"
+        "cad": 1599.98,
+        "est": true,
+        "name": "Microsoft Surface Pro (LCD) Copilot+ PC 13\" 512GB Tablet with Snapdragon X Plus/16GB RAM (2024) - Dune - Device Only — bundle: tablet est $1,399.99 + Signature Keyboard est $199.99"
       }
     ],
     "official_url": "https://www.microsoft.com/en-ca/d/surface-pro-11-with-snapdragon-technology/8mzbkmz0lmc1"
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/179/17921/17921778.jpg",
   "professional": {
-    "avg_score": null,
+    "avg_score": 8.3,
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "8.3/10 (X Elite OLED sibling)",
+        "score": 8.3,
         "url": "https://www.cnet.com/tech/computing/microsoft-surface-pro-11-review-snapdragon-and-oled-deliver/",
         "quote": "the Surface Pro 11's Qualcomm Snapdragon X Elite finally breaks the mold, delivering surprisingly competitive performance and a lot fewer compatibility issues for mainstream use"
       }

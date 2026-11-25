@@ -56,8 +56,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19784/19784196.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7.2,
+    "reviews": [
+      {
+        "outlet": "Chip.de",
+        "score": 8.5,
+        "quote": "The IdeaPad Slim 3 15.3-inch is a convincing affordable laptop: powerful, well-equipped and pleasantly quiet for the money."
+      },
+      {
+        "outlet": "TechPowerUp",
+        "score": 7.5,
+        "quote": "An affordable laptop with powerful Ryzen silicon, though cooling limits the Zen 4 CPUs; the stock IPS panel is decent."
+      },
+      {
+        "outlet": "PCWorld",
+        "score": 5.5,
+        "quote": "A rare miss from Lenovo — the hardware is fine but the price of $769 just feels too high."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

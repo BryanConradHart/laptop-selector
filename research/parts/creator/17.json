@@ -1,7 +1,7 @@
 {
   "id": "proart-px13-gopro-395-128-1tb",
-  "line": "ASUS ProArt P16 (H7606, 2025)",
-  "config_name": "ProArt PX13 GoPro Edition 13.3\" Touch 2-in-1 â€” Ryzen AI MAX+ 395 (Radeon 8060S iGPU), 128GB unified, 1TB",
+  "line": "ASUS ProArt PX13 GoPro Edition",
+  "config_name": "ProArt PX13 GoPro Edition 13.3\" Touch 2-in-1 — Ryzen AI MAX+ 395 (Radeon 8060S iGPU), 128GB unified, 1TB",
   "tier": "High",
   "category": "creator",
   "ecosystem": "Windows",
@@ -35,7 +35,7 @@
   "battery": {
     "claimed_hours": null,
     "real_world_hours": 7,
-    "notes": "Estimate; MAX+ 395 is a 120W-capable part in a thin convertible â€” runtime varies widely with load."
+    "notes": "Estimate; MAX+ 395 is a 120W-capable part in a thin convertible — runtime varies widely with load."
   },
   "price": {
     "cad": 3999.95,
@@ -61,7 +61,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "88%",
+        "score": 8.8,
         "url": "https://www.notebookcheck.net/Asus-ProArt-P16-laptop-review-AMD-Zen-5-meets-RTX-4070-laptop-and-4K-OLED.871739.0.html",
         "quote": "Very premium and compact aluminum case, color accurate 4K OLED, excellent speakers, wonderful input devices, 2x SSD slots, fast CPU and good system performance. Cons: RAM soldered with massive surcharge for 64 GB; 4K OLED only 60 Hz. (NBC review of predecessor H7606 RTX 4070 config; chassis/display/input findings carry over to 2025 RTX 50-series tiers.)"
       }
@@ -69,17 +69,17 @@
   },
   "user_sentiment": {
     "praises": [
-      "128GB unified LPDDR5x at  is the cheapest way to run 70B+ class local LLMs on a laptop â€” r/LocalLLaMA favorite config class [synthesized]",
+      "128GB unified LPDDR5x is the cheapest way to run 70B+ class local LLMs on a laptop — r/LocalLLaMA favorite config class [synthesized]",
       "360-degree convertible with touch + pen in a 1.4kg 13in chassis [synthesized]",
       "Ryzen AI MAX+ 395: 16 Zen 5 cores give strong multicore compile/render throughput [synthesized]",
-      "Radeon 8060S is the strongest iGPU class â€” light gaming and GPU compute without discrete power draw [synthesized]",
+      "Radeon 8060S is the strongest iGPU class — light gaming and GPU compute without discrete power draw [synthesized]",
       "GoPro Edition bundle suits action-camera creators [synthesized]"
     ],
     "complaints": [
-      "Radeon 8060S lacks CUDA â€” many ML/creator toolchains assume NVIDIA and need ROCm/Vulkan workarounds [synthesized]",
+      "Radeon 8060S lacks CUDA — many ML/creator toolchains assume NVIDIA and need ROCm/Vulkan workarounds [synthesized]",
       "13.3in screen is cramped for pro creative work [synthesized]",
       "MAX+ chips run hot and fans are audible in thin convertibles under sustained load [synthesized]",
-      "RAM is soldered unified â€” expensive to buy right up front [synthesized]",
+      "RAM is soldered unified — expensive to buy right up front [synthesized]",
       "OLED burn-in risk for a convertible used in tablet mode with persistent UI [synthesized]"
     ]
   },

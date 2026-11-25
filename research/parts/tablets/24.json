@@ -38,25 +38,26 @@
     "notes": "28.93Wh cell. Apple claims 10h web/video Wi-Fi (9h cellular); users report ~8h mixed real-world use on the 11\"."
   },
   "price": {
-    "cad": 1529,
+    "cad": 1379.98,
     "currency": "CAD",
     "store": "apple.com/ca",
     "store_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/11-inch-display-256gb-space-grey-wifi",
     "confidence": "verified",
-    "notes": "Tablet-only $1,149.00 (apple.com/ca, verified 2026-11-24) + Magic Keyboard Air 11\" $379.99 (BBY 19204080). BBY sale: tablet $999.99 (reg $1,149.99) → ~$1,380 with keyboard — the line's standout deal. Cellular variant +$200 ($1,349 tablet). Pencil Pro not included.",
+    "notes": "Bundle price = tablet (current best new retail) + keyboard, per the config definition. Components: Tablet-only $1,149.00 (apple.com/ca, verified 2026-11-24) + Magic Keyboard Air 11\" $379.99 (BBY 19204080). BBY sale: tablet $999.99 (reg $1,149.99) → ~$1,380 with keyboard — the line's standout deal. Cellular variant +$200 ($1,349 tablet). Pencil Pro not included.",
     "offers": [
       {
         "store": "apple.com/ca",
         "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/11-inch-display-256gb-space-grey-wifi",
-        "cad": 1529,
-        "est": false
+        "cad": 1379.98,
+        "est": true,
+        "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 1529 + keyboard per price.notes."
       },
       {
         "store": "Best Buy",
         "url": "https://www.bestbuy.ca/en-ca/product/19788341",
-        "cad": 999.99,
-        "est": false,
-        "name": "Apple iPad Air M4 11\" 256GB with Wi-Fi 7 (8th Generation) - Space Grey"
+        "cad": 1379.98,
+        "est": true,
+        "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 1529 + keyboard per price.notes."
       }
     ],
     "official_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/11-inch-display-256gb-space-grey-wifi"
@@ -67,7 +68,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "87%",
+        "score": 8.7,
         "url": "https://www.notebookcheck.net/The-fiercest-competitor-for-the-iPad-Pro-is-home-made-Apple-iPad-Air-13-M4-2026-tablet-review.1279201.0.html",
         "quote": "The fiercest competitor for the iPad Pro is home-made. Pros: brute top performance, WiFi very fast, high-quality unibody chassis, USB-C with 10 GBit/s, two external displays possible, good color accuracy (PWM-free), well-balanced speakers, high recycled content. Cons: slow 60 Hz display, battery charging takes time, SoC throttles under sustained load. (NBC review of the iPad Air 13\" M4 2026; 11\" shares SoC and chassis design.)"
       }

@@ -38,27 +38,46 @@
     "notes": "11600 mAh (~44.4Wh) cell, 45W USB-PD charging (charger not in box). No official video-hours claim; users report ~8-11h mixed real-world use."
   },
   "price": {
-    "cad": 2399,
+    "cad": 1878.99,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19652312",
     "confidence": "verified",
-    "notes": "Tablet $2,099.00 reg / $1,699.00 sale (BBY SKU 19652312) + Book Cover Keyboard Slim Ultra $299.99 reg / $179.99 sale (BBY 19433657) = $2,398.99 at regular prices. Cover-only price: Slim $299.99 reg/$179.99 sale; Pro Keyboard w/ trackpad $499.99/$299.99 (BBY 20142500). BBY sale combined total ~$1,878.99. RAM/storage inferred from spec sheet per ANDROID_LIST caveat.     1TB Ultra tier not stocked new at BBY; 5G variant omitted.",
+    "notes": "Bundle price = tablet (current best new retail) + keyboard, per the config definition. Components: Tablet $2,099.00 reg / $1,699.00 sale (BBY SKU 19652312) + Book Cover Keyboard Slim Ultra $299.99 reg / $179.99 sale (BBY 19433657) = $2,398.99 at regular prices. Cover-only price: Slim $299.99 reg/$179.99 sale; Pro Keyboard w/ trackpad $499.99/$299.99 (BBY 20142500). BBY sale combined total ~$1,878.99. RAM/storage inferred from spec sheet per ANDROID_LIST caveat.     1TB Ultra tier not stocked new at BBY; 5G variant omitted.",
     "offers": [
       {
         "store": "bestbuy.ca",
         "url": "https://www.bestbuy.ca/en-ca/product/19652312",
-        "cad": 1699,
-        "est": false,
-        "name": "Samsung Galaxy Tab S11 Ultra 14.6\" 512GB Android Tablet with D9400+ (DX4+) Processor - Grey"
+        "cad": 1878.99,
+        "est": true,
+        "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 1699 + keyboard per price.notes."
       }
     ],
     "official_url": null
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/196/19652/19652312.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7.8,
+    "reviews": [
+      {
+        "outlet": "What Hi-Fi",
+        "score": 10,
+        "url": "https://www.whathifi.com/reviews/samsung-galaxy-tab-s11-ultra",
+        "quote": "One of the most capable Android tablets you can buy."
+      },
+      {
+        "outlet": "TechRadar",
+        "score": 7,
+        "url": "https://www.techradar.com/tablets/samsung-galaxy-tab-s11-ultra-review",
+        "quote": "A disappointing chipset lets down an otherwise fantastic media and gaming machine."
+      },
+      {
+        "outlet": "Android Police",
+        "score": 6.5,
+        "url": "https://www.androidpolice.com/samsung-galaxy-tab-s11-ultra-review/",
+        "quote": "Totally ridiculous, but that hasn't stopped me liking it."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [
@@ -99,7 +118,7 @@
     "repairability_service": 6,
     "durability": 7.5
   },
-  "rating_notes": "Ratings inferred from the Tab S11 11\" 12/256 anchor per SHARED-tab-s11.md: Ultra deltas (screen_size 8.2, portability 7.6, battery +0.4, productivity +0.7, creative_work +0.5, gaming −0.2, keyboard_trackpad 6.5 for Slim cover w/o trackpad) plus 16GB/512GB tier bumps (+0.4 productivity, +0.3 creative_work, +0.3 ai_ml for headroom). No pro numeric score found 2026-11-24 — avg_score null, none invented (outlets bot-walled; disclosed synthesis in SHARED file). Ecosystem 7.0 = DeX + Galaxy-phone parity per SHARED calibration. Brightness figures are Samsung marketing approximations. User sentiment is disclosed synthesis, not verbatim quotes. RAM tier inferred from spec sheet, not BBY title.",
+  "rating_notes": "Pro scores from What Hi-Fi/TechRadar/Android Police Tab S11 Ultra reviews (gap-fill 2026-11-25). Ratings inferred from the Tab S11 11\" 12/256 anchor per SHARED-tab-s11.md: Ultra deltas (screen_size 8.2, portability 7.6, battery +0.4, productivity +0.7, creative_work +0.5, gaming −0.2, keyboard_trackpad 6.5 for Slim cover w/o trackpad) plus 16GB/512GB tier bumps (+0.4 productivity, +0.3 creative_work, +0.3 ai_ml for headroom). Ecosystem 7.0 = DeX + Galaxy-phone parity per SHARED calibration. Brightness figures are Samsung marketing approximations. User sentiment is disclosed synthesis, not verbatim quotes. RAM tier inferred from spec sheet, not BBY title.",
   "standouts": [
     "16GB RAM + 512GB: the only Android tablet tier that matches ultrabook memory specs",
     "Best DeX canvas in retail (14.6\" AMOLED) with S Pen + microSD included",

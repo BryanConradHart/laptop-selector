@@ -38,19 +38,19 @@
     "notes": "8400 mAh (~32.7Wh) cell, 45W USB-PD charging (charger not in box). Samsung publishes no video-hours claim; users report ~8-10h mixed real-world use."
   },
   "price": {
-    "cad": 1470,
+    "cad": 1469.98,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19392060",
     "confidence": "verified",
-    "notes": "Tablet $1,249.99 (BBY SKU 19392060) + Book Cover Keyboard Slim AI Key $219.99 (BBY 19433652) = $1,469.98. Cover-only price: $219.99 reg / $131.99 sale at BBY on 2026-11-24. 128GB tier: $1,099.99 + cover = $1,319.98 (SKU 19392059). 16/512GB tier: $1,549.99 + cover = $1,769.98 (SKU 19392061, RAM inferred from spec sheet). 5G variants omitted.",
+    "notes": "Bundle price = tablet (current best new retail) + keyboard, per the config definition. Components: Tablet $1,249.99 (BBY SKU 19392060) + Book Cover Keyboard Slim AI Key $219.99 (BBY 19433652) = $1,469.98. Cover-only price: $219.99 reg / $131.99 sale at BBY on 2026-11-24. 128GB tier: $1,099.99 + cover = $1,319.98 (SKU 19392059). 16/512GB tier: $1,549.99 + cover = $1,769.98 (SKU 19392061, RAM inferred from spec sheet). 5G variants omitted.",
     "offers": [
       {
         "store": "bestbuy.ca",
         "url": "https://www.bestbuy.ca/en-ca/product/19392060",
-        "cad": 1249.99,
-        "est": false,
-        "name": "Samsung Galaxy Tab S11 11-inch 256GB with S Pen - Grey"
+        "cad": 1469.98,
+        "est": true,
+        "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 1249.99 + keyboard per price.notes."
       }
     ],
     "official_url": null
@@ -61,7 +61,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "88%",
+        "score": 8.8,
         "url": "https://www.notebookcheck.net/A-superb-tablet-experience-with-caveats-Samsung-Galaxy-Tab-S11-review.1130795.0.html",
         "quote": "A superb tablet experience with caveats. Pros: bright OLED panel, powerful speakers, waterproof case, frequent updates, S Pen included, fast SoC. Cons: color reproduction weaknesses, battery life only decent, fingerprint sensor somewhat slow, high throttling, UFS 3.1 only (128 GB), no WiFi 7."
       }
@@ -106,7 +106,7 @@
     "repairability_service": 6,
     "durability": 7.5
   },
-  "rating_notes": "Pro score attached from NBC review of the Galaxy Tab S11 (88%, gap-fill 2026-11-24). No pro numeric score found 2026-11-24 (NBC 403, RTINGS/PCMag/Tom's/AndroidCentral 404/403; search engines bot-walled) — avg_score null, none invented; see SHARED-tab-s11.md for disclosed launch-consensus synthesis. User praises/complaints are disclosed synthesis from Reddit/BBY consensus (live threads not fetchable this session), not verbatim quotes. Ecosystem 7.0 per SHARED calibration: DeX + full Samsung-phone parity lift it above plain Android (~5-6) and just above the iPad Pro entries' 6.5, but no desktop app ecosystem keeps it under 8. keyboard_trackpad 5.8 = Slim AI Key cover has no trackpad (per SCHEMA, rated on the priced-in accessory). Brightness figures are Samsung marketing approximations (typical ~900 SDR/1600 peak HDR). microSD justifies upgradability 6.5 — rare among flagships. Battery rated on ~8-10h user-reported mixed use, not marketing.",
+  "rating_notes": "Pro score attached from NBC review of the Galaxy Tab S11 (88%, gap-fill 2026-11-24). see SHARED-tab-s11.md for disclosed launch-consensus synthesis. User praises/complaints are disclosed synthesis from Reddit/BBY consensus (live threads not fetchable this session), not verbatim quotes. Ecosystem 7.0 per SHARED calibration: DeX + full Samsung-phone parity lift it above plain Android (~5-6) and just above the iPad Pro entries' 6.5, but no desktop app ecosystem keeps it under 8. keyboard_trackpad 5.8 = Slim AI Key cover has no trackpad (per SCHEMA, rated on the priced-in accessory). Brightness figures are Samsung marketing approximations (typical ~900 SDR/1600 peak HDR). microSD justifies upgradability 6.5 — rare among flagships. Battery rated on ~8-10h user-reported mixed use, not marketing.",
   "standouts": [
     "S Pen included + microSD slot + 144Hz AMOLED — none of which the iPad Pro includes at this price",
     "DeX desktop mode with external monitor",

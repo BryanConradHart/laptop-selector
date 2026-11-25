@@ -57,9 +57,27 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19735/19735876.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": [],
-    "notes": "No retrievable pro review of this exact config; NBC/RTINGS bot-walled this pass (see SHARED-galaxy-book.md). NBC historically reviewed Galaxy Book Pro 360/Book4 Pro AMOLED models in the mid-80s % — panel quality consistently the praised element. Honest null."
+    "avg_score": 8,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.6,
+        "url": "https://www.notebookcheck.net/Samsung-Galaxy-Book6-Pro-Laptop-Review-Better-than-the-new-XPS-16.1257679.0.html",
+        "quote": "Better than the new XPS 16: excellent chassis quality, high system performance and an excellent OLED touchscreen with accurate color profiles; cons are soldered RAM, PWM flickering and no card reader."
+      },
+      {
+        "outlet": "Expert Reviews",
+        "score": 8,
+        "url": "https://www.expertreviews.co.uk/technology/laptops/samsung-galaxy-book6-pro-review",
+        "quote": "A seriously refined ride: a top-quality laptop with a wonderful display, decent performance, impressive battery life and even a modicum of serious gaming capability."
+      },
+      {
+        "outlet": "Creative Bloq",
+        "score": 7.5,
+        "url": "https://www.creativebloq.com/tech/laptops/samsung-galaxy-book-6-pro-review-every-inch-the-professional",
+        "quote": "Every inch the professional: a rather beautiful pro-grade laptop with a lovely OLED touchscreen and an all-day keyboard."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [
@@ -100,5 +118,5 @@
     "repairability_service": 3.5,
     "durability": 5.5
   },
-  "rating_notes": "Inferred from Book6 14 base-tier synthesis + AMOLED panel delta (+4.5 screen_quality, +4 readability_dark vs IPS; glossy costs some readability_bright). Pen support via S Pen on touch panel. Standout: best display per dollar in CA retail ultrabooks at this sale price. Bot-wall disclosure in SHARED-galaxy-book.md. Image URL best-guess BBY CDN pattern."
+  "rating_notes": "Inferred from Book6 14 base-tier synthesis + AMOLED panel delta (+4.5 screen_quality, +4 readability_dark vs IPS; glossy costs some readability_bright). Pen support via S Pen on touch panel. Standout: best display per dollar in CA retail ultrabooks at this sale price. Bot-wall disclosure in SHARED-galaxy-book.md. Image URL best-guess BBY CDN pattern. Notebookcheck reviewed one Galaxy Book6 Pro chassis; used as the Pro-line anchor for both sizes."
 }

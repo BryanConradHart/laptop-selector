@@ -57,8 +57,19 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/196/19680/19680730.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.5,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.9,
+        "quote": "Dell Pro Max 16 Plus review: a one-of-a-kind mobile workstation - fast, removable CAMM2 RAM and graphics card, 4K 120 Hz OLED, and Thunderbolt 5; one of the fastest and most practical workstations available."
+      },
+      {
+        "outlet": "IT Pro",
+        "score": 8.0,
+        "quote": "The Dell Pro Max 16 Plus is a superb mobile workstation with one major flaw. By this point in the review, you've already decided if you're going to buy this laptop."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

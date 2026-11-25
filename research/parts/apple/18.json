@@ -56,17 +56,17 @@
   },
   "image_url": "https://www.apple.com/v/macbook-pro/specs/e/images/specs/14-inch/macbook_pro_14_inch__fjlrd633eki2_large.jpg",
   "professional": {
-    "avg_score": 8.5,
+    "avg_score": 8.7,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "90.2%",
+        "score": 9,
         "url": "https://www.notebookcheck.net/M5-Max-with-inconsistent-performance-and-throttling-issues-Apple-MacBook-Pro-14-Review.1246064.0.html",
         "quote": "the 14-inch chassis and the cooling simply cannot handle the M5 Max adequately... serious thermal throttling... very inconsistent CPU performance... We definitely think the M5 Max is a better option for the larger 16-inch model."
       },
       {
         "outlet": "RTINGS",
-        "score": "8.4/10",
+        "score": 8.4,
         "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-14-m5-2025",
         "quote": "exceptional build quality... all-aluminum unibody (same chassis, M5 model tested)"
       }

@@ -37,7 +37,7 @@
     "notes": "~57Wh (5306 mAh) + Arm efficiency: 10-13h real web/video. Best battery in the family by a wide margin."
   },
   "price": {
-    "cad": 1199.99,
+    "cad": 899.99,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19767602",
@@ -56,8 +56,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19767/19767602.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.2,
+        "quote": "This affordable ARM laptop must worry AMD and Intel — excellent efficiency in a cheap 15.3-inch chassis."
+      },
+      {
+        "outlet": "PCMag",
+        "score": 7.0,
+        "quote": "A budget-friendly battery champ; a subpar display and cramped keyboard are forgivable — under $600 it's an easy budget laptop to recommend."
+      },
+      {
+        "outlet": "Tom's Guide",
+        "score": 8.0,
+        "quote": "Fantastic battery life and solid performance at a price that's tough to beat."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

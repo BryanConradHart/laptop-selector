@@ -57,23 +57,23 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/191/19195/19195150.jpg",
   "professional": {
-    "avg_score": 7.6,
+    "avg_score": 7.8,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "82%",
+        "score": 8.2,
         "url": "https://www.notebookcheck.net/HP-Omen-Max-16-laptop-review-Super-fast-but-a-little-bit-too-hot.999164.0.html",
         "quote": "+ high quality 240 Hz OLED panel with G-Sync"
       },
       {
         "outlet": "Notebookcheck",
-        "score": "82%",
+        "score": 8.2,
         "url": "https://www.notebookcheck.net/HP-Omen-Max-16-laptop-review-Super-fast-but-a-little-bit-too-hot.999164.0.html",
         "quote": "it comes with similar OLED panels as the competition and an arguably more comfortable keyboard"
       },
       {
         "outlet": "Tom's Hardware",
-        "score": "3.5/5",
+        "score": 7,
         "url": "https://www.tomshardware.com/laptops/gaming-laptops/hp-omen-max-16-review",
         "quote": "Its OLED panel offered vibrant colors and wide viewing angles while the speakers provided rich tin-free audio."
       }

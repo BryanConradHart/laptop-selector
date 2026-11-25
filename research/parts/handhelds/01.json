@@ -67,19 +67,19 @@
     "reviews": [
       {
         "outlet": "Tom's Guide",
-        "score": "4.5/5",
+        "score": 9,
         "url": "https://www.tomsguide.com/reviews/steam-deck-oled",
         "quote": "The Steam Deck OLED impresses thanks to its vibrant display, lighter design, faster Wi-Fi and improved cooling... this latest iteration demonstrates that Valve can improve on perfection. The Steam Deck OLED has set a new standard for competitors to follow."
       },
       {
         "outlet": "Engadget",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.engadget.com/steam-deck-oled-review-its-just-better-180038030.html",
         "quote": "This isn't the Steam Deck 2 some are waiting for, it's just a welcome improvement on an already good device."
       },
       {
         "outlet": "Engadget (2026 re-check)",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.engadget.com/2248094/is-steam-deck-still-worth-it/",
         "quote": "Though the Xbox Ally and Legion Go (S and 2) lines offer larger batteries than the Steam Deck OLED, in real-world applications, Valve's handheld often comes out on top."
       }

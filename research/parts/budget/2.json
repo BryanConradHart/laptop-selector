@@ -37,7 +37,7 @@
     "notes": "~34Wh (4422 mAh) — the smaller battery of the 3i line; ~4-5h real web use."
   },
   "price": {
-    "cad": 1049.99,
+    "cad": 499.99,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19940875",
@@ -56,8 +56,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19940/19940875.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 6.9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 7.6,
+        "quote": "Targets budget-oriented laptops, but the performance results are nothing too exciting; a solid all-round cheap everyday machine."
+      },
+      {
+        "outlet": "Tom's Guide",
+        "score": 8.0,
+        "quote": "A dependable machine for $799 with a bright screen and solid performance for everyday use."
+      },
+      {
+        "outlet": "PCMag",
+        "score": 5.0,
+        "quote": "Pedestrian performance and budget-grade construction; at $1,299 we simply can't justify it."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

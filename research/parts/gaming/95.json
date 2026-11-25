@@ -68,7 +68,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "90%",
+        "score": 9,
         "url": "https://www.notebookcheck.net/A-slim-gaming-laptop-now-with-an-RTX-5090-and-64-GB-of-RAM-Asus-ROG-Zephyrus-G16-2025-review.993365.0.html",
         "quote": "The ROG Zephyrus G16's 2025 update offers several upgrades. Its overall performance has also increased thanks to the Arrow Lake processor and the new GeForce RTX 5090 laptop GPU. However, it's still important to know that it uses a relatively slow version of the GPU. (NBC 'very good' 90%, tested the 64GB/2TB RTX 5090 tier — nearest tested sibling to this 5080/64GB/2TB config.)"
       }

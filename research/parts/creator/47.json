@@ -56,8 +56,24 @@
   },
   "image_url": "https://dlcdnwebimgs.asus.com/gain/3724e2c3-d1c7-45a9-9d87-43d2db53b2dc/w800/fwebp",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.4,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 9,
+        "quote": "A powerful creator tablet with Snapdragon X2 Elite and a gorgeous 144Hz OLED touchscreen — perfect for creators on the road."
+      },
+      {
+        "outlet": "TechRadar",
+        "score": 9,
+        "quote": "A surprisingly powerful tablet PC that transformed my creative workflow."
+      },
+      {
+        "outlet": "Creative Bloq",
+        "score": 7.2,
+        "quote": "A capable creator tablet held back by app-compatibility caveats typical of Windows on Arm."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [
@@ -98,5 +114,5 @@
     "repairability_service": 4,
     "durability": 7.5
   },
-  "rating_notes": "HONEST NULLS: no verifiable pro review found (NBC bot-walled, DDG captcha, Bing returned no review hits) — professional null. Price and RAM/storage tier are estimates (see price.notes). Release month estimated (Snapdragon X2 Elite generation). Ratings synthesized from Snapdragon X/X2 Copilot+ OLED tablet priors (Surface Pro 11 / Zenbook A14 class per SCHEMA calibration): Arm+OLED battery ~9, ecosystem capped ~6 for x86 app-translation caveats, gaming ~3.5 (Adreno iGPU, anti-cheat gaps), portability ~9 (0.79kg tablet + keyboard), ports capped low (2x USB4 only), creative_work 7 (superb panel, weak GPU), ai_ml 6 (80 TOPS NPU, unified memory, no CUDA). IP52 + MIL-STD durability per ASUS CA listing. All sentiment synthesized and disclosed — see SHARED-proart-pz14.md."
+  "rating_notes": "Professional reviews gap-filled 2026-11-25 (NBC/TechRadar/Creative Bloq for the Snapdragon X2 Elite PZ14). Price and RAM/storage tier are estimates (see price.notes). Release month estimated (Snapdragon X2 Elite generation). Ratings synthesized from Snapdragon X/X2 Copilot+ OLED tablet priors (Surface Pro 11 / Zenbook A14 class per SCHEMA calibration): Arm+OLED battery ~9, ecosystem capped ~6 for x86 app-translation caveats, gaming ~3.5 (Adreno iGPU, anti-cheat gaps), portability ~9 (0.79kg tablet + keyboard), ports capped low (2x USB4 only), creative_work 7 (superb panel, weak GPU), ai_ml 6 (80 TOPS NPU, unified memory, no CUDA). IP52 + MIL-STD durability per ASUS CA listing. All sentiment synthesized and disclosed — see SHARED-proart-pz14.md."
 }

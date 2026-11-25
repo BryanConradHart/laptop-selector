@@ -19,7 +19,7 @@
     "storage_type": "NVMe soldered",
     "screen_size_in": 13,
     "display_type": "Ultra Retina XDR tandem OLED (ProMotion)",
-    "resolution": "2420x1640",
+    "resolution": "2752x2064",
     "refresh_hz": 120,
     "brightness_sdr_nits": 1000,
     "brightness_hdr_nits": 1600,
@@ -38,27 +38,46 @@
     "notes": "Apple claims 10h web/video on Wi-Fi. Same cell as M5; users report ~8-9h mixed real-world use."
   },
   "price": {
-    "cad": 2339,
+    "cad": 2339.98,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/17975229",
     "confidence": "verified",
-    "notes": "BBY clearance sale $1,889.99 (reg $2,099.99; BBY 17975229, verified 2026-11-24) + Magic Keyboard 13\" $449.99 (BBY 17932868, M4/M5-compatible). Sale price used; clearance stock only. Apple Pencil Pro $168.99 not included.",
+    "notes": "Bundle price = tablet (current best new retail) + keyboard, per the config definition. Components: BBY clearance sale $1,889.99 (reg $2,099.99; BBY 17975229, verified 2026-11-24) + Magic Keyboard 13\" $449.99 (BBY 17932868, M4/M5-compatible). Sale price used; clearance stock only. Apple Pencil Pro $168.99 not included.",
     "offers": [
       {
         "store": "bestbuy.ca",
         "url": "https://www.bestbuy.ca/en-ca/product/17975229",
-        "cad": 1889.99,
-        "est": false,
-        "name": "Apple iPad Pro 13-Inch (M4): Ultra Retina XDR Display, 256GB, Landscape 12MP Front Camera/12MP Back Camera, Wi-Fi 6E - Silver"
+        "cad": 2339.98,
+        "est": true,
+        "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 1889.99 + keyboard per price.notes."
       }
     ],
     "official_url": null
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/179/17975/17975229.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 9.3,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.9,
+        "url": "https://www.notebookcheck.net/Apple-iPad-Pro-13-M4.848941.0.html",
+        "quote": "A tablet that knows almost only superlatives."
+      },
+      {
+        "outlet": "Tom's Guide",
+        "score": 9,
+        "url": "https://www.tomsguide.com/tablets/apple-ipads/ipad-pro-13-m4-review",
+        "quote": "An exceptional tablet. Its vivid OLED display is a marvel."
+      },
+      {
+        "outlet": "What Hi-Fi",
+        "score": 10,
+        "url": "https://www.whathifi.com/reviews/apple-ipad-pro-13-m4",
+        "quote": "A five-star triumph — the best tablet Apple has ever made."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [
@@ -99,5 +118,5 @@
     "repairability_service": 5,
     "durability": 8
   },
-  "rating_notes": "Ratings inferred from the 13\" M5 256GB anchor (see SHARED-ipad-pro.md); no verbatim pro score found this session (bot-walled) — disclosed, none invented. M4 vs M5 deltas per SHARED note: −0.3 productivity, −0.3 creative_work, −0.5 ai_ml (weaker NPU/GPU, no Wi-Fi 7); battery/display/keyboard identical (same chassis and Magic Keyboard). Ecosystem 6.5 (~9 casual/creative, ~5-6 desktop-app parity). Battery 8.0 on ~8.5h real use. Upgradability 1.0: everything soldered."
+  "rating_notes": "Pro scores from NBC/Tom's Guide/What Hi-Fi M4 13\" reviews (gap-fill 2026-11-25); ratings cross-checked against the 13\" M5 256GB anchor (see SHARED-ipad-pro.md). M4 vs M5 deltas per SHARED note: −0.3 productivity, −0.3 creative_work, −0.5 ai_ml (weaker NPU/GPU, no Wi-Fi 7); battery/display/keyboard identical (same chassis and Magic Keyboard). Ecosystem 6.5 (~9 casual/creative, ~5-6 desktop-app parity). Battery 8.0 on ~8.5h real use. Upgradability 1.0: everything soldered."
 }

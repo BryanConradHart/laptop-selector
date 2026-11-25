@@ -12,7 +12,7 @@
     "cpu": "Intel Core Ultra 9 285H (Arrow Lake-H, 16-core, P-cores up to 5.4GHz)",
     "cpu_cores": 16,
     "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7",
-    "gpu_type": "dedicated",
+    "gpu_type": "discrete",
     "ram_gb": 64,
     "ram_type": "LPDDR5X-8400 dual channel soldered",
     "storage_gb": 2000,
@@ -60,13 +60,13 @@
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "8.6/10",
+        "score": 8.6,
         "url": "https://www.cnet.com/tech/computing/",
         "quote": "Centered around a gorgeous 16-inch OLED display, this Yoga laptop provides the performance and build that graphics pros demand."
       },
       {
         "outlet": "CNET",
-        "score": "8.6/10",
+        "score": 8.6,
         "url": "https://www.cnet.com/tech/computing/",
         "quote": "Slightly awkward keyboard placement"
       }

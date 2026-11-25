@@ -57,8 +57,14 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20082/20082044.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 9.1,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 9.1,
+        "quote": "Workstations have bad battery life? Think again! — extremely good build quality, Thunderbolt 5, modular LPCAMM2 RAM, up to 22h battery, and one of the best keyboards among current ThinkPads."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

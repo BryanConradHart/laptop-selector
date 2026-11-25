@@ -38,7 +38,7 @@
     "notes": "Estimated; Zen 5 APU slightly thirstier than Lunar Lake at similar battery class."
   },
   "price": {
-    "cad": 1129.97,
+    "cad": 1014.97,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19611553",
@@ -68,11 +68,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20247/20247669.png",
   "professional": {
-    "avg_score": null,
+    "avg_score": 7.2,
     "reviews": [
       {
         "outlet": "CNET (Dell 14 Premium clamshell, brand context)",
-        "score": "7.2/10",
+        "score": 7.2,
         "url": "https://www.cnet.com/tech/computing/",
         "quote": "one of the hardiest and heaviest 14-inch laptops I've ever encountered"
       }

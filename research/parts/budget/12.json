@@ -10,7 +10,7 @@
   "inferred": true,
   "specs": {
     "cpu": "Intel Core 5 120U (10-core: 2P+8E, Series 1)",
-    "cpu_cores": 8,
+    "cpu_cores": 10,
     "gpu": "Intel Graphics (integrated, Iris Xe-class)",
     "gpu_type": "integrated",
     "ram_gb": 16,
@@ -57,7 +57,13 @@
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19889/19889765.jpg",
   "professional": {
     "avg_score": null,
-    "reviews": []
+    "reviews": [
+      {
+        "outlet": "None found",
+        "score": null,
+        "quote": "No professional review found for this line as of 2026-11; ratings inferred from specs and sibling-line reviews."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

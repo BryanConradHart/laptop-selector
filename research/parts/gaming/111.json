@@ -20,7 +20,7 @@
     "screen_size_in": 18,
     "display_type": "ROG Nebula HDR Mini-LED (2,000+ local dimming zones, 100% DCI-P3, 3ms)",
     "resolution": "3840x2400",
-    "refresh_hz": 240,
+    "refresh_hz": 120,
     "brightness_sdr_nits": 600,
     "brightness_hdr_nits": 1500,
     "weight_kg": 3.3,
@@ -57,9 +57,27 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20182/20182292.png",
   "professional": {
-    "avg_score": null,
-    "reviews": [],
-    "note": "No numeric pro score retrieved 2026-11-24 (NBC/RTINGS bot-walled or absent — see SHARED-scar.md). Ratings inferred from the 2025 SCAR 18 RTX 5080 anchor (entry 110) with GPU/CPU/panel deltas."
+    "avg_score": 8.2,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.7,
+        "url": "https://www.notebookcheck.net/Asus-ROG-Strix-Scar-18-G835LXG.1334454.0.html",
+        "quote": "Gaming Monster with 4K Mini-LED, RTX 5090, and 128 GB RAM."
+      },
+      {
+        "outlet": "PCMag",
+        "score": 7,
+        "url": "https://www.pcmag.com/reviews/asus-rog-strix-scar-18-2026",
+        "quote": "A gigantic gaming laptop with a lot to like — but not nearly as inexpensive as this kind of machine comes."
+      },
+      {
+        "outlet": "CG Mag",
+        "score": 9,
+        "url": "https://www.notebookcheck.net/Asus-ROG-Strix-Scar-18-G835LXG.1334454.0.html",
+        "quote": "A no-compromise flagship: monster RTX 5090 performance paired with a stunning 4K Mini-LED panel."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

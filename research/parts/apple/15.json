@@ -67,13 +67,13 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "92.3%",
+        "score": 9.2,
         "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-16-2026-Review-M5-Pro-makes-one-of-the-best-multimedia-laptops-even-better.1245523.0.html",
         "quote": "Apple also includes Wi-Fi 7 as well as much faster PCIe 5.0 SSDs (same chip tested in the 16-inch chassis)"
       },
       {
         "outlet": "RTINGS",
-        "score": "8.4/10",
+        "score": 8.4,
         "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-14-m5-2025",
         "quote": "exceptional build quality... all-aluminum unibody (same chassis, M5 model tested)"
       }

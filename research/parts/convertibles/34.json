@@ -64,8 +64,14 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/181/18188/18188972.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.7,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.7,
+        "quote": "Priced well for an upper-mid-tier device with a gorgeous display and solid performance — creators will love this laptop's flexible form factor and impressive battery life."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

@@ -12,7 +12,7 @@
     "cpu": "Intel Core i5-12450HX (8-core: 4P+4E, Alder Lake-HX, up to 4.4 GHz)",
     "cpu_cores": 8,
     "gpu": "NVIDIA GeForce RTX 3050 6GB (laptop)",
-    "gpu_type": "dedicated",
+    "gpu_type": "discrete",
     "ram_gb": 8,
     "ram_type": "DDR4/DDR5 SO-DIMM (per chassis)",
     "storage_gb": 512,
@@ -37,7 +37,7 @@
     "notes": "~60 Wh class on LOQ Essential; HX CPU + dGPU → ~3-4h light use."
   },
   "price": {
-    "cad": 1499,
+    "cad": 1248,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/20106103",
@@ -56,8 +56,19 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20106/20106103.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7.3,
+    "reviews": [
+      {
+        "outlet": "PCMag",
+        "score": 7,
+        "quote": "Lenovo's budget-minded LOQ 15 is easy to type on and competent for 1080p play, but this gaming laptop's weighty plastic build and ho-hum screen keep it from top marks."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": 7.5,
+        "quote": "If an IdeaPad sounds too cheap and the Legion sounds too expensive, then the LOQ might tickle your fancy. The LOQ 15 series collection averages 75.5% across 117 reviews."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

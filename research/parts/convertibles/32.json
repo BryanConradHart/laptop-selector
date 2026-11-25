@@ -57,8 +57,19 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/177/17725/17725756.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 9.1,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 9.1,
+        "quote": "High-end convertible now with a larger 120-Hz OLED — the Spectre x360 14 remains a benchmark premium 2-in-1."
+      },
+      {
+        "outlet": "Laptop Mag",
+        "score": 9.0,
+        "quote": "A near-perfect 2-in-1 worthy of your money — impressive battery life and a gorgeous OLED display; you'll forget about its minor flaws real quick."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

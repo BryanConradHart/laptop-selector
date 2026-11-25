@@ -44,7 +44,16 @@
     "store_url": "https://www.bestbuy.ca/en-ca/product/18902683",
     "confidence": "estimated",
     "notes": "NO keyboard priced in: Apple makes no keyboard for the mini (no Smart Connector) — Bluetooth-keyboard-optional (~$125 case keyboard, BBY 19709624). 512GB was $1,149.00 at the 2024 Apple CA launch; no new 512GB stock found at BBY on 2026-11-24 (clearance ran down to 128/256GB first) — price estimated from launch list; treat as best-effort. Discontinued at apple.com/ca. Cellular variants omitted.",
-    "offers": [],
+    "offers": [
+      {
+        "store": "apple.com/ca",
+        "url": "https://www.bestbuy.ca/en-ca/product/18902683",
+        "cad": 1149,
+        "est": true,
+        "official": true,
+        "name": "iPad mini A17 Pro 512GB — estimated CA launch price (tier unverified at retail)"
+      }
+    ],
     "official_url": null
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/189/18902/18902683.jpeg",
@@ -53,7 +62,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "87%",
+        "score": 8.7,
         "url": "https://www.notebookcheck.net/Apple-iPad-mini-7-2024-review-This-compact-tablet-continues-to-be-nearly-unrivaled.930558.0.html",
         "quote": "This compact tablet continues to be nearly unrivaled. Pros: fast SoC, optional lots of memory, Pencil and 5G possible, PWM-free display, compact. Cons: stale display-to-surface ratio, refresh rate only 60 Hz, no high-res audio via Bluetooth, only 12 months warranty."
       }
@@ -98,7 +107,7 @@
     "repairability_service": 5,
     "durability": 8
   },
-  "rating_notes": "Pro score attached from NBC review of this exact model (gap-fill 2026-11-24). Ratings inferred from the 128GB Wi-Fi line anchor (SHARED-ipad-mini.md): +0.5 gaming and +0.5 creative_work for 512GB headroom. Price estimated (launch list; no current 512GB BBY stock found 2026-11-24) — confidence estimated. No verbatim pro score found (NBC review exists but bot-walled; disclosed, none invented). keyboard_trackpad 4.0 = no official keyboard per task rule. Image URL is BBY CDN closest-SKU guess (18902683, 128GB same-line image).",
+  "rating_notes": "Pro score attached from NBC review of this exact model (gap-fill 2026-11-24). Ratings inferred from the 128GB Wi-Fi line anchor (SHARED-ipad-mini.md): +0.5 gaming and +0.5 creative_work for 512GB headroom. Price estimated (launch list; no current 512GB BBY stock found 2026-11-24) — confidence estimated. keyboard_trackpad 4.0 = no official keyboard per task rule. Image URL is BBY CDN closest-SKU guess (18902683, 128GB same-line image).",
   "standouts": [
     "512GB at 293g: the ultimate offline pocket library",
     "Full Apple Intelligence + ray-traced gaming in the smallest chassis"

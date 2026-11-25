@@ -18,7 +18,7 @@
     "storage_gb": 512,
     "storage_type": "M.2 NVMe",
     "screen_size_in": 14,
-    "display_type": "IPS/OLED touch, 16:10, 120Hz",
+    "display_type": "IPS touch, 16:10, 120Hz",
     "resolution": "1920x1200",
     "refresh_hz": 120,
     "brightness_sdr_nits": 300,
@@ -57,11 +57,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19885/19885716.jpeg",
   "professional": {
-    "avg_score": 8.3,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "PCMag",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.pcmag.com/reviews/hp-omnibook-ultra-14",
         "quote": "I Tested HP's OmniBook Ultra 14, a Gorgeous Ultraportable With Potent Processing Power"
       }

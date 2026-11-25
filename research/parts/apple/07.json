@@ -56,23 +56,23 @@
   },
   "image_url": "https://www.apple.com/v/macbook-air/specs/c/images/specs/15-inch/mba_15_hero__gkshp5bw2f6m_large.jpg",
   "professional": {
-    "avg_score": 9.2,
+    "avg_score": 8.8,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "92%",
+        "score": 9.2,
         "url": "https://www.notebookcheck.net/Apple-MacBook-Air-15-M5-Review.1244905.0.html",
         "quote": "There is just nothing comparable in the Windows world."
       },
       {
         "outlet": "RTINGS",
-        "score": "8.3/10",
+        "score": 8.3,
         "url": "https://rtings.com/laptop/reviews/apple/macbook-air-13-m5-2026",
         "quote": "The Apple MacBook Air 13 M5 has outstanding battery life."
       },
       {
         "outlet": "Tom's Hardware",
-        "score": "Editor's Choice",
+        "score": null,
         "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-air-13-inch-m5-review",
         "quote": "A mix of premium design, strong performance, and solid battery life."
       }
@@ -117,5 +117,5 @@
     "repairability_service": 4,
     "durability": 8.5
   },
-  "rating_notes": "Ratings inferred from directly-tested Air 15 M5 base (NBC 92%): +0.2 creative for 1TB/10-core GPU headroom. Image follows Apple specs-page CDN pattern. Sentiment from NBC cons + Amazon.ca aggregate; Reddit API blocked (403)."
+  "rating_notes": "Ratings inferred from directly-tested Air 15 M5 base (NBC 92%): +0.2 creative for 1TB/10-core GPU headroom. Image follows Apple specs-page CDN pattern. Sentiment from NBC cons + Amazon.ca aggregate; Reddit API blocked (403). RTINGS score quoted from the same-generation 13-inch M5 review (identical platform)."
 }

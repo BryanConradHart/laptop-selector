@@ -43,20 +43,14 @@
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/20333967",
     "confidence": "verified",
-    "notes": "BBY API 2026-11-24: regular $7,599 (open-box $5,899.98) (SKU 20333967). Regular price used — no new-unit sale recorded.",
+    "notes": "BBY API 2026-11-24: regular $7,599 (sku 20333967). Open-box units $5,899.98 - regular price used for ranking.",
     "offers": [
-      {
-        "store": "Best Buy",
-        "url": "https://www.bestbuy.ca/en-ca/product/19446125",
-        "cad": 4113.41,
-        "est": false,
-        "name": "Dell Pro Max 16\" 120Hz Laptop - Intel Core Ultra 7 265 - 32GB LPDDR5X - 1TB SSD - NVIDIA RTX PRO 2000 - Windows 11 Pro - Black"
-      },
       {
         "store": "bestbuy.ca",
         "url": "https://www.bestbuy.ca/en-ca/product/20333967",
-        "cad": 5899.98,
-        "est": false
+        "cad": 7599,
+        "est": false,
+        "name": "Dell Pro Max 16 Plus — Core Ultra 7 265HX, RTX PRO 3000 Blackwell, 32GB, 1TB (sku 20333967, regular)"
       }
     ],
     "official_url": null

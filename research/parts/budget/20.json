@@ -56,8 +56,19 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19946/19946894.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 6.3,
+    "reviews": [
+      {
+        "outlet": "PCMag",
+        "score": 5,
+        "quote": "This bargain laptop is no big deal — a dismal screen, subpar keyboard, outdated CPU and non-upgradeable 8GB of RAM."
+      },
+      {
+        "outlet": "Zive.cz",
+        "score": 7.5,
+        "quote": "The Vivobook Go 15 makes a solid, affordable everyday machine, with the OLED option a real standout at this price."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [
@@ -104,5 +115,5 @@
     "repairability_service": 5.5,
     "durability": 4
   },
-  "rating_notes": "No pro review found (see SHARED-vivobook.md). Platform-anchored on Alder Lake-N i3-N305 like the Aspire Lite 15 N350 anchor (15.json): productivity 3.6 (8 E-cores, weak single-thread), gaming 1.0 (24EU UHD). UFS storage + soldered 8GB + Wi-Fi 5 drive the low upgradability/port scores. Panel unstated, assumed ~220-nit TN class. Image URL best-guess BBY CDN pattern."
+  "rating_notes": "No pro review found (see SHARED-vivobook.md). Platform-anchored on Alder Lake-N i3-N305 like the Aspire Lite 15 N350 anchor (15.json): productivity 3.6 (8 E-cores, weak single-thread), gaming 1.0 (24EU UHD). UFS storage + soldered 8GB + Wi-Fi 5 drive the low upgradability/port scores. Panel unstated, assumed ~220-nit TN class. Image URL best-guess BBY CDN pattern. Zive.cz quote praises the line’s OLED option; this config ships with the standard IPS panel."
 }

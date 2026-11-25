@@ -1,7 +1,7 @@
 {
   "id": "proart-p16-spark-n1x-64-1tb",
   "line": "ASUS ProArt P16 (H7606, 2025)",
-  "config_name": "ProArt P16 16â€³ 4K OLED Touch â€” NVIDIA RTX Spark N1X (Arm SoC + Blackwell RTX graphics, unified memory), 64GB, 1TB",
+  "config_name": "ProArt P16 16″ 4K OLED Touch — NVIDIA RTX Spark N1X (Arm SoC + Blackwell RTX graphics, unified memory), 64GB, 1TB",
   "tier": "High",
   "category": "creator",
   "ecosystem": "Windows",
@@ -13,7 +13,7 @@
     "cpu_cores": null,
     "gpu": "NVIDIA Blackwell RTX graphics integrated in RTX Spark N1X (unified memory)",
     "gpu_type": "discrete",
-    "ram_gb": 32,
+    "ram_gb": 64,
     "ram_type": "LPDDR5x unified (CPU/GPU shared)",
     "storage_gb": 1000,
     "storage_type": "M.2 NVMe (user-accessible)",
@@ -35,7 +35,7 @@
   "battery": {
     "claimed_hours": 10,
     "real_world_hours": 6.5,
-    "notes": "90Wh. No pro review verified; estimate from platform (HX 370 + 4K OLED class typically 6-8h light use)."
+    "notes": "90Wh. No pro review verified; Arm RTX Spark efficiency estimate for the 4K OLED chassis (typically 6-8h light use)."
   },
   "price": {
     "cad": 6799.99,
@@ -61,7 +61,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "88%",
+        "score": 8.8,
         "url": "https://www.notebookcheck.net/Asus-ProArt-P16-laptop-review-AMD-Zen-5-meets-RTX-4070-laptop-and-4K-OLED.871739.0.html",
         "quote": "Very premium and compact aluminum case, color accurate 4K OLED, excellent speakers, wonderful input devices, 2x SSD slots, fast CPU and good system performance. Cons: RAM soldered with massive surcharge for 64 GB; 4K OLED only 60 Hz. (NBC review of predecessor H7606 RTX 4070 config; chassis/display/input findings carry over to 2025 RTX 50-series tiers.)"
       }
@@ -77,10 +77,10 @@
     ],
     "complaints": [
       "Windows-on-Arm app-translation caveats: some x86 drivers, anti-cheat, and niche pro plugins will not run [synthesized]",
-      "Brand-new platform (RTX Spark) with immature drivers at launch â€” expect rough edges [synthesized]",
+      "Brand-new platform (RTX Spark) with immature drivers at launch — expect rough edges [synthesized]",
       "High price for unproven first-gen silicon [synthesized]",
-      "Unified memory bandwidth unknown vs discrete GDDR7 â€” GPU compute may trail a discrete 5070 Ti [synthesized]",
-      "Soldered/unified RAM â€” no upgrade path [synthesized]"
+      "Unified memory bandwidth unknown vs discrete GDDR7 — GPU compute may trail a discrete 5070 Ti [synthesized]",
+      "Soldered/unified RAM — no upgrade path [synthesized]"
     ]
   },
   "design_philosophy": "ASUS's creator-focused flagship: a thin-and-light 16-inch chassis with a factory-calibrated 4K OLED touchscreen, consumer GeForce graphics, and creator I/O (SD Express, USB4) instead of workstation pro-GPU pricing. This 5070 Ti build is the top consumer-GPU tier of the P16 line and the closest thing to its intended flagship creator config.",

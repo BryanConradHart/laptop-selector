@@ -21,9 +21,9 @@
     "display_type": "IPS, glossy, capacitive touch, 120Hz with Adaptive Sync (VRR), no PWM",
     "resolution": "1920x1080",
     "refresh_hz": 120,
-    "brightness_sdr_nits": null,
+    "brightness_sdr_nits": 300,
     "brightness_hdr_nits": null,
-    "weight_kg": null,
+    "weight_kg": 0.71,
     "ports": "2x USB-C (1x USB4-class with DP alt + PD), microSD, 3.5mm",
     "wireless": "Wi-Fi 6, BT 5.2 (exact card unverified)",
     "webcam": "none",
@@ -57,7 +57,7 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/194/19438/19438480.jpg",
   "professional": {
-    "avg_score": null,
+    "avg_score": 8.2,
     "reviews": [
       {
         "outlet": "Tom's Hardware",
@@ -67,9 +67,10 @@
       },
       {
         "outlet": "Notebookcheck",
-        "score": null,
-        "url": "https://www.notebookcheck.net/Asus-ROG-Xbox-Ally-X.1102117.0.html",
-        "quote": null
+        "score": 8.2,
+        "url": "https://www.notebookcheck.net/Slower-than-the-Steam-Deck-OLED-Asus-ROG-Xbox-Ally-handheld-review.1143681.0.html",
+        "quote": "The ROG Xbox Ally is Asus's more affordable take on its new handheld line. At €599 it goes head-to-head with Valve's Steam Deck OLED, but under the hood it still runs on AMD's older Zen 2 architecture, limiting performance gains.",
+        "note": null
       }
     ]
   },

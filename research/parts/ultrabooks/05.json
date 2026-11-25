@@ -67,19 +67,19 @@
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "8.3/10",
+        "score": 8.3,
         "url": "https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-13-aura-edition-review-great-business-laptop-gets-pricey-fast/",
         "quote": "The little laptop is extremely light and long-running, making it a great pick for road warriors. But, Lenovo, you want how much for an OLED display?"
       },
       {
         "outlet": "CNET",
-        "score": "8.3/10",
+        "score": 8.3,
         "url": "https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-13-aura-edition-review-great-business-laptop-gets-pricey-fast/",
         "quote": "Exceptionally lightweight yet sturdy build; Lengthy battery life; Stellar 2.8K OLED display; Best-in-class ThinkPad keyboard."
       },
       {
         "outlet": "CNET",
-        "score": "8.3/10",
+        "score": 8.3,
         "url": "https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-14-review-flagship-ultraportable-repairable/",
         "quote": "last year's [Gen 13] model... battery life is actually a few hours shorter [on Gen 14]"
       }

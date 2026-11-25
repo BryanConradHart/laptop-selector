@@ -38,32 +38,32 @@
     "notes": "10,090mAh. Lab Wi-Fi-web runs ~12-14h; users report ~9-11h mixed real use. 45W charging, ~2h to full."
   },
   "price": {
-    "cad": 2020,
+    "cad": 2019.96,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/18390512",
     "confidence": "verified",
-    "notes": "Tab S10+ 512GB $1,799.99 (BBY SKU 18390512) + Slim Keyboard Cover $219.97 reg (BBY 18469762, sale $131.97) = $2,019.96 cover-in price. Cover-only price: $219.97 reg / $131.97 sale.",
+    "notes": "Bundle price = tablet (current best new retail) + keyboard, per the config definition. Components: Tab S10+ 512GB $1,799.99 (BBY SKU 18390512) + Slim Keyboard Cover $219.97 reg (BBY 18469762, sale $131.97) = $2,019.96 cover-in price. Cover-only price: $219.97 reg / $131.97 sale.",
     "offers": [
       {
         "store": "bestbuy.ca",
         "url": "https://www.bestbuy.ca/en-ca/product/18390512",
-        "cad": 1799.99,
-        "est": false,
-        "name": "Samsung Galaxy Tab S10+ (Plus) 12.4-inch 512GB, Wi-Fi, 12GB RAM with S Pen - Grey"
+        "cad": 2019.96,
+        "est": true,
+        "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 1799.99 + keyboard per price.notes."
       }
     ],
     "official_url": null
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/183/18390/18390512.jpg",
   "professional": {
-    "avg_score": null,
+    "avg_score": 8.5,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "no numeric score retrieved",
-        "url": "https://www.notebookcheck.net/ (Tab S10+ review exists but exact article URL unresolvable — guessed numeric IDs redirect; bot-walled 2026-11-24)",
-        "quote": ""
+        "score": 8.5,
+        "url": "https://www.notebookcheck.net/The-AI-tablet-has-a-display-problem-Samsung-Galaxy-Tab-S10-Plus-review.919026.0.html",
+        "quote": "The AI tablet has a display problem: developed specially for AI functions, but Samsung is breaking new ground with its choice of processor."
       }
     ]
   },

@@ -64,11 +64,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19799/19799213.jpeg",
   "professional": {
-    "avg_score": 8.4,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.notebookcheck.net/HP-EliteBook-Ultra-G1i-review.1059001.0.html",
         "quote": "HP's EliteBook Ultra G1i combines the efficiency of Lunar Lake with a premium business chassis — long battery life and an excellent 2.8K display."
       }

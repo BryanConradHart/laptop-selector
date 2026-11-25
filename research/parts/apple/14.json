@@ -38,7 +38,7 @@
     "notes": "Up to 22h video / 14h web claimed; 72.4Wh. NBC found the M5 Pro 16-inch's runtime a bit shorter than M4 Pro's."
   },
   "price": {
-    "cad": 3499,
+    "cad": 3489.99,
     "currency": "CAD",
     "store": "apple.com/ca",
     "store_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/14-inch",
@@ -67,13 +67,13 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "92.3%",
+        "score": 9.2,
         "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-16-2026-Review-M5-Pro-makes-one-of-the-best-multimedia-laptops-even-better.1245523.0.html",
         "quote": "The new Apple M5 Pro SoC is a perfect fit... it can utilize the full performance of the chip without throttling. We see noticeable performance advantages over the previous M4 Pro chip (~20 % CPU, 30-50 % GPU) (same chip tested in the 16-inch chassis)"
       },
       {
         "outlet": "RTINGS",
-        "score": "8.4/10",
+        "score": 8.4,
         "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-14-m5-2025",
         "quote": "exceptional battery life... lasts well over a full day; exceptional build quality... all-aluminum unibody (same chassis, M5 model tested)"
       }

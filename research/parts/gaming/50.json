@@ -57,29 +57,29 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/191/19195/19195151.jpg",
   "professional": {
-    "avg_score": 7.6,
+    "avg_score": 7.8,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "82%",
+        "score": 8.2,
         "url": "https://www.notebookcheck.net/HP-Omen-Max-16-laptop-review-Super-fast-but-a-little-bit-too-hot.999164.0.html",
         "quote": "The Omen Max 16 squeezes a ton of performance considering the size. It comes with the same Core Ultra 9 275HX CPU and 175 W GeForce RTX 5090 GPU as the competing Lenovo Legion Pro 7i 16 Gen 10 while being both heavier and smaller."
       },
       {
         "outlet": "Notebookcheck",
-        "score": "82%",
+        "score": 8.2,
         "url": "https://www.notebookcheck.net/HP-Omen-Max-16-laptop-review-Super-fast-but-a-little-bit-too-hot.999164.0.html",
         "quote": "As fast as the Arrow Lake HX CPU may be, it may be too fast for the Omen Max 16 to handle. Core temperature under load or when gaming is well over 90 C while clock rates are consistently slower than the same processor running on the aforementioned Legion Pro 7i 16."
       },
       {
         "outlet": "Tom's Hardware",
-        "score": "3.5/5",
+        "score": 7,
         "url": "https://www.tomshardware.com/laptops/gaming-laptops/hp-omen-max-16-review",
         "quote": "The HP Omen Max 16 offers good performance, stunning visuals and layered sound, but it's a lot to lug around."
       },
       {
         "outlet": "RTINGS",
-        "score": "no numeric score found",
+        "score": null,
         "url": "https://www.rtings.com/laptop/reviews/hp/omen-max-16-2025",
         "quote": "Review page exists but score was behind a bot-wall on 2026-11-24; not cited."
       }

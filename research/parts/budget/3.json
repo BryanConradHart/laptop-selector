@@ -37,7 +37,7 @@
     "notes": "Capacity not published on BBY spec; class norm 45-55Wh for this chassis. Core 3 100U is low-power; ~5-6.5h real."
   },
   "price": {
-    "cad": 1199.99,
+    "cad": 699,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19277193",
@@ -56,8 +56,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19277/19277193.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7.1,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 7.2,
+        "quote": "It's one of the cheaper 15.6-inch laptops you can find without resorting to used systems; a decent barebones experience so long as you keep your expectations in check."
+      },
+      {
+        "outlet": "Techradar",
+        "score": 8.0,
+        "quote": "Not going to set anyone's world on fire, but a great value for those that just need a Windows computer."
+      },
+      {
+        "outlet": "PCMag",
+        "score": 6.0,
+        "quote": "Sits just a rung or two above the minimum viable Windows laptop, held back by lackluster battery life and a limited raw-performance ceiling."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

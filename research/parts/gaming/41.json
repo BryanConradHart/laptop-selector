@@ -61,13 +61,13 @@
     "reviews": [
       {
         "outlet": "RTINGS",
-        "score": "8.7/10",
+        "score": 8.7,
         "url": "https://www.rtings.com/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026",
         "quote": "The Lenovo Legion Pro 7i is excellent for gaming. Our RTX 5080 configuration achieves high frame rates across demanding games, including titles with ray tracing."
       },
       {
         "outlet": "RTINGS",
-        "score": "8.7/10",
+        "score": 8.7,
         "url": "https://www.rtings.com/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026",
         "quote": "The Legion Pro 7i has disappointing battery life. The RTX 5080 configuration lasts under five hours while browsing the web."
       }

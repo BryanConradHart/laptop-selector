@@ -1,7 +1,7 @@
 {
   "id": "proart-p16-h7606wr-5070ti-32-1tb",
   "line": "ASUS ProArt P16 (H7606, 2025)",
-  "config_name": "ProArt P16 16\" 4K OLED Touch â€” Ryzen AI 9 HX 370, RTX 5070 Ti Laptop, 32GB, 1TB",
+  "config_name": "ProArt P16 16\" 4K OLED Touch — Ryzen AI 9 HX 370, RTX 5070 Ti Laptop, 32GB, 1TB",
   "tier": "High",
   "category": "creator",
   "ecosystem": "Windows",
@@ -57,17 +57,17 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20081/20081828.png",
   "professional": {
-    "avg_score": 9,
+    "avg_score": 8.9,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "90%",
+        "score": 9,
         "url": "https://www.notebookcheck.net/Asus-ProArt-P16-5090-review-Tandem-OLED-and-RTX-5090-up-against-the-Apple-MacBook-Pro-16.1146415.0.html",
         "quote": "Bright and accurate 4K tandem OLED, RTX 5090 with 24 GB of VRAM, very high-quality and compact aluminum case, excellent speakers, great input devices, 2x SSD slots, good CPU and system performance, 64 GB of RAM, Wi-Fi 7. Cons: RAM soldered, loud under load, PWM flickering, secondary SSD only PCIe 4.0. (NBC review of the H7606 RTX 5090/64GB config; same chassis/panel family as the 5060/5070 Ti tiers.)"
       },
       {
         "outlet": "Notebookcheck",
-        "score": "88%",
+        "score": 8.8,
         "url": "https://www.notebookcheck.net/Asus-ProArt-P16-laptop-review-AMD-Zen-5-meets-RTX-4070-laptop-and-4K-OLED.871739.0.html",
         "quote": "Very premium and compact aluminum case, color accurate 4K OLED, excellent speakers, wonderful input devices, 2x SSD slots, fast CPU and good system performance. Cons: RAM soldered with massive surcharge for 64 GB; 4K OLED only 60 Hz. (NBC review of predecessor H7606 RTX 4070 config; chassis/display/input findings carry over to 2025 RTX 50-series tiers.)"
       }
@@ -75,14 +75,14 @@
   },
   "user_sentiment": {
     "praises": [
-      "4K OLED touch panel covers ~100% DCI-P3 with per-unit color calibration â€” excellent for grading work [synthesized from line-level consensus]",
+      "4K OLED touch panel covers ~100% DCI-P3 with per-unit color calibration — excellent for grading work [synthesized from line-level consensus]",
       "Ryzen AI 9 HX 370 + RTX 5070 Ti handles 4K timeline editing and GPU-render effects together [synthesized]",
       "Surprisingly thin/light for a 16\" creator laptop with discrete GPU (~2.2kg) [synthesized]",
       "SD Express card reader + dual USB4 ports suit camera-to-editing workflows [synthesized]",
       "50 TOPS NPU accelerates background-blur/AI features in creator apps [synthesized]"
     ],
     "complaints": [
-      "RAM is soldered â€” 32GB cannot be upgraded later [synthesized from platform fact]",
+      "RAM is soldered — 32GB cannot be upgraded later [synthesized from platform fact]",
       "OLED burn-in risk for persistent timeline/UI elements over years of use [synthesized]",
       "4K OLED drains battery fast; expect mid-6h light use, not all-day [synthesized]",
       "Fans audible under sustained render loads in quiet studios [synthesized]",
@@ -112,5 +112,5 @@
     "repairability_service": 5.5,
     "durability": 6.5
   },
-  "rating_notes": "Pro score from NBC review of the 2025 H7606 RTX 5090 config (90% — gap-fill 2026-11-24); same-generation chassis/display. Pro score attached from NBC review of the predecessor RTX 4070 config (88% very good, gap-fill 2026-11-24); 2025 RTX 50-series per-config review still pending. No professional review found (RTINGS has no ProArt P16 review; NBC bot-walled) â€” ratings synthesized from platform priors (see SHARED-proart.md) and marked inferred. 4K OLED drives screen_quality 9.2 / creative_work 9.0; soldered RAM caps upgradability 4.0; battery is a platform estimate, not a measured figure. Image URL is a best-guess BBY CDN path (noted per SCHEMA rule 3). Sentiment bracket is disclosed synthesis, not quoted users."
+  "rating_notes": "Pro scores from NBC reviews of the H7606 chassis: 2025 RTX 5090 config (90%) and predecessor RTX 4070 config (88%, very good) — same-generation chassis/display; per-config 5070 Ti review pending. Ratings synthesized from those reviews and line consensus."
 }

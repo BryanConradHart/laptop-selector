@@ -38,7 +38,7 @@
     "notes": "99.9Wh. RTINGS (5080 config): under 5h web browsing, ~6h video, ~1.5h gaming; 5090 tier draws more power under load."
   },
   "price": {
-    "cad": 12149,
+    "cad": 8499,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/20341958",
@@ -61,19 +61,19 @@
     "reviews": [
       {
         "outlet": "RTINGS",
-        "score": "8.7/10",
+        "score": 8.7,
         "url": "https://www.rtings.com/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026",
         "quote": "The Lenovo Legion Pro 7i is excellent for gaming. Our RTX 5080 configuration achieves high frame rates across demanding games, including titles with ray tracing. The 240Hz OLED display offers excellent contrast and G-SYNC support to prevent screen tearing."
       },
       {
         "outlet": "RTINGS",
-        "score": "8.7/10",
+        "score": 8.7,
         "url": "https://www.rtings.com/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026",
         "quote": "The Legion Pro 7i has disappointing battery life. The RTX 5080 configuration lasts under five hours while browsing the web, a little over six hours watching videos, and only about an hour and a half while gaming."
       },
       {
         "outlet": "RTINGS",
-        "score": "8.7/10",
+        "score": 8.7,
         "url": "https://www.rtings.com/laptop/reviews/lenovo/legion-pro-7i-gen-10-16-2026",
         "quote": "It uses an all-aluminum chassis with securely fitted feet and a finish that doesn't readily collect fingerprints or scratches. The keyboard deck has very little flex, but the lid and screen have more give under deliberate pressure."
       }

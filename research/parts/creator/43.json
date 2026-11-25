@@ -64,6 +64,12 @@
         "score": null,
         "url": "https://laptopmedia.com/review/dell-pro-max-16-mc16250-review-built-for-work-built-to-last/",
         "quote": "A serious workstation that prioritizes function, stability, and user-centric features over flashiness... a robust build, a fantastic keyboard, and a level of upgradeability and flexibility that is becoming increasingly rare. (exact MC16250 model reviewed; no numeric score published.)"
+      },
+      {
+        "outlet": "RTINGS",
+        "score": null,
+        "url": "https://www.rtings.com/laptop/reviews/dell/pro-max-16-2025",
+        "quote": "It's available with Intel Arrow Lake CPUs up to a Core Ultra 9 285H... CPU and discrete GPU can handle demanding workloads, with user-replaceable RAM and storage and minimal thermal throttling; downsides are slow 60Hz-only displays and loud fans. (RTINGS publishes per-use-case verdicts, not a single numeric score.)"
       }
     ]
   },

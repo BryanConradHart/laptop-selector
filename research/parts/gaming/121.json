@@ -61,19 +61,19 @@
     "reviews": [
       {
         "outlet": "Notebookcheck (model-page aggregate, PHN16-73)",
-        "score": "76%",
+        "score": 7.6,
         "url": "https://www.notebookcheck.net/Acer-Predator-Helios-Neo-16-AI-PHN16-73.1171432.0.html",
         "quote": "Aggregated scoring places it at around 76% overall, indicating a solid but not flawless package."
       },
       {
         "outlet": "Laptop Media (via Notebookcheck)",
-        "score": "recommended (no numeric score)",
+        "score": null,
         "url": "https://www.notebookcheck.net/Acer-Predator-Helios-Neo-16-AI-PHN16-73.1171432.0.html",
         "quote": "The Acer Predator Helios Neo 16 AI (PHN16-73) is a powerful and well-balanced gaming laptop that successfully bridges the gap between raw performance and a surprisingly portable design. ... The very same OLED screen that provides its greatest strength is also the source of its most critical flaws, creating a frustrating paradox for potential buyers."
       },
       {
         "outlet": "Tom's Guide",
-        "score": "no numeric score found",
+        "score": null,
         "url": "https://www.tomsguide.com/computing/gaming-laptops/acer-predator-helios-neo-16-ai-review",
         "quote": "It's bright and features stupendous color coverage and accuracy. Its 240Hz refresh rate delivers smooth gaming performance, and the laptop is great for everyday tasks, too. But its flaws are hard to overlook. An ineffective cooling system, slow SSD hampered by bloatware, bulky design, and short battery life make the Neo 16 AI a hard sell."
       }

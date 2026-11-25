@@ -43,13 +43,15 @@
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/lenovo-legion-7i-16-gaming-laptop-glacier-white-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070/19430020",
     "confidence": "estimated",
-    "notes": "Tier confirmed sold in Canada via BBY open-box listing sku 19430020 ($2,189.99 open box, 3.0/5 n=2). Regular new price no longer listed at BBY (new stock sold through); estimated from US Lenovo pricing ($1,770 USD for this tier vs $1,650 for 5060 tier, scaled from verified $3,999.99 CAD 5060 regular). lenovo.com/ca CTO unfetchable (JS SPA).",
+    "notes": "New price estimated at $4,199.99 CAD (scaled from US Lenovo pricing: $1,770 USD for this 5070 tier vs $1,650 for the 5060 tier, from verified $3,999.99 CAD 5060 regular). Tier confirmed sold in Canada via BBY open-box listing sku 19430020 ($2,189.99 open box, 3.0/5 n=2); regular new price no longer listed at BBY (new stock sold through). lenovo.com/ca CTO unfetchable (JS SPA).",
     "offers": [
       {
         "store": "bestbuy.ca",
         "url": "https://www.bestbuy.ca/en-ca/product/lenovo-legion-7i-16-gaming-laptop-glacier-white-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070/19430020",
-        "cad": 2189.99,
-        "est": false
+        "cad": 4199.99,
+        "est": true,
+        "official": false,
+        "name": "Estimated new price (open-box sku 19430020 sold at $2,189.99; new price estimated from US Lenovo tier pricing)"
       }
     ],
     "official_url": "https://www.lenovo.com/ca/en/p/laptops/legion-laptops/legion-7-series/lenovo-legion-7i-gen-10-16-inch-intel/len101g0044"
@@ -60,7 +62,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "87%",
+        "score": 8.7,
         "url": "https://www.notebookcheck.net/Lenovo-Legion-7-16IAX10-review-Formidable-Razer-Blade-16-competitor.1122108.0.html",
         "quote": "Higher-end SKUs come with the Core Ultra 9 275HX, RTX 5070, and 240 Hz OLED instead. ... The main drawback to the model is its aforementioned RTX 5070 limit. The RTX 5070 Ti is significantly faster than the RTX 5070, but its high power requirements have likely excluded it from the system."
       }

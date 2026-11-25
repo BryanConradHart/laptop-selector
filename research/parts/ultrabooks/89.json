@@ -49,8 +49,8 @@
         "store": "Best Buy",
         "url": "https://www.bestbuy.ca/en-ca/product/20196754",
         "cad": 2999,
-        "est": false,
-        "name": "ASUS Zenbook A16 16\" Laptop - Snapdragon X 26 100 - 16GB LPDDR5X - 512GB SSD - Windows 11 - 30h Battery Life - Iceland Grey"
+        "est": true,
+        "name": "ASUS Zenbook A16 16\" Laptop - Snapdragon X 26 100 - 16GB LPDDR5X - 512GB SSD - Windows 11 - 30h Battery Life - Iceland Grey (X1-tier SKU listing; X2 Elite Extreme price estimated)"
       }
     ],
     "official_url": null
@@ -61,19 +61,19 @@
     "reviews": [
       {
         "outlet": "Ultrabookreview",
-        "score": "4.25/5",
+        "score": 8.5,
         "url": "https://www.ultrabookreview.com/75005-asus-zenbook-a16-review/",
         "quote": "This Asus Zenbook A16 checks many of the right boxes when it comes to a versatile all-purpose portable notebook. The lightweight and premium build, the fair ergonomics and the beautiful display, all add up alongside the performance and the efficiency of the Snapdragon X2 Elite Extreme hardware."
       },
       {
         "outlet": "Ultrabookreview",
-        "score": "4.25/5",
+        "score": 8.5,
         "url": "https://www.ultrabookreview.com/75005-asus-zenbook-a16-review/",
         "quote": "the whole Windows on ARM experience can still be finicky sometimes, and Asus's choice of only speccing this lineup with Extreme hardware pushes pricing higher that you might aim to spend"
       },
       {
         "outlet": "CNET",
-        "score": "8.5/10",
+        "score": 8.5,
         "url": "https://www.cnet.com/tech/computing/",
         "quote": "the lightest 16-inch laptop I've ever tested. (It weighs less than 3 pounds!) — Lackluster 3D performance; No room for internal expansion"
       }

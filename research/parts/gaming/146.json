@@ -7,7 +7,7 @@
   "inferred": true,
   "specs": {
     "cpu_cores": 10,
-    "gpu_type": "dedicated",
+    "gpu_type": "discrete",
     "ram_gb": 64,
     "ram_type": "LPDDR5x-8000 soldered",
     "screen_size_in": 14,
@@ -53,8 +53,27 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19218/19218985.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.7,
+        "url": "https://www.notebookcheck.net/Razer-Blade-14.1076226.0.html",
+        "quote": "A high-quality and fast 14-inch all-rounder; the limitation to the RTX 5070 with 8 GB VRAM is a drawback."
+      },
+      {
+        "outlet": "Trusted Reviews",
+        "score": 9,
+        "url": "https://www.trustedreviews.com/reviews/razer-blade-14-2025",
+        "quote": "The power of a real gaming PC packed into a luxury ultraportable."
+      },
+      {
+        "outlet": "PCGamesN",
+        "score": 8,
+        "url": "https://www.pcgamesn.com/razer/blade-14-2025-review",
+        "quote": "Almost a slam dunk; the big downside is battery life."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

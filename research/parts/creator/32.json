@@ -57,8 +57,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20183/20183308.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.9,
+        "quote": "This laptop is a local AI monster and the most powerful ThinkPad laptop — overall performance is limited by one specific factor: the low-wattage GPU."
+      },
+      {
+        "outlet": "PCMag",
+        "score": 7.0,
+        "quote": "Portability over peak performance — the P16 Gen 3 can't match the raw horsepower of Dell's thicker Pro Max Plus."
+      },
+      {
+        "outlet": "TechRadar",
+        "score": 10.0,
+        "quote": "A spectacular spectacle in the mobile workstation world."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

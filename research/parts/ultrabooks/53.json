@@ -57,13 +57,12 @@
   },
   "image_url": "https://i.dell.com/assetlink/img/global/laptop-xps-dx16263-gy-gallery-1-dl12v3lo-large.png?fmt=png-alpha",
   "professional": {
-    "avg_score": 7.8,
+    "avg_score": null,
     "reviews": [
       {
-        "outlet": "TechRadar (RTX Spark platform)",
-        "score": "mixed",
-        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16dx16263",
-        "quote": "isn't the MacBook Pro killer I hoped for"
+        "outlet": "None found",
+        "score": null,
+        "quote": "No professional review of this exact RTX Spark XPS 16 SKU as of 2026-11; ratings inferred from the CNET XPS 16 (2026) chassis anchor and RTX Spark platform coverage."
       }
     ]
   },

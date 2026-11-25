@@ -48,9 +48,9 @@
       {
         "store": "bestbuy.ca",
         "url": "https://www.bestbuy.ca/en-ca/product/microsoft-surface-pro-oled-copilot-pc-13-1tb-tablet-with-snapdragon-x-elite-32gb-ram-2024-platinum-device-only/17921787",
-        "cad": 2399.99,
-        "est": false,
-        "name": "Microsoft Surface Pro (OLED) Copilot+ PC 13\" 1TB Tablet with Snapdragon X Elite/32GB RAM (2024) - Platinum - Device Only"
+        "cad": 2799.98,
+        "est": true,
+        "name": "Microsoft Surface Pro (OLED) Copilot+ PC 13\" 1TB Tablet with Snapdragon X Elite/32GB RAM (2024) - Platinum - Device Only — bundle: tablet sale $2,399.99 + Flex Keyboard w/ Slim Pen $399.99 (BBY 179231"
       }
     ],
     "official_url": "https://www.microsoft.com/en-ca/d/surface-pro-11-with-snapdragon-technology/8mzbkmz0lmc1"
@@ -61,7 +61,7 @@
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "8.3/10 (16GB sibling)",
+        "score": 8.3,
         "url": "https://www.cnet.com/tech/computing/microsoft-surface-pro-11-review-snapdragon-and-oled-deliver/",
         "quote": "16GB of memory isn't a lot when it needs to be shared (and even when I just had a lot of browser tabs open, 11GB would already be in use)."
       }

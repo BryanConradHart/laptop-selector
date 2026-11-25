@@ -60,13 +60,13 @@
     "reviews": [
       {
         "outlet": "Ultrabookreview",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.ultrabookreview.com/77001-lenovo-thinkpad-x1carbon-macbook-yoga-zenbook/",
         "quote": "if you want the Core Ultra X7 hardware with the Arc B390 GPU, that's only offered on the Carbon and not on the other two"
       },
       {
         "outlet": "CNET",
-        "score": "8.3/10",
+        "score": 8.3,
         "url": "https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-14-review-flagship-ultraportable-repairable/",
         "quote": "the model Lenovo sent me is actually $100 cheaper tha[n last year's]"
       }

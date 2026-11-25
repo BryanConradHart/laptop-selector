@@ -57,11 +57,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/183/18389/18389564.jpg",
   "professional": {
-    "avg_score": 8.3,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "Ultrabookreview",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.ultrabookreview.com/69717-asus-zenbook-s14-oled-review/",
         "quote": "the Zenbook S14 OLED pairs an ultra-thin premium chassis with Lunar Lake efficiency and a beautiful 3K OLED display"
       }

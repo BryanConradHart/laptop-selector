@@ -60,7 +60,7 @@
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "7.9/10",
+        "score": 7.9,
         "url": "https://www.cnet.com/tech/computing/dell-16-premium-review/",
         "quote": "(score + key findings verified via handoff NOTES: 16.3\" 4K OLED, RTX 5070 option throttled; exact quote text not re-fetched — slug 404s)"
       }

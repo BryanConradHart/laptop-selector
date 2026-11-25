@@ -63,17 +63,17 @@
   },
   "image_url": "https://www.apple.com/v/macbook-pro/specs/e/images/specs/16-inch/macbook_pro_16_inch__cqvg4x5ohjv6_large.jpg",
   "professional": {
-    "avg_score": 8.9,
+    "avg_score": 8.7,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "92.4%",
+        "score": 9.2,
         "url": "https://www.notebookcheck.net/Apple-s-fastest-laptop-starts-to-show-its-age-Apple-MacBook-Pro-16-2026-M5-Max-Review.1250821.0.html",
         "quote": "the larger 16-inch chassis handles the powerful M5 Max much better compared to the MacBook Pro 14 and the performance is both better as well as more consistent. However, even the MacBook Pro 16 cannot utilize the full potential of the M5 Max and the cooling system can only handle 70 Watts."
       },
       {
         "outlet": "RTINGS",
-        "score": "8.2/10",
+        "score": 8.2,
         "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-16-m5-2026",
         "quote": "outstanding build quality with premium materials and incredible fit and finish"
       }

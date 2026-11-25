@@ -57,9 +57,15 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/177/17700/17700715.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": [],
-    "note": "No numeric pro score retrieved for this SKU 2026-11-24 (NBC G834-era pages bot-walled; see SHARED-scar.md). Ratings inferred from SCAR line anchors + BBY 4.5/5 n=505 prev-gen pool."
+    "avg_score": 8.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (review collection)",
+        "score": 8.6,
+        "url": "https://www.notebookcheck.net/Asus-ROG-Strix-Scar-18-G834-Series.750946.0.html",
+        "quote": "Average 85.67% across 37 aggregated scores for the G834 series: desktop-crushing RTX 4080/4090 performance and a superb 240Hz mini-LED panel, at a premium price."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

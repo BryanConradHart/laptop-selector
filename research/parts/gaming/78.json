@@ -38,7 +38,7 @@
     "notes": "~73Wh class. Arrow Lake-H + 5070 Ti draws more than the 2025 anchor; -0.5h inferred per SHARED-zephyrus-g14.md. ~1.25h gaming."
   },
   "price": {
-    "cad": 4799,
+    "cad": 4299,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/rog-zephyrus-g14-2026-gaming-laptop-14-120hz-oled-display-intel-core-ultra-9-nvidia-geforce-rtx-5070-ti-32gb-ram-1tb-ssd-wi-fi-7-gu405ar-ds96-ca/19839366",
@@ -68,7 +68,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "89%",
+        "score": 8.9,
         "url": "https://www.notebookcheck.net/14-inches-with-the-GeForce-RTX-5080-Laptop-Asus-ROG-Zephyrus-G14-2025-review.1014019.0.html",
         "quote": "With the RTX 5070 Ti and RTX 5080 options the new ROG Zephyrus G14 is currently pretty unrivaled. Very high-quality and compact aluminum case, brilliant OLED display at 120 Hz with G-Sync, excellent speakers, great input devices. Cons: soldered-on RAM, PWM flickering, limited maximum HDR brightness, loud fans. (NBC review of the GA403WW RTX 5080 config, \"top rated\" award.)"
       }

@@ -1,7 +1,7 @@
 {
   "id": "vivobook-16-r5-3501u-16-256",
   "line": "ASUS Vivobook 16 (Ryzen 5 3501U, 2026)",
-  "config_name": "Vivobook 16 16\" 60Hz — Ryzen 5 3501U, 16GB DDR4, 256GB SSD, FHD+ (1920x1200) anti-glare, Cool Silver",
+  "config_name": "Vivobook 16 16\" 60Hz — Ryzen 5 3500U, 16GB DDR4, 256GB SSD, FHD+ (1920x1200) anti-glare, Cool Silver",
   "tier": "Entry",
   "category": "budget",
   "ecosystem": "Windows",
@@ -9,7 +9,7 @@
   "release": "2026-01",
   "inferred": true,
   "specs": {
-    "cpu": "AMD Ryzen 5 3501U (4-core/4-thread Zen 2 'Mendocino' refresh, 2.1 GHz)",
+    "cpu": "AMD Ryzen 5 3500U (Zen+ 4-core/8-thread, 2.1 GHz base)",
     "cpu_cores": 4,
     "gpu": "AMD Radeon 610M-class integrated",
     "gpu_type": "integrated",
@@ -37,7 +37,7 @@
     "notes": "4335 mAh 3-cell (~50 Wh); Mendocino is very efficient — ~6-7h light use."
   },
   "price": {
-    "cad": 999.99,
+    "cad": 699.99,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/20113174",
@@ -56,8 +56,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20113/20113174.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7.9,
+    "reviews": [
+      {
+        "outlet": "Pokde",
+        "score": 8.3,
+        "quote": "Essentially sensible — you're not getting a colorful display or boomy speakers, but for the price you get a lot of good old performance and practicality."
+      },
+      {
+        "outlet": "Laptop Media",
+        "score": 8,
+        "quote": "It's not a powerhouse but the battery life is great — more than 16 hours of web browsing from a 42Wh battery."
+      },
+      {
+        "outlet": "Hitech Century",
+        "score": 7.4,
+        "quote": "A big-screen budget laptop for students: about 10% more viewing space than a conventional 15-inch and enough performance for general-purpose computing."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

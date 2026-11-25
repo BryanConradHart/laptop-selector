@@ -60,19 +60,19 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "90%",
+        "score": 9,
         "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
         "quote": "Lenovo's updated ThinkPad T14s Gen 7 is an improvement over the previous model and closes the gap to the flagship ThinkPad X1 Carbon even further."
       },
       {
         "outlet": "Notebookcheck",
-        "score": "90%",
+        "score": 9,
         "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
         "quote": "The fan noise is very quiet and it is often turned off during lighter workloads, which is a clear improvement over the previous model."
       },
       {
         "outlet": "TechRadar",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.techradar.com/",
         "quote": "Lenovo ThinkPad T14s Gen 6 (AMD) review: Still the gold standard for business (prior-gen AMD platform verdict)"
       }

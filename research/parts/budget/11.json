@@ -42,7 +42,7 @@
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19889767",
     "confidence": "verified",
-    "notes": "No sale; $999.99 flat.",
+    "notes": "No sale; $999.99 flat. Priced above the Ryzen 7 7730U Mid twin ($799.95 on BF sale): newer Mendocino-refresh SKU at flat MSRP while the older SKU is discounted — spec hierarchy (tier Entry) kept per CPU capability.",
     "offers": [
       {
         "store": "bestbuy.ca",
@@ -56,8 +56,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19889/19889767.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.1,
+        "quote": "Office notebook with long runtimes — very good battery runtimes and USB-C Power Delivery in a cheap 15.6-inch package."
+      },
+      {
+        "outlet": "Tom's Guide",
+        "score": 8,
+        "quote": "This $300 laptop is a killer value and doesn't feel like a cheap laptop."
+      },
+      {
+        "outlet": "PCWorld",
+        "score": 8,
+        "quote": "Nothing exciting, but it has clear value — a worthy machine for $300."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

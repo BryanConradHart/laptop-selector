@@ -15,8 +15,8 @@
     "gpu_type": "integrated",
     "ram_gb": 16,
     "ram_type": "LPDDR5x soldered",
-    "storage_gb": 1536,
-    "storage_type": "M.2 NVMe 512GB + bundled 1TB dock SSD",
+    "storage_gb": 512,
+    "storage_type": "M.2 NVMe 512GB + bundled 1TB dock SSD (+ bundled 1TB docking-station SSD not counted in internal storage)",
     "screen_size_in": 16,
     "display_type": "LCD (2K) touch, 16:10",
     "resolution": "2560x1600",
@@ -64,9 +64,25 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20091/20091372.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": [],
-    "notes": "No numeric pro score found (see SHARED-yoga7i-2in1.md). Ratings inferred from 14\" Panther Lake sibling 19767706 + line calibration."
+    "avg_score": 8,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": 8,
+        "quote": "The Yoga 7i 16 Gen 10 offers a spacious display in a fairly thin-and-light design... it's an easy recommendation, especially when you can find it on sale for less than $700."
+      },
+      {
+        "outlet": "Techaeris",
+        "score": 8.9,
+        "quote": "A solid 16-inch laptop for most general users."
+      },
+      {
+        "outlet": "Laptop Mag",
+        "score": 7,
+        "quote": "Nearly great, except for one huge flaw — the dim base display holds back an otherwise strong big-screen convertible."
+      }
+    ],
+    "notes": "Line-level scores from the Yoga 7 16 Gen 10 review round (aggregated by Notebookcheck); no review of this exact Gen 11 config as of 2026-11."
   },
   "user_sentiment": {
     "praises": [

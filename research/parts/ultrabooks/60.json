@@ -57,11 +57,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19880/19880422.jpg",
   "professional": {
-    "avg_score": 8.5,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "PCMag",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.pcmag.com/reviews/hp-omnibook-ultra-14",
         "quote": "I Tested HP's OmniBook Ultra 14, a Gorgeous Ultraportable With Potent Processing Power"
       }

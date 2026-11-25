@@ -60,13 +60,13 @@
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "8.0/10",
+        "score": 8,
         "url": "https://www.cnet.com/tech/computing/dell-xps-16-2026-review/",
         "quote": "the XPS 16 is a fantastic laptop befitting of the premium XPS name"
       },
       {
         "outlet": "CNET",
-        "score": "8.0/10",
+        "score": 8,
         "url": "https://www.cnet.com/tech/computing/dell-xps-16-2026-review/",
         "quote": "RTX-level price without RTX GPU"
       }

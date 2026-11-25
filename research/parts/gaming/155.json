@@ -9,10 +9,10 @@
   "release": "2025-06",
   "inferred": true,
   "specs": {
-    "cpu": "AMD Ryzen 7 260 (Zen, 8-core est.)",
+    "cpu": "AMD Ryzen 7 260 (Zen 4 Hawk Point refresh, 8-core/16-thread)",
     "cpu_cores": 8,
     "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7",
-    "gpu_type": "dedicated",
+    "gpu_type": "discrete",
     "ram_gb": 32,
     "ram_type": "DDR5 SO-DIMM (2 slots est., upgradeable)",
     "storage_gb": 1000,
@@ -57,7 +57,13 @@
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19956/19956028.jpeg",
   "professional": {
     "avg_score": null,
-    "reviews": []
+    "reviews": [
+      {
+        "outlet": "None found",
+        "score": null,
+        "quote": "No professional review found for this line as of 2026-11; ratings inferred from specs and sibling-line reviews."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

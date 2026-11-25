@@ -12,7 +12,7 @@
     "cpu": "Intel Core 7 240H (Raptor Lake-H refresh, 10-core est.)",
     "cpu_cores": 10,
     "gpu": "NVIDIA GeForce RTX 5080 Laptop 16GB GDDR7 (~100-120W TGP est.)",
-    "gpu_type": "dedicated",
+    "gpu_type": "discrete",
     "ram_gb": 32,
     "ram_type": "DDR5 SO-DIMM (2 slots, upgradeable)",
     "storage_gb": 1000,
@@ -56,8 +56,16 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20205/20205609.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.1,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.1,
+        "url": "https://www.notebookcheck.net/Gigabyte-Gaming-A16-Pro-review-RTX-5070-Ti-meets-a-slim-chassis-and-some-unusual-priorities.1259661.0.html",
+        "quote": "Not really 'pro' for gaming, but maybe for creator work: slim chassis, solid battery life, bright display — undermined by high latencies, SSD throttling and excessive idle power.",
+        "note": "NBC's full A16 Pro review covers the RTX 5070 Ti config (GA6DH); used as the line-level anchor for the RTX 5080 SKU."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

@@ -12,7 +12,7 @@
     "cpu": "Intel Core Ultra 9 386H (Panther Lake, 16-core)",
     "cpu_cores": 16,
     "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7",
-    "gpu_type": "dedicated",
+    "gpu_type": "discrete",
     "ram_gb": 64,
     "ram_type": "LPDDR5X dual channel soldered",
     "storage_gb": 2000,
@@ -56,11 +56,11 @@
   },
   "image_url": "https://p4-ofp.static.pub/ShareResource/optimized/pdp/yoga/yoga-pro-series/len101y0068/lenovo-yoga-pro-7i-gen-11-aura-edition-15-intel-hero.png",
   "professional": {
-    "avg_score": 8.4,
+    "avg_score": 8.6,
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "8.6/10 (sibling line)",
+        "score": 8.6,
         "url": "https://www.cnet.com/tech/computing/",
         "quote": "Centered around a gorgeous 16-inch OLED display, this Yoga laptop provides the performance and build that graphics pros demand."
       }

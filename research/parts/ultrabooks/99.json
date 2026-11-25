@@ -57,9 +57,15 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/177/17729/17729460.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": [],
-    "notes": "No verified pro review retrieved this pass (bot-walls; see SHARED-lg-gram.md). NBC reviewed the 2024 gram 16 OLED — gap-fill target."
+    "avg_score": 8.6,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.6,
+        "url": "https://www.notebookcheck.net/LG-Gram-16-2-in-1-16T90P.584412.0.html",
+        "quote": "LG Gram 16 16T90P Convertible Review: Lighter than most 15.6-inch laptops — the OLED gram 16 is incredibly thin and light for its class."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

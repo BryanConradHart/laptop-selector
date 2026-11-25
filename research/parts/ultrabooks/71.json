@@ -38,7 +38,7 @@
     "notes": "~54Wh est. X2 Elite strong idle efficiency; ~14h light use expected."
   },
   "price": {
-    "cad": 2399.99,
+    "cad": 1999.99,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19852081",
@@ -57,17 +57,17 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19852/19852081.jpg",
   "professional": {
-    "avg_score": 7.8,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "Tom's Guide",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.tomsguide.com/computers/surface-devices/microsoft-surface-laptop-8-review",
         "quote": "The new Microsoft Surface Laptop 8 is great — but it's hard to recommend to most people"
       },
       {
         "outlet": "Windows Central",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.windowscentral.com/microsoft/surface-laptop-8-for-business-review",
         "quote": "The privacy King: Surface Laptop 8 for business review—is the new stealth screen worth the $2,549 entry price?"
       }

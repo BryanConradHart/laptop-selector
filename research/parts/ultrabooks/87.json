@@ -61,13 +61,13 @@
     "reviews": [
       {
         "outlet": "Ultrabookreview",
-        "score": "4.25/5",
+        "score": 8.5,
         "url": "https://www.ultrabookreview.com/75029-asus-zenbook-a14-x2elite-review/",
         "quote": "The 2026 refresh of the Asus Zenbook A14 brings compeling Snapdragon X2 Elite hardware to a lightweight 14-inch chassis that weighs about 1 kilo."
       },
       {
         "outlet": "Ultrabookreview",
-        "score": "4.25/5",
+        "score": 8.5,
         "url": "https://www.ultrabookreview.com/75029-asus-zenbook-a14-x2elite-review/",
         "quote": "only a 60Hz 2K OLED display option; Windows on ARM is still somewhat finicky; only available in X2 Elite variants"
       }

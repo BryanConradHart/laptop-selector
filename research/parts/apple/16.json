@@ -9,7 +9,7 @@
   "release": "2026-03",
   "inferred": true,
   "specs": {
-    "cpu": "Apple M5 Pro (18-core: 5 super + 13 performance)",
+    "cpu": "Apple M5 Pro (18-core: 5 super + 13 efficiency)",
     "cpu_cores": 18,
     "gpu": "Apple M5 Pro 20-core GPU (integrated)",
     "gpu_type": "integrated",
@@ -60,13 +60,13 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "92.3%",
+        "score": 9.2,
         "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-16-2026-Review-M5-Pro-makes-one-of-the-best-multimedia-laptops-even-better.1245523.0.html",
         "quote": "noticeable performance advantages over the previous M4 Pro chip (~20 % CPU, 30-50 % GPU) (same chip family tested in the 16-inch chassis)"
       },
       {
         "outlet": "RTINGS",
-        "score": "8.4/10",
+        "score": 8.4,
         "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-14-m5-2025",
         "quote": "exceptional battery life... lasts well over a full day (same chassis, M5 model tested)"
       }

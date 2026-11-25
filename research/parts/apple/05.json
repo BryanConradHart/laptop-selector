@@ -38,7 +38,7 @@
     "notes": "66.5Wh cell (larger than 13-inch); up to 18h video / 15h web claimed."
   },
   "price": {
-    "cad": 2099,
+    "cad": 1839.99,
     "currency": "CAD",
     "store": "apple.com/ca",
     "store_url": "https://www.apple.com/ca/shop/buy-mac/macbook-air/15-inch-sky-blue-m5-chip-10-core-cpu-10-core-gpu-16gb-memory-512gb-storage",
@@ -63,23 +63,23 @@
   },
   "image_url": "https://www.apple.com/v/macbook-air/specs/c/images/specs/15-inch/mba_15_hero__gkshp5bw2f6m_large.jpg",
   "professional": {
-    "avg_score": 9.2,
+    "avg_score": 8.8,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "92%",
+        "score": 9.2,
         "url": "https://www.notebookcheck.net/Apple-MacBook-Air-15-M5-Review.1244905.0.html",
         "quote": "There is just nothing comparable in the Windows world."
       },
       {
         "outlet": "RTINGS",
-        "score": "8.3/10",
+        "score": 8.3,
         "url": "https://rtings.com/laptop/reviews/apple/macbook-air-13-m5-2026",
         "quote": "The Apple MacBook Air 13 M5 is a premium ultraportable laptop... keeps the same compact, fanless design."
       },
       {
         "outlet": "Tom's Hardware",
-        "score": "Editor's Choice",
+        "score": null,
         "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-air-13-inch-m5-review",
         "quote": "The MacBook Air M5 is the sum of years of refinements, with a mix of premium design, strong performance, and solid battery life."
       }

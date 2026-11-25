@@ -37,7 +37,7 @@
     "notes": "3550 mAh 3-cell (~42 Wh); efficient Mendocino gives ~5.5-6.5h light use."
   },
   "price": {
-    "cad": 1299.95,
+    "cad": 799.95,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19728356",
@@ -56,8 +56,19 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19728/19728356.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 6.3,
+    "reviews": [
+      {
+        "outlet": "PCMag",
+        "score": 5,
+        "quote": "This bargain laptop is no big deal — a dismal screen, subpar keyboard, outdated CPU and non-upgradeable 8GB of RAM."
+      },
+      {
+        "outlet": "Zive.cz",
+        "score": 7.5,
+        "quote": "The Vivobook Go 15 makes a solid, affordable everyday machine, with the OLED option a real standout at this price."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [
@@ -102,5 +113,5 @@
     "repairability_service": 5.5,
     "durability": 4
   },
-  "rating_notes": "No pro review found (see SHARED-vivobook.md). Platform-anchored on Ryzen 5 40 (Mendocino 4C/4T): same class as the Vivobook 16's 3501U but soldered RAM drops upgradability to 3.5; fingerprint and Wi-Fi 6E noted in sentiment, not scored separately. Panel unstated — treated as ~250-nit TN-class per BUDGET_LIST rule. Image URL best-guess BBY CDN pattern."
+  "rating_notes": "No pro review found (see SHARED-vivobook.md). Platform-anchored on Ryzen 5 40 (Mendocino 4C/4T): same class as the Vivobook 16's 3501U but soldered RAM drops upgradability to 3.5; fingerprint and Wi-Fi 6E noted in sentiment, not scored separately. Panel unstated — treated as ~250-nit TN-class per BUDGET_LIST rule. Image URL best-guess BBY CDN pattern. Zive.cz quote praises the line’s OLED option; this config ships with the standard IPS panel."
 }

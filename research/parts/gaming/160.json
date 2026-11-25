@@ -9,8 +9,8 @@
   "release": "2025-05",
   "inferred": true,
   "specs": {
-    "cpu": "Intel Core 7 240H (Arrow Lake-H, 8-core: 4P+4E)",
-    "cpu_cores": 8,
+    "cpu": "Intel Core 7 240H (Raptor Lake-H refresh, 10-core: 4P+6E)",
+    "cpu_cores": 10,
     "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7 (Advanced Optimus, ~115W)",
     "gpu_type": "discrete",
     "ram_gb": 16,
@@ -61,7 +61,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "83%",
+        "score": 8.3,
         "url": "https://www.notebookcheck.net/The-best-budget-gamer-HP-Omen-16-laptop-review.1135455.0.html",
         "quote": "The best budget gamer? Pros: clean, cohesive design; solid keyboard and touchpad; excellent CPU/GPU performance; cool surface temperatures even under load. Cons: fingerprint-prone surfaces; no USB 4, Thunderbolt, or SD reader; only Wi-Fi 6; subpar display with slow response times; ad-bloated control center; single-channel RAM; relatively small battery."
       }

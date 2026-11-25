@@ -38,7 +38,7 @@
     "notes": "63Wh. ~9-11h light mixed use; Ryzen AI 9 465 efficient at light loads."
   },
   "price": {
-    "cad": 2599.99,
+    "cad": 2399,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/asus-zenbook-s16-16-oled-120hz-touchscreen-laptop-amd-ryzen-ai-9-465-32gb-lpddr5x-1tb-ssd-windows-11-home-antrim-grey/19696998",
@@ -64,11 +64,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/196/19696/19696998.jpg",
   "professional": {
-    "avg_score": 8.4,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "Ultrabookreview",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.ultrabookreview.com/74512-asus-zenbook-s16-s14/",
         "quote": "the Zenbook S16 and S14 combine premium design, OLED displays and efficient hardware in thin-and-light 16 and 14-inch chassis"
       }

@@ -48,9 +48,9 @@
       {
         "store": "bestbuy.ca",
         "url": "https://www.bestbuy.ca/en-ca/product/microsoft-surface-pro-oled-copilot-pc-13-1tb-tablet-with-snapdragon-x-elite-16gb-ram-2024-sapphire-device-only-exclusive-retail-partner/17921785",
-        "cad": 1999.97,
-        "est": false,
-        "name": "Microsoft Surface Pro (OLED) Copilot+ PC 13\" 1TB Tablet with Snapdragon X Elite/16GB RAM (2024) - Sapphire - Device Only - Exclusive Retail Partner"
+        "cad": 2399.96,
+        "est": true,
+        "name": "Microsoft Surface Pro (OLED) Copilot+ PC 13\" 1TB Tablet with Snapdragon X Elite/16GB RAM (2024) - Sapphire - Device Only - Exclusive Retail Partner — bundle: tablet sale $1,999.97 + Flex Keyboard w/ S"
       }
     ],
     "official_url": "https://www.microsoft.com/en-ca/d/surface-pro-11-with-snapdragon-technology/8mzbkmz0lmc1"
@@ -61,13 +61,13 @@
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "8.3/10",
+        "score": 8.3,
         "url": "https://www.cnet.com/tech/computing/microsoft-surface-pro-11-review-snapdragon-and-oled-deliver/",
         "quote": "the Surface Pro 11's Qualcomm Snapdragon X Elite finally breaks the mold, delivering surprisingly competitive performance and a lot fewer compatibility issues for mainstream use"
       },
       {
         "outlet": "CNET",
-        "score": "8.3/10",
+        "score": 8.3,
         "url": "https://www.cnet.com/tech/computing/microsoft-surface-pro-11-review-snapdragon-and-oled-deliver/",
         "quote": "performance comparable to an Intel Core Ultra 7 155H and an Apple M3 ... The Surface Pro's battery life is just under 13 hours streaming video, as promised"
       }

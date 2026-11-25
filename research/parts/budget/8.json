@@ -37,7 +37,7 @@
     "notes": "51 Wh verified. Core 5 120U mid-load: ~5.5-6.5h web/video at mid brightness."
   },
   "price": {
-    "cad": 1199.99,
+    "cad": 799.99,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19922395",
@@ -57,7 +57,13 @@
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19922/19922395.jpg",
   "professional": {
     "avg_score": null,
-    "reviews": []
+    "reviews": [
+      {
+        "outlet": "None found",
+        "score": null,
+        "quote": "No professional review found for this line as of 2026-11; ratings inferred from specs and sibling-line reviews."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

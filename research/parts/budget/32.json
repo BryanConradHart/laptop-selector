@@ -56,8 +56,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19867/19867579.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7.8,
+    "reviews": [
+      {
+        "outlet": "TechRadar",
+        "score": 8.0,
+        "quote": "The Acer Chromebook Plus 516 is a large Chromebook with a vibrant and sharp display and great performance, though its ultra-large size limits its portability."
+      },
+      {
+        "outlet": "PCMag",
+        "score": 8.0,
+        "quote": "The Acer Chromebook Plus 516 GE proves that Chromebooks can fill a special niche, with faster processing and a vivid, high-refresh-rate display. Editors' Choice."
+      },
+      {
+        "outlet": "CNET",
+        "score": 7.5,
+        "quote": "Basic Chromebook with a big screen and battery - there is nothing wrong with the Chromebook Plus 516 to prevent a recommendation."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

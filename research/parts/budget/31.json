@@ -56,8 +56,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/189/18935/18935889.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.0,
+    "reviews": [
+      {
+        "outlet": "PCMag",
+        "score": 8.0,
+        "quote": "The Asus Chromebook Plus CX34 proves that budget-friendly Chromebooks have more to offer than ever before, with more performance and even better features. Editors' Choice."
+      },
+      {
+        "outlet": "The Verge",
+        "score": 8.0,
+        "quote": "Asus Chromebook Plus CX34 review: a simple, smart purchase - ChromeOS is really good at simplifying."
+      },
+      {
+        "outlet": "PC World",
+        "score": 8.0,
+        "quote": "A powerful, reasonably priced everyday laptop with zippy, reliable performance and just over 12 hours of battery life."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

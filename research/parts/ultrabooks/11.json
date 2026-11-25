@@ -60,13 +60,13 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "90%",
+        "score": 9,
         "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
         "quote": "While the performance is only slightly better than before due to improved cooling, you get a lighter chassis and longer battery runtimes."
       },
       {
         "outlet": "Notebookcheck",
-        "score": "90%",
+        "score": 9,
         "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
         "quote": "The speakers were improved as well, so this is a very good overall package, even though the memory is still soldered."
       }

@@ -56,8 +56,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19767/19767599.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.2,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.6,
+        "quote": "MediaTek is crashing the party with its new Kompanio Ultra 910. The Lenovo Chromebook Plus 14 illustrates the readiness of this new ARM chip to compete with Intel and AMD."
+      },
+      {
+        "outlet": "Tom's Guide",
+        "score": 9.0,
+        "quote": "The Lenovo Chromebook Plus 14 is one of the best laptops I've used all year - great design, ergonomics, a beautiful OLED display and sharp webcam."
+      },
+      {
+        "outlet": "PCMag",
+        "score": 7.0,
+        "quote": "A top-end Chrome laptop with a jarring price; it beats some of our favorites on raw performance and has a slick 14-inch OLED touch screen and fanless design."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

@@ -57,13 +57,12 @@
   },
   "image_url": "https://i.dell.com/assetlink/img/global/laptop-xps-dx16263-gy-gallery-1-dl12v3lo-large.png?fmt=png-alpha",
   "professional": {
-    "avg_score": 7.8,
+    "avg_score": null,
     "reviews": [
       {
-        "outlet": "TechRadar (RTX Spark platform)",
-        "score": "mixed",
-        "url": "https://www.dell.com/en-ca/shop/laptop-computers/spd/xps16dx16263",
-        "quote": "isn't the MacBook Pro killer I hoped for"
+        "outlet": "None found",
+        "score": null,
+        "quote": "No professional review of this exact RTX Spark XPS 16 SKU as of 2026-11; ratings inferred from the CNET XPS 16 (2026) chassis anchor and RTX Spark platform coverage."
       }
     ]
   },
@@ -106,5 +105,5 @@
     "repairability_service": 4,
     "durability": 7.5
   },
-  "rating_notes": "No direct pro review of DX16263 yet; ratings inferred from CNET XPS 16 (2026) 8.0 chassis anchor + RTX Spark platform press (TechRadar 'isn't the MacBook Pro killer I hoped for', IT Pro battery criticism). Arm Windows → ecosystem 7.5 per NOTES calibration; RTX 6144-core GPU → gaming 7.5, creative_work 8.5, ai_ml 9.0 (CUDA + unified memory); SD/HDMI/USB4 → port_connectivity 8.5; weight 2.1 kg → portability 7.0. Weight and battery estimated."
+  "rating_notes": "No direct pro review of DX16263 yet; ratings inferred from CNET XPS 16 (2026) 8.0 chassis anchor + RTX Spark platform press (IT Pro battery criticism). Arm Windows → ecosystem 7.5 per NOTES calibration; RTX 6144-core GPU → gaming 7.5, creative_work 8.5, ai_ml 9.0 (CUDA + unified memory); SD/HDMI/USB4 → port_connectivity 8.5; weight 2.1 kg → portability 7.0. Weight and battery estimated."
 }

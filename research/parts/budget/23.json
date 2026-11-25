@@ -57,7 +57,13 @@
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19220/19220171.jpg",
   "professional": {
     "avg_score": null,
-    "reviews": []
+    "reviews": [
+      {
+        "outlet": "None found",
+        "score": null,
+        "quote": "No professional review found for this line as of 2026-11; ratings inferred from specs and sibling-line reviews."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

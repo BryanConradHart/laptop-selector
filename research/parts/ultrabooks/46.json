@@ -60,13 +60,13 @@
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "8.1/10",
+        "score": 8.1,
         "url": "https://www.cnet.com/tech/computing/dell-xps-14-2026-review/",
         "quote": "It's great to see Dell bring back the XPS and do so with such style."
       },
       {
         "outlet": "CNET",
-        "score": "8.1/10",
+        "score": 8.1,
         "url": "https://www.cnet.com/tech/computing/dell-xps-14-2026-review/",
         "quote": "Matches MacBook Pro in price but not performance"
       }

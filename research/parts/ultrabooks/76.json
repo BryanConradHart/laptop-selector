@@ -38,7 +38,7 @@
     "notes": "Same silicon as base tier; battery remains the line's weak point."
   },
   "price": {
-    "cad": 4449.99,
+    "cad": 3599.99,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/20180957",
@@ -64,17 +64,17 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/201/20180/20180957.jpg",
   "professional": {
-    "avg_score": 7.5,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "TechRadar",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.techradar.com/computers/laptops/microsoft-surface-laptop-ultra-review",
         "quote": "isn't the MacBook Pro killer I hoped for"
       },
       {
         "outlet": "IT Pro",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.itpro.com/hardware/laptops/microsoft-surface-laptop-ultra-review",
         "quote": "has all the on-device AI your devs need – but its battery life is disappointing"
       }

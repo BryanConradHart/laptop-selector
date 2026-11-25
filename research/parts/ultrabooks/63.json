@@ -57,11 +57,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/184/18469/18469687.jpg",
   "professional": {
-    "avg_score": 8.4,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "PCMag",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.pcmag.com/reviews/hp-omnibook-ultra-14",
         "quote": "I Tested HP's OmniBook Ultra 14, a Gorgeous Ultraportable With Potent Processing Power"
       }
@@ -106,5 +106,5 @@
     "repairability_service": 4,
     "durability": 7.5
   },
-  "rating_notes": "Inferred from PCMag OmniBook Ultra 14 anchor. 880M gets gaming 5.0 (dataset: B390 ~5). 60Hz IPS panel → screen_quality 6.0. Notable value pick per rule 10 (previous gen at deep discount, price verified)."
+  "rating_notes": "Inferred from PCMag OmniBook Ultra 14 anchor. 880M gets gaming 5.0 (dataset: B390 ~5). 60Hz IPS panel → screen_quality 6.0. Notable value pick per rule 10 (previous gen at deep discount, price verified). PCMag reviewed the Lunar Lake OmniBook Ultra 14 variant; used here as the line anchor."
 }

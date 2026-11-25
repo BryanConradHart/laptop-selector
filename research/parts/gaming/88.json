@@ -57,23 +57,23 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/203/20356/20356344.jpeg",
   "professional": {
-    "avg_score": 8.68,
+    "avg_score": 8.6,
     "reviews": [
       {
         "outlet": "Ultrabook Review",
-        "score": "85%",
+        "score": 8.5,
         "url": "https://www.ultrabookreview.com/73868-lenovo-legion-pro-5i-gen10-review/",
         "quote": "It's built well and clean looking, offers solid ergonomics, decent inputs, and a beautiful OLED display that you won't normally find in this segment."
       },
       {
         "outlet": "Back2Gaming",
-        "score": "87%",
+        "score": 8.7,
         "url": "https://www.back2gaming.com/review/lenovo-legion-pro-5i-2025/",
         "quote": "strong raster performance from the RTX 5070 Ti Laptop GPU, excellent motion clarity from the 240Hz 2560×1600 OLED, and a cooling design that sustains clocks without resorting to gimmicks."
       },
       {
         "outlet": "91mobiles",
-        "score": "87%",
+        "score": 8.7,
         "url": "https://www.91mobiles.com/reviews/lenovo-legion-pro-5i-gen-10-review/",
         "quote": "it focuses on nailing the fundamentals: strong performance, a fantastic display, sturdy build quality, and a keyboard that's genuinely comfortable to use."
       }

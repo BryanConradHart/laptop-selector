@@ -43,20 +43,14 @@
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19741333",
     "confidence": "verified",
-    "notes": "BBY API 2026-11-24: regular $7,950 / open-box $5,459.79 (SKU 19741333). Regular price used — open-box notably cheaper.",
+    "notes": "BBY API 2026-11-24: regular $7,950 (sku 19741333). Open-box units $5,459.79 — regular price used for ranking.",
     "offers": [
-      {
-        "store": "Best Buy",
-        "url": "https://www.bestbuy.ca/en-ca/product/20265117",
-        "cad": 8549.79,
-        "est": false,
-        "name": "Dell Pro Max 18 Plus Mobile Workstation (MB18250), Intel Core Ultra 7 265HX, 64GB RAM, NVIDIA RTX PRO 3000, 18-Inch QHD+, 1TB NVMe TLC SSD, Factory Sealed, 2 Year Warranty"
-      },
       {
         "store": "bestbuy.ca",
         "url": "https://www.bestbuy.ca/en-ca/product/19741333",
-        "cad": 5459.79,
-        "est": false
+        "cad": 7950,
+        "est": false,
+        "name": "Dell Pro Max 16 Premium MA16250 — 265H, RTX PRO 1000, 64GB, 1TB (sku 19741333, regular)"
       }
     ],
     "official_url": null
@@ -120,5 +114,5 @@
     "repairability_service": 7,
     "durability": 8
   },
-  "rating_notes": "(gap-fill 2026-11-25: two qualitative video reviews of exact Premium MC16250 found via NBC collection page; no numeric pro score exists for this model.) No verified pro review found (NBC bot-walled; see SHARED-dell-promax.md). PRO 1000 tier = gaming 4.5 / ai_ml 5.5 per SHARED-thinkpad-p guidance; 8GB VRAM caps ai_ml despite 64GB system RAM. Thin premium chassis: build 9.0, battery ~7.5h est. (H-class, non-HX), thermals 5.5. Panel resolution/brightness estimated from MA Premium trim; screen_quality set 7.5 conservatively. Sentiment synthesized from Precision 7000-class owner themes — disclosed, not quoted."
+  "rating_notes": "(gap-fill 2026-11-25: two qualitative video reviews of exact Premium MA16250 found via NBC collection page; no numeric pro score exists for this model.) No verified pro review found (NBC bot-walled; see SHARED-dell-promax.md). PRO 1000 tier = gaming 4.5 / ai_ml 5.5 per SHARED-thinkpad-p guidance; 8GB VRAM caps ai_ml despite 64GB system RAM. Thin premium chassis: build 9.0, battery ~7.5h est. (H-class, non-HX), thermals 5.5. Panel resolution/brightness estimated from MA Premium trim; screen_quality set 7.5 conservatively. Sentiment synthesized from Precision 7000-class owner themes — disclosed, not quoted."
 }

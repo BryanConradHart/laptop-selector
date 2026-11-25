@@ -20,7 +20,7 @@
     "screen_size_in": 14,
     "display_type": "OLED glossy touch, 16:10 (BBY: 2K OLED)",
     "resolution": "2880x1800",
-    "refresh_hz": 60,
+    "refresh_hz": 120,
     "brightness_sdr_nits": 400,
     "brightness_hdr_nits": 600,
     "weight_kg": 1.34,
@@ -57,9 +57,20 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19767/19767706.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": [],
-    "notes": "No numeric pro score found (RTINGS slug 404, NBC bot-walled at research time). Anchored on BBY user aggregate 4.58★/182; see SHARED-yoga7i-2in1.md."
+    "avg_score": 8.4,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.8,
+        "quote": "The Yoga 7 14 2-in-1's bright 1000-nit 120Hz OLED option keeps Lenovo's midrange convertible near the top of its class."
+      },
+      {
+        "outlet": "XDA",
+        "score": 8,
+        "quote": "Lenovo's Yoga 7 14 is still the best midrange option."
+      }
+    ],
+    "notes": "Line-level scores from earlier gens of the Yoga 7i 2-in-1 14 line (Notebookcheck OLED review, XDA); no review of this exact config as of 2026-11. BBY user aggregate retained in user_sentiment."
   },
   "user_sentiment": {
     "praises": [

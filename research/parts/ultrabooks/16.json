@@ -67,13 +67,13 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "90%",
+        "score": 9,
         "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
         "quote": "Lenovo also offers a matte 120 Hz 2.8K OLED panel if you prefer better image quality (but probably with higher power consumption)."
       },
       {
         "outlet": "Notebookcheck",
-        "score": "90%",
+        "score": 9,
         "url": "https://www.notebookcheck.net/Excellent-business-laptop-with-64-GB-RAM-Lenovo-ThinkPad-T14s-Gen-7-AMD-Review.1328170.0.html",
         "quote": "Both the AMD and Intel SKUs offer pretty much the same level of performance."
       }

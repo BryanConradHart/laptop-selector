@@ -57,8 +57,21 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/194/19457/19457121.png",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.8,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck (review collection)",
+        "score": 8.8,
+        "url": "https://www.notebookcheck.net/MSI-Katana-15-HX-B14WGK-i7-14650HX.1243320.0.html",
+        "quote": "Reviews rate it 88% overall, praising its price-to-performance and display quality while noting compromises in materials."
+      },
+      {
+        "outlet": "ComputerBild",
+        "score": 8.8,
+        "url": "https://www.computerbild.de/artikel/Tests-Notebooks-MSI-Katana-15-Test-Review-40365231.html",
+        "quote": "88% — a strong budget gaming package on the i7-14650HX/RTX 5070 Katana 15 HX."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

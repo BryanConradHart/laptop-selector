@@ -57,23 +57,23 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19715/19715863.jpeg",
   "professional": {
-    "avg_score": 8.9,
+    "avg_score": 8.5,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "89%",
+        "score": 8.9,
         "url": "https://www.notebookcheck.net/Acer-Predator-Helios-18-AI-review-Finally-a-quieter-gaming-laptop-but-at-what-cost.1054468.0.html",
         "quote": "With \"Performance mode\" enabled, the gaming laptop delivers slightly below-average performance for its class. In return, it operates more quietly than many competitors, though the optional \"Turbo mode\" significantly increases noise levels. ... The system's excellent upgrade options—4 RAM slots and 3 SSD slots—along with a high-quality mini LED panel and fast Wi-Fi 7, remain clear highlights."
       },
       {
         "outlet": "Digital Camera World (via NBC)",
-        "score": "80%",
+        "score": 8,
         "url": "https://www.notebookcheck.net/Acer-Predator-Helios-18-AI-review-Finally-a-quieter-gaming-laptop-but-at-what-cost.1054468.0.html",
         "quote": "If you're in the market for a very large gaming laptop, this is a good choice."
       },
       {
         "outlet": "TechRadar (tested 5090/4K config)",
-        "score": "no numeric score found",
+        "score": null,
         "url": "https://www.techradar.com/computing/gaming-laptops/acer-predator-helios-18-ai-review",
         "quote": "if you must have unparalleled performance and don't mind sacrificing practical portability, the Predator Helios 18 AI has very few equals. You'll need some seriously deep pockets, though, and there are plenty of better value alternatives out there."
       }

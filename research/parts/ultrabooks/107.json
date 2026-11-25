@@ -56,9 +56,27 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20280/20280238.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": [],
-    "notes": "No retrievable pro review; refurb SKU of an under-reviewed line (see SHARED-galaxy-book.md). Honest null."
+    "avg_score": 7.7,
+    "reviews": [
+      {
+        "outlet": "TechRadar Enterprise",
+        "score": 8.0,
+        "url": "https://www.techradar.com/pro/samsung-galaxy-book6-enterprise-edition-business-laptop-review",
+        "quote": "A solid all-rounder for everyday use: Intel's Panther Lake platform delivers a genuine step forward in efficiency and the battery life is genuinely impressive for a 16-inch machine — but no USB4 or TB4 at this price."
+      },
+      {
+        "outlet": "IT Pro",
+        "score": 8.0,
+        "url": "https://www.itpro.com/hardware/laptops/the-samsung-galaxy-book6-enterprise-edition-will-make-life-easier-for-it-departments-and-theyll-love-the-battery-life",
+        "quote": "A quality build with a smart look, a fast processor, and a long battery life — just what you need for an office of knowledge workers."
+      },
+      {
+        "outlet": "Les Numeriques",
+        "score": 7.0,
+        "url": "https://www.lesnumeriques.com/ordinateur-portable/samsung-galaxy-book6-16-p77693/test.html",
+        "quote": "The entry-level Galaxy Book6 16 pays for its compromises (weaker display and performance)."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

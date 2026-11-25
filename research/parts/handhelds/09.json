@@ -61,13 +61,13 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "84.6%",
+        "score": 8.5,
         "url": "https://www.notebookcheck.net/Asus-ROG-Ally-X-Review-The-best-gaming-handheld-thanks-to-faster-RAM-and-a-huge-80-Wh-battery.865721.0.html",
         "quote": "The new Asus ROG Ally X is the updated version of the ROG Ally and still uses the same AMD processor as well as the 7-inch IPS screen with VRR, but almost every other aspect has been improved. In addition to improved ergonomics and better joysticks, the gaming handheld benefits from additional memory as well as the larger 80 Wh battery."
       },
       {
         "outlet": "TechPowerUp (via NBC collection)",
-        "score": "positive",
+        "score": null,
         "url": "https://www.techpowerup.com/review/asus-rog-ally-x/",
         "quote": "Even a year after its release, the ASUS ROG Ally X is a still well-rounded Windows PC handheld and one of the best options on the market. The performance's solid, the software's great, the screen's more than decent, and you've got a massive battery that allows you to game for hours on end without the need for a charger."
       },

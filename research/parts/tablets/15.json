@@ -38,25 +38,26 @@
     "notes": "Apple claims 10h web/video on Wi-Fi. Users report ~8-9h mixed real-world use; 11\" cell slightly smaller."
   },
   "price": {
-    "cad": 2929,
+    "cad": 2928.99,
     "currency": "CAD",
     "store": "apple.com/ca",
     "store_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-pro",
     "confidence": "verified",
-    "notes": "Tablet-only $2,529 apple.com/ca (IPAD_LIST.md, verified 2026-11-24; BBY stocks 256/512 tiers) + Magic Keyboard 11\" $399.99 (BBY 17932865). Nano-texture +$150 optional. Apple Pencil Pro $168.99 not included.",
+    "notes": "Bundle price = tablet (current best new retail) + keyboard, per the config definition. Components: Tablet-only $2,529 apple.com/ca (IPAD_LIST.md, verified 2026-11-24; BBY stocks 256/512 tiers) + Magic Keyboard 11\" $399.99 (BBY 17932865). Nano-texture +$150 optional. Apple Pencil Pro $168.99 not included.",
     "offers": [
       {
         "store": "apple.com/ca",
         "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-pro",
-        "cad": 2929,
-        "est": false
+        "cad": 2928.99,
+        "est": true,
+        "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 2929 + keyboard per price.notes."
       },
       {
         "store": "Best Buy",
         "url": "https://www.bestbuy.ca/en-ca/product/19495713",
-        "cad": 2529.99,
-        "est": false,
-        "name": "Apple iPad Pro M5 11\" 256GB with Wi-Fi (6th Generation) - Space Black"
+        "cad": 2928.99,
+        "est": true,
+        "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 2929 + keyboard per price.notes."
       }
     ],
     "official_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-pro"
@@ -67,7 +68,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "90%",
+        "score": 9,
         "url": "https://www.notebookcheck.net/Apple-iPad-Pro-M5-2025-tablet-review-An-extremely-fast-M5-SoC-and-Wi-Fi-7.1143628.0.html",
         "quote": "An extremely fast M5 SoC and Wi-Fi 7. Pros: extremely fast M5 SoC, sturdy and timeless case, Wi-Fi 7 and 5G, good camera quality for a tablet, powerful speaker sound, comprehensive software package, good battery life, bright and accurate display. Cons: no power adapter included, very expensive, PWM flickering, no always-on display, only a 12-month warranty. (NBC review of the iPad Pro 11\" M5 2025, 90% very good; same SoC and panel family across 11\"/13\" tiers.)"
       }

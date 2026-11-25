@@ -48,20 +48,20 @@
       {
         "store": "Best Buy",
         "url": "https://www.bestbuy.ca/en-ca/product/19263403",
-        "cad": 1499.99,
-        "est": false,
-        "name": "Microsoft Surface Pro (LCD) Copilot+ PC 13\" 512GB Tablet with Snapdragon X Plus/16GB RAM (2024) - Dune - Device Only"
+        "cad": 1699.98,
+        "est": true,
+        "name": "Microsoft Surface Pro (LCD) Copilot+ PC 13\" 512GB Tablet with Snapdragon X Plus/16GB RAM (2024) - Dune - Device Only — bundle: tablet sale $1,499.99 + Signature Keyboard est $199.99"
       }
     ],
     "official_url": "https://www.microsoft.com/en-ca/d/surface-pro-11-with-snapdragon-technology/8mzbkmz0lmc1"
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/179/17921/17921778.jpg",
   "professional": {
-    "avg_score": null,
+    "avg_score": 8.3,
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "8.3/10 (X Elite OLED sibling)",
+        "score": 8.3,
         "url": "https://www.cnet.com/tech/computing/microsoft-surface-pro-11-review-snapdragon-and-oled-deliver/",
         "quote": "The Surface Pro 11 starts at $1,000, without a keyboard or stylus and configured with a Snapdragon X Plus (10 core CPU), 16GB RAM, 256GB SSD and the old LCD display, which is fine but nothing stellar."
       }

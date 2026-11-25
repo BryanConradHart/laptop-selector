@@ -61,13 +61,13 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "87%",
+        "score": 8.7,
         "url": "https://www.notebookcheck.net/Lenovo-Legion-7-16IAX10-review-Formidable-Razer-Blade-16-competitor.1122108.0.html",
         "quote": "It's one of the lightest and fastest gaming laptops we've tested with the same RTX 5060 GPU due to its high 115 W TGP target. ... Core temperatures are relatively high, battery life is average at best, and loud fans are unavoidable if playing on Performance mode."
       },
       {
         "outlet": "Notebookcheck (follow-up benchmarks)",
-        "score": "87% (same review)",
+        "score": 8.7,
         "url": "https://www.notebookcheck.net/Lenovo-Legion-7i-16-Gen-10-outperforms-most-other-ultrathin-laptops-with-similar-RTX-5060-graphics.1130255.0.html",
         "quote": "The new Legion 7 16IAX10 with Core Ultra 7 255HX CPU and GeForce RTX 5060 graphics is almost consistently faster than most other laptops with the same GPU in our database sometimes by up to 20 percent."
       }

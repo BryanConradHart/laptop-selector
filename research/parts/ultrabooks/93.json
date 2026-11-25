@@ -59,7 +59,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "84%",
+        "score": 8.4,
         "url": "https://www.notebookcheck.net/Framework-Laptop-13-5-Ryzen-AI-9-review-Skip-the-Intel-version-for-better-performance.997363.0.html",
         "quote": "Skip the Intel version for better performance. Pros: fast CPU with high performance-per-watt, readily available replacement parts, versatile USB-C expansion cards, FreeSync Premium support, easily serviceable. Cons: USB-C ports are not identical in terms of features, speakers and webcam are showing their age, lid and base susceptible to flexing, no OLED/P3/HDR."
       }
@@ -111,6 +111,6 @@
     "repairability_service": 10,
     "durability": 7.5
   },
-  "rating_notes": "Pro score attached from NBC review of the Framework Laptop 13.5 Ryzen AI 9 (84%, gap-fill 2026-11-24). See SHARED-framework.md. RTINGS bot-walled; avg_score 8.0 anchored per SHARED note. Ratings inferred from FW13 Ryzen AI 300 line consensus: HX 370 gives +1.5 productivity / +1.5 gaming / −0.5 battery / −1 thermals vs AI 5 sibling; 50 TOPS NPU lifts ai_ml.",
+  "rating_notes": "Pro score attached from NBC review of the Framework Laptop 13.5 Ryzen AI 9 (84%, gap-fill 2026-11-24). See SHARED-framework.md. avg_score 8.4 from NBC gap-fill review. Ratings inferred from FW13 Ryzen AI 300 line consensus: HX 370 gives +1.5 productivity / +1.5 gaming / −0.5 battery / −1 thermals vs AI 5 sibling; 50 TOPS NPU lifts ai_ml.",
   "inferred": true
 }

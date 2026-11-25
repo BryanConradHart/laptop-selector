@@ -12,7 +12,7 @@
     "cpu": "AMD Ryzen 5 7535HS (6-core/12-thread Zen 3, 3.3-4.55 GHz)",
     "cpu_cores": 6,
     "gpu": "NVIDIA GeForce RTX 3050 4GB (laptop, ~75W)",
-    "gpu_type": "dedicated",
+    "gpu_type": "discrete",
     "ram_gb": 8,
     "ram_type": "DDR5 SO-DIMM",
     "storage_gb": 512,
@@ -37,7 +37,7 @@
     "notes": "55 Wh 4-cell; dGPU laptop — ~3-4h light use, ~1.5h under load."
   },
   "price": {
-    "cad": 1399.95,
+    "cad": 1099.95,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19274603",
@@ -56,8 +56,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19274/19274603.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7.7,
+    "reviews": [
+      {
+        "outlet": "PCMag",
+        "score": 8,
+        "quote": "For the price, we have to applaud the Nitro V 15 on most fronts; it delivers steady 1080p gaming performance at a much lower price than most competitors."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": 7.2,
+        "quote": "Notebookcheck's Nitro V 15 (ANV15) review collection averages 72.17% across 66 reviews - a good budget gaming showing."
+      },
+      {
+        "outlet": "PC World",
+        "score": 7.8,
+        "quote": "An ultra-affordable gaming laptop that gets the basics right for 1080p play."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

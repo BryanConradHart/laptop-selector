@@ -9,7 +9,7 @@
   "release": "2026-03",
   "inferred": false,
   "specs": {
-    "cpu": "Apple M5 Pro (18-core: 5 super + 13 performance)",
+    "cpu": "Apple M5 Pro (18-core: 5 super + 13 efficiency)",
     "cpu_cores": 18,
     "gpu": "Apple M5 Pro 20-core GPU (integrated)",
     "gpu_type": "integrated",
@@ -38,7 +38,7 @@
     "notes": "100Wh; 140W adapter. NBC: runtime a bit shorter than the M4 Pro unit, likely due to more RAM power draw."
   },
   "price": {
-    "cad": 4199,
+    "cad": 4189.99,
     "currency": "CAD",
     "store": "apple.com/ca",
     "store_url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro/16-inch",
@@ -63,17 +63,17 @@
   },
   "image_url": "https://www.apple.com/v/macbook-pro/specs/e/images/specs/16-inch/macbook_pro_16_inch__cqvg4x5ohjv6_large.jpg",
   "professional": {
-    "avg_score": 9,
+    "avg_score": 8.7,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "92.3% Editor's Choice",
+        "score": 9.2,
         "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-16-2026-Review-M5-Pro-makes-one-of-the-best-multimedia-laptops-even-better.1245523.0.html",
         "quote": "The new Apple M5 Pro SoC is a perfect fit for the MacBook Pro 16 because it can utilize the full performance of the chip without throttling. We see noticeable performance advantages over the previous M4 Pro chip (~20 % CPU, 30-50 % GPU)."
       },
       {
         "outlet": "RTINGS",
-        "score": "8.2/10",
+        "score": 8.2,
         "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-16-m5-2026",
         "quote": "premium workstation laptop designed for creative and professional work... outstanding build quality with premium materials and incredible fit and finish"
       }

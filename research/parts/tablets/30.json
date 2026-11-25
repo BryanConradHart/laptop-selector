@@ -75,7 +75,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "87%",
+        "score": 8.7,
         "url": "https://www.notebookcheck.net/Apple-iPad-mini-7-2024-review-This-compact-tablet-continues-to-be-nearly-unrivaled.930558.0.html",
         "quote": "This compact tablet continues to be nearly unrivaled. Pros: fast SoC, optional lots of memory, Pencil and 5G possible, PWM-free display, compact. Cons: stale display-to-surface ratio, refresh rate only 60 Hz, no high-res audio via Bluetooth, only 12 months warranty."
       }
@@ -120,7 +120,7 @@
     "repairability_service": 5,
     "durability": 8
   },
-  "rating_notes": "Pro score attached from NBC review of this exact model (gap-fill 2026-11-24). LINE ANCHOR (128GB Wi-Fi = BBY clearance hero SKU). No verbatim pro score found: NBC reviewed the mini 7 but notebookcheck.net (numeric-ID URLs) and search engines were bot-walled this session — disclosed per budget rule, none invented. Disclosed launch-consensus synthesis (see SHARED-ipad-mini.md): best small tablet ever, fastest sub-9\" anything; gripes = price creep, 60Hz LCD, no keyboard path. keyboard_trackpad 4.0 reflects NO official keyboard (on-screen typing + optional $125 BT case kbd), per task instruction. portability 10.0 = 293g, lightest tablet Apple makes. gaming 6.3 = hw ray tracing + 8GB but 5-core GPU and 8.3\" screen. Image URL is BBY CDN closest-SKU guess (18902683).",
+  "rating_notes": "Pro score attached from NBC review of this exact model (gap-fill 2026-11-24). LINE ANCHOR (128GB Wi-Fi = BBY clearance hero SKU). Disclosed launch-consensus synthesis (see SHARED-ipad-mini.md): best small tablet ever, fastest sub-9\" anything; gripes = price creep, 60Hz LCD, no keyboard path. keyboard_trackpad 4.0 reflects NO official keyboard (on-screen typing + optional $125 BT case kbd), per task instruction. portability 10.0 = 293g, lightest tablet Apple makes. gaming 6.3 = hw ray tracing + 8GB but 5-core GPU and 8.3\" screen. Image URL is BBY CDN closest-SKU guess (18902683).",
   "standouts": [
     "Ray-traced AAA gaming in a 293g one-hand form factor — nothing else on the market does this",
     "$749.99 BBY clearance with Apple Intelligence makes it the cheapest current-AI iPad"

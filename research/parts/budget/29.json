@@ -9,7 +9,7 @@
   "release": "2025-06",
   "inferred": true,
   "specs": {
-    "cpu": "Intel Core 3 N355 (8-core: 4P+4E, Alder Lake-N refresh, up to 3.9 GHz, passive/low-power class)",
+    "cpu": "Intel Core 3 N355 (8-core: 8 E-cores (Alder Lake-N, no P-cores), Alder Lake-N refresh, up to 3.9 GHz, passive/low-power class)",
     "cpu_cores": 8,
     "gpu": "Intel UHD Graphics (integrated)",
     "gpu_type": "integrated",
@@ -56,8 +56,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19775/19775248.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7,
+    "reviews": [
+      {
+        "outlet": "Tom's Guide",
+        "score": 8,
+        "quote": "Lenovo's Chromebook Plus 2-in-1 Gen 10 combines Lenovo's fantastic keyboard and premium build quality with dependable performance and fantastic value for a Chromebook that finally feels properly premium."
+      },
+      {
+        "outlet": "Tom's Guide",
+        "score": 6,
+        "quote": "This $579 Lenovo Chromebook gets so much right - but fails where it counts."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": 7,
+        "quote": "The Core 3 N355 model of the Lenovo Chromebook Plus 14 series averages 70% in Notebookcheck's collection, well below the Kompanio Ultra OLED variant."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

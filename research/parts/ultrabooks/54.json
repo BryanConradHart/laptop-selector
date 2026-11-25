@@ -38,19 +38,19 @@
     "notes": "69.5Wh. CNET flagged 'Unimpressive battery life' — real-world ~7-9h mixed; the main clearance trade-off."
   },
   "price": {
-    "cad": 1700,
+    "cad": 1690.68,
     "currency": "CAD",
     "store": "bestbuy.ca / remaining dell.ca stock",
     "store_url": "https://www.dell.com/en-ca/shop/laptop-computers/scr/laptop",
     "confidence": "estimated",
-    "notes": "Dell.ca has discontinued the DA14250 (page redirects; XPS FAQ confirms 'Dell Premium name will be retired'). Remaining CA stock at Best Buy/retail clearance. CNET tested US$1,450-2,050 range; CAD estimate ~$1,700 clearance vs ~$2,600 original. VERIFY before relying on this entry.",
+    "notes": "Dell.ca has discontinued the DA14250 (page redirects; XPS FAQ confirms 'Dell Premium name will be retired'). Remaining CA stock at Best Buy/retail clearance. CNET tested US$1,450-2,050 range; CAD estimate ~$1,700 clearance vs ~$2,600 original. VERIFY before relying on this entry. Nearest CA retail listing is the sibling Core Ultra 7 266V SKU; price used as an estimate for this 255H clearance config.",
     "offers": [
       {
         "store": "Best Buy",
         "url": "https://www.bestbuy.ca/en-ca/product/19391056",
         "cad": 1690.68,
-        "est": false,
-        "name": "Dell Pro 14 Copilot+ PC Premium Laptop - Intel Core Ultra 7 266V - 16GB LPDDR5X - 512GB SSD - Windows 11 Pro - Magnesium"
+        "est": true,
+        "name": "Dell Pro 14 Copilot+ PC Premium Laptop - Intel Core Ultra 7 266V - 16GB LPDDR5X - 512GB SSD - Windows 11 Pro - Magnesium (sibling 266V SKU used as price anchor)"
       }
     ],
     "official_url": null
@@ -61,13 +61,13 @@
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "7.2/10",
+        "score": 7.2,
         "url": "https://www.cnet.com/tech/computing/dell-14-premium-review/",
         "quote": "one of the hardiest and heaviest 14-inch laptops I've ever encountered"
       },
       {
         "outlet": "CNET",
-        "score": "7.2/10",
+        "score": 7.2,
         "url": "https://www.cnet.com/tech/computing/dell-14-premium-review/",
         "quote": "Shockingly heavy"
       }

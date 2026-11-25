@@ -37,7 +37,7 @@
     "notes": "51.6 Wh verified. Zen 3 8-core runs warm in this thin shell: ~5-5.5h real, less under load."
   },
   "price": {
-    "cad": 1099.95,
+    "cad": 799.95,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19889764",
@@ -56,8 +56,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19889/19889764.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.0,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.1,
+        "quote": "Office notebook with long runtimes — very good battery runtimes and USB-C Power Delivery in a cheap 15.6-inch package."
+      },
+      {
+        "outlet": "Tom's Guide",
+        "score": 8.0,
+        "quote": "This $300 laptop is a killer value and doesn't feel like a cheap laptop."
+      },
+      {
+        "outlet": "PCWorld",
+        "score": 8.0,
+        "quote": "Nothing exciting, but it has clear value — a worthy machine for $300."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

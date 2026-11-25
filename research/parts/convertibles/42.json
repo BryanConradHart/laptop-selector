@@ -68,7 +68,7 @@
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "7.3/10",
+        "score": 7.3,
         "url": "https://www.cnet.com/tech/computing/dell-16-plus-2-in-1-review-the-mini-led-display-shines-but-theres-little-else-to-get-excited-about/",
         "quote": "this big-screen convertible laptop certainly has some positives but there are a few too many minuses to give this Plus a full-throated recommendation."
       }

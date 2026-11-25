@@ -1,7 +1,7 @@
 {
   "id": "proart-p14-h7407ba-n1x-24-512",
-  "line": "ASUS ProArt P16 (H7606, 2025)",
-  "config_name": "ProArt P14 14â€³ 3K OLED Touch â€” NVIDIA RTX Spark N1X (18-core) + Blackwell RTX, unified, 24GB, 512GB",
+  "line": "ASUS ProArt P14 14\" (RTX Spark, 2026)",
+  "config_name": "ProArt P14 14″ 3K OLED Touch — NVIDIA RTX Spark N1X (18-core) + Blackwell RTX, unified, 24GB, 512GB",
   "tier": "Entry",
   "category": "creator",
   "ecosystem": "Windows",
@@ -61,7 +61,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "88%",
+        "score": 8.8,
         "url": "https://www.notebookcheck.net/Asus-ProArt-P16-laptop-review-AMD-Zen-5-meets-RTX-4070-laptop-and-4K-OLED.871739.0.html",
         "quote": "Very premium and compact aluminum case, color accurate 4K OLED, excellent speakers, wonderful input devices, 2x SSD slots, fast CPU and good system performance. Cons: RAM soldered with massive surcharge for 64 GB; 4K OLED only 60 Hz. (NBC review of predecessor H7606 RTX 4070 config; chassis/display/input findings carry over to 2025 RTX 50-series tiers.)"
       }
@@ -69,7 +69,7 @@
   },
   "user_sentiment": {
     "praises": [
-      "RTX Spark N1X + Blackwell RTX in a 1.6kg 14in creator chassis â€” first NVIDIA Arm platform in a small ProArt [synthesized]",
+      "RTX Spark N1X + Blackwell RTX in a 1.6kg 14in creator chassis — first NVIDIA Arm platform in a small ProArt [synthesized]",
       "Unified memory is GPU-visible: large-model local inference impossible on same-price discrete laptops [synthesized]",
       "3K OLED touch panel with factory color calibration [synthesized]",
       "Arm efficiency points to all-day light-use battery [synthesized]",
@@ -77,9 +77,9 @@
     ],
     "complaints": [
       "Windows-on-Arm translation caveats: some x86 pro plugins, drivers, and anti-cheat titles will not run [synthesized]",
-      "First-gen RTX Spark platform â€” driver maturity unproven at this price [synthesized]",
+      "First-gen RTX Spark platform — driver maturity unproven at this price [synthesized]",
       "Unified memory shared between CPU and GPU; bandwidth likely below discrete GDDR7 [synthesized]",
-      "Soldered unified RAM â€” no upgrade path [synthesized]",
+      "Soldered unified RAM — no upgrade path [synthesized]",
       "Small 14in screen limits multi-track timeline work vs the P16 [synthesized]"
     ]
   },

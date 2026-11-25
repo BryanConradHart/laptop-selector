@@ -38,25 +38,26 @@
     "notes": "28.93Wh cell. Apple claims 10h web/video Wi-Fi; users report ~8-9h mixed real-world use."
   },
   "price": {
-    "cad": 979,
+    "cad": 978.99,
     "currency": "CAD",
     "store": "apple.com/ca",
     "store_url": "https://www.apple.com/ca/shop/buy-ipad/ipad/128gb-blue-wifi",
     "confidence": "verified",
-    "notes": "Tablet-only $649.00 (apple.com/ca, verified 2026-11-24) + Magic Keyboard Folio $329.99 (BBY 16567047). BBY frequently discounts the tablet itself ($635.99, SKU 19464683). Wi-Fi+Cellular variant +$200 ($849 tablet) omitted per tablets-file precedent. Pencil not included.",
+    "notes": "Bundle price = tablet (current best new retail) + keyboard, per the config definition. Components: Tablet-only $649.00 (apple.com/ca, verified 2026-11-24) + Magic Keyboard Folio $329.99 (BBY 16567047). BBY frequently discounts the tablet itself ($635.99, SKU 19464683). Wi-Fi+Cellular variant +$200 ($849 tablet) omitted per tablets-file precedent. Pencil not included.",
     "offers": [
       {
         "store": "apple.com/ca",
         "url": "https://www.apple.com/ca/shop/buy-ipad/ipad/128gb-blue-wifi",
-        "cad": 979,
-        "est": false
+        "cad": 978.99,
+        "est": true,
+        "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 979 + keyboard per price.notes."
       },
       {
         "store": "Best Buy",
         "url": "https://www.bestbuy.ca/en-ca/product/19204166",
-        "cad": 649.99,
-        "est": false,
-        "name": "Apple iPad A16 11\" 128GB with Wi-Fi 6 (11th Generation) - Blue"
+        "cad": 978.99,
+        "est": true,
+        "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 979 + keyboard per price.notes."
       }
     ],
     "official_url": "https://www.apple.com/ca/shop/buy-ipad/ipad/128gb-blue-wifi"
@@ -67,7 +68,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "84%",
+        "score": 8.4,
         "url": "https://www.notebookcheck.net/Apple-iPad-11-2025-review-The-affordable-tablet-lags-behind-in-the-most-important-area.1006011.0.html",
         "quote": "The affordable tablet lags behind in the most important area. Pros: fast SoC, hardly any heat dissipation, premium case. Cons: thick bezels, a slow 60 Hz screen, the panel is not completely laminated, only a 12-month guarantee, only a few Bluetooth audio codecs, only USB 2.0."
       }

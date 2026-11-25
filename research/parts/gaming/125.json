@@ -61,13 +61,13 @@
     "reviews": [
       {
         "outlet": "Notebookcheck (model-page aggregate, sibling PHN16-73)",
-        "score": "76%",
+        "score": 7.6,
         "url": "https://www.notebookcheck.net/Acer-Predator-Helios-Neo-16-AI-PHN16-73.1171432.0.html",
         "quote": "Aggregated scoring places it at around 76% overall, indicating a solid but not flawless package."
       },
       {
         "outlet": "Tom's Guide (sibling Neo 16 AI, same 5070 Ti/275HX/32GB)",
-        "score": "no numeric score found",
+        "score": null,
         "url": "https://www.tomsguide.com/computing/gaming-laptops/acer-predator-helios-neo-16-ai-review",
         "quote": "An ineffective cooling system, slow SSD hampered by bloatware, bulky design, and short battery life make the Neo 16 AI a hard sell."
       }

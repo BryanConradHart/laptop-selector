@@ -1,7 +1,7 @@
 {
   "id": "gigabyte-gaming-a16-ga6h-13620h-5060-24-32gb",
   "line": "Gigabyte Gaming A16 (GA6H, 2025)",
-  "config_name": "Gigabyte Gaming A16 — Core i7-13620H / RTX 5060, 24GB/1TB ($2,119) or 32GB/2TB ($2,706) RAM/storage tiers",
+  "config_name": "Gigabyte Gaming A16 — Core i7-13620H / RTX 5060, 24GB RAM, 1TB SSD",
   "tier": "Mid",
   "category": "gaming",
   "ecosystem": "Windows",
@@ -12,7 +12,7 @@
     "cpu": "Intel Core i7-13620H (10-core: 6P+4E, Raptor Lake-H)",
     "cpu_cores": 10,
     "gpu": "NVIDIA GeForce RTX 5060 Laptop 8GB GDDR7 (~85W TGP)",
-    "gpu_type": "dedicated",
+    "gpu_type": "discrete",
     "ram_gb": 24,
     "ram_type": "DDR5 SO-DIMM (2 slots, upgradeable)",
     "storage_gb": 1000,
@@ -43,7 +43,7 @@
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/p/20341968",
     "confidence": "verified",
-    "notes": "BBY API-verified 2026-11-24. Two near-identical tiers consolidated: SKU 20341968 (24GB/1TB, reg $2,919.53, sale $2,119.53) and SKU 20340892 (32GB/2TB, reg $3,506.14, sale $2,706.14). Both marketplace sellers — fulfillment/return risk.",
+    "notes": "BBY API-verified 2026-11-24. Two near-identical tiers consolidated: SKU 20341968 (24GB/1TB, reg $2,919.53, sale $2,119.53) and SKU 20340892 (32GB/2TB, reg $3,506.14, sale $2,706.14). Both marketplace sellers — fulfillment/return risk. A sibling 32GB/2TB tier of this SKU sold for ~$2,706 CAD.",
     "offers": [
       {
         "store": "bestbuy.ca",
@@ -56,11 +56,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/203/20341/20341968.jpeg",
   "professional": {
-    "avg_score": 80,
+    "avg_score": 8,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "80%",
+        "score": 8,
         "url": "https://www.notebookcheck.net/An-affordable-RTX-5070-laptop-Gigabyte-Gaming-A16-review.1072350.0.html",
         "quote": "The Gaming A16 earned a good overall score of 80%. On the positive side, the consistent CPU and GPU performance are worth pointing out."
       }

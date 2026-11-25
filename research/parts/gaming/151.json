@@ -12,7 +12,7 @@
     "cpu": "Intel Core i7-13620H (10-core: 6P+4E, Raptor Lake-H)",
     "cpu_cores": 10,
     "gpu": "NVIDIA GeForce RTX 5050 Laptop 8GB GDDR7 (~65-85W TGP)",
-    "gpu_type": "dedicated",
+    "gpu_type": "discrete",
     "ram_gb": 24,
     "ram_type": "DDR5 SO-DIMM (2 slots, upgradeable)",
     "storage_gb": 1000,
@@ -56,11 +56,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/203/20340/20340722.png",
   "professional": {
-    "avg_score": 80,
+    "avg_score": 8,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "80%",
+        "score": 8,
         "url": "https://www.notebookcheck.net/An-affordable-RTX-5070-laptop-Gigabyte-Gaming-A16-review.1072350.0.html",
         "quote": "Aside from the 8 GB issue, the GeForce RTX 5070 also achieved decent results, although sometimes you have to resort to DLSS or frame generation at higher details in its native QHD+ resolution."
       }

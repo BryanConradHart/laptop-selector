@@ -57,8 +57,19 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20069/20069469.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.5,
+        "quote": "A powerful workstation with AMD Zen 4 — the larger and heavier size has unfortunately not translated to faster graphics performance."
+      },
+      {
+        "outlet": "PCMag",
+        "score": 8.0,
+        "quote": "Real workstation power on a budget, with some of the best battery life we've seen from a workstation."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

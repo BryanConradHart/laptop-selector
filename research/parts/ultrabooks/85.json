@@ -57,11 +57,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19911/19911636.jpg",
   "professional": {
-    "avg_score": 8.3,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "Ultrabookreview",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.ultrabookreview.com/68996-asus-zenbook-s16-review/",
         "quote": "a thin and light 16-inch laptop with a premium design, an OLED display, and AMD Ryzen AI hardware"
       }

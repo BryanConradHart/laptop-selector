@@ -37,7 +37,7 @@
     "notes": "Capacity not published on BBY spec; 15.6\" Slim 3i class uses ~50Wh. i5-1335U mid-load ~5-6h real."
   },
   "price": {
-    "cad": 1279.99,
+    "cad": 1079.99,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/20002853",
@@ -56,8 +56,24 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20002/20002853.png",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7.1,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 7.2,
+        "quote": "It's one of the cheaper 15.6-inch laptops you can find without resorting to used systems; a decent barebones experience so long as you keep your expectations in check."
+      },
+      {
+        "outlet": "Techradar",
+        "score": 8.0,
+        "quote": "Not going to set anyone's world on fire, but a great value for those that just need a Windows computer."
+      },
+      {
+        "outlet": "PCMag",
+        "score": 6.0,
+        "quote": "Sits just a rung or two above the minimum viable Windows laptop, held back by lackluster battery life and a limited raw-performance ceiling."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

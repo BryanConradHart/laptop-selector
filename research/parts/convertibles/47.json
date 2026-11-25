@@ -50,20 +50,25 @@
         "url": "https://www.bestbuy.ca/en-ca/product/19428141",
         "cad": 1109.95,
         "est": false
-      },
-      {
-        "store": "Best Buy",
-        "url": "https://www.bestbuy.ca/en-ca/product/20284613",
-        "cad": 944.95,
-        "est": false
       }
     ],
     "official_url": null
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/194/19428/19428141.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 6.7,
+    "reviews": [
+      {
+        "outlet": "PCMag",
+        "score": 6,
+        "quote": "The Dell 14 Plus 2-in-1 features an all-day battery and feels comfortable to work on, but this 14-inch convertible's graphics performance and display quality need a pick-me-up."
+      },
+      {
+        "outlet": "CNET",
+        "score": 7.3,
+        "quote": "The Mini-LED display shines but there's little else to get excited about — this big-screen convertible has some positives but a few too many minuses for a full-throated recommendation."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

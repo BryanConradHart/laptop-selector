@@ -68,13 +68,13 @@
     "reviews": [
       {
         "outlet": "Ultrabookreview",
-        "score": "4.25/5",
+        "score": 8.5,
         "url": "https://www.ultrabookreview.com/74670-asus-zenbook-s14-gen2-review/",
         "quote": "this refreshed Asus Zenbook S14 refines the existing series in a few ways: it implements faster Panther Lake hardware, a brighter OLED display, updated cooling that allows for lower thermals... this is the best-made and best-feeling Zenbook to date, and one of the nicest premium ultrabooks out there."
       },
       {
         "outlet": "Ultrabookreview",
-        "score": "4.25/5",
+        "score": 8.5,
         "url": "https://www.ultrabookreview.com/74670-asus-zenbook-s14-gen2-review/",
         "quote": "Too bad it's functionally compromised by its ultra-thin chassis design"
       }

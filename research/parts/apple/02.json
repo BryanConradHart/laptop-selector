@@ -56,23 +56,23 @@
   },
   "image_url": "https://www.apple.com/v/macbook-air/specs/c/images/specs/13-inch/mba_13_hero__c067qisf51oy_large.jpg",
   "professional": {
-    "avg_score": 9,
+    "avg_score": 8.8,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "92%",
+        "score": 9.2,
         "url": "https://www.notebookcheck.net/Insane-performance-and-efficiency-without-fans-Apple-MacBook-Air-13-M5-Entry-Review.1242707.0.html",
         "quote": "It is amazing that you can get this amount of performance in a completely silent laptop."
       },
       {
         "outlet": "RTINGS",
-        "score": "8.3/10",
+        "score": 8.3,
         "url": "https://rtings.com/laptop/reviews/apple/macbook-air-13-m5-2026",
         "quote": "The Apple MacBook Air 13 (M5, 2026) is a premium ultraportable laptop. It replaces the Apple MacBook Air 13 (M4, 2025) and keeps the same compact, fanless design..."
       },
       {
         "outlet": "Tom's Hardware",
-        "score": "Editor's Choice",
+        "score": null,
         "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-air-13-inch-m5-review",
         "quote": "Strong performance and 16GB of RAM minimum... Long battery life... Comfortable keyboard and trackpad."
       }

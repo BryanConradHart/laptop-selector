@@ -56,8 +56,14 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19821/19821568.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7.5,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 7.5,
+        "quote": "An Arrow Lake-H student and daily-productivity laptop that does just enough; the primary letdown is the display."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

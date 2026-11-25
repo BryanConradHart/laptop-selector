@@ -60,13 +60,13 @@
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "8.3/10",
+        "score": 8.3,
         "url": "https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-14-review-flagship-ultraportable-repairable/",
         "quote": "The X1 Carbon Gen 14 introduces Lenovo's Space Frame chassis that features a smaller motherboard and larger cooling fans, along with a modular design that makes it easier to access and then repair or replace individual components."
       },
       {
         "outlet": "Ultrabookreview",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.ultrabookreview.com/75917-lenovo-thinkpad-x1carbon-gen14-review/",
         "quote": "the X1 Carbon is lighter than MacBooks, starting at 1 kilo for the OLED variant"
       }

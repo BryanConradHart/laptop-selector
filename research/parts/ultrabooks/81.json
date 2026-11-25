@@ -57,11 +57,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/200/20076/20076833.png",
   "professional": {
-    "avg_score": 8.2,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "Ultrabookreview",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.ultrabookreview.com/77371-asus-zenbook-14-ux3480ka-review/",
         "quote": "what you can get in some regions is the Ryzen AI 9 465 configuration of the Zenbook 14 UM3406GA, available for around 1000 USD in the US at the time of this article. That's a far more interesting option at that level"
       }

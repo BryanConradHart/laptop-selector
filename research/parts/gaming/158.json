@@ -12,7 +12,7 @@
     "cpu": "AMD Ryzen AI 7 350 (8-core: 4 Zen 5 + 4 Zen 5c, Krackan Point)",
     "cpu_cores": 8,
     "gpu": "NVIDIA GeForce RTX 5070 Laptop 8GB GDDR7 (85W + 15W Dynamic Boost, MUX switch)",
-    "gpu_type": "dedicated",
+    "gpu_type": "discrete",
     "ram_gb": 64,
     "ram_type": "DDR5-5600 (2 SO-DIMM slots, max 64GB — this tier fills it)",
     "storage_gb": 4000,
@@ -56,11 +56,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20256/20256709.jpeg",
   "professional": {
-    "avg_score": 84,
+    "avg_score": 8.4,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "84%",
+        "score": 8.4,
         "url": "https://www.notebookcheck.net/Gigabyte-Aero-X16-Review-Sleek-AMD-Zen-5-gaming-machine-with-Nvidia-RTX-5070-Laptop-and-upgradeable-RAM.1022304.0.html",
         "quote": "Upgrade options, on the other hand, are very good with expandable RAM and two SSD slots."
       }

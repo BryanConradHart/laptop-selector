@@ -61,13 +61,13 @@
     "reviews": [
       {
         "outlet": "Notebookcheck (sibling Helios 18 AI PH18-73)",
-        "score": "89%",
+        "score": 8.9,
         "url": "https://www.notebookcheck.net/Acer-Predator-Helios-18-AI-review-Finally-a-quieter-gaming-laptop-but-at-what-cost.1054468.0.html",
         "quote": "The system's excellent upgrade options—4 RAM slots and 3 SSD slots—along with a high-quality mini LED panel and fast Wi-Fi 7, remain clear highlights."
       },
       {
         "outlet": "TechRadar (sibling Helios 18 AI, 5090 config)",
-        "score": "no numeric score found",
+        "score": null,
         "url": "https://www.techradar.com/computing/gaming-laptops/acer-predator-helios-18-ai-review",
         "quote": "The Acer Predator Helios 18 AI might be better characterized as a state-of-the-art concept rather than an actual consumer product ... You'll need some seriously deep pockets, though."
       }

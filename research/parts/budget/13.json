@@ -37,7 +37,7 @@
     "notes": "58.14 Wh verified; 8GB config idles slightly lighter than 16GB twin: ~7h real."
   },
   "price": {
-    "cad": 949.99,
+    "cad": 699.99,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19889763",
@@ -57,7 +57,13 @@
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19889/19889763.jpg",
   "professional": {
     "avg_score": null,
-    "reviews": []
+    "reviews": [
+      {
+        "outlet": "None found",
+        "score": null,
+        "quote": "No professional review found for this line as of 2026-11; ratings inferred from specs and sibling-line reviews."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

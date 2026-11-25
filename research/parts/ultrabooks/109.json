@@ -57,9 +57,15 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/189/18904/18904449.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": [],
-    "notes": "Book4 15.6 150U SKU not individually reviewed by major outlets; NBC/RTINGS bot-walled this pass (see SHARED-galaxy-book.md). Honest null."
+    "avg_score": 6.0,
+    "reviews": [
+      {
+        "outlet": "Expert Reviews",
+        "score": 6.0,
+        "url": "https://www.expertreviews.co.uk/technology/laptops/samsung-galaxy-book4-review",
+        "quote": "Almost entirely uninspiring: stylish and well-made, but undermined by a low-quality display, which has no place in an £899 laptop."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

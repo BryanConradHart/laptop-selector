@@ -57,9 +57,20 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19767/19767707.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": [],
-    "notes": "No numeric pro score found (see SHARED-yoga7i-2in1.md). Anchored on BBY aggregate 4.53★/55 for this SKU."
+    "avg_score": 7.9,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": 7.8,
+        "quote": "The Yoga 7a 2-in-1 hits a sweet spot for those in the market for a big touchscreen OLED two-in-one. Where it stumbles is graphics horsepower."
+      },
+      {
+        "outlet": "Ultrabookreview",
+        "score": 8,
+        "quote": "The Yoga 7a 2-in-1 16 checks a fair bit of the right boxes."
+      }
+    ],
+    "notes": "Line-level scores from the Yoga 7a 2-in-1 16 review round (aggregated by Notebookcheck); no review of this exact config as of 2026-11."
   },
   "user_sentiment": {
     "praises": [
@@ -100,5 +111,5 @@
     "repairability_service": 5,
     "durability": 6.5
   },
-  "rating_notes": "Ratings anchored on this SKU's own BBY aggregate (4.53★/55) + SHARED-yoga7i-2in1.md line calibration; no pro score found (bot-walls disclosed). Ryzen AI 5 430: Radeon 840M gaming 3.0, ~50 TOPS NPU → ai_ml 5.5. WUXGA IPS (sibling-name verified) → screen_quality 6.0. 16\" deltas applied per calibration (screen_size +1.5, portability −1.5)."
+  "rating_notes": "Ratings anchored on this SKU's own BBY aggregate (4.53★/55) + SHARED-yoga7i-2in1.md line calibration; no pro score found (bot-walls disclosed). Ryzen AI 5 430: Radeon 840M gaming 3.0, ~50 TOPS NPU → ai_ml 5.5. WUXGA IPS (sibling-name verified) → screen_quality 6.0. 16\" deltas applied per calibration (screen_size +1.5, portability −1.5). CNET quote refers to the OLED variant of this line; this config ships with the IPS panel."
 }

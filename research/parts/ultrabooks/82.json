@@ -38,7 +38,7 @@
     "notes": "70Wh. UBR: 'one of the quietest, coolest-running, and most efficient Windows ultrabooks we've tested in a long while'."
   },
   "price": {
-    "cad": 2099,
+    "cad": 1716.3,
     "currency": "CAD",
     "store": "asus.com/en-ca",
     "store_url": "https://www.asus.com/en/ca/Laptops/For-Home/Zenbook/Zenbook-14-UX3480AA/",
@@ -67,13 +67,13 @@
     "reviews": [
       {
         "outlet": "Ultrabookreview",
-        "score": "4/5",
+        "score": 8,
         "url": "https://www.ultrabookreview.com/77189-asus-zenbook-14-ux3480aa-review/",
         "quote": "It's also one of the quietest, coolest-running, and most efficient Windows ultrabooks we've tested in a long while in this Intel Panther Lake variant."
       },
       {
         "outlet": "Ultrabookreview",
-        "score": "4/5",
+        "score": 8,
         "url": "https://www.ultrabookreview.com/77189-asus-zenbook-14-ux3480aa-review/",
         "quote": "this series is no longer as competitively priced as previous-gen Zenbooks were in their day, and I would recommend straying away from the 2K OLED display as much as possible"
       }

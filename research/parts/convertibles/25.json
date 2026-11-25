@@ -48,9 +48,9 @@
       {
         "store": "bestbuy.ca",
         "url": "https://www.bestbuy.ca/en-ca/product/microsoft-surface-pro-11-13-oled-touchscreen-2-in-1-laptop-snapdragon-x-elite-64gb-1tb-ssd-windows-11-black/19407973",
-        "cad": 3679.98,
-        "est": false,
-        "name": "Microsoft Surface Pro 11 13\" OLED Touchscreen 2-in-1 Laptop - Snapdragon X Elite - 64GB - 1TB SSD - Windows 11 - Black"
+        "cad": 4079.97,
+        "est": true,
+        "name": "Microsoft Surface Pro 11 13\" OLED Touchscreen 2-in-1 Laptop - Snapdragon X Elite - 64GB - 1TB SSD - Windows 11 - Black — bundle: tablet sale $3,679.98 + Flex Keyboard w/ Slim Pen $399.99 (BBY 17923155"
       }
     ],
     "official_url": "https://www.microsoft.com/en-ca/d/surface-pro-11-with-snapdragon-technology/8mzbkmz0lmc1"
@@ -61,7 +61,7 @@
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "8.3/10 (16GB sibling)",
+        "score": 8.3,
         "url": "https://www.cnet.com/tech/computing/microsoft-surface-pro-11-review-snapdragon-and-oled-deliver/",
         "quote": "16GB of memory isn't a lot when it needs to be shared (and even when I just had a lot of browser tabs open, 11GB would already be in use)."
       }

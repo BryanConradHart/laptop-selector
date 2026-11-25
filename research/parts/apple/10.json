@@ -63,23 +63,23 @@
   },
   "image_url": "https://www.apple.com/v/macbook-pro/specs/e/images/specs/14-inch/macbook_pro_14_inch__fjlrd633eki2_large.jpg",
   "professional": {
-    "avg_score": 8.7,
+    "avg_score": 8.8,
     "reviews": [
       {
         "outlet": "Tom's Hardware",
-        "score": "4.5/5 Editor's Choice",
+        "score": 9,
         "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-14-inch-m6-review",
         "quote": "While the base MacBook Pro design is getting a bit tired, Apple's new M6 chip gives the 14-inch MacBook even more pep in its step."
       },
       {
         "outlet": "RTINGS",
-        "score": "8.4/10",
+        "score": 8.4,
         "url": "https://rtings.com/laptop/reviews/apple/macbook-pro-14-m5-2025",
         "quote": "exceptional battery life... lasts well over a full day; exceptional build quality... all-aluminum unibody (same chassis, M5 model tested)"
       },
       {
         "outlet": "Notebookcheck",
-        "score": "90.9%",
+        "score": 9.1,
         "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-M5-2025-review-The-fastest-single-core-performance-in-the-world.1144391.0.html",
         "quote": "fastest single-core performance in the world (same chassis, M5 model tested)"
       }

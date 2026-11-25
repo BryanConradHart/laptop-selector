@@ -57,9 +57,15 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19838/19838158.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": [],
-    "notes": "No verified pro review retrieved (bot-walls; see SHARED-lg-gram.md). Lunar Lake gram reviews exist on NBC/RTINGS for other sizes — gap-fill pass."
+    "avg_score": 8.5,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.5,
+        "url": "https://www.notebookcheck.net/LG-Gram-17-2025.1082043.0.html",
+        "quote": "Better than ever, yet business as usual: remarkable battery runtimes (~22h realistic) and a big 17-inch screen at barely 1.3 kg, though the case is slightly bendy."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

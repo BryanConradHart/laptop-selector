@@ -60,13 +60,13 @@
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "8.3/10",
+        "score": 8.3,
         "url": "https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-14-review-flagship-ultraportable-repairable/",
         "quote": "The reason to pick up the X1 Carbon Gen 14 is the increased repairability rather than anything resembling an increase in performance."
       },
       {
         "outlet": "Ultrabookreview",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.ultrabookreview.com/75917-lenovo-thinkpad-x1carbon-gen14-review/",
         "quote": "The X1 Carbon and the T14s are the superior options with the more advanced dual-fan cooling. They run very quietly as well, all things considered."
       }

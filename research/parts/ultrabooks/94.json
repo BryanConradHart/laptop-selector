@@ -55,11 +55,11 @@
   },
   "image_url": "https://static.frame.work/iw2jmu0d8unt7pl98kqjst48o7h6",
   "professional": {
-    "avg_score": null,
+    "avg_score": 10,
     "reviews": [
       {
         "outlet": "iFixit",
-        "score": "10/10 repairability (Framework platform)",
+        "score": 10,
         "url": "https://www.ifixit.com/Teardown/Framework+Laptop+13+Teardown",
         "quote": "first laptop ever to earn a 10/10 repairability score"
       }

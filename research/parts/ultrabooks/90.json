@@ -57,11 +57,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19870/19870605.jpg",
   "professional": {
-    "avg_score": 8,
+    "avg_score": null,
     "reviews": [
       {
         "outlet": "Ultrabookreview",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.ultrabookreview.com/74371-asus-zenbook-a16-a14/",
         "quote": "the Zenbook A16 and A14 are ultra-light laptops built on Qualcomm Snapdragon hardware with OLED displays"
       }

@@ -64,11 +64,11 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20247/20247670.png",
   "professional": {
-    "avg_score": null,
+    "avg_score": 7.3,
     "reviews": [
       {
         "outlet": "CNET (sibling DB06250, inferred)",
-        "score": "7.3/10",
+        "score": 7.3,
         "url": "https://www.cnet.com/tech/computing/dell-16-plus-2-in-1-review-the-mini-led-display-shines-but-theres-little-else-to-get-excited-about/",
         "quote": "Strong productivity performance"
       }

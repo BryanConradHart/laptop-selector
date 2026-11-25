@@ -51,12 +51,6 @@
         "cad": 1299.95,
         "est": false,
         "name": "Dell Plus 16\" Touchscreen 2-in-1 Laptop - Intel Core Ultra 5-226V - 16GB LPDDR5X - 512GB SSD - Windows 11 Home - Ice Blue"
-      },
-      {
-        "store": "Best Buy",
-        "url": "https://www.bestbuy.ca/en-ca/product/19612837",
-        "cad": 1034.95,
-        "est": false
       }
     ],
     "official_url": null
@@ -67,7 +61,7 @@
     "reviews": [
       {
         "outlet": "CNET",
-        "score": "7.3/10",
+        "score": 7.3,
         "url": "https://www.cnet.com/tech/computing/dell-16-plus-2-in-1-review-the-mini-led-display-shines-but-theres-little-else-to-get-excited-about/",
         "quote": "there are a few too many minuses to give this Plus a full-throated recommendation."
       }

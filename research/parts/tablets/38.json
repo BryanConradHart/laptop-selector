@@ -38,32 +38,32 @@
     "notes": "11,200mAh. Lab Wi-Fi-web ~13-14h; users report ~10-11h mixed real use on the big panel. 45W charging."
   },
   "price": {
-    "cad": 2286,
+    "cad": 2285.94,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/18390514",
     "confidence": "verified",
-    "notes": "Tab S10 Ultra 1TB $2,148.97 (BBY SKU 18390514) + Slim Keyboard S10 Ultra/S9 Ultra $136.97 (BBY 18469772) = $2,285.94 cover-in price. Cover-only price: $136.97. Only the 1TB tier is stocked new — 256/512GB are open-box/refurb only per BBY (see ANDROID_LIST.md).",
+    "notes": "Bundle price = tablet (current best new retail) + keyboard, per the config definition. Components: Tab S10 Ultra 1TB $2,148.97 (BBY SKU 18390514) + Slim Keyboard S10 Ultra/S9 Ultra $136.97 (BBY 18469772) = $2,285.94 cover-in price. Cover-only price: $136.97. Only the 1TB tier is stocked new — 256/512GB are open-box/refurb only per BBY (see ANDROID_LIST.md).",
     "offers": [
       {
         "store": "bestbuy.ca",
         "url": "https://www.bestbuy.ca/en-ca/product/18390514",
-        "cad": 2148.97,
-        "est": false,
-        "name": "Samsung Galaxy Tab S10 Ultra 14.6-inch 1TB, Wi-Fi, 12GB RAM with S Pen - Grey"
+        "cad": 2285.94,
+        "est": true,
+        "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 2148.97 + keyboard per price.notes."
       }
     ],
     "official_url": null
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/183/18390/18390514.jpg",
   "professional": {
-    "avg_score": null,
+    "avg_score": 8.5,
     "reviews": [
       {
-        "outlet": "Notebookcheck",
-        "score": "no numeric score retrieved",
-        "url": "https://www.notebookcheck.net/ (Tab S10 Ultra review exists but exact article URL unresolvable — guessed numeric IDs redirect; bot-walled 2026-11-24)",
-        "quote": ""
+        "outlet": "Notebookcheck (review collection)",
+        "score": 8.5,
+        "url": "https://www.notebookcheck.net/Samsung-Galaxy-Tab-S10-Ultra.908004.0.html",
+        "quote": "Average 85.05% across 44 aggregated scores: a superb option for creative professionals with a strong processor and reliable AI features, though its Dimensity chipset lags the iPad Pro."
       }
     ]
   },

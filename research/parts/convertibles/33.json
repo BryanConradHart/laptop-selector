@@ -51,13 +51,6 @@
         "cad": 1799.99,
         "est": false,
         "name": "HP OmniBook 5 Flip 14\" 2K WUXGA Touchscreen Copilot+ PC Laptop - Intel Core Ultra 5-322 - 16GB LPDDR5X - 512GB SSD - Intel Graphics 2Xe - Windows 11 Home - Glacier Silver"
-      },
-      {
-        "store": "Best Buy",
-        "url": "https://www.bestbuy.ca/en-ca/product/hp-omnibook-5-flip-14-touchscreen-2-in-1-laptop-intel-core-3-100u-8gb-ram-256gb-ssd-win11-glacier-silver/20198612",
-        "cad": 999.99,
-        "est": false,
-        "name": "HP OmniBook 5 Flip 14\" Touchscreen 2-in-1 Laptop - Intel Core 3 100U - 8GB RAM - 256GB SSD - Win11 - Glacier Silver"
       }
     ],
     "official_url": null
@@ -65,7 +58,13 @@
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19817/19817317.jpg",
   "professional": {
     "avg_score": null,
-    "reviews": []
+    "reviews": [
+      {
+        "outlet": "None found",
+        "score": null,
+        "quote": "No professional review found for this line as of 2026-11; ratings inferred from specs and sibling-line reviews."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

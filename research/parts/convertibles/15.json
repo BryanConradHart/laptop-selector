@@ -57,9 +57,25 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20207/20207082.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": [],
-    "notes": "No numeric pro score found (see SHARED-yoga7i-2in1.md). Inferred from 14\" 256V sibling + line calibration."
+    "avg_score": 8.0,
+    "reviews": [
+      {
+        "outlet": "CNET",
+        "score": 8.0,
+        "quote": "The Yoga 7i 16 Gen 10 offers a spacious display in a fairly thin-and-light design... it's an easy recommendation, especially when you can find it on sale for less than $700."
+      },
+      {
+        "outlet": "Techaeris",
+        "score": 8.9,
+        "quote": "A solid 16-inch laptop for most general users."
+      },
+      {
+        "outlet": "Laptop Mag",
+        "score": 7.0,
+        "quote": "Nearly great, except for one huge flaw — the dim base display holds back an otherwise strong big-screen convertible."
+      }
+    ],
+    "notes": "Line-level scores from the Yoga 7 16 Gen 10 review round (aggregated by Notebookcheck); no review of this exact config as of 2026-11."
   },
   "user_sentiment": {
     "praises": [

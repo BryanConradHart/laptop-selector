@@ -547,8 +547,8 @@ function openModal(id) {
           .map(([k, v]) => v ? `<div><span>${esc(k)}</span><b>${esc(v)}</b></div>` : "").join("")}
       </div>
     </div>
-    ${revs.length ? `<div class="m-section"><h4>Professional reviews — avg ${esc(String(e.professional?.avg_score ?? ""))}</h4>
-      ${revs.map(r => `<div class="quote">“${esc(r.quote)}”<span class="who">${esc(r.outlet)} — ${esc(r.score)} ${r.url ? `· <a href="${esc(r.url)}" target="_blank" rel="noopener" style="color:var(--accent)">review</a>` : ""}</span></div>`).join("")}</div>` : ""}
+    ${revs.length ? `<div class="m-section"><h4>Professional reviews${e.professional?.avg_score != null ? ` — avg ${esc(String(e.professional.avg_score))}/10` : ""}</h4>
+      ${revs.map(r => `<div class="quote">“${esc(r.quote)}”<span class="who">${esc(r.outlet)}${typeof r.score === "number" ? ` — ${esc(String(r.score))}/10` : ""} ${r.url ? `· <a href="${esc(r.url)}" target="_blank" rel="noopener" style="color:var(--accent)">review</a>` : ""}</span></div>`).join("")}</div>` : ""}
     <div class="two-col m-section">
       <div><h4>User praises</h4><ul class="m-list good">${(e.user_sentiment?.praises || []).map(p => `<li>${esc(p)}</li>`).join("")}</ul></div>
       <div><h4>User complaints</h4><ul class="m-list bad">${(e.user_sentiment?.complaints || []).map(c => `<li>${esc(c)}</li>`).join("")}</ul></div>

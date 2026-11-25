@@ -56,8 +56,19 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19889/19889761.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 7.6,
+    "reviews": [
+      {
+        "outlet": "91mobiles",
+        "score": 7.5,
+        "quote": "The Aspire Lite 15 offers solid build quality and a good display, but average battery life keeps it from standing out."
+      },
+      {
+        "outlet": "Notebookcheck",
+        "score": 7.7,
+        "quote": "The Aspire Lite 15 series delivers a competent budget everyday package with good price-to-performance."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

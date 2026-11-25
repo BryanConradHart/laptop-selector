@@ -61,7 +61,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "85.9%",
+        "score": 8.6,
         "url": "https://www.notebookcheck.net/Full-screen-Xbox-experience-for-gaming-handhelds-Asus-ROG-Xbox-Ally-X-review.1139045.0.html",
         "quote": "The new ROG Xbox Ally X is an upgrade in pretty much every respect... the new controller grips are just much more comfortable and you can easily play for hours. The AMD Ryzen AI Z2 Extreme with the fast Radeon 890M increases the gaming performance by 10-15 % compared to the previous Ally X... Thanks to the new Xbox full-screen experience, you can now focus on gaming and include third-party launchers (Steam, EA, Ubisoft, etc.). Ideally, you will never have to use the traditional desktop mode."
       },
@@ -73,7 +73,7 @@
       },
       {
         "outlet": "Trusted Reviews",
-        "score": "recommended",
+        "score": null,
         "url": "https://www.trustedreviews.com/reviews/asus-rog-xbox-ally-x",
         "quote": "The Asus ROG Xbox Ally X is the definitive Windows handheld to buy right now. It's fast, comfortable and provides a great gaming experience."
       },

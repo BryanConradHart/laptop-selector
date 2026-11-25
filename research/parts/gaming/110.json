@@ -64,9 +64,21 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/191/19186/19186641.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": [],
-    "note": "No numeric pro score retrieved 2026-11-24: RTINGS has no SCAR 2025 review (slug 404); NBC review pages bot-walled and slug unresolved (candidate: https://www.notebookcheck.net/Search.8222.0.html model 'SCAR 18'). Ratings are line-level anchors calibrated vs dataset siblings (Legion Pro 7i gaming 9.5, OMEN Max 16 NBC 82%, Zephyrus G16 NBC 90% TGP-capped) — see SHARED-scar.md. Gap-fill pass recommended."
+    "avg_score": 8.9,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.8,
+        "url": "https://www.notebookcheck.net/Asus-ROG-Strix-Scar-18-G835LX.1062802.0.html",
+        "quote": "18-inch gamer with great mini LED and an RTX 5090."
+      },
+      {
+        "outlet": "TechRadar",
+        "score": 9.0,
+        "url": "https://www.techradar.com/computers/gaming-laptops/asus-rog-strix-scar-18-2025-review",
+        "quote": "Unmatched in terms of gaming performance, and the Mini-LED display is bright and clear."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

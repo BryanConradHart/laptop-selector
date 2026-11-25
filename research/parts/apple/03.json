@@ -56,23 +56,23 @@
   },
   "image_url": "https://www.apple.com/v/macbook-air/specs/c/images/specs/13-inch/mba_13_hero__c067qisf51oy_large.jpg",
   "professional": {
-    "avg_score": 9.1,
+    "avg_score": 8.8,
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "92%",
+        "score": 9.2,
         "url": "https://www.notebookcheck.net/Insane-performance-and-efficiency-without-fans-Apple-MacBook-Air-13-M5-Entry-Review.1242707.0.html",
         "quote": "Apple's M5 SoC is the fastest single core processor you can buy."
       },
       {
         "outlet": "RTINGS",
-        "score": "8.3/10",
+        "score": 8.3,
         "url": "https://rtings.com/laptop/reviews/apple/macbook-air-13-m5-2026",
         "quote": "The Apple MacBook Air 13 M5 has outstanding battery life."
       },
       {
         "outlet": "Tom's Hardware",
-        "score": "Editor's Choice",
+        "score": null,
         "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-air-13-inch-m5-review",
         "quote": "The MacBook Air M5 is the sum of years of refinements, with a mix of premium design, strong performance, and solid battery life."
       }

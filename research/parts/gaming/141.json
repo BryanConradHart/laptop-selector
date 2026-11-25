@@ -7,7 +7,7 @@
   "inferred": true,
   "specs": {
     "cpu_cores": 12,
-    "gpu_type": "dedicated",
+    "gpu_type": "discrete",
     "ram_gb": 64,
     "ram_type": "LPDDR5x-8000 soldered",
     "screen_size_in": 16,
@@ -57,7 +57,7 @@
     "reviews": [
       {
         "outlet": "Notebookcheck",
-        "score": "87%",
+        "score": 8.7,
         "url": "https://www.notebookcheck.net/Razer-Blade-16-2025-review-Gaming-laptop-now-with-GeForce-RTX-5090-Laptop-and-an-even-slimmer-case.988251.0.html",
         "quote": "With its thickness of barely 17 mm (~0.67 in) and weight of around 2 kg (~4.4 lb), the Blade 16 2025 is very mobile, and the quality of the case continues to be very high."
       }

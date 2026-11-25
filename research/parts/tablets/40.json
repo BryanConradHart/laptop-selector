@@ -38,32 +38,32 @@
     "notes": "8,000mAh. Users report ~8-10h mixed use; 25W charging (slower than FE+)."
   },
   "price": {
-    "cad": 1055,
+    "cad": 944.98,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19192251",
     "confidence": "verified",
-    "notes": "Tab S10 FE 128GB $779.99 (BBY SKU 19192251) + Keyboard Case S10 FE/S10 Lite/S9 $274.99 reg (BBY 18469763, sale $164.99) = $1,054.98 cover-in price. Cover-only: $274.99 reg / $164.99 sale. 256GB tablet tier $979.99 (BBY 19192247).",
+    "notes": "Bundle price = tablet (current best new retail) + keyboard, per the config definition. Components: Tab S10 FE 128GB $779.99 (BBY SKU 19192251) + Keyboard Case S10 FE/S10 Lite/S9 $274.99 reg (BBY 18469763, sale $164.99) = $1,054.98 cover-in price. Cover-only: $274.99 reg / $164.99 sale. 256GB tablet tier $979.99 (BBY 19192247).",
     "offers": [
       {
         "store": "bestbuy.ca",
         "url": "https://www.bestbuy.ca/en-ca/product/19192251",
-        "cad": 779.99,
-        "est": false,
-        "name": "Samsung Galaxy Tab S10 FE 10.9-inch 128GB, Exynos 1580 with S Pen - Grey"
+        "cad": 944.98,
+        "est": true,
+        "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 779.99 + keyboard per price.notes."
       }
     ],
     "official_url": null
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/191/19192/19192251.jpg",
   "professional": {
-    "avg_score": null,
+    "avg_score": 8.1,
     "reviews": [
       {
-        "outlet": "Notebookcheck",
-        "score": "no numeric score retrieved",
-        "url": "https://www.notebookcheck.net/ (Tab S10 FE review exists but exact article URL unresolvable — guessed numeric IDs redirect; bot-walled 2026-11-24)",
-        "quote": ""
+        "outlet": "Notebookcheck (review collection)",
+        "score": 8.1,
+        "url": "https://www.notebookcheck.net/Samsung-Galaxy-Tab-S10-FE.1041998.0.html",
+        "quote": "Average 80.94% across 25 aggregated scores: it does not pack the fastest chipset or the brightest display, but for $500 it nails the essentials with reliable performance, long battery life, and a beautifully crafted build."
       }
     ]
   },

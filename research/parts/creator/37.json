@@ -57,8 +57,19 @@
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19966/19966480.jpeg",
   "professional": {
-    "avg_score": null,
-    "reviews": []
+    "avg_score": 8.3,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.5,
+        "quote": "Massive improvements thanks to Intel Arrow Lake — the P14s Gen 6 is a proper compact mobile workstation."
+      },
+      {
+        "outlet": "TechRadar",
+        "score": 8.0,
+        "quote": "A portable business-driven shell that's a workstation-grade beast under the hood."
+      }
+    ]
   },
   "user_sentiment": {
     "praises": [

@@ -23,7 +23,7 @@
     "refresh_hz": 180,
     "brightness_sdr_nits": 500,
     "brightness_hdr_nits": null,
-    "weight_kg": 1.6,
+    "weight_kg": 1.62,
     "ports": "2x USB-C USB4 (DP1.4 + PD), 1x USB-A, HDMI 2.1, microSD, 3.5mm combo",
     "wireless": "Wi-Fi 7, BT 5.4",
     "webcam": "1440p front with Windows Hello face recognition + rear 4K camera",
@@ -34,7 +34,7 @@
   },
   "battery": {
     "claimed_hours": 10,
-    "real_world_hours": 5.5,
+    "real_world_hours": 7.5,
     "notes": "70Wh; identical cell and APU to the 32GB SKU, so runtime is effectively the same. Notebookcheck (32GB unit): 9h20 Wi-Fi @150 nits/60Hz, 7h30 @180Hz, 12h44 video, 0h51 max load. RTINGS tested this 64GB config but its measured battery figures are membership-locked (honest null)."
   },
   "price": {
@@ -67,7 +67,7 @@
       },
       {
         "outlet": "Notebookcheck",
-        "score": "86.8%",
+        "score": 8.7,
         "url": "https://www.notebookcheck.net/Asus-ROG-Flow-Z13-GZ302EA-Convertible-Review-AMD-s-Strix-Halo-GPU-is-neck-and-neck-with-the-RTX-4070-Laptop.963266.0.html",
         "quote": "Our review unit with 32 GB RAM can allocate up to 24 GB for the GPU, while other SKUs can allocate up to 48 or 96 GB VRAM."
       },

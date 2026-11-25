@@ -51,22 +51,26 @@
         "cad": 1699.95,
         "est": false,
         "name": "Lenovo Yoga 7i 14\" Touchscreen 2-in-1 Laptop - Intel Core Ultra 5 226V - 16GB LPDDR5x - 512GB SSD - Windows 11 Home - Luna Grey"
-      },
-      {
-        "store": "Best Buy",
-        "url": "https://www.bestbuy.ca/en-ca/product/lenovo-yoga-7-14-touchscreen-2-in-1-copilot-pc-laptop-intel-core-ultra-5-226v-16gb-lpddr5x-512gb-ssd-windows-11-luna-grey/19182403",
-        "cad": 1299.97,
-        "est": false,
-        "name": "Lenovo Yoga 7 14\" Touchscreen 2-in-1 Copilot+ PC Laptop - Intel Core Ultra 5 226V - 16GB LPDDR5x - 512GB SSD - Windows 11 - Luna Grey"
       }
     ],
     "official_url": null
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/197/19784/19784202.jpg",
   "professional": {
-    "avg_score": null,
-    "reviews": [],
-    "notes": "No numeric pro score found for this config (RTINGS/NBC bot-walled at research time; see SHARED-yoga7i-2in1.md). Anchored on BBY twin 19182403 aggregate 4.7★/1,001."
+    "avg_score": 8.4,
+    "reviews": [
+      {
+        "outlet": "Notebookcheck",
+        "score": 8.8,
+        "quote": "The Yoga 7 14 2-in-1's bright 1000-nit 120Hz OLED option keeps Lenovo's midrange convertible near the top of its class."
+      },
+      {
+        "outlet": "XDA",
+        "score": 8,
+        "quote": "Lenovo's Yoga 7 14 is still the best midrange option."
+      }
+    ],
+    "notes": "Line-level scores from earlier gens of the Yoga 7i 2-in-1 14 line (Notebookcheck OLED review, XDA); no review of this exact config as of 2026-11. BBY twin 19182403 aggregate 4.7/5 retained in user_sentiment."
   },
   "user_sentiment": {
     "praises": [
