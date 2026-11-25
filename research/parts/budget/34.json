@@ -37,7 +37,7 @@
     "notes": "N355 + ChromeOS + larger battery: ~8-9h real web use; convertible hinge doesn't change efficiency."
   },
   "price": {
-    "cad": 649.99,
+    "cad": 599,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19817309",
@@ -50,22 +50,29 @@
         "cad": 649.99,
         "est": false,
         "name": "HP Chromebook Plus Flip 14\" 2K WUXGA Touchsceen Laptop - Intel Core 3 N355 - 8GB LPDDR5 - 512GB SSD - Intel Graphics - Meteor Silver - Chromebook Plus - includes 12 month of Google AI Pro"
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0GS1X5MYL",
+        "cad": 599,
+        "est": false,
+        "name": "HP Chromebook x360 Plus 14 Inch Laptop, 2K Touchscreen, Intel Core 3 N355, 8 GB RAM, 512 GB SSD, Intel Graphics, Chrome OS, Meteor Silver, 14c-ce0006ca"
       }
     ],
     "official_url": null
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19817/19817309.jpg",
   "professional": {
-    "avg_score": 8.0,
+    "avg_score": 8,
     "reviews": [
       {
         "outlet": "PCMag",
-        "score": 8.0,
+        "score": 8,
         "quote": "As convertible Chromebooks go, the HP Chromebook Plus x360 falls short of the premium Acer Spin 714, but it costs a few hundred dollars less - a first-rate 2-in-1 alternative."
       },
       {
         "outlet": "T3",
-        "score": 8.0,
+        "score": 8,
         "quote": "By and large it delivered exactly what I was expecting, with a standout 360-degree screen, quality webcam, and great value."
       }
     ]

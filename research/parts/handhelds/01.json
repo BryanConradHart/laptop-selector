@@ -57,6 +57,20 @@
         "url": "https://www.steamdeck.com/en/buy",
         "cad": 1349,
         "est": false
+      },
+      {
+        "store": "Walmart.ca",
+        "url": "https://www.walmart.ca/en/ip/Valve-Steam-Deck-7-Console-OLED-AMD-APU-16GB-RAM-512GB-Storage-Steam-OS-3-0/3399QXH2NSGJ",
+        "cad": 1339.79,
+        "est": true,
+        "name": "Valve Steam Deck 7\" Console OLED (AMD APU 16GB RAM, 512GB Storage, Steam OS 3.0)"
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0CXPF8F9Y",
+        "cad": 1499.99,
+        "est": false,
+        "name": "Valve Steam Deck OLED 512GB NVMe SSD Handheld Gaming Console"
       }
     ],
     "official_url": "https://www.steamdeck.com/en/buy"

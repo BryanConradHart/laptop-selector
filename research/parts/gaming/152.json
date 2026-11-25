@@ -50,6 +50,13 @@
         "url": "https://www.bestbuy.ca/en-ca/p/20341968",
         "cad": 2119.53,
         "est": false
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0HHJ9GZZN",
+        "cad": 2273,
+        "est": false,
+        "name": "GIGABYTE A16 2025 Laptop, 10-Core Intel Core i7-13620H, 16\" WUXGA 165Hz IPS Display, NVIDIA GeForce RTX 5060, 24GB DDR5, 1TB SSD"
       }
     ],
     "official_url": null

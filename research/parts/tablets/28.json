@@ -58,6 +58,20 @@
         "cad": 1128.99,
         "est": true,
         "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 1129 + keyboard per price.notes."
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0DZ78VHMW",
+        "cad": 749.99,
+        "est": true,
+        "name": "Apple iPad with A16 chip: 11-inch Liquid Retina Display, 256 GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID — Silver"
+      },
+      {
+        "store": "Walmart.ca",
+        "url": "https://www.walmart.ca/en/ip/Apple-iPad-A16-11-256GB-with-Wi-Fi-6-11th-Generation-Silver/6VKELGRTU9PE",
+        "cad": 798.98,
+        "est": true,
+        "name": "Apple iPad A16 11\" 256GB with Wi-Fi 6 (11th Generation) - Silver"
       }
     ],
     "official_url": "https://www.apple.com/ca/shop/buy-ipad/ipad/256gb-blue-wifi"

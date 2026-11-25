@@ -58,6 +58,13 @@
         "cad": 978.99,
         "est": true,
         "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 979 + keyboard per price.notes."
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0DZ76C2QV",
+        "cad": 649,
+        "est": true,
+        "name": "Apple iPad with A16 chip: 11-inch Liquid Retina Display, 128 GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID — Silver"
       }
     ],
     "official_url": "https://www.apple.com/ca/shop/buy-ipad/ipad/128gb-blue-wifi"

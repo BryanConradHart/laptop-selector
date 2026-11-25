@@ -50,6 +50,13 @@
         "cad": 499.95,
         "est": false,
         "name": "ASUS Vivobook Go 15 15.6\" Laptop - Cool Silver (Intel Core i3-N305/8GB RAM/256GB UFS/Windows 11 Home)"
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0HL13VJRK",
+        "cad": 699,
+        "est": false,
+        "name": "Asus VivoBook Go 15.6\" FHD Laptop (Intel Core i3-N305, 8GB RAM, 256GB UFS 2.1, Windows 11) - Cool Silver (E1504GA-DS31)"
       }
     ],
     "official_url": null

@@ -51,17 +51,24 @@
         "cad": 1399.99,
         "est": false,
         "name": "Lenovo Yoga 7i 2-in-1 16\" Touch-Screen Laptop, Intel Core Ultra 7 256V, Copilot+ PC, 16GB LPDDR5X RAM, 512GB SSD, Fingerprint, Windows Hello, Wi-Fi 7, Windows 11 Home, Luna Grey"
+      },
+      {
+        "store": "Walmart.ca",
+        "url": "https://www.walmart.ca/en/ip/Lenovo-Yoga-7i-2-in-1-16-Touch-Screen-Laptop-Intel-Core-Ultra-7-256V-Copilot-PC-16GB-LPDDR5X-RAM-512GB-SSD-Fingerprint-Windows-Hello-Wi-Fi-7-11-Home/1Z9UAJA3KSBT",
+        "cad": 1399.99,
+        "est": false,
+        "name": "Lenovo Yoga 7i 2-in-1 16\" Touch-Screen Laptop, Intel Core Ultra 7 256V, Copilot+ PC, 16GB LPDDR5X RAM, 512GB SSD, Wi-Fi 7, Windows 11 Home, Luna Grey"
       }
     ],
     "official_url": null
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20207/20207082.jpeg",
   "professional": {
-    "avg_score": 8.0,
+    "avg_score": 8,
     "reviews": [
       {
         "outlet": "CNET",
-        "score": 8.0,
+        "score": 8,
         "quote": "The Yoga 7i 16 Gen 10 offers a spacious display in a fairly thin-and-light design... it's an easy recommendation, especially when you can find it on sale for less than $700."
       },
       {
@@ -71,7 +78,7 @@
       },
       {
         "outlet": "Laptop Mag",
-        "score": 7.0,
+        "score": 7,
         "quote": "Nearly great, except for one huge flaw — the dim base display holds back an otherwise strong big-screen convertible."
       }
     ],

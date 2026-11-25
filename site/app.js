@@ -221,6 +221,7 @@ function storeLabel(u) {
   if (u.includes("apple")) return "Apple";
   if (u.includes("microsoft")) return "Microsoft";
   if (u.includes("asus")) return "ASUS";
+  if (u.includes("walmart")) return "Walmart";
   if (u.includes("staples")) return "Staples";
   if (u.includes("canadacomputers")) return "Canada Computers";
   if (u.includes("costco")) return "Costco";
@@ -531,7 +532,7 @@ function openModal(id) {
           <span class="chip">${esc(e.line || "")}</span>
         </div>
         <div class="price-line"><span class="price">${(e.price?.offers || []).length > 1 ? "from " : ""}${fmtCAD(e.price?.cad)}</span>
-          ${(() => { const offs = (e.price?.offers || []).slice(0, 3); const prod = e.price?.official_url || null; return (prod ? `<a class="btn-prod" href="${esc(prod)}" target="_blank" rel="noopener">${storeLabel(prod)} product page</a>` : "") + offs.map(o => `<a class="btn-store${o.official ? " official" : ""}" href="${esc(o.url)}" target="_blank" rel="noopener">${storeLabel(o.url)}${o.official ? " store" : ""} → ${fmtCAD(o.cad)}${o.est ? " est." : ""}</a>`).join(""); })()}
+          ${(() => { const offs = (e.price?.offers || []); const prod = e.price?.official_url || null; return (prod ? `<a class="btn-prod" href="${esc(prod)}" target="_blank" rel="noopener">${storeLabel(prod)} product page</a>` : "") + offs.map(o => `<a class="btn-store${o.official ? " official" : ""}" href="${esc(o.url)}" target="_blank" rel="noopener">${storeLabel(o.url)}${o.official ? " store" : ""} → ${fmtCAD(o.cad)}${o.est ? " est." : ""}</a>`).join(""); })()}
         </div>
         <p style="font-size:13px;color:var(--ink-dim);line-height:1.55">${esc(e.design_philosophy || "")}</p>
       </div>

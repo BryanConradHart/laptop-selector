@@ -50,6 +50,13 @@
         "cad": 1079.99,
         "est": false,
         "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Laptop-Grey(Intel Core i5-1335U/16GB RAM/512GB SSD/Intel Iris Xe Graphics/Numeric Keypad/720p HD Camera/Win 11)"
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0F3CTG2VX",
+        "cad": 1099,
+        "est": true,
+        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Laptop, Intel Core i5-1335U, 16GB LPDDR5, 1.5TB Storage (512GB SSD+1TB Docking Station), Intel Iris Xe Graphics, Numeric Keypad, Copilot"
       }
     ],
     "official_url": null
@@ -65,12 +72,12 @@
       },
       {
         "outlet": "Techradar",
-        "score": 8.0,
+        "score": 8,
         "quote": "Not going to set anyone's world on fire, but a great value for those that just need a Windows computer."
       },
       {
         "outlet": "PCMag",
-        "score": 6.0,
+        "score": 6,
         "quote": "Sits just a rung or two above the minimum viable Windows laptop, held back by lackluster battery life and a limited raw-performance ceiling."
       }
     ]

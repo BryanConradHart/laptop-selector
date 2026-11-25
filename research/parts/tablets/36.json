@@ -51,6 +51,13 @@
         "cad": 1719.96,
         "est": true,
         "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 1499.99 + keyboard per price.notes."
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0DGQR3H25",
+        "cad": 1499.98,
+        "est": true,
+        "name": "Samsung Galaxy Tab S10+ Gray 256GB (CAD Version)"
       }
     ],
     "official_url": null

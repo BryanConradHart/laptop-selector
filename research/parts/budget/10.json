@@ -50,13 +50,20 @@
         "cad": 799.95,
         "est": false,
         "name": "Acer Aspire Go 15.6\" Laptop - Silver (AMD R7 7730/16GB RAM/1TB SSD/Windows 11)"
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0F1Q29Q3F",
+        "cad": 949.99,
+        "est": false,
+        "name": "Acer Aspire Go AG15-42P-R0CT-CA, 15.6\" FHD Laptop, AMD Ryzen R7 7730U, 16GB DDR4, 1TB SSD, Windows 11"
       }
     ],
     "official_url": null
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19889/19889764.jpg",
   "professional": {
-    "avg_score": 8.0,
+    "avg_score": 8,
     "reviews": [
       {
         "outlet": "Notebookcheck",
@@ -65,12 +72,12 @@
       },
       {
         "outlet": "Tom's Guide",
-        "score": 8.0,
+        "score": 8,
         "quote": "This $300 laptop is a killer value and doesn't feel like a cheap laptop."
       },
       {
         "outlet": "PCWorld",
-        "score": 8.0,
+        "score": 8,
         "quote": "Nothing exciting, but it has clear value — a worthy machine for $300."
       }
     ]

@@ -57,6 +57,13 @@
         "url": "https://www.lenovo.com/ca/en/laptops/legion-go/",
         "cad": 1799,
         "est": true
+      },
+      {
+        "store": "Walmart.ca",
+        "url": "https://www.walmart.ca/en/ip/Lenovo-Legion-Go-2-Handheld-Gaming-PC-AMD-Ryzen-Z2-32GB-RAM-1TB-SSD-8-8/4ESKP3B0GLS5",
+        "cad": 2754.99,
+        "est": true,
+        "name": "Lenovo Legion Go 2 Handheld Gaming PC - AMD Ryzen Z2 - 32GB RAM - 1TB SSD - 8.8\""
       }
     ],
     "official_url": "https://www.lenovo.com/ca/en/laptops/legion-go/"

@@ -51,6 +51,20 @@
         "cad": 944.98,
         "est": true,
         "name": "Bundle: tablet + keyboard (config price includes the keyboard). Tablet listing 779.99 + keyboard per price.notes."
+      },
+      {
+        "store": "Walmart.ca",
+        "url": "https://www.walmart.ca/en/ip/Samsung-Galaxy-Tab-S10-FE-8GB-128GB-Gray/6XHQSGG70R1Z",
+        "cad": 499.98,
+        "est": true,
+        "name": "Samsung Galaxy Tab S10 FE, 8GB+128GB, Gray"
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0F1DBMHNV",
+        "cad": 779.99,
+        "est": true,
+        "name": "Samsung Galaxy Tab S10 FE Gray 128GB (CAD Version)"
       }
     ],
     "official_url": null

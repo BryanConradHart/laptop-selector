@@ -50,6 +50,13 @@
         "url": "https://www.bestbuy.ca/en-ca/p/20116534",
         "cad": 2499,
         "est": false
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0FDM3M1WF",
+        "cad": 2648.14,
+        "est": false,
+        "name": "GIGABYTE Gaming A16 Gaming Laptop - 165Hz 1920x1200 WUXGA - NVIDIA GeForce RTX 5070 - Intel i7-13620H - 1TB SSD with 32GB DDR5"
       }
     ],
     "official_url": null

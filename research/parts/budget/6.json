@@ -50,6 +50,13 @@
         "cad": 899.99,
         "est": false,
         "name": "Lenovo IdeaPad Slim 3x 15.3\" Laptop - Snapdragon X X1-26-100 - 16GB LPDDR5x - 512GB SSD - Windows 11 Home - Luna Grey"
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0DTBPC46X",
+        "cad": 932.44,
+        "est": true,
+        "name": "Lenovo IdeaPad Slim 3X - 2025 - 15.3\" WUXGA Display - 16GB Memory - 512 GB Storage - Qualcomm Snapdragon - Windows 11 Home - Luna Grey"
       }
     ],
     "official_url": null
@@ -65,12 +72,12 @@
       },
       {
         "outlet": "PCMag",
-        "score": 7.0,
+        "score": 7,
         "quote": "A budget-friendly battery champ; a subpar display and cramped keyboard are forgivable — under $600 it's an easy budget laptop to recommend."
       },
       {
         "outlet": "Tom's Guide",
-        "score": 8.0,
+        "score": 8,
         "quote": "Fantastic battery life and solid performance at a price that's tough to beat."
       }
     ]

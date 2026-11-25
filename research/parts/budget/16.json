@@ -50,6 +50,13 @@
         "cad": 849.99,
         "est": false,
         "name": "ASUS Vivobook 15 15.6\" 60Hz Laptop - Intel Core 5 320 - 16GB RAM - 512GB SSD - Windows 11 Home - Quiet Blue"
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0H92BN7QN",
+        "cad": 999.99,
+        "est": false,
+        "name": "ASUS Vivobook 15, 15.6\" Thin and Light Laptop, FHD (1920x1080) Display, Intel Core 5 320, 16GB, 512GB"
       }
     ],
     "official_url": null
@@ -60,7 +67,7 @@
     "reviews": [
       {
         "outlet": "91mobiles",
-        "score": 7.0,
+        "score": 7,
         "quote": "The Vivobook 15 cuts a few corners to keep its cost down and the display is dull, but its performance is right up there with laptops that cost a couple thousand bucks more."
       },
       {

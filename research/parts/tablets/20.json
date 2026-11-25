@@ -50,6 +50,13 @@
         "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/13-inch-display-128gb-space-grey-wifi",
         "cad": 1699,
         "est": false
+      },
+      {
+        "store": "Walmart.ca",
+        "url": "https://www.walmart.ca/en/ip/13-inch-iPad-Air-Wi-Fi-128GB-Space-Grey-M4/5P1MD4JF9L9G",
+        "cad": 979,
+        "est": true,
+        "name": "13-inch iPad Air Wi-Fi 128GB - Space Grey (M4)"
       }
     ],
     "official_url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air/13-inch-display-128gb-space-grey-wifi"

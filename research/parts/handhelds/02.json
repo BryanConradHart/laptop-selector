@@ -57,6 +57,13 @@
         "url": "https://www.steamdeck.com/en/buy",
         "cad": 1549,
         "est": true
+      },
+      {
+        "store": "Walmart.ca",
+        "url": "https://www.walmart.ca/en/ip/Valve-Steam-Deck-OLED-1TB-Handheld-Gaming-Console/6CWT5FX8J93D",
+        "cad": 1849.99,
+        "est": true,
+        "name": "Valve Steam Deck OLED 1TB Handheld Gaming Console"
       }
     ],
     "official_url": "https://www.steamdeck.com/en/buy"

@@ -37,7 +37,7 @@
     "notes": "Same low-power N355 + ChromeOS recipe as the Lenovo: ~8-10h real web use."
   },
   "price": {
-    "cad": 599.99,
+    "cad": 599,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/19860976",
@@ -50,6 +50,13 @@
         "cad": 599.99,
         "est": false,
         "name": "ASUS CX14 14\" Touchscreen Chromebook Plus - Intel Core 3-N355 - 8GB LPDDR5 - 256GB eMMC - ChromeOS - Rock Grey"
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0H35PSYHL",
+        "cad": 599,
+        "est": false,
+        "name": "ASUS Chromebook Plus CX14, 14\" 16:9 FHD (1920 x 1080) Anti-Glare Touchscreen Display, Intel Core 3-N355 Processor, 256GB Storage, 8GB RAM, Wi-Fi 6, ChromeOS, Rock Grey, CX1405CTA-AS31T-CB"
       }
     ],
     "official_url": null

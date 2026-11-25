@@ -38,7 +38,7 @@
     "notes": "~73Wh cell typical of Katana chassis; 14th-gen HX idle draw is poor. Estimated, no pro battery test captured."
   },
   "price": {
-    "cad": 2187.51,
+    "cad": 2183.19,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/20012913",
@@ -51,6 +51,13 @@
         "cad": 2187.51,
         "est": false,
         "name": "MSI Katana 15 HX Gaming Laptop, 15.6\" 165Hz WQHD IPS Display, 14th Intel i7-14650HX 16-Core, NVIDIA GeForce RTX 5060, 16GB DDR5 1TB SSD, RGB Backlit KB, HD Camera, Win11 Home"
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0HC31H362",
+        "cad": 2183.19,
+        "est": false,
+        "name": "MSI Katana 15 HX 2025 Laptop, 16-Core Intel Core i7-14650HX, 15.6\" WQHD 165Hz IPS Display, NVIDIA GeForce RTX 5060, 16GB DDR5, 1TB SSD"
       }
     ],
     "official_url": null

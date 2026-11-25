@@ -57,6 +57,13 @@
         "url": "https://www.apple.com/ca/shop/buy-mac/macbook-air/13-inch-sky-blue-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
         "cad": 1799,
         "est": false
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0GR19X8DC",
+        "cad": 1589.99,
+        "est": false,
+        "name": "Apple 2026 MacBook Air 13-inch Laptop with M5 chip (10-core CPU and 8-core GPU, 16GB Unified Memory, 512GB SSD Storage) - Silver - English Keyboard"
       }
     ],
     "official_url": "https://www.apple.com/ca/shop/buy-mac/macbook-air/13-inch-sky-blue-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage"

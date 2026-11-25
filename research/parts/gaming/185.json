@@ -38,7 +38,7 @@
     "notes": "~73Wh cell; estimated, no pro battery test captured."
   },
   "price": {
-    "cad": 2637.87,
+    "cad": 2399.99,
     "currency": "CAD",
     "store": "bestbuy.ca",
     "store_url": "https://www.bestbuy.ca/en-ca/product/20012908",
@@ -51,6 +51,13 @@
         "cad": 2637.87,
         "est": false,
         "name": "MSI Katana 15 HX Gaming Laptop, 15.6\" 165Hz WQHD IPS Display, 14th Intel i7-14650HX 16-Core, NVIDIA GeForce RTX 5060, 32GB DDR5 1TB SSD, RGB Backlit KB, HD Camera, Win11 Home"
+      },
+      {
+        "store": "Amazon.ca",
+        "url": "https://www.amazon.ca/dp/B0BW2RTQB8",
+        "cad": 2399.99,
+        "est": false,
+        "name": "MSI Katana 15 HX B14WFK-446CA 15.6\" 165Hz QHD Gaming Laptop, Intel Core i7-14650HX, RTX 5060, 32GB DDR5, 1TB NVMe SSD, Windows 11 Home"
       }
     ],
     "official_url": null
