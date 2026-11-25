@@ -83,8 +83,7 @@ const PRESETS = {
   },
 };
 
-const PRICE_FACTOR = { key: "price", label: "Budget", hint: "How much cheapness matters — high values strongly penalize expensive machines", def: 6 };
-/* Budget gets an extra weight boost that ramps in with the slider: at 0 it acts
+const PRICE_FACTOR = { key: "price", label: "Budget", hint: "How much cheapness matters — high values strongly penalize expensive machines", def: 6 };/* Budget gets an extra weight boost that ramps in with the slider: at 0 it acts
  * like any other factor; at 10 it counts ~3x a maxed factor, enough for price
  * to genuinely re-rank without silencing every other preference. */
 const PRICE_MAX_BOOST = 3;
@@ -94,6 +93,29 @@ const DEFAULT_PRESET = "🎓 Student";
 /* OS filter defaults to laptops only (Windows/macOS); tablets, Chromebooks and
  * handhelds (iPadOS/Android/ChromeOS/SteamOS) start unselected. */
 const state = { weights: {}, openCards: new Set(), activePreset: DEFAULT_PRESET, filters: { os: new Set(["Windows", "macOS"]), ff: new Set(), arch: new Set() } };
+
+/* ---------- priorities persistence ----------
+ * Saved weights + active preset survive reloads/visits; Reset returns to the
+ * Student preset and overwrites the saved copy. */
+const LS_KEY = "laptop-selector-priorities-v1";
+function savePriorities() {
+  try {
+    localStorage.setItem(LS_KEY, JSON.stringify({ weights: state.weights, preset: state.activePreset }));
+  } catch { /* private mode / quota — non-fatal */ }
+}
+function loadSavedPriorities() {
+  try {
+    const raw = localStorage.getItem(LS_KEY);
+    if (!raw) return;
+    const saved = JSON.parse(raw);
+    if (!saved || typeof saved !== "object" || typeof saved.weights !== "object" || saved.weights === null) return;
+    for (const f of FACTORS) {
+      const v = saved.weights[f.key];
+      if (typeof v === "number" && Number.isFinite(v)) state.weights[f.key] = clamp(v, 0, 10);
+    }
+    state.activePreset = typeof saved.preset === "string" && PRESETS[saved.preset] ? saved.preset : null;
+  } catch { /* corrupt data — fall back to defaults */ }
+}
 let ENTRIES = [], FACTORS = [], priceLo = 500, priceHi = 5000;
 
 /* ---------- data load ---------- */
@@ -111,7 +133,7 @@ function loadData() {
   // Price is a *derived* positive factor: rating = how cheap the config is
   // relative to the dataset (log-scaled). Its slider says how much cheapness matters.
   FACTORS.push({ ...PRICE_FACTOR });
-  state.weights.price = PRICE_FACTOR.def;
+  state.weights.price = DEFAULT_PRESET === "" ? PRICE_FACTOR.def : (PRESETS[DEFAULT_PRESET].price ?? PRICE_FACTOR.def);
   const prices = ENTRIES.map(e => e.price?.cad).filter(p => typeof p === "number" && p > 0);
   if (prices.length) {
     prices.sort((a, b) => a - b);
@@ -254,11 +276,12 @@ function buildSliders() {
     </div>`).join("");
   sliderFactors.forEach(f => {
     const el = document.getElementById("w-" + f.key);
-    el.addEventListener("input", () => { state.weights[f.key] = +el.value; state.activePreset = null; paintSlider(f.key); paintPresetBtns(); scheduleUpdate(); });
+    el.addEventListener("input", () => { state.weights[f.key] = +el.value; state.activePreset = null; paintSlider(f.key); paintPresetBtns(); savePriorities(); scheduleUpdate(); });
     paintSlider(f.key);
   });
   const ps = document.getElementById("priceSlider");
-  ps.addEventListener("input", () => { state.weights.price = +ps.value; state.activePreset = null; paintSlider("price"); paintPresetBtns(); scheduleUpdate(); });
+  ps.value = state.weights.price;
+  ps.addEventListener("input", () => { state.weights.price = +ps.value; state.activePreset = null; paintSlider("price"); paintPresetBtns(); savePriorities(); scheduleUpdate(); });
   paintSlider("price");
 
   document.getElementById("presetBtns").innerHTML =
@@ -334,6 +357,7 @@ function applyPreset(p, zeroOthers, name) {
     el.value = state.weights[f.key]; paintSlider(f.key);
   });
   paintPresetBtns();
+  savePriorities();
   update();
 }
 
@@ -584,6 +608,7 @@ document.addEventListener("keydown", ev => { if (ev.key === "Escape") { closeMod
 
 /* ---------- boot ---------- */
 loadData();
+loadSavedPriorities();
 buildSliders();
 initSheet();
 update();
