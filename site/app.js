@@ -98,6 +98,7 @@ const state = { weights: {}, openCards: new Set(), activePreset: DEFAULT_PRESET,
  * Saved weights + active preset survive reloads/visits; Reset returns to the
  * Student preset and overwrites the saved copy. */
 const LS_KEY = "laptop-selector-priorities-v1";
+const LS_SEEN_KEY = "laptop-selector-seen-v1";
 function savePriorities() {
   try {
     localStorage.setItem(LS_KEY, JSON.stringify({ weights: state.weights, preset: state.activePreset }));
@@ -303,12 +304,28 @@ function closeSheet() {
   document.body.classList.remove("sheet-open");
   document.body.style.overflow = "";
   document.getElementById("controlsToggle").setAttribute("aria-expanded", "false");
+  try { localStorage.setItem(LS_SEEN_KEY, "1"); } catch { /* non-fatal */ }
 }
+const isMobile = () => window.innerWidth <= 980;
 function initSheet() {
   document.getElementById("controlsToggle").addEventListener("click", openSheet);
-  document.getElementById("controlsClose").addEventListener("click", closeSheet);
+  document.getElementById("sheetGrab").addEventListener("click", closeSheet);
   document.getElementById("controlsBackdrop").addEventListener("click", closeSheet);
-  window.addEventListener("resize", () => { if (window.innerWidth > 980) closeSheet(); });
+  // swipe down on the sheet's top area closes it (standard bottom-sheet gesture)
+  const sheet = document.getElementById("controls");
+  let startY = null, startX = null;
+  sheet.addEventListener("touchstart", ev => {
+    if (sheet.scrollTop > 4 || ev.touches[0].clientY - sheet.getBoundingClientRect().top > 90) { startY = null; return; }
+    startY = ev.touches[0].clientY; startX = ev.touches[0].clientX;
+  }, { passive: true });
+  sheet.addEventListener("touchend", ev => {
+    if (startY === null) return;
+    const dy = ev.changedTouches[0].clientY - startY;
+    const dx = ev.changedTouches[0].clientX - startX;
+    if (dy > 70 && dy > Math.abs(dx) * 1.3) closeSheet();
+    startY = null;
+  }, { passive: true });
+  window.addEventListener("resize", () => { if (!isMobile()) closeSheet(); });
 }
 function paintPresetBtns() {
   document.querySelectorAll("#presetBtns button").forEach(b =>
@@ -612,6 +629,11 @@ loadSavedPriorities();
 buildSliders();
 initSheet();
 update();
+// First visit on mobile: show the priorities sheet immediately so the initial
+// ranking is never mistaken for a final answer; afterwards it stays collapsed.
+let seenBefore = false;
+try { seenBefore = localStorage.getItem(LS_SEEN_KEY) === "1"; } catch { /* non-fatal */ }
+if (!seenBefore && isMobile()) openSheet();
 if (!ENTRIES.length) {
   document.getElementById("cards").innerHTML =
     `<p style="color:var(--ink-faint)">No data yet — build data/laptops.js from the research files (build_data.js).</p>`;
