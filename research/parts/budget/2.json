@@ -52,7 +52,7 @@
         "name": "Lenovo IdeaPad Slim 3i 15.3\" 60Hz Laptop - Intel Core 5 320 - 8GB RAM - 256GB SSD - Windows 11 Home - Luna Grey"
       }
     ],
-    "official_url": null
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/ideapad/ideapad-slim-series/lenovo-ideapad-slim-3i-gen-11-15-inch-intel/len101i0149"
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19940/19940875.jpg",
   "professional": {
@@ -65,12 +65,12 @@
       },
       {
         "outlet": "Tom's Guide",
-        "score": 8.0,
+        "score": 8,
         "quote": "A dependable machine for $799 with a bright screen and solid performance for everyday use."
       },
       {
         "outlet": "PCMag",
-        "score": 5.0,
+        "score": 5,
         "quote": "Pedestrian performance and budget-grade construction; at $1,299 we simply can't justify it."
       }
     ]

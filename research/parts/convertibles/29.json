@@ -53,7 +53,7 @@
         "name": "HP OmniBook X Flip 14\" Touchscreen 2-in-1 Laptop - Intel Core Ultra 7 355 - 16GB LPDDR5x RAM - 512GB SSD - Atmospheric Blue"
       }
     ],
-    "official_url": null
+    "official_url": "https://www.hp.com/ca-en/shop/products/laptops/hp-omnibook-x-flip-2-in-1-laptop-next-gen-ai-14-kb0000ca-d4aa3ua-abl"
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/203/20333/20333759.jpeg",
   "professional": {
@@ -66,7 +66,7 @@
       },
       {
         "outlet": "PC World",
-        "score": 8.0,
+        "score": 8,
         "quote": "An attractive, luxurious 2-in-1 that is mostly meant for laptop use, with a sturdy chassis, nice keyboard, and lots of connectivity - though the aging Radeon 880M iGPU is the weak link."
       }
     ]

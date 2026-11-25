@@ -52,7 +52,7 @@
         "name": "Acer Chromebook Plus 516 16\" Chromebook - Intel Core 5 120U - 8GB LPDDR5 - 512GB SSD - ChromeOS - Iron"
       }
     ],
-    "official_url": null
+    "official_url": "https://www.acer.com/ca-en/chromebooks/acer-chromebook-plus-cb516-1h"
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19867/19867579.jpg",
   "professional": {
@@ -60,12 +60,12 @@
     "reviews": [
       {
         "outlet": "TechRadar",
-        "score": 8.0,
+        "score": 8,
         "quote": "The Acer Chromebook Plus 516 is a large Chromebook with a vibrant and sharp display and great performance, though its ultra-large size limits its portability."
       },
       {
         "outlet": "PCMag",
-        "score": 8.0,
+        "score": 8,
         "quote": "The Acer Chromebook Plus 516 GE proves that Chromebooks can fill a special niche, with faster processing and a vivid, high-refresh-rate display. Editors' Choice."
       },
       {

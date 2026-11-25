@@ -52,7 +52,7 @@
         "name": "Lenovo IdeaPad Slim 3i 15.3\" IPS Laptop - Intel Core 3 100U - 8GB - 512GB SSD - Windows - Luna Grey"
       }
     ],
-    "official_url": null
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/ideapad/ideapad-slim-series/lenovo-ideapad-slim-3i-gen-10-15-inch-intel/len101i0112"
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/192/19277/19277193.jpeg",
   "professional": {
@@ -65,12 +65,12 @@
       },
       {
         "outlet": "Techradar",
-        "score": 8.0,
+        "score": 8,
         "quote": "Not going to set anyone's world on fire, but a great value for those that just need a Windows computer."
       },
       {
         "outlet": "PCMag",
-        "score": 6.0,
+        "score": 6,
         "quote": "Sits just a rung or two above the minimum viable Windows laptop, held back by lackluster battery life and a limited raw-performance ceiling."
       }
     ]

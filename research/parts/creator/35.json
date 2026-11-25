@@ -53,7 +53,7 @@
         "name": "New LENOVO ThinkPad P16 G3, 16\" FHD+ Nvidia RTX Pro 2000, Ultra 9 285HX, 32GB, 1TB, 2 Years Warranty, 100800-22011"
       }
     ],
-    "official_url": null
+    "official_url": "https://www.lenovo.com/ca/en/p/laptops/thinkpad/thinkpadp/lenovo-thinkpad-p16-gen-3-16-inch-intel-mobile-workstation/len101t0147"
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/202/20295/20295417.jpeg",
   "professional": {
@@ -66,12 +66,12 @@
       },
       {
         "outlet": "PCMag",
-        "score": 7.0,
+        "score": 7,
         "quote": "Portability over peak performance — the P16 Gen 3 can't match the raw horsepower of Dell's thicker Pro Max Plus."
       },
       {
         "outlet": "TechRadar",
-        "score": 10.0,
+        "score": 10,
         "quote": "A spectacular spectacle in the mobile workstation world."
       }
     ]

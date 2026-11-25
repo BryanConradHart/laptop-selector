@@ -52,7 +52,7 @@
         "name": "ASUS Vivobook S16 16\" Copilot+ PC Laptop - Snapdragon X - 8GB LPDDR5X - 256GB SSD - Windows 11 Home - Matte Grey"
       }
     ],
-    "official_url": null
+    "official_url": "https://www.asus.com/ca-en/laptops/for-home/vivobook/asus-vivobook-s16-s5608-qualcomm/"
   },
   "image_url": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/199/19994/19994920.jpg",
   "professional": {
@@ -65,12 +65,12 @@
       },
       {
         "outlet": "91mobiles",
-        "score": 8.0,
+        "score": 8,
         "quote": "Fast, efficient, and built to last all day."
       },
       {
         "outlet": "NDTV",
-        "score": 7.0,
+        "score": 7,
         "quote": "More screen, more style, and more stamina — a strong value in the emerging budget AI-laptop class."
       }
     ]

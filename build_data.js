@@ -2,7 +2,7 @@
 // Also validates every entry: all factors present, numeric 0-10, price, urls.
 const fs = require("fs"), path = require("path");
 
-const OEM_HOST = /apple\.com\/ca|lenovo\.com\/ca|dell\.com\/en-ca|hp\.com\/ca-en|microsoft\.com\/en-ca|asus\.com\/ca-en|asus\.com\/en\/ca|store\.lenovo|frame\.work\/ca|steamdeck\.com|store\.steampowered|mi\.com|samsung\.com\/ca|lg\.com\/ca/;
+const OEM_HOST = /(^|\.)apple\.com|(^|\.)lenovo\.com|(^|\.)dell\.com|(^|\.)hp\.com|(^|\.)microsoft\.com|(^|\.)asus\.com|(^|\.)rog\.asus\.com|(^|\.)acer\.com|(^|\.)msi\.com|(^|\.)razer\.com|(^|\.)gigabyte\.com|(^|\.)samsung\.com|(^|\.)lg\.com|frame\.work|steamdeck\.com|store\.steampowered\.com|(^|\.)mi\.com/;
 
 const ROOT = __dirname;
 const RESEARCH = path.join(ROOT, "research");
@@ -29,7 +29,12 @@ function addEntries(list, src) {
     // offers: [{store, url, cad, est?}] — actual store listings for this exact config.
     // Legacy shape (store_url/cad inside price) is folded into offers automatically.
     const p = e.price || {};
-    if (p.store_url && !p.official_url) p.official_url = p.store_url;
+    // official_url must be the OEM's own page — never a third-party store.
+    if (p.store_url && !p.official_url && OEM_HOST.test(p.store_url)) p.official_url = p.store_url;
+    if (p.official_url && !OEM_HOST.test(p.official_url)) {
+      problems.push(`${src}/${e.id}: official_url is not an OEM page (${p.official_url})`);
+      delete p.official_url;
+    }
     if (Array.isArray(p.offers) && p.offers.length) {
       for (const o of p.offers) {
         if (!o.url) problems.push(`${src}/${e.id}: offer missing url`);
