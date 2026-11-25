@@ -12,7 +12,8 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: true
+  # never cancel an in-flight deployment mid-publish (GitHub Pages guidance)
+  cancel-in-progress: false
 
 jobs:
   build:
