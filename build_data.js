@@ -79,11 +79,23 @@ const unique = entries.filter(e => (seen.has(e.id) ? (problems.push(`dup id ${e.
 const threshold = Math.max(1, Math.floor(unique.length * 0.5));
 const factorKeys = [...factorUnion.entries()].filter(([, n]) => n >= threshold).map(([k]) => k);
 
+// every entry must carry a numeric rating for every factor key, otherwise the
+// app scores the missing factor as 0 and silently penalizes the entry
+for (const e of unique)
+  for (const k of factorKeys)
+    if (typeof (e.ratings || {})[k] !== "number")
+      problems.push(`${e._source}/${e.id}: missing rating for factor "${k}"`);
+
+if (problems.length) {
+  console.log(`\n${problems.length} PROBLEMS — refusing to write site/data/laptops.js:`);
+  problems.slice(0, 40).forEach(p => console.log(" - " + p));
+  process.exit(1);
+}
+
 const data = { generated: new Date().toISOString(), factors: factorKeys.map(k => ({ key: k })), entries: unique };
 fs.writeFileSync(path.join(OUT_DIR, "laptops.js"),
   "window.LAPTOP_DATA = " + JSON.stringify(data) + ";\n");
 
 console.log(`\nTOTAL: ${unique.length} entries, ${factorKeys.length} factors -> site/data/laptops.js`);
 console.log("factors:", factorKeys.join(", "));
-if (problems.length) { console.log(`\n${problems.length} PROBLEMS:`); problems.slice(0, 40).forEach(p => console.log(" - " + p)); process.exitCode = 1; }
-else console.log("validation: clean");
+console.log("validation: clean");
