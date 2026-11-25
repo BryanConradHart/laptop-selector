@@ -17,12 +17,17 @@
   </div>
 </header>
 
+<button id="controlsToggle" class="controls-toggle" aria-controls="controls" aria-expanded="false">Adjust priorities</button>
+<div id="controlsBackdrop" class="controls-backdrop"></div>
 <main class="layout">
   <!-- ============ CONTROLS ============ -->
   <aside class="controls" id="controls">
     <div class="controls-head">
       <h2>Your priorities</h2>
-      <button id="resetBtn" class="btn-ghost" title="Reset all sliders to defaults">Reset</button>
+      <span class="controls-head-btns">
+        <button id="resetBtn" class="btn-ghost" title="Reset all sliders to defaults">Reset</button>
+        <button id="controlsClose" class="btn-ghost controls-close" aria-label="Close priorities panel">✕</button>
+      </span>
     </div>
     <div class="budget-card">
       <label class="budget-label" for="priceSlider">

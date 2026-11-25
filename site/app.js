@@ -264,9 +264,28 @@ function buildSliders() {
   document.getElementById("presetBtns").innerHTML =
     Object.keys(PRESETS).map(p => `<button data-preset="${esc(p)}">${esc(p)}</button>`).join("");
   document.querySelectorAll("#presetBtns button").forEach(b =>
-    b.addEventListener("click", () => applyPreset(PRESETS[b.dataset.preset], false, b.dataset.preset)));
+    b.addEventListener("click", () => { applyPreset(PRESETS[b.dataset.preset], false, b.dataset.preset); closeSheet(); }));
   document.getElementById("resetBtn").addEventListener("click", () => applyPreset(PRESETS[DEFAULT_PRESET], false, DEFAULT_PRESET));
   paintPresetBtns();
+}
+
+/* ---------- mobile priorities sheet ---------- */
+function openSheet() {
+  document.body.classList.add("sheet-open");
+  document.body.style.overflow = "hidden";
+  document.getElementById("controlsToggle").setAttribute("aria-expanded", "true");
+}
+function closeSheet() {
+  if (!document.body.classList.contains("sheet-open")) return;
+  document.body.classList.remove("sheet-open");
+  document.body.style.overflow = "";
+  document.getElementById("controlsToggle").setAttribute("aria-expanded", "false");
+}
+function initSheet() {
+  document.getElementById("controlsToggle").addEventListener("click", openSheet);
+  document.getElementById("controlsClose").addEventListener("click", closeSheet);
+  document.getElementById("controlsBackdrop").addEventListener("click", closeSheet);
+  window.addEventListener("resize", () => { if (window.innerWidth > 980) closeSheet(); });
 }
 function paintPresetBtns() {
   document.querySelectorAll("#presetBtns button").forEach(b =>
@@ -561,11 +580,12 @@ function openModal(id) {
 }
 function closeModal() { document.getElementById("modal").hidden = true; document.body.style.overflow = ""; }
 document.getElementById("modal").addEventListener("click", ev => { if (ev.target.closest("[data-close]")) closeModal(); });
-document.addEventListener("keydown", ev => { if (ev.key === "Escape") closeModal(); });
+document.addEventListener("keydown", ev => { if (ev.key === "Escape") { closeModal(); closeSheet(); } });
 
 /* ---------- boot ---------- */
 loadData();
 buildSliders();
+initSheet();
 update();
 if (!ENTRIES.length) {
   document.getElementById("cards").innerHTML =
